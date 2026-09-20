@@ -1,0 +1,43 @@
+name: Fix Contributor
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "Type REWRITE to confirm - this rewrites ALL commit history and force-pushes. Irreversible for anyone who has cloned this repo."
+        required: true
+        type: string
+      bot_login:
+        description: "The bot identity's commit author email to rewrite"
+        required: false
+        type: string
+        default: "41898282+github-actions[bot]@users.noreply.github.com"
+      new_name:
+        description: "Real git name to rewrite those commits to"
+        required: false
+        type: string
+        default: "MPHONlC"
+      new_email:
+        description: "Real git email to rewrite those commits to"
+        required: false
+        type: string
+        default: "207844175+MPHONlC@users.noreply.github.com"
+
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout (full history)
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: ./.github/actions/fix-bot-contributor
+        with:
+          confirm: ${{ inputs.confirm }}
+          bot_login: ${{ inputs.bot_login }}
+          new_name: ${{ inputs.new_name }}
+          new_email: ${{ inputs.new_email }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}

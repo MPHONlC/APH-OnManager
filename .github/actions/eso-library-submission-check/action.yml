@@ -1,0 +1,105 @@
+name: 'ESO Library/Version Submission Check'
+description: 'Validates ESO library/version table PRs: new entries need a human, safe version bumps can auto-apply without clobbering'
+inputs:
+  data_file:
+    description: 'Path to the Lua table file the PR changes (e.g. DATA/KnownLibraries.lua).'
+    required: true
+  base_ref:
+    description: 'Branch name the PR targets.'
+    required: false
+    default: 'main'
+  github_token:
+    description: 'Token used to label/comment on the PR, and to push/close it when auto_apply is true.'
+    required: true
+  auto_apply:
+    description: 'If true, commit still-safe version bumps directly to base_ref and close the PR instead of waiting for a human merge.'
+    required: false
+    default: 'false'
+  git_name:
+    description: 'Git name for the auto-apply commit - required if auto_apply is true.'
+    required: false
+    default: ''
+  git_email:
+    description: 'Git email for the auto-apply commit - required if auto_apply is true.'
+    required: false
+    default: ''
+  review_label:
+    description: 'Label applied to a PR that needs a human to check it.'
+    required: false
+    default: 'needs-human-review'
+runs:
+  using: 'composite'
+  steps:
+    - name: Fetch the file as it existed at this PR's base commit
+      shell: bash
+      run: |
+        STATUS=$(curl -sS -o /tmp/library-submission-check-base.lua -w '%{http_code}' \
+          "https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.base.sha }}/${{ inputs.data_file }}")
+        if [ "$STATUS" = "404" ]; then
+          : > /tmp/library-submission-check-base.lua
+        elif [ "$STATUS" != "200" ]; then
+          echo "::error::Failed to fetch base-commit copy of ${{ inputs.data_file }} (HTTP $STATUS)."
+          exit 1
+        fi
+
+    - name: Check the submission
+      id: check
+      shell: bash
+      run: |
+        python3 "${{ github.action_path }}/check_library_submission.py" \
+          --base-file /tmp/library-submission-check-base.lua \
+          --head-file "${{ inputs.data_file }}" \
+          --github-output "$GITHUB_OUTPUT"
+
+    - name: Label and comment when a human needs to look
+      if: steps.check.outputs.needs_review == 'true'
+      shell: bash
+      env:
+        GH_TOKEN: ${{ inputs.github_token }}
+      run: |
+        gh pr edit "${{ github.event.pull_request.number }}" --repo "${{ github.repository }}" --add-label "${{ inputs.review_label }}" || true
+        gh pr comment "${{ github.event.pull_request.number }}" --repo "${{ github.repository }}" \
+          --body "This PR needs a human to review it before it can be merged - see this check run's summary for details."
+
+    - name: Fetch the freshest copy of the target branch's file
+      if: steps.check.outputs.needs_review == 'false' && steps.check.outputs.safe_to_merge == 'true' && inputs.auto_apply == 'true'
+      shell: bash
+      run: |
+        curl -sSfL "https://raw.githubusercontent.com/${{ github.repository }}/${{ inputs.base_ref }}/${{ inputs.data_file }}" \
+          -o /tmp/library-submission-check-fresh.lua
+
+    - name: Re-validate and apply against the freshest branch state
+      if: steps.check.outputs.needs_review == 'false' && steps.check.outputs.safe_to_merge == 'true' && inputs.auto_apply == 'true'
+      id: apply
+      shell: bash
+      run: |
+        python3 "${{ github.action_path }}/check_library_submission.py" \
+          --base-file /tmp/library-submission-check-base.lua \
+          --head-file "${{ inputs.data_file }}" \
+          --fresh-base-file /tmp/library-submission-check-fresh.lua \
+          --apply-output /tmp/library-submission-check-merged.lua
+        if [ -s /tmp/library-submission-check-merged.lua ]; then
+          echo "applied=true" >> "$GITHUB_OUTPUT"
+        else
+          echo "applied=false" >> "$GITHUB_OUTPUT"
+        fi
+
+    - name: Commit the applied update and close the PR
+      if: steps.apply.outputs.applied == 'true'
+      shell: bash
+      env:
+        GH_TOKEN: ${{ inputs.github_token }}
+      run: |
+        git clone --branch "${{ inputs.base_ref }}" --depth 1 \
+          "https://x-access-token:${{ inputs.github_token }}@github.com/${{ github.repository }}.git" \
+          /tmp/library-submission-check-repo
+        cd /tmp/library-submission-check-repo
+        git config user.name "${{ inputs.git_name }}"
+        git config user.email "${{ inputs.git_email }}"
+        cp /tmp/library-submission-check-merged.lua "${{ inputs.data_file }}"
+        git add "${{ inputs.data_file }}"
+        git commit -m "Apply verified version submission from #${{ github.event.pull_request.number }} [skip ci]"
+        git push origin "${{ inputs.base_ref }}"
+        gh pr comment "${{ github.event.pull_request.number }}" --repo "${{ github.repository }}" \
+          --body "Applied directly to \`${{ inputs.base_ref }}\` since every change passed automated validation. Closing this PR - thanks for the submission!"
+        gh pr close "${{ github.event.pull_request.number }}" --repo "${{ github.repository }}"

@@ -1,0 +1,38 @@
+## Title: |c9CD04CAPH-On Manager|r
+## Version: 0.0.1
+## AddOnVersion: 260920001
+## Author: |ca500f3A|r|cb400e6P|r|cc300daH|r|cd200cdO|r|ce100c1NlC|r
+## APIVersion: 101050 101051
+## SavedVariables: APHOnManager
+## DependsOn: LibAPH>=260919001
+## OptionalDependsOn: AddonSelector PerfectPixel
+## Description: |cfa9c1bCategories, search, status icons and dependency tools for the Add-Ons menu.|r |cCCFF00Usage: /libcategories /libcheck /libraryversioncheck|r
+
+CORE/APH-OnManager.lua
+DATA/KnownLibraries.lua
+DATA/KnownAddonDependencies.lua
+DATA/KnownAddonVersions.lua
+DATA/SuggestedCategories.lua
+UTILS/LibraryVersionCheck.lua
+UTILS/LibraryManager.lua
+UTILS/CategoryManager.lua
+UTILS/AutoEnableRequiredDeps.lua
+UTILS/AddonManagerTooltip.lua
+PC/AddonListCategories.lua
+PC/AddonListRows.lua
+PC/AddonListCheckbox.lua
+Console/GamepadAddonList.lua
+
+; This Add-on is not created by, affiliated with or sponsored by ZeniMax
+; Media Inc. or its affiliates. The Elder Scrolls® and related logos are
+; registered trademarks or trademarks of ZeniMax Media Inc. in the United
+; States and/or other countries. All rights reserved.
+;
+; You can read the full terms at:
+; https://account.elderscrollsonline.com/add-on-terms
+
+; LICENSE
+; Copyright 2026 @APHONlC
+; Licensed under the GNU General Public License v3.0 (GPLv3).
+;
+; For permissions or inquiries, contact @APHONlC on ESOUI or GitHub.

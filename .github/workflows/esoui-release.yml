@@ -1,0 +1,356 @@
+name: Release / Update
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_run:
+        description: "Test Run (dry-run ESOUI + GitHub draft + Bethesda uploads - safe, validates without publishing anything)"
+        type: boolean
+        default: true
+      upload_esoui:
+        description: "Upload to ESOUI"
+        type: boolean
+        default: false
+      release_github:
+        description: "Release to Github"
+        type: boolean
+        default: false
+      upload_bethesda:
+        description: "Upload to Bethesda"
+        type: boolean
+        default: false
+
+jobs:
+  lua-check:
+    uses: ./.github/workflows/lua-check.yml
+
+  api-version-refresh:
+    needs: lua-check
+    uses: ./.github/workflows/api-version-refresh.yml
+    secrets: inherit
+    permissions:
+      contents: write
+
+  version-refresh:
+    needs: api-version-refresh
+    uses: ./.github/workflows/version-refresh.yml
+    secrets: inherit
+    permissions:
+      contents: write
+
+  readme-badge-check:
+    needs: version-refresh
+    uses: ./.github/workflows/readme-badge-check.yml
+    secrets: inherit
+    permissions:
+      contents: write
+
+  broken-link-check:
+    needs: readme-badge-check
+    uses: ./.github/workflows/broken-link-check.yml
+
+  slash-command-doc-check:
+    needs: broken-link-check
+    uses: ./.github/workflows/slash-command-doc-check.yml
+
+  description-check:
+    needs: slash-command-doc-check
+    uses: ./.github/workflows/description-check.yml
+
+  markdown-check:
+    needs: description-check
+    uses: ./.github/workflows/markdown-check.yml
+    secrets: inherit
+    permissions:
+      contents: write
+
+  changelog-check:
+    needs: markdown-check
+    uses: ./.github/workflows/changelog-check.yml
+
+  release:
+    needs: changelog-check
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Read version from manifest
+        id: version
+        run: |
+          VER=$(grep "^## AddOnVersion:" APH-OnManager.addon | awk '{print $3}')
+          DISPLAY_VER=$(grep "^## Version:" APH-OnManager.addon | awk '{print $3}')
+          API_VER=$(grep "^## APIVersion:" APH-OnManager.addon | awk '{print $3, $4}')
+          echo "Read version: $VER (display: $DISPLAY_VER, API: $API_VER)"
+          echo "version=$VER" >> "$GITHUB_OUTPUT"
+          echo "display_version=$DISPLAY_VER" >> "$GITHUB_OUTPUT"
+          echo "api_version=$API_VER" >> "$GITHUB_OUTPUT"
+
+      - name: Build addon zip (excludes anything in .build-ignore)
+        run: |
+          mkdir -p /tmp/build/APH-OnManager
+          rsync -a --exclude-from=.build-ignore ./ /tmp/build/APH-OnManager/
+          cd /tmp/build && zip -r APH-OnManager.zip APH-OnManager
+          echo "zip_file=/tmp/build/APH-OnManager.zip" >> "$GITHUB_ENV"
+
+      - name: Extract latest changelog entries
+        run: |
+          awk '/^\[b\]\[COLOR="Orange"\]Version / { if (found) exit; found=1 } found' CHANGELOG_BBCODE.txt > latest_changes_esoui.txt
+          awk '/^### Version / { if (found) exit; found=1 } found' CHANGELOG_GFM.txt > latest_changes_github.md
+          awk '/^# VERSION / { if (found) exit; found=1 } found' CHANGELOG_COMMONMARK.txt > latest_changes_bethesda.txt
+          awk '/^Version: / { if (found) exit; found=1 } found' CHANGELOG.md > latest_changes_plain.md
+          echo "--- ESOUI (BBCode, latest entry) ---"
+          cat latest_changes_esoui.txt
+          echo "--- GitHub Release body (rendered markdown) ---"
+          cat latest_changes_github.md
+          echo "--- Bethesda (release_notes_file) ---"
+          cat latest_changes_bethesda.txt
+          echo "--- Plain changelog (for step summaries) ---"
+          cat latest_changes_plain.md
+
+      - name: Test upload to ESOUI (dry run)
+        id: dry_test
+        if: inputs.test_run == true
+        uses: m00nyONE/esoui-upload@main
+        with:
+          api_key: ${{ secrets.ESOUI_API_KEY }}
+          addon_id: ''
+          version: ${{ steps.version.outputs.version }}
+          zip_file: ${{ env.zip_file }}
+          changelog_file: 'CHANGELOG_BBCODE.txt'
+          description_file: 'README_BBCODE.txt'
+          test: true
+
+      - name: Annotate ESOUI test result
+        if: always() && inputs.test_run == true
+        run: |
+          STATUS="${{ steps.dry_test.outcome }}"
+          if [ "$STATUS" == "success" ]; then
+            TITLE="Test Release Complete"
+            DETAIL=""
+          else
+            TITLE="Test Release Failed"
+            DETAIL=" Check the 'Test upload to ESOUI' step's log above - an input problem (missing/invalid api_key, addon_id, zip, changelog or description file) shows its own annotation there. A rejection from ESOUI's server won't show a response body (the upload action's curl call discards it), so a failure with no other detail usually means the API key, addon ID, or version was rejected server-side."
+          fi
+          echo "::notice title=$TITLE::Version ${{ steps.version.outputs.display_version }} (AddOnVersion ${{ steps.version.outputs.version }}), declared API ${{ steps.version.outputs.api_version }}.$DETAIL"
+          {
+            echo "## ESOUI: $TITLE"
+            echo ""
+            echo "- **Version:** ${{ steps.version.outputs.display_version }} (AddOnVersion \`${{ steps.version.outputs.version }}\`)"
+            echo "- **Declared API:** ${{ steps.version.outputs.api_version }}"
+            if [ -n "$DETAIL" ]; then
+              echo ""
+              echo "${DETAIL# }"
+            fi
+            echo ""
+            echo "### Changelog"
+            echo '```'
+            cat latest_changes_plain.md
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload to ESOUI (real, only if upload_esoui was checked)
+        id: real_upload
+        if: inputs.upload_esoui == true
+        uses: m00nyONE/esoui-upload@main
+        with:
+          api_key: ${{ secrets.ESOUI_API_KEY }}
+          addon_id: ''
+          version: ${{ steps.version.outputs.version }}
+          zip_file: ${{ env.zip_file }}
+          changelog_file: 'CHANGELOG_BBCODE.txt'
+          description_file: 'README_BBCODE.txt'
+
+      - name: Annotate ESOUI upload result
+        if: always() && inputs.upload_esoui == true
+        run: |
+          STATUS="${{ steps.real_upload.outcome }}"
+          if [ "$STATUS" == "success" ]; then
+            TITLE="ESOUI Upload Complete"
+            DETAIL=""
+          else
+            TITLE="ESOUI Upload Failed"
+            DETAIL=" ESOUI upload failed - check the 'Upload to ESOUI (real)' step's log above. An input problem shows its own annotation there; a rejection from ESOUI's server won't show a response body (the upload action's curl call discards it), so a failure with no other detail usually means the API key, addon ID, or version was rejected server-side."
+          fi
+          echo "::notice title=$TITLE::Version ${{ steps.version.outputs.display_version }} (AddOnVersion ${{ steps.version.outputs.version }}), declared API ${{ steps.version.outputs.api_version }}.$DETAIL"
+          {
+            echo "## ESOUI: $TITLE"
+            echo ""
+            echo "- **Version:** ${{ steps.version.outputs.display_version }} (AddOnVersion \`${{ steps.version.outputs.version }}\`)"
+            echo "- **Declared API:** ${{ steps.version.outputs.api_version }}"
+            if [ -n "$DETAIL" ]; then
+              echo ""
+              echo "${DETAIL# }"
+            fi
+            echo ""
+            echo "### Changelog"
+            echo '```'
+            cat latest_changes_plain.md
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Create GitHub Release (dry run - draft)
+        id: gh_release_test
+        if: inputs.test_run == true
+        uses: ncipollo/release-action@v1
+        with:
+          name: Version-${{ steps.version.outputs.display_version }}
+          tag: Version-${{ steps.version.outputs.display_version }}
+          artifacts: ${{ env.zip_file }}
+          artifactContentType: application/zip
+          bodyFile: latest_changes_github.md
+          allowUpdates: true
+          draft: true
+          makeLatest: false
+
+      - name: Annotate GitHub Release test result
+        if: always() && inputs.test_run == true
+        run: |
+          STATUS="${{ steps.gh_release_test.outcome }}"
+          if [ "$STATUS" == "success" ]; then
+            TITLE="Test Release Complete"
+            DETAIL=""
+          else
+            TITLE="Test Release Failed"
+            DETAIL=" Check the 'Create GitHub Release (dry run - draft)' step's log above. A permissions/403 error there usually means this repo's Settings > Actions > General > Workflow permissions is set to read-only - a workflow's own permissions: block can only narrow that setting, never grant more than it allows. Other causes: tag already exists on a different commit, bad artifact path."
+          fi
+          echo "::notice title=$TITLE::Version ${{ steps.version.outputs.display_version }} (AddOnVersion ${{ steps.version.outputs.version }}), declared API ${{ steps.version.outputs.api_version }}.$DETAIL"
+          {
+            echo "## GitHub: $TITLE"
+            echo ""
+            echo "- **Version:** ${{ steps.version.outputs.display_version }} (AddOnVersion \`${{ steps.version.outputs.version }}\`)"
+            echo "- **Declared API:** ${{ steps.version.outputs.api_version }}"
+            if [ -n "$DETAIL" ]; then
+              echo ""
+              echo "${DETAIL# }"
+            fi
+            echo ""
+            echo "### Changelog"
+            echo '```'
+            cat latest_changes_plain.md
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Create GitHub Release (only if release_github was checked)
+        id: gh_release
+        if: inputs.release_github == true
+        uses: ncipollo/release-action@v1
+        with:
+          name: Version-${{ steps.version.outputs.display_version }}
+          tag: Version-${{ steps.version.outputs.display_version }}
+          artifacts: ${{ env.zip_file }}
+          artifactContentType: application/zip
+          bodyFile: latest_changes_github.md
+          allowUpdates: true
+          draft: false
+          makeLatest: true
+
+      - name: Annotate GitHub Release result
+        if: always() && inputs.release_github == true
+        run: |
+          STATUS="${{ steps.gh_release.outcome }}"
+          if [ "$STATUS" == "success" ]; then
+            TITLE="GitHub Release Complete"
+            DETAIL=""
+          else
+            TITLE="GitHub Release Failed"
+            DETAIL=" GitHub Release creation failed - check the 'Create GitHub Release' step's log above. A permissions/403 error there usually means this repo's Settings > Actions > General > Workflow permissions is set to read-only - a workflow's own permissions: block can only narrow that setting, never grant more than it allows. Other causes: tag already exists on a different commit, bad artifact path."
+          fi
+          echo "::notice title=$TITLE::Version ${{ steps.version.outputs.display_version }} (AddOnVersion ${{ steps.version.outputs.version }}), declared API ${{ steps.version.outputs.api_version }}.$DETAIL"
+          {
+            echo "## GitHub: $TITLE"
+            echo ""
+            echo "- **Version:** ${{ steps.version.outputs.display_version }} (AddOnVersion \`${{ steps.version.outputs.version }}\`)"
+            echo "- **Declared API:** ${{ steps.version.outputs.api_version }}"
+            if [ -n "$DETAIL" ]; then
+              echo ""
+              echo "${DETAIL# }"
+            fi
+            echo ""
+            echo "### Changelog"
+            echo '```'
+            cat latest_changes_plain.md
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Test upload to Bethesda (dry run)
+        id: dry_test_bethesda
+        if: inputs.test_run == true
+        uses: m00nyONE/bnet-upload@v1
+        with:
+          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
+          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
+          addon_id: ''
+          version: ${{ steps.version.outputs.display_version }}
+          zip_file: ${{ env.zip_file }}
+          release_notes_file: 'latest_changes_bethesda.txt'
+          publish: false
+
+      - name: Annotate Bethesda test result
+        if: always() && inputs.test_run == true
+        run: |
+          STATUS="${{ steps.dry_test_bethesda.outcome }}"
+          if [ "$STATUS" == "success" ]; then
+            TITLE="Test Release Complete"
+            DETAIL=""
+          else
+            TITLE="Test Release Failed"
+            DETAIL=" Check the 'Test upload to Bethesda' step's log above. Common causes: MFA still enabled on your Bethesda.net account (must be off for the CLI uploader), wrong BNET_USERNAME/BNET_PASSWORD secret, or a wrong addon_id."
+          fi
+          echo "::notice title=Bethesda $TITLE::Version ${{ steps.version.outputs.display_version }}.$DETAIL"
+          {
+            echo "## Bethesda: $TITLE"
+            echo ""
+            echo "- **Version:** ${{ steps.version.outputs.display_version }} (AddOnVersion \`${{ steps.version.outputs.version }}\`)"
+            if [ -n "$DETAIL" ]; then
+              echo ""
+              echo "${DETAIL# }"
+            fi
+            echo ""
+            echo "### Changelog"
+            echo '```'
+            cat latest_changes_bethesda.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload to Bethesda (real, only if upload_bethesda was checked)
+        id: real_upload_bethesda
+        if: inputs.upload_bethesda == true
+        uses: m00nyONE/bnet-upload@v1
+        with:
+          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
+          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
+          addon_id: ''
+          version: ${{ steps.version.outputs.display_version }}
+          zip_file: ${{ env.zip_file }}
+          release_notes_file: 'latest_changes_bethesda.txt'
+          publish: true
+
+      - name: Annotate Bethesda upload result
+        if: always() && inputs.upload_bethesda == true
+        run: |
+          STATUS="${{ steps.real_upload_bethesda.outcome }}"
+          if [ "$STATUS" == "success" ]; then
+            TITLE="Bethesda Upload Complete"
+            DETAIL=""
+          else
+            TITLE="Bethesda Upload Failed"
+            DETAIL=" Check the 'Upload to Bethesda (real)' step's log above. Common causes: MFA still enabled on your Bethesda.net account (must be off for the CLI uploader), wrong BNET_USERNAME/BNET_PASSWORD secret, or a wrong addon_id."
+          fi
+          echo "::notice title=$TITLE::Version ${{ steps.version.outputs.display_version }}.$DETAIL"
+          {
+            echo "## Bethesda: $TITLE"
+            echo ""
+            echo "- **Version:** ${{ steps.version.outputs.display_version }} (AddOnVersion \`${{ steps.version.outputs.version }}\`)"
+            if [ -n "$DETAIL" ]; then
+              echo ""
+              echo "${DETAIL# }"
+            fi
+            echo ""
+            echo "### Changelog"
+            echo '```'
+            cat latest_changes_bethesda.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"

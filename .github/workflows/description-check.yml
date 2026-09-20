@@ -1,0 +1,24 @@
+name: Description Content Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README_BBCODE.txt'
+      - 'README_COMMONMARK.txt'
+      - 'README.md'
+      - '.github/description-ignore.txt'
+  workflow_dispatch:
+  workflow_call:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/description-check
+        with:
+          bbcode_file: 'README_BBCODE.txt'
+          manifest_file: 'APH-OnManager.addon'

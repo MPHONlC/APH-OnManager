@@ -1,0 +1,30 @@
+name: Version Refresh
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+  workflow_call:
+
+jobs:
+  refresh-version:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/git-commit-signing
+        with:
+          ssh_signing_key: ${{ secrets.SSH_SIGNING_KEY }}
+
+      - uses: ./.github/actions/version-refresh
+        with:
+          manifest_file: 'APH-OnManager.addon'
+          field_name: 'AddOnVersion'
+          format: 'YYMMDDVVV'
+          git_name: 'MPHONlC'
+          git_email: '207844175+MPHONlC@users.noreply.github.com'
