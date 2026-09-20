@@ -161,7 +161,6 @@ function AoM.PopulateAddonInfoTooltipByName(tooltip, addonName)
 end
 
 local STATUS_COLOR_ERROR = { 1, 0.15, 0.15 }
-local STATUS_COLOR_VERSION_MISMATCH = { 0.8, 0, 0.2 }
 local STATUS_COLOR_OUT_OF_DATE = { 1, 0.82, 0.1 }
 local STATUS_COLOR_DEPENDENCY_ERROR = { 1, 0.55, 0.1 }
 local STATUS_COLOR_OPTIONAL_DEPENDENCY = { 0.4, 0.75, 1 }
@@ -263,24 +262,23 @@ function AoM.GetStatusIconsForAddon(am, index)
 		end
 	end
 
-	if is_out_of_date then
-		Add(STATUS_COLOR_OUT_OF_DATE, "Out of date for the current API version.\n" .. update_hint)
-	end
-
 	local known = AoM.KnownLibraries[name] or AoM.KnownAddonVersions[name]
-	if known and known.requiredVersion then
-		local installed = am:GetAddOnVersion(index)
-		if installed > 0 and installed < known.requiredVersion then
-			local lines = {
-				"A newer version was published on ESOUI when this add-on's data was last refreshed.",
-				string.format("ESOUI: v%s (%d)", known.displayVersion or tostring(known.requiredVersion), known.requiredVersion),
-				string.format("Installed: %d", installed),
-			}
-			if known.esouiId then
-				table.insert(lines, "esoui.com/downloads/info" .. known.esouiId)
-			end
-			Add(STATUS_COLOR_VERSION_MISMATCH, table.concat(lines, "\n") .. "\n\n" .. update_hint)
+	local installed = am:GetAddOnVersion(index)
+	local newer_on_esoui = known and known.requiredVersion and installed > 0 and installed < known.requiredVersion
+	if is_out_of_date or newer_on_esoui then
+		local lines = {}
+		if is_out_of_date then
+			table.insert(lines, "Out of date for the current API version.")
 		end
+		if newer_on_esoui then
+			table.insert(lines, "A newer version was published on ESOUI when this add-on's data was last refreshed.")
+			table.insert(lines, string.format("ESOUI: v%s (%d)", known.displayVersion or tostring(known.requiredVersion), known.requiredVersion))
+			table.insert(lines, string.format("Installed: %d", installed))
+		end
+		if known and known.esouiId then
+			table.insert(lines, "esoui.com/downloads/info" .. known.esouiId)
+		end
+		Add(STATUS_COLOR_OUT_OF_DATE, table.concat(lines, "\n") .. "\n\n" .. update_hint)
 	end
 
 	local issues = GetDependencyIssues(am, index)

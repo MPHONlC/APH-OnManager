@@ -11,8 +11,7 @@ What the icons mean:
 
 [LIST]
 [*] ✓ Red: the add-on failed to load, or threw a Lua error this session
-[*] ✓ Yellow: out of date for the current API version
-[*] ✓ Crimson: a newer version was on ESOUI when this add-on's data was last refreshed
+[*] ✓ Yellow: out of date for the current API version, or a newer version was on ESOUI when this add-on's data was last refreshed
 [*] ✓ Orange: a required dependency is missing, disabled or too old
 [*] ✓ Blue: an optional dependency is installed but switched off
 [*] ✓ Purple: other add-ons depend on this one
