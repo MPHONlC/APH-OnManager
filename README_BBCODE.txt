@@ -36,7 +36,7 @@ The gamepad Add-Ons menu (consoles, and PC in gamepad-preferred mode) shows the 
 
 [SIZE="3"][COLOR="DarkOrchid"]Keeping the library/version tables fresh[/COLOR][/SIZE]
 
-ESO add-ons have no network access, so [color=#00FFFF]KnownLibraries.lua[/color] and [color=#00FFFF]KnownAddonVersions.lua[/color] can only ever be as current as the version you last installed. [color=#00FFFF]Is-Everything-Up-To-Date.sh[/color] (Mac/Linux) and [color=#00FFFF]Is-Everything-Up-To-Date.ps1[/color] (Windows), included in this addon's own folder, check both files against the latest versions on GitHub, merge in only the entries that changed, and print exactly which ones changed with their old/new versions. This doesn't check your other installed add-ons against ESOUI or download updates for them - ESOUI has no public API for that and actively blocks automated traffic.
+[color=#00FFFF]KnownLibraries.lua[/color] and [color=#00FFFF]KnownAddonVersions.lua[/color] can only ever be as current as the version you last installed. [color=#00FFFF]Is-Everything-Up-To-Date.sh[/color] (Mac/Linux) and [color=#00FFFF]Is-Everything-Up-To-Date.ps1[/color] (Windows), included in this addon's own folder, check both files against the latest versions on GitHub, merge in only the entries that changed, and print exactly which ones changed with their old/new versions. This doesn't check your other installed add-ons against ESOUI or download updates for them - You have to manually run Minion or manually update your own addons/library.
 
 [center]
 [SIZE="5"][COLOR="Red"]LICENSE & USAGE[/COLOR][/SIZE]

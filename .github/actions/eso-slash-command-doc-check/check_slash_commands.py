@@ -43,9 +43,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--source-glob', default='**/*.lua')
     parser.add_argument('--doc-files', required=True)
+    parser.add_argument('--ignore-commands', default='')
     args = parser.parse_args()
 
-    commands = find_primary_commands(args.source_glob)
+    ignored = set(parse_doc_files(args.ignore_commands))
+    commands = find_primary_commands(args.source_glob) - ignored
     doc_files = parse_doc_files(args.doc_files)
     out = ["## Slash command documentation check", ""]
     annotations = []
@@ -56,6 +58,8 @@ def main():
         return
 
     out.append(f"Found {len(commands)} primary slash command(s) registered in code: {', '.join(sorted(commands))}")
+    if ignored:
+        out.append(f"Ignored (author-only or debug, not expected in docs): {', '.join(sorted(ignored))}")
     out.append("")
 
     any_missing = False

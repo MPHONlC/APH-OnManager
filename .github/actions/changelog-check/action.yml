@@ -44,15 +44,19 @@ runs:
   steps:
     - name: Compare changelog date, version, and content across platforms
       shell: bash
+      env:
+        BBCODE_VERSION_MARKER: ${{ inputs.bbcode_version_marker }}
+        GITHUB_VERSION_MARKER: ${{ inputs.github_version_marker }}
+        BETHESDA_VERSION_MARKER: ${{ inputs.bethesda_version_marker }}
       run: |
         ARGS=(
           --plain-file "${{ inputs.plain_file }}"
           --bbcode-file "${{ inputs.bbcode_file }}"
-          --bbcode-version-marker "${{ inputs.bbcode_version_marker }}"
+          --bbcode-version-marker "$BBCODE_VERSION_MARKER"
           --github-file "${{ inputs.github_file }}"
-          --github-version-marker "${{ inputs.github_version_marker }}"
+          --github-version-marker "$GITHUB_VERSION_MARKER"
           --bethesda-file "${{ inputs.bethesda_file }}"
-          --bethesda-version-marker "${{ inputs.bethesda_version_marker }}"
+          --bethesda-version-marker "$BETHESDA_VERSION_MARKER"
         )
         if [ -n "${{ inputs.manifest_file }}" ]; then
           ARGS+=(--manifest-file "${{ inputs.manifest_file }}")

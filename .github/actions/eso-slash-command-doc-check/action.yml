@@ -9,6 +9,10 @@ inputs:
   doc_files:
     description: 'List of doc files to check, one per line (or comma-separated)'
     required: true
+  ignore_commands:
+    description: 'Slash commands that are deliberately undocumented (author-only or debug commands), one per line or comma-separated'
+    required: false
+    default: ''
 
 runs:
   using: 'composite'
@@ -18,4 +22,5 @@ runs:
       run: |
         python3 "${{ github.action_path }}/check_slash_commands.py" \
           --source-glob "${{ inputs.source_glob }}" \
-          --doc-files "${{ inputs.doc_files }}"
+          --doc-files "${{ inputs.doc_files }}" \
+          --ignore-commands "${{ inputs.ignore_commands }}"
