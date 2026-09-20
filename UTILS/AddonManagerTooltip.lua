@@ -125,11 +125,15 @@ function AoM.PopulateAddonInfoTooltip(tooltip, data)
 			AddSubTitleLine(tooltip, "Version " .. ver)
 		end
 	end
-	if data.isOutOfDate ~= nil then
-		if data.isOutOfDate then
-			AddCenterLine(tooltip, "|cFF0000Out of Date|r")
+	if data.index and data.isOutOfDate ~= nil then
+		local status = AoM.GetUpdateStatus(am, data.index, data.addOnFileName, data.isOutOfDate)
+		if status.api_out_of_date then
+			AddCenterLine(tooltip, "|cFF0000API Version Out of Date|r")
+			AddCenterLine(tooltip, "|cFF0000Current API: " .. (status.declared_api or "not in the data tables") .. "  Live API: " .. status.live_api .. "|r")
+		elseif status.newer_on_esoui then
+			AddCenterLine(tooltip, "|cFFD21AVersion Out of Date - ESOUI has v" .. (status.known.displayVersion or tostring(status.known.requiredVersion)) .. "|r")
 		else
-			AddCenterLine(tooltip, "|c00FF00API " .. GetAPIVersion() .. " (Up to Date)|r")
+			AddCenterLine(tooltip, "|c00FF00API " .. status.live_api .. " (Up to Date)|r")
 		end
 	end
 	ZO_Tooltip_AddDivider(tooltip)
@@ -248,6 +252,36 @@ local function GetUpdateHint()
 	return "Run Minion and check for an update."
 end
 
+local function HighestApiVersion(declared)
+	local highest = 0
+	for token in string.gmatch(declared, "%d+") do
+		local value = tonumber(token)
+		if value and value > highest then highest = value end
+	end
+	return highest
+end
+
+function AoM.GetUpdateStatus(am, index, name, is_out_of_date)
+	local known = AoM.KnownLibraries[name] or AoM.KnownAddonVersions[name]
+	local installed = am:GetAddOnVersion(index)
+	local live_api = GetAPIVersion()
+	local declared_api = known and known.apiVersion
+	local api_out_of_date
+	if declared_api then
+		api_out_of_date = HighestApiVersion(declared_api) < live_api
+	else
+		api_out_of_date = is_out_of_date
+	end
+	return {
+		known = known,
+		installed = installed,
+		newer_on_esoui = known and known.requiredVersion and installed > 0 and installed < known.requiredVersion or false,
+		live_api = live_api,
+		declared_api = declared_api,
+		api_out_of_date = api_out_of_date or false,
+	}
+end
+
 local function EsouiPageUrl(known)
 	if known and known.esouiId then
 		return "https://www.esoui.com/downloads/info" .. known.esouiId
@@ -273,25 +307,34 @@ function AoM.GetStatusIconsForAddon(am, index)
 		end
 	end
 
-	local known = AoM.KnownLibraries[name] or AoM.KnownAddonVersions[name]
-	local installed = am:GetAddOnVersion(index)
-	local newer_on_esoui = known and known.requiredVersion and installed > 0 and installed < known.requiredVersion
-	if is_out_of_date or newer_on_esoui then
-		local lines = { "Version Out of Date" }
+	local status = AoM.GetUpdateStatus(am, index, name, is_out_of_date)
+	local known, installed, newer_on_esoui = status.known, status.installed, status.newer_on_esoui
+	local live_api, declared_api, api_out_of_date = status.live_api, status.declared_api, status.api_out_of_date
+
+	if newer_on_esoui or api_out_of_date then
+		local on_pc = not IsGamepadInput()
+		local page_url = EsouiPageUrl(known)
+		local page_line = (on_pc and page_url) and ("esoui.com/downloads/info" .. known.esouiId) or nil
+		local lines = {}
 		if newer_on_esoui then
+			table.insert(lines, "Version Out of Date")
+			if page_line then table.insert(lines, page_line) end
 			table.insert(lines, string.format("ESOUI: v%s (%d)", known.displayVersion or tostring(known.requiredVersion), known.requiredVersion))
 			table.insert(lines, string.format("Installed: %d", installed))
 		end
-		local page_url = EsouiPageUrl(known)
+		if api_out_of_date then
+			if #lines > 0 then table.insert(lines, "") end
+			table.insert(lines, "API Version Out of Date")
+			if page_line then table.insert(lines, page_line) end
+			table.insert(lines, "Current API: " .. (declared_api or "not in the data tables"))
+			table.insert(lines, "Live API: " .. tostring(live_api))
+		end
+		table.insert(lines, "")
+		table.insert(lines, update_hint)
 		local on_click
-		if page_url and not IsGamepadInput() then
-			table.insert(lines, "esoui.com/downloads/info" .. known.esouiId)
-			table.insert(lines, "")
-			table.insert(lines, update_hint)
+		if on_pc and page_url then
 			table.insert(lines, "Click the icon to open the ESOUI page.")
 			on_click = function() RequestOpenUnsafeURL(page_url) end
-		else
-			table.insert(lines, update_hint)
 		end
 		Add(STATUS_COLOR_OUT_OF_DATE, table.concat(lines, "\n"), on_click)
 	end

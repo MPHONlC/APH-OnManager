@@ -63,6 +63,7 @@ def read_catalog(min_api, filelist_path, categorylist_path):
                 "optional": sorted(set(addon.get("optionalDependencies") or [])),
                 "bundle_size": len(listing.get("addons") or []),
                 "api": api,
+                "api_versions": " ".join(t for t in str(addon.get("apiVersion") or "").split() if t.isdigit()),
             })
     return rows, kept, len(filelist)
 
@@ -95,6 +96,7 @@ def read_minion(path):
                 "addon_version": int(addon.get("addOnVersion") or 0),
                 "version": addon.get("version") or bundle.get("version") or "",
                 "optional": sorted(d["name"] for d in (addon.get("dependencies") or {}).values() if d.get("type") == "OPTIONAL"),
+                "api_versions": " ".join(t for t in str(addon.get("apiVersion") or "").split() if t.isdigit()),
             }
     return rows
 
@@ -112,6 +114,8 @@ def merge(catalog_rows, minion_rows, min_api):
                 c["optional"] = m["optional"]
             if m["library"]:
                 c["library"] = True
+            if m["api_versions"] and m["addon_version"] >= c["addon_version"]:
+                c["api_versions"] = m["api_versions"]
         else:
             rows[name] = m
     return rows
@@ -163,6 +167,9 @@ def write_versions(path, table_name, rows, is_library):
         esoui_id = (r or {}).get("esoui_id") or (int(old["esouiId"]) if old.get("esouiId") else None)
         if esoui_id:
             parts.append(f"esouiId = {esoui_id}")
+        api_versions = (r or {}).get("api_versions") or (old["apiVersion"].strip('"') if old.get("apiVersion") else "")
+        if api_versions:
+            parts.append(f"apiVersion = {lua_str(api_versions)}")
         lines.append(f'\t["{name}"] = {{ {", ".join(parts)} }},\n')
         count += 1
     lines.append("}\n")
