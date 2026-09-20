@@ -237,11 +237,22 @@ local function GetInactiveOptionalLibs(am, addonName)
 	return inactive
 end
 
+local function IsGamepadInput()
+	return IsConsoleUI() or IsInGamepadPreferredMode()
+end
+
 local function GetUpdateHint()
-	if IsConsoleUI() or IsInGamepadPreferredMode() then
+	if IsGamepadInput() then
 		return "Please check for an update."
 	end
 	return "Run Minion and check for an update."
+end
+
+local function EsouiPageUrl(known)
+	if known and known.esouiId then
+		return "https://www.esoui.com/downloads/info" .. known.esouiId
+	end
+	return nil
 end
 
 function AoM.GetStatusIconsForAddon(am, index)
@@ -249,8 +260,8 @@ function AoM.GetStatusIconsForAddon(am, index)
 	local update_hint = GetUpdateHint()
 	local name, _, _, _, _, addon_state, is_out_of_date = am:GetAddOnInfo(index)
 	local icons = {}
-	local function Add(color, tooltipText)
-		table.insert(icons, { color = color, tooltip = tooltipText })
+	local function Add(color, tooltipText, onClick)
+		table.insert(icons, { color = color, tooltip = tooltipText, onClick = onClick })
 	end
 
 	if addon_state == ADDON_STATE_ERROR_STATE_UNABLE_TO_LOAD then
@@ -266,19 +277,23 @@ function AoM.GetStatusIconsForAddon(am, index)
 	local installed = am:GetAddOnVersion(index)
 	local newer_on_esoui = known and known.requiredVersion and installed > 0 and installed < known.requiredVersion
 	if is_out_of_date or newer_on_esoui then
-		local lines = {}
-		if is_out_of_date then
-			table.insert(lines, "Out of date for the current API version.")
-		end
+		local lines = { "Version Out of Date" }
 		if newer_on_esoui then
-			table.insert(lines, "A newer version was published on ESOUI when this add-on's data was last refreshed.")
 			table.insert(lines, string.format("ESOUI: v%s (%d)", known.displayVersion or tostring(known.requiredVersion), known.requiredVersion))
 			table.insert(lines, string.format("Installed: %d", installed))
 		end
-		if known and known.esouiId then
+		local page_url = EsouiPageUrl(known)
+		local on_click
+		if page_url and not IsGamepadInput() then
 			table.insert(lines, "esoui.com/downloads/info" .. known.esouiId)
+			table.insert(lines, "")
+			table.insert(lines, update_hint)
+			table.insert(lines, "Click the icon to open the ESOUI page.")
+			on_click = function() RequestOpenUnsafeURL(page_url) end
+		else
+			table.insert(lines, update_hint)
 		end
-		Add(STATUS_COLOR_OUT_OF_DATE, table.concat(lines, "\n") .. "\n\n" .. update_hint)
+		Add(STATUS_COLOR_OUT_OF_DATE, table.concat(lines, "\n"), on_click)
 	end
 
 	local issues = GetDependencyIssues(am, index)
