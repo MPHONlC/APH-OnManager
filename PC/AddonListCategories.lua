@@ -197,30 +197,45 @@ EVENT_MANAGER:RegisterForEvent("AoM_CategoryFilterBuild", EVENT_PLAYER_ACTIVATED
 	end
 end)
 
-local function RelocateAdvancedUIErrorsCheckboxForAddonSelector()
-	if not LibAPH.IsAddonActiveAndRunning("AddonSelector") then return end
-	if not ADD_ON_MANAGER or not ADD_ON_MANAGER.control then return end
-	local checkbox = ADD_ON_MANAGER.control:GetNamedChild("AdvancedUIErrors")
-	local reload_btn = ADD_ON_MANAGER.control:GetNamedChild("PrimaryButton")
-	if not checkbox or not reload_btn then return end
+local placing_advanced_ui_errors = false
 
+local function PlaceAdvancedUIErrorsCheckbox()
+	if placing_advanced_ui_errors then return end
 	local win = ADD_ON_MANAGER.control
+	local checkbox = win:GetNamedChild("AdvancedUIErrors")
+	local reload_btn = win:GetNamedChild("PrimaryButton")
+	if not checkbox or not reload_btn then return end
+	if reload_btn:GetRight() <= reload_btn:GetLeft() then return end
+
 	local label_width = (checkbox.label and checkbox.label:GetTextWidth()) or 150
 	local needed_width = 16 + 8 + label_width
-	local safe_left = win:GetRight() - needed_width - 20
-	local target_left = zo_min(reload_btn:GetLeft(), safe_left)
-	local target_top = reload_btn:GetBottom() + 10
+	local left = reload_btn:GetLeft()
+	local max_left = win:GetRight() - needed_width - 10
+	if left > max_left then left = max_left end
+	if left < win:GetLeft() + 10 then left = win:GetLeft() + 10 end
+	local top = reload_btn:GetBottom() + 8
+	if math.abs(checkbox:GetLeft() - left) < 1 and math.abs(checkbox:GetTop() - top) < 1 then return end
 
+	placing_advanced_ui_errors = true
 	checkbox:ClearAnchors()
-	checkbox:SetAnchor(TOPLEFT, win, TOPLEFT, target_left - win:GetLeft(), target_top - win:GetTop())
+	checkbox:SetAnchor(TOPLEFT, win, TOPLEFT, left - win:GetLeft(), top - win:GetTop())
+	placing_advanced_ui_errors = false
+end
+
+do
+	local checkbox = ADD_ON_MANAGER.control and ADD_ON_MANAGER.control:GetNamedChild("AdvancedUIErrors")
+	if checkbox then
+		ZO_PostHookHandler(checkbox, "OnRectChanged", PlaceAdvancedUIErrorsCheckbox)
+	end
 end
 
 if ADDONS_FRAGMENT then
 	ADDONS_FRAGMENT:RegisterCallback("StateChange", function(oldState, newState)
 		if newState == SCENE_FRAGMENT_SHOWING then
 			PopulateCategoryFilterDropdown()
+			PlaceAdvancedUIErrorsCheckbox()
 		elseif newState == SCENE_FRAGMENT_SHOWN then
-			RelocateAdvancedUIErrorsCheckboxForAddonSelector()
+			PlaceAdvancedUIErrorsCheckbox()
 		end
 	end)
 end
