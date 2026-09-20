@@ -12,7 +12,7 @@ What the icons mean:
 [LIST]
 [*] ✓ Red: the add-on failed to load, or threw a Lua error this session
 [*] ✓ Yellow: out of date for the current API version
-[*] ✓ Crimson: older than the version this addon's own tables know about
+[*] ✓ Crimson: a newer version was on ESOUI when this add-on's data was last refreshed
 [*] ✓ Orange: a required dependency is missing, disabled or too old
 [*] ✓ Blue: an optional dependency is installed but switched off
 [*] ✓ Purple: other add-ons depend on this one
@@ -36,7 +36,7 @@ The gamepad Add-Ons menu (consoles, and PC in gamepad-preferred mode) shows the 
 
 [SIZE="3"][COLOR="DarkOrchid"]Keeping the library/version tables fresh[/COLOR][/SIZE]
 
-[color=#00FFFF]KnownLibraries.lua[/color] and [color=#00FFFF]KnownAddonVersions.lua[/color] can only ever be as current as the version you last installed. [color=#00FFFF]Is-Everything-Up-To-Date.sh[/color] (Mac/Linux) and [color=#00FFFF]Is-Everything-Up-To-Date.ps1[/color] (Windows), included in this addon's own folder, check both files against the latest versions on GitHub, merge in only the entries that changed, and print exactly which ones changed with their old/new versions. This doesn't check your other installed add-ons against ESOUI or download updates for them - You have to manually run Minion or manually update your own addons/library.
+[color=#00FFFF]KnownLibraries.lua[/color] and [color=#00FFFF]KnownAddonVersions.lua[/color] hold the versions published on ESOUI when this add-on's data was last refreshed, so they can only ever be as current as the release you installed. [color=#00FFFF]Is-Everything-Up-To-Date.sh[/color] (Mac/Linux) and [color=#00FFFF]Is-Everything-Up-To-Date.ps1[/color] (Windows), included in this addon's own folder, check both files against the latest versions on GitHub, merge in only the entries that changed, and print exactly which ones changed with their old/new versions. This doesn't check your other installed add-ons against ESOUI or download updates for them - You have to manually run Minion or manually update your own addons/library.
 
 [center]
 [SIZE="5"][COLOR="Red"]LICENSE & USAGE[/COLOR][/SIZE]

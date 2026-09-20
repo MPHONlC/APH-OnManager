@@ -9,9 +9,15 @@ local AoM = AoMCore
 AoM.name = "APH-OnManager"
 AoM.VERSION = "0.0.1"
 
+local SUGGESTED_CATEGORIES_VERSION = 2
+local RETIRED_SUGGESTED_CATEGORIES = {
+	"QoL", "Utility", "Crafting", "Inventory", "Trackers", "UI", "Bank", "Overland",
+	"PvE", "Combat", "Guild", "Map", "Trial", "PvP", "Housing", "Class",
+}
+
 local MIGRATED_FIELDS = {
 	"categories", "addon_category_assignment", "default_category_display_names",
-	"suggested_categories_applied", "addon_version_warned", "pending_optional_report",
+	"suggested_categories_applied", "suggested_categories_version", "addon_version_warned", "pending_optional_report",
 }
 
 local function MigrateFromLibAPHSavedVars()
@@ -39,8 +45,12 @@ EVENT_MANAGER:RegisterForEvent("AoM_Init", EVENT_ADD_ON_LOADED, function(eventCo
 			name, installedVer, expected.displayVersion))
 	end)
 
-	if not AoM.saved.suggested_categories_applied then
+	if AoM.saved.suggested_categories_version ~= SUGGESTED_CATEGORIES_VERSION then
+		if AoM.saved.suggested_categories_applied then
+			AoM.RetireSuggestedCategories(RETIRED_SUGGESTED_CATEGORIES)
+		end
 		AoM.saved.suggested_categories_applied = true
+		AoM.saved.suggested_categories_version = SUGGESTED_CATEGORIES_VERSION
 		AoM.ApplySuggestedCategories(AoM.SuggestedCategories, false)
 	end
 

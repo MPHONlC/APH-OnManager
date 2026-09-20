@@ -183,6 +183,21 @@ function AoM.ResetCategories()
 	return removed
 end
 
+function AoM.RetireSuggestedCategories(names)
+	if not EnsureSavedTables() then return end
+	local retired = {}
+	for _, name in ipairs(names) do retired[name] = true end
+	for addonName, cat in pairs(AoM.saved.addon_category_assignment) do
+		if retired[cat] then AoM.saved.addon_category_assignment[addonName] = nil end
+	end
+	for i = #AoM.saved.categories, 1, -1 do
+		if retired[AoM.saved.categories[i]] then table.remove(AoM.saved.categories, i) end
+	end
+	if AoM.saved.default_category_display_names then
+		for name in pairs(retired) do AoM.saved.default_category_display_names[name] = nil end
+	end
+end
+
 function AoM.ApplySuggestedCategories(suggestions, overwriteExisting)
 	EnsureSavedTables()
 	local applied = 0

@@ -271,9 +271,15 @@ function AoM.GetStatusIconsForAddon(am, index)
 	if known and known.requiredVersion then
 		local installed = am:GetAddOnVersion(index)
 		if installed > 0 and installed < known.requiredVersion then
-			Add(STATUS_COLOR_VERSION_MISMATCH, string.format(
-				"Older than the version APH-On Manager knows about.\nKnown: v%s (%d)\nInstalled: %d\n\n%s",
-				known.displayVersion or tostring(known.requiredVersion), known.requiredVersion, installed, update_hint))
+			local lines = {
+				"A newer version was published on ESOUI when this add-on's data was last refreshed.",
+				string.format("ESOUI: v%s (%d)", known.displayVersion or tostring(known.requiredVersion), known.requiredVersion),
+				string.format("Installed: %d", installed),
+			}
+			if known.esouiId then
+				table.insert(lines, "esoui.com/downloads/info" .. known.esouiId)
+			end
+			Add(STATUS_COLOR_VERSION_MISMATCH, table.concat(lines, "\n") .. "\n\n" .. update_hint)
 		end
 	end
 

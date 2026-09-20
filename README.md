@@ -21,7 +21,7 @@ What the icons mean:
 
 - ✓ Red: the add-on failed to load, or threw a Lua error this session
 - ✓ Yellow: out of date for the current API version
-- ✓ Crimson: older than the version this addon's own tables know about
+- ✓ Crimson: a newer version was on ESOUI when this add-on's data was last refreshed
 - ✓ Orange: a required dependency is missing, disabled or too old
 - ✓ Blue: an optional dependency is installed but switched off
 - ✓ Purple: other add-ons depend on this one
@@ -42,7 +42,7 @@ The gamepad Add-Ons menu (consoles, and PC in gamepad-preferred mode) shows the 
 
 ## Keeping the library/version tables fresh
 
-`KnownLibraries.lua` and `KnownAddonVersions.lua` can only ever be as current as the version you last installed. `Is-Everything-Up-To-Date.sh` (Mac/Linux) and `Is-Everything-Up-To-Date.ps1` (Windows), included in this addon's own folder, check both files against the latest versions on GitHub, merge in only the entries that changed, and print exactly which ones changed with their old/new versions. This doesn't check your other installed add-ons against ESOUI or download updates for them - You have to manually run Minion or manually update your own addons/library.
+`KnownLibraries.lua` and `KnownAddonVersions.lua` hold the versions published on ESOUI when this add-on's data was last refreshed, so they can only ever be as current as the release you installed. `Is-Everything-Up-To-Date.sh` (Mac/Linux) and `Is-Everything-Up-To-Date.ps1` (Windows), included in this addon's own folder, check both files against the latest versions on GitHub, merge in only the entries that changed, and print exactly which ones changed with their old/new versions. This doesn't check your other installed add-ons against ESOUI or download updates for them - You have to manually run Minion or manually update your own addons/library.
 
 ## License
 

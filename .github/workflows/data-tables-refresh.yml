@@ -1,0 +1,28 @@
+name: Data Tables Refresh
+
+on:
+  schedule:
+    - cron: '30 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/git-commit-signing
+        with:
+          ssh_signing_key: ${{ secrets.SSH_SIGNING_KEY }}
+
+      - name: Install Lua 5.1
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lua5.1
+
+      - uses: ./.github/actions/eso-data-tables-refresh
+        with:
+          data_dir: 'DATA'
+          git_name: 'MPHONlC'
+          git_email: '207844175+MPHONlC@users.noreply.github.com'
