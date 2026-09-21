@@ -105,7 +105,7 @@ def read_local_manifests(root):
     if not root or not os.path.isdir(root):
         return {}
     rows = {}
-    for dirpath, _, files in os.walk(root):
+    for dirpath, _, files in os.walk(root, followlinks=True):
         name = os.path.basename(dirpath)
         manifest = next((name + ext for ext in (".addon", ".txt") if name + ext in files), None)
         if not manifest or name in rows:
@@ -197,8 +197,6 @@ def write_versions(path, table_name, rows, is_library):
     lines = [HEADER, f"AoM.{table_name} = {{\n"]
     count = 0
     for name in sorted(names, key=str.lower):
-        if name == "LibAPH":
-            continue
         r = rows.get(name)
         if r and r["library"] != is_library:
             continue

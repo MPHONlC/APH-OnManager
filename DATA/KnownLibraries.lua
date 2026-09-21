@@ -60,6 +60,7 @@ AoM.KnownLibraries = {
 	["LibAlchemy"] = { fullName = "LibAlchemy", shortName = "LibAlchemy", requiredVersion = 26, displayVersion = "2.6", esouiId = 2618, apiVersion = "101047 101048" },
 	["LibAlchemyStation"] = { fullName = "LibAlchemyStation", shortName = "LAS", requiredVersion = 345, displayVersion = "3.4.5", esouiId = 2628, apiVersion = "101037 101038" },
 	["LibAnimation-1.0"] = { fullName = "LibAnimation-1.0", shortName = "LibAnimation-1.0", requiredVersion = 23, displayVersion = "2.3", esouiId = 54, apiVersion = "101032 101033" },
+	["LibAPH"] = { fullName = "LibAPH", shortName = "LibAPH", requiredVersion = 260920001, displayVersion = "0.0.1", apiVersion = "101050 101051" },
 	["LibArmorInsulation"] = { fullName = "LibArmorInsulation", shortName = "LibArmorInsulation", requiredVersion = 22, displayVersion = "2.7.11", esouiId = 4709, apiVersion = "101050 101051" },
 	["LibAsync"] = { fullName = "LibAsync", shortName = "LibAsync", requiredVersion = 30104, displayVersion = "3.1.4", esouiId = 2125, apiVersion = "101050 101051" },
 	["LibBase64"] = { fullName = "LibBase64", shortName = "LibBase64", displayVersion = "1.0", esouiId = 3795, apiVersion = "101040" },
