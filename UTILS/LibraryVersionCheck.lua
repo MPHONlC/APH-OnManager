@@ -5,6 +5,8 @@
 assert(AoMCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = AoMCore
 assert(AoM.KnownLibraries, "KnownLibraries.lua must be loaded before this file")
+local LibAPH = LibAPH
+local KnownLibraries = AoM.KnownLibraries
 
 local library_version_window
 
@@ -23,14 +25,14 @@ end
 
 SLASH_COMMANDS["/libraryversioncheck"] = function()
 	local names = {}
-	for key in pairs(AoM.KnownLibraries) do
+	for key in pairs(KnownLibraries) do
 		table.insert(names, key)
 	end
 	table.sort(names)
 
 	local rows = {}
 	for _, key in ipairs(names) do
-		local libData = AoM.KnownLibraries[key]
+		local libData = KnownLibraries[key]
 		local ver = LibAPH.CheckLibraryVersion(key)
 		if ver > 0 then
 			local color, plus, label = LibAPH.GetLibraryDriftColor(ver, libData.requiredVersion)

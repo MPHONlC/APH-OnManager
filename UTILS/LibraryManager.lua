@@ -6,8 +6,11 @@ assert(AoMCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = AoMCore
 assert(AoM.KnownLibraries, "KnownLibraries.lua must be loaded before this file")
 assert(AoM.KnownAddonDependencies, "KnownAddonDependencies.lua must be loaded before this file")
+local LibAPH = LibAPH
+local KnownLibraries = AoM.KnownLibraries
+local KnownAddonDependencies = AoM.KnownAddonDependencies
 
-function AoM.ScanOptionalLibraries()
+local function ScanOptionalLibraries()
 	local am = GetAddOnManager()
 	local num = am:GetNumAddOns()
 
@@ -73,7 +76,7 @@ function AoM.ScanOptionalLibraries()
 		end
 	end
 
-	for addon_name, optional_libs in pairs(AoM.KnownAddonDependencies) do
+	for addon_name, optional_libs in pairs(KnownAddonDependencies) do
 		if not LibAPH.registered_dependencies[addon_name] then
 			local addon_idx = addon_index_by_name[addon_name]
 			if addon_idx then
@@ -105,7 +108,7 @@ function AoM.ScanOptionalLibraries()
 			end
 		end
 	end
-	for addon_name, optional_libs in pairs(AoM.KnownAddonDependencies) do
+	for addon_name, optional_libs in pairs(KnownAddonDependencies) do
 		local addon_idx = addon_index_by_name[addon_name]
 		if not addon_idx or not IsAddonFullyEnabled(addon_idx) then
 			for _, lib_name in ipairs(optional_libs) do
@@ -167,7 +170,7 @@ function AoM.ScanOptionalLibraries()
 	}
 end
 
-function AoM.ApplyOptionalLibraryChoice(to_enable, to_disable)
+local function ApplyOptionalLibraryChoice(to_enable, to_disable)
 	local am = GetAddOnManager()
 	local acted = { enabled = {}, disabled = {} }
 
@@ -272,8 +275,8 @@ local function GetOptionalLibraryWindow()
 	return optional_library_window
 end
 
-function AoM.RunOptionalLibraryWizard()
-	local report = AoM.ScanOptionalLibraries()
+local function RunOptionalLibraryWizard()
+	local report = ScanOptionalLibraries()
 
 	if #report.enable_candidates == 0 and #report.unused_libraries == 0 then
 		if optional_library_window then optional_library_window:Hide() end
@@ -411,7 +414,7 @@ function AoM.RunOptionalLibraryWizard()
 			end
 		end
 		win:Hide()
-		AoM.ApplyOptionalLibraryChoice(to_enable, to_disable)
+		ApplyOptionalLibraryChoice(to_enable, to_disable)
 	end
 	win:Show()
 end
@@ -436,7 +439,7 @@ function AoM.ReportPendingOptionalLibraryChanges()
 		end
 	end
 
-	local report = AoM.ScanOptionalLibraries()
+	local report = ScanOptionalLibraries()
 
 	local addon_names = {}
 	for addon_name in pairs(report.addon_dependency_report) do table.insert(addon_names, addon_name) end
@@ -452,7 +455,7 @@ function AoM.ReportPendingOptionalLibraryChanges()
 			if #active_deps > 0 then
 				logger:Print("  " .. addon_name .. ":")
 				for _, dep in ipairs(active_deps) do
-					local libData = AoM.KnownLibraries[dep.name]
+					local libData = KnownLibraries[dep.name]
 					local versionText
 					if not dep.version or dep.version <= 0 then
 						versionText = "|c888888(version unknown)|r"
@@ -498,5 +501,5 @@ function AoM.ReportPendingOptionalLibraryChanges()
 end
 
 SLASH_COMMANDS["/libcheck"] = function()
-	AoM.RunOptionalLibraryWizard()
+	RunOptionalLibraryWizard()
 end

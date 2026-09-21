@@ -4,10 +4,11 @@
 
 assert(AoMCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = AoMCore
+local LibAPH = LibAPH
+local SuggestedCategories = AoM.SuggestedCategories
 
 local UNCATEGORIZED = "Uncategorized"
 local LIBRARIES = "Libraries"
-local logger = LibAPH.CreateChatLogger("AoM", "9CD04C")
 
 local function IsLibraryAddon(am, index)
 	local name, _, _, _, _, _, _, isLibrary = am:GetAddOnInfo(index)
@@ -15,7 +16,7 @@ local function IsLibraryAddon(am, index)
 end
 
 local DEFAULT_CATEGORY_NAMES = { [LIBRARIES] = true, [UNCATEGORIZED] = true }
-for _, category in pairs(AoM.SuggestedCategories or {}) do
+for _, category in pairs(SuggestedCategories or {}) do
 	DEFAULT_CATEGORY_NAMES[category] = true
 end
 
@@ -64,7 +65,7 @@ function AoM.GetAllCategories()
 	return list
 end
 
-function AoM.CreateCategory(name)
+local function CreateCategory(name)
 	EnsureSavedTables()
 	if not name or name == "" then return false, "empty" end
 	if IsDefaultCategory(name) then return false, "reserved" end
@@ -75,7 +76,7 @@ function AoM.CreateCategory(name)
 	return true
 end
 
-function AoM.RenameCategory(oldName, newName)
+local function RenameCategory(oldName, newName)
 	EnsureSavedTables()
 	if not newName or newName == "" then return false, "invalid" end
 
@@ -101,7 +102,7 @@ function AoM.RenameCategory(oldName, newName)
 	return true
 end
 
-function AoM.DeleteCategory(name)
+local function DeleteCategory(name)
 	EnsureSavedTables()
 	if IsDefaultCategory(name) then return false, "reserved" end
 	local found
@@ -137,7 +138,7 @@ function AoM.GetAddonCategory(addonName)
 	local assigned = EnsureSavedTables() and AoM.saved.addon_category_assignment[addonName]
 	if assigned then return assigned end
 
-	local suggested = AoM.SuggestedCategories and AoM.SuggestedCategories[addonName]
+	local suggested = SuggestedCategories and SuggestedCategories[addonName]
 	if suggested then return suggested end
 
 	local am = GetAddOnManager()
@@ -165,18 +166,18 @@ function AoM.GetAddonsInCategory(categoryName)
 	return list
 end
 
-function AoM.ResetAddonCategoryAssignments()
+local function ResetAddonCategoryAssignments()
 	if not EnsureSavedTables() then return end
 	AoM.saved.addon_category_assignment = {}
 end
 
-function AoM.ResetCategories()
+local function ResetCategories()
 	if not EnsureSavedTables() then return 0 end
 	local removed = 0
 	for i = #AoM.saved.categories, 1, -1 do
 		local name = AoM.saved.categories[i]
 		if not IsDefaultCategory(name) then
-			AoM.DeleteCategory(name)
+			DeleteCategory(name)
 			removed = removed + 1
 		end
 	end
@@ -342,7 +343,7 @@ local function ConfirmDeleteCategory(categoryName)
 		{
 			text = SI_DIALOG_CONFIRM,
 			callback = function()
-				AoM.DeleteCategory(categoryName)
+				DeleteCategory(categoryName)
 				RestorePopupAfterDialog(was_visible)
 				RefreshAllCategoryUI()
 			end,
@@ -359,7 +360,7 @@ end
 local function ShowRenameCategoryDialog(categoryName)
 	local display_name = AoM.GetCategoryDisplayName(categoryName)
 	ShowNameEntryDialog("AoM_RENAME_CATEGORY", "Rename Category", "Enter a new name for \"" .. display_name .. "\".", function(new_name)
-		if AoM.RenameCategory(categoryName, new_name) then
+		if RenameCategory(categoryName, new_name) then
 			RefreshAllCategoryUI()
 		end
 	end)
@@ -369,7 +370,7 @@ AoM.ConfirmDeleteCategory = ConfirmDeleteCategory
 
 local function ShowNewCategoryDialog()
 	ShowNameEntryDialog("AoM_NEW_CATEGORY", "New Category", "Enter a name for the new category.", function(new_name)
-		if AoM.CreateCategory(new_name) then RefreshAllCategoryUI() end
+		if CreateCategory(new_name) then RefreshAllCategoryUI() end
 	end)
 end
 AoM.ShowNewCategoryDialog = ShowNewCategoryDialog
@@ -453,7 +454,7 @@ local function ConfirmResetAddonCategoryAssignments()
 		{
 			text = SI_DIALOG_CONFIRM,
 			callback = function()
-				AoM.ResetAddonCategoryAssignments()
+				ResetAddonCategoryAssignments()
 				RestorePopupAfterDialog(was_visible)
 				RefreshAllCategoryUI()
 			end,
@@ -476,7 +477,7 @@ local function ConfirmResetCategories()
 		{
 			text = SI_DIALOG_CONFIRM,
 			callback = function()
-				AoM.ResetCategories()
+				ResetCategories()
 				RestorePopupAfterDialog(was_visible)
 				RefreshAllCategoryUI()
 			end,
@@ -492,7 +493,7 @@ end
 
 AoM.ConfirmResetCategories = ConfirmResetCategories
 
-function AoM.OpenCategoryManager()
+local function OpenCategoryManager()
 	local win = GetCategoryManagerWindow()
 
 	win.new_btn.libaph_click_action = ShowNewCategoryDialog
@@ -504,19 +505,7 @@ function AoM.OpenCategoryManager()
 end
 
 SLASH_COMMANDS["/libcategories"] = function()
-	AoM.OpenCategoryManager()
-end
-
-SLASH_COMMANDS["/libcatreset"] = function()
-	AoM.ResetAddonCategoryAssignments()
-	if ADD_ON_MANAGER then
-		ADD_ON_MANAGER.isDirty = true
-		ADD_ON_MANAGER:RefreshData()
-	end
-	if category_window and not category_window.window:IsHidden() then
-		RefreshCategoryWindow()
-	end
-	logger:Print("Add-on/library category assignments reset to default.")
+	OpenCategoryManager()
 end
 
 local FILTER_ALL = "All Add-Ons"
@@ -569,7 +558,7 @@ function AoM.SetCategoryFilter(filter)
 	RefreshGamepadAddonList()
 end
 
-function AoM.DisableUnneededLibraries()
+local function DisableUnneededLibraries()
 	local am = GetAddOnManager()
 	local needed = {}
 	for i = 1, am:GetNumAddOns() do
@@ -597,7 +586,7 @@ function AoM.SetCategoryAddonsEnabled(entries, isEnabled)
 		end
 	end
 	if not isEnabled then
-		AoM.DisableUnneededLibraries()
+		DisableUnneededLibraries()
 	end
 end
 

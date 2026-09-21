@@ -7,14 +7,19 @@ local AoM = AoMCore
 assert(AoM.KnownAddonDependencies, "KnownAddonDependencies.lua must be loaded before this file")
 assert(AoM.KnownAddonVersions, "KnownAddonVersions.lua must be loaded before this file")
 assert(AoM.KnownLibraries, "KnownLibraries.lua must be loaded before this file")
+local LibAPH = LibAPH
+local KnownAddonDependencies = AoM.KnownAddonDependencies
+local KnownAddonVersions = AoM.KnownAddonVersions
+local KnownLibraries = AoM.KnownLibraries
+local GetUpdateStatus
 
-function AoM.GetOptionalLibsFor(addonName)
+local function GetOptionalLibsFor(addonName)
 	local decl = LibAPH.registered_dependencies and LibAPH.registered_dependencies[addonName]
 	local libs = {}
 	if decl then
 		for lib_name in pairs(decl.optional) do table.insert(libs, lib_name) end
-	elseif AoM.KnownAddonDependencies[addonName] then
-		for _, lib_name in ipairs(AoM.KnownAddonDependencies[addonName]) do table.insert(libs, lib_name) end
+	elseif KnownAddonDependencies[addonName] then
+		for _, lib_name in ipairs(KnownAddonDependencies[addonName]) do table.insert(libs, lib_name) end
 	end
 	table.sort(libs)
 	return libs
@@ -60,7 +65,7 @@ local function AddCenterLine(tooltip, text)
 	tooltip:AddLine(text, "", r, g, b, CENTER, MODIFY_TEXT_TYPE_NONE, TEXT_ALIGN_CENTER, true)
 end
 
-function AoM.FindAddonIndex(am, addonName)
+local function FindAddonIndex(am, addonName)
 	for i = 1, am:GetNumAddOns() do
 		if am:GetAddOnInfo(i) == addonName then return i end
 	end
@@ -81,7 +86,7 @@ function AoM.GetLibrarySections(am, index, addonName)
 	end
 
 	local optional_real_libs, optional_addons = {}, {}
-	for _, lib_name in ipairs(AoM.GetOptionalLibsFor(addonName)) do
+	for _, lib_name in ipairs(GetOptionalLibsFor(addonName)) do
 		if string.sub(lib_name, 1, 3) == "Lib" then
 			table.insert(optional_real_libs, lib_name)
 		else
@@ -126,7 +131,7 @@ function AoM.PopulateAddonInfoTooltip(tooltip, data)
 		end
 	end
 	if data.index and data.isOutOfDate ~= nil then
-		local status = AoM.GetUpdateStatus(am, data.index, data.addOnFileName, data.isOutOfDate)
+		local status = GetUpdateStatus(am, data.index, data.addOnFileName, data.isOutOfDate)
 		if status.api_out_of_date then
 			AddCenterLine(tooltip, "|cFF0000API Version Out of Date|r")
 			AddCenterLine(tooltip, "|cFF0000Current API: " .. (status.declared_api or "not in the data tables") .. "  Live API: " .. status.live_api .. "|r")
@@ -151,7 +156,7 @@ end
 
 function AoM.PopulateAddonInfoTooltipByName(tooltip, addonName)
 	local am = GetAddOnManager()
-	local i = AoM.FindAddonIndex(am, addonName)
+	local i = FindAddonIndex(am, addonName)
 	if not i then return end
 	local name, title, author, description, _, _, isOutOfDate = am:GetAddOnInfo(i)
 	AoM.PopulateAddonInfoTooltip(tooltip, {
@@ -233,7 +238,7 @@ end
 
 local function GetInactiveOptionalLibs(am, addonName)
 	local inactive = {}
-	for _, lib_name in ipairs(AoM.GetOptionalLibsFor(addonName)) do
+	for _, lib_name in ipairs(GetOptionalLibsFor(addonName)) do
 		if not LibAPH.IsAddonActiveAndRunning(lib_name) then
 			table.insert(inactive, FormatLibraryStatus(am, lib_name, nil, true))
 		end
@@ -261,8 +266,8 @@ local function HighestApiVersion(declared)
 	return highest
 end
 
-function AoM.GetUpdateStatus(am, index, name, is_out_of_date)
-	local known = AoM.KnownLibraries[name] or AoM.KnownAddonVersions[name]
+function GetUpdateStatus(am, index, name, is_out_of_date)
+	local known = KnownLibraries[name] or KnownAddonVersions[name]
 	local installed = am:GetAddOnVersion(index)
 	local live_api = GetAPIVersion()
 	local declared_api = known and known.apiVersion
@@ -307,7 +312,7 @@ function AoM.GetStatusIconsForAddon(am, index)
 		end
 	end
 
-	local status = AoM.GetUpdateStatus(am, index, name, is_out_of_date)
+	local status = GetUpdateStatus(am, index, name, is_out_of_date)
 	local known, installed, newer_on_esoui = status.known, status.installed, status.newer_on_esoui
 	local live_api, declared_api, api_out_of_date = status.live_api, status.declared_api, status.api_out_of_date
 
@@ -371,7 +376,7 @@ function AoM.GetStatusIconsForAddon(am, index)
 end
 
 function AoM.GetStatusIconsForAddonByName(am, addonName)
-	local i = AoM.FindAddonIndex(am, addonName)
+	local i = FindAddonIndex(am, addonName)
 	if i then return AoM.GetStatusIconsForAddon(am, i) end
 	return {}
 end

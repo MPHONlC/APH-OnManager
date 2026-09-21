@@ -6,6 +6,7 @@ assert(LibAPH, "LibAPH must be loaded before APH-OnManager")
 
 AoMCore = AoMCore or {}
 local AoM = AoMCore
+local LibAPH = LibAPH
 AoM.name = "APH-OnManager"
 AoM.VERSION = "0.0.1"
 

@@ -5,6 +5,7 @@
 assert(AoMCore, "APH-OnManager.lua must be loaded before this file")
 if not ADD_ON_MANAGER then return end
 local AoM = AoMCore
+local LibAPH = LibAPH
 
 local current_addon_search_match
 

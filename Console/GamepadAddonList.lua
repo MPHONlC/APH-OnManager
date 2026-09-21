@@ -4,6 +4,7 @@
 
 assert(AoMCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = AoMCore
+local LibAPH = LibAPH
 
 local ADDON_DATA = 1
 local HEADER_DATA = 2
@@ -177,7 +178,7 @@ local function RegisterPickerDialog()
 	})
 end
 
-function AoM.ShowGamepadPickerDialog(title, choices)
+local function ShowGamepadPickerDialog(title, choices)
 	RegisterPickerDialog()
 	ShowGamepadDialog(PICKER_DIALOG, { title = title, choices = choices })
 end
@@ -444,7 +445,7 @@ local function BuildOptionEntries(manager, addOnData)
 		for _, entry in ipairs(AoM.GetCategoryFilterEntries()) do
 			table.insert(choices, { text = entry.display, callback = function() AoM.SetCategoryFilter(entry.internal) end })
 		end
-		AoM.ShowGamepadPickerDialog("Filter", choices)
+		ShowGamepadPickerDialog("Filter", choices)
 	end))
 
 	if addOnData and addOnData.addOnFileName then
@@ -462,7 +463,7 @@ local function BuildOptionEntries(manager, addOnData)
 					end })
 				end
 			end
-			AoM.ShowGamepadPickerDialog("Move " .. addon_name .. " to", choices)
+			ShowGamepadPickerDialog("Move " .. addon_name .. " to", choices)
 		end, { header = addon_name .. " (" .. current_display .. ")" }))
 
 		if current_category ~= LIBRARIES then

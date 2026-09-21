@@ -3,6 +3,7 @@
 -- See LICENSE.md and NOTICE.md.
 
 assert(AoMCore, "APH-OnManager.lua must be loaded before this file")
+local LibAPH = LibAPH
 
 local am = GetAddOnManager()
 local orig_SetAddOnEnabled = am.SetAddOnEnabled

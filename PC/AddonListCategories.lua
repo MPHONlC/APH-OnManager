@@ -5,6 +5,7 @@
 assert(AoMCore, "APH-OnManager.lua must be loaded before this file")
 if not ADD_ON_MANAGER then return end
 local AoM = AoMCore
+local LibAPH = LibAPH
 
 local LIBRARIES = "Libraries"
 
@@ -126,11 +127,23 @@ local function GetAddonSelectorRowRightEdge()
 	return _G["AddonSelectorAutoReloadUITexture"] or _G["AddonSelectorSaveModeTexture"] or _G["AddonSelectorSave"]
 end
 
+local added_controls = {}
+local added_controls_refreshed = false
+
+local function RefreshAddedControlsOnFirstShow()
+	if added_controls_refreshed or #added_controls == 0 then return end
+	added_controls_refreshed = true
+	for _, control in ipairs(added_controls) do control:SetHidden(true) end
+	zo_callLater(function()
+		for _, control in ipairs(added_controls) do control:SetHidden(false) end
+	end, 0)
+end
+
 function AoM.EnsureCategoryFilterDropdown()
 	if category_filter_combo then return category_filter_combo end
 	if not ADD_ON_MANAGER or not ADD_ON_MANAGER.control then return nil end
-	local char_dropdown = ADD_ON_MANAGER.control:GetNamedChild("CharacterSelectDropdown")
-	if not char_dropdown then return nil end
+	local title = ADD_ON_MANAGER.control:GetNamedChild("Title")
+	if not title then return nil end
 
 	local addon_selector_active = LibAPH.IsAddonActiveAndRunning("AddonSelector")
 	local addon_selector_row_end = addon_selector_active and GetAddonSelectorRowRightEdge()
@@ -141,9 +154,10 @@ function AoM.EnsureCategoryFilterDropdown()
 	if addon_selector_row_end then
 		container:SetAnchor(TOPLEFT, addon_selector_row_end, TOPRIGHT, 20, 0)
 	else
-		container:SetAnchor(TOPLEFT, char_dropdown, TOPRIGHT, 175, 0)
+		container:SetAnchor(LEFT, title, RIGHT, 180, 0)
 	end
 
+	added_controls[#added_controls + 1] = container
 	category_filter_combo = ZO_ComboBox_ObjectFromContainer(container)
 	category_filter_combo:SetSortsItems(false)
 	AoM.category_filter_combo = category_filter_combo
@@ -156,6 +170,7 @@ function AoM.EnsureCategoryFilterDropdown()
 	native_new_category_btn:SetAnchor(LEFT, container, RIGHT, 20, 0)
 	AoM.native_new_category_button = native_new_category_btn
 	native_new_category_btn.libaph_click_action = AoM.ShowNewCategoryDialog
+	added_controls[#added_controls + 1] = native_new_category_btn
 
 	local secondary_btn = ADD_ON_MANAGER.control:GetNamedChild("SecondaryButton")
 	if secondary_btn then
@@ -172,6 +187,8 @@ function AoM.EnsureCategoryFilterDropdown()
 		})
 		native_reset_categories_btn:SetAnchor(LEFT, native_reset_btn, RIGHT, 20, 0)
 		native_reset_categories_btn.libaph_click_action = AoM.ConfirmResetCategories
+		added_controls[#added_controls + 1] = native_reset_btn
+		added_controls[#added_controls + 1] = native_reset_categories_btn
 	end
 
 	return category_filter_combo
@@ -233,6 +250,7 @@ if ADDONS_FRAGMENT then
 	ADDONS_FRAGMENT:RegisterCallback("StateChange", function(oldState, newState)
 		if newState == SCENE_FRAGMENT_SHOWING then
 			PopulateCategoryFilterDropdown()
+			RefreshAddedControlsOnFirstShow()
 			PlaceAdvancedUIErrorsCheckbox()
 		elseif newState == SCENE_FRAGMENT_SHOWN then
 			PlaceAdvancedUIErrorsCheckbox()
