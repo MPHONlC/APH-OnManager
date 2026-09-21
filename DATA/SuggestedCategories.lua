@@ -282,6 +282,7 @@ AoM.SuggestedCategories = {
 	["CircularMinimap"] = "Plug-Ins & Patches",
 	["CitizenAddon"] = "Beta-version AddOns",
 	["ClankersWin"] = "ESO Tools & Utilities",
+	["ClayladonsFriendStatus"] = "Group, Guild & Friends",
 	["ClearChat"] = "Chat Mods",
 	["ClearNewPips"] = "Bags, Bank, Inventory",
 	["CloakTracker"] = "Nightblade",

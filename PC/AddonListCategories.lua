@@ -123,6 +123,11 @@ local function OnCategoryFilterSelected(_, itemText)
 	AoM.SetCategoryFilter(category_display_to_internal[itemText] or itemText)
 end
 
+local function IsAddonSelectorRunning()
+	return _G["AddonSelectorSave"] ~= nil and _G["AddonSelectorDelete"] ~= nil
+end
+AoM.IsAddonSelectorRunning = IsAddonSelectorRunning
+
 local function GetAddonSelectorRowRightEdge()
 	return _G["AddonSelectorAutoReloadUITexture"] or _G["AddonSelectorSaveModeTexture"] or _G["AddonSelectorSave"]
 end
@@ -145,7 +150,7 @@ function AoM.EnsureCategoryFilterDropdown()
 	local title = ADD_ON_MANAGER.control:GetNamedChild("Title")
 	if not title then return nil end
 
-	local addon_selector_active = LibAPH.IsAddonActiveAndRunning("AddonSelector")
+	local addon_selector_active = IsAddonSelectorRunning()
 	local addon_selector_row_end = addon_selector_active and GetAddonSelectorRowRightEdge()
 	if addon_selector_active and not addon_selector_row_end then return nil end
 
@@ -163,13 +168,22 @@ function AoM.EnsureCategoryFilterDropdown()
 	AoM.category_filter_combo = category_filter_combo
 	AoM.category_filter_dropdown_container = container
 
-	native_new_category_btn = LibAPH.CreateKeybindLabelButton(ADD_ON_MANAGER.control, {
-		keybind = "UI_SHORTCUT_TERTIARY",
-		name = "New Category",
-	})
-	native_new_category_btn:SetAnchor(LEFT, container, RIGHT, 20, 0)
+	if addon_selector_row_end then
+		native_new_category_btn = WINDOW_MANAGER:CreateControlFromVirtual("AoMNewCategoryButton", ADD_ON_MANAGER.control, "ZO_DefaultButton")
+		native_new_category_btn:SetDimensions(140, 30)
+		native_new_category_btn:SetFont("ZoFontWinH4")
+		native_new_category_btn:SetText("New Category")
+		native_new_category_btn:SetHandler("OnClicked", function() AoM.ShowNewCategoryDialog() end)
+		native_new_category_btn:SetAnchor(TOPLEFT, _G["AddonSelectorDelete"], TOPRIGHT, 72, 0)
+	else
+		native_new_category_btn = LibAPH.CreateKeybindLabelButton(ADD_ON_MANAGER.control, {
+			keybind = "UI_SHORTCUT_TERTIARY",
+			name = "New Category",
+		})
+		native_new_category_btn:SetAnchor(LEFT, container, RIGHT, 20, 0)
+		native_new_category_btn.libaph_click_action = AoM.ShowNewCategoryDialog
+	end
 	AoM.native_new_category_button = native_new_category_btn
-	native_new_category_btn.libaph_click_action = AoM.ShowNewCategoryDialog
 	added_controls[#added_controls + 1] = native_new_category_btn
 
 	local secondary_btn = ADD_ON_MANAGER.control:GetNamedChild("SecondaryButton")

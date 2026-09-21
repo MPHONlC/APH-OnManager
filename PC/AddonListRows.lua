@@ -19,7 +19,7 @@ local function ShowAddonRowTooltip(control)
 	local GAP
 	if LibAPH.IsAddonActiveAndRunning("PerfectPixel") then
 		GAP = 20
-	elseif LibAPH.IsAddonActiveAndRunning("AddonSelector") then
+	elseif AoM.IsAddonSelectorRunning() then
 		GAP = 80
 	else
 		GAP = 60
@@ -156,9 +156,9 @@ local function EnsureAddonSearchBox(force_vanilla_layout)
 	if addon_search_ui then return addon_search_ui end
 	if not ADD_ON_MANAGER or not ADD_ON_MANAGER.control then return nil end
 
-	local wants_addon_selector_layout = not force_vanilla_layout and LibAPH.IsAddonActiveAndRunning("AddonSelector")
+	local wants_addon_selector_layout = not force_vanilla_layout and AoM.IsAddonSelectorRunning()
 	if wants_addon_selector_layout then
-		if not _G["AddonSelectorSearchBox"] or not AoM.native_new_category_button then return nil end
+		if not _G["AddonSelectorSearchBox"] then return nil end
 	elseif not AoM.category_filter_dropdown_container then
 		return nil
 	end
@@ -167,7 +167,7 @@ local function EnsureAddonSearchBox(force_vanilla_layout)
 	local search_bg = WINDOW_MANAGER:CreateControlFromVirtual("AoMAddonSearchBox", ADD_ON_MANAGER.control, "ZO_EditBackdrop")
 	if addon_search_replaces_selector then
 		search_bg:SetDimensions(200, 20)
-		search_bg:SetAnchor(TOPLEFT, AoM.native_new_category_button, BOTTOMLEFT, 0, 10)
+		search_bg:SetAnchor(TOPRIGHT, ADD_ON_MANAGER.control, TOPRIGHT, -5, 75)
 	else
 		search_bg:SetDimensions(140, 26)
 		search_bg:SetAnchor(RIGHT, AoM.category_filter_dropdown_container, LEFT, -10, 0)
@@ -253,7 +253,7 @@ end)
 if ADDONS_FRAGMENT then
 	ADDONS_FRAGMENT:RegisterCallback("StateChange", function(oldState, newState)
 		if newState == SCENE_FRAGMENT_SHOWING then
-			if not LibAPH.IsAddonActiveAndRunning("AddonSelector") then
+			if not AoM.IsAddonSelectorRunning() then
 				CollapseAllAddonRows()
 			end
 			UpdateAddonSearchBoxVisibility()

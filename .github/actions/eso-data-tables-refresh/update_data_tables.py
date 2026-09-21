@@ -101,7 +101,36 @@ def read_minion(path):
     return rows
 
 
-def merge(catalog_rows, minion_rows, min_api):
+def read_local_manifests(root):
+    if not root or not os.path.isdir(root):
+        return {}
+    rows = {}
+    for dirpath, _, files in os.walk(root):
+        name = os.path.basename(dirpath)
+        manifest = next((name + ext for ext in (".addon", ".txt") if name + ext in files), None)
+        if not manifest or name in rows:
+            continue
+        fields = {}
+        for line in open(os.path.join(dirpath, manifest), encoding="utf-8", errors="replace"):
+            m = re.match(r"^##\s*([A-Za-z]+)\s*:\s*(.*?)\s*$", line.lstrip("\ufeff"))
+            if m:
+                fields[m.group(1)] = m.group(2)
+        raw_version = re.match(r"\d+", fields.get("AddOnVersion", ""))
+        rows[name] = {
+            "name": name,
+            "title": re.sub(r"\|c[0-9A-Fa-f]{6}|\|r", "", fields.get("Title", "")) or name,
+            "esoui_id": None,
+            "category": None,
+            "library": fields.get("IsLibrary", "").lower() == "true",
+            "addon_version": int(raw_version.group()) if raw_version else 0,
+            "version": fields.get("Version", ""),
+            "optional": sorted({d.split(">=")[0] for d in fields.get("OptionalDependsOn", "").split()}),
+            "api_versions": " ".join(t for t in fields.get("APIVersion", "").split() if t.isdigit()),
+        }
+    return rows
+
+
+def merge(catalog_rows, minion_rows, min_api, local_rows=None):
     rows = {}
     for name, candidates in catalog_rows.items():
         chosen = dict(pick_candidate(name, candidates, minion_rows))
@@ -118,6 +147,17 @@ def merge(catalog_rows, minion_rows, min_api):
                 c["api_versions"] = m["api_versions"]
         else:
             rows[name] = m
+    for name, loc in (local_rows or {}).items():
+        c = rows.get(name)
+        if c:
+            if loc["api_versions"]:
+                c["api_versions"] = loc["api_versions"]
+            if loc["library"]:
+                c["library"] = True
+            if not c["optional"] and loc["optional"]:
+                c["optional"] = loc["optional"]
+        elif loc["api_versions"] or loc["addon_version"] > 0:
+            rows[name] = loc
     return rows
 
 
@@ -142,7 +182,7 @@ def entry_fields(line):
 
 def write_versions(path, table_name, rows, is_library):
     existing = parse_existing(path)
-    names = set(existing) | {n for n, r in rows.items() if r["library"] == is_library and r["addon_version"] > 0}
+    names = set(existing) | {n for n, r in rows.items() if r["library"] == is_library and (r["addon_version"] > 0 or r["api_versions"])}
     lines = [HEADER, f"AoM.{table_name} = {{\n"]
     count = 0
     for name in sorted(names, key=str.lower):
@@ -162,8 +202,10 @@ def write_versions(path, table_name, rows, is_library):
         if is_library:
             parts.append(f"fullName = {old.get('fullName') or lua_str((r or {}).get('title') or name)}")
             parts.append(f"shortName = {old.get('shortName') or lua_str(name)}")
-        parts.append(f"requiredVersion = {required}")
-        parts.append(f"displayVersion = {display}")
+        if required != "nil":
+            parts.append(f"requiredVersion = {required}")
+        if display != '""':
+            parts.append(f"displayVersion = {display}")
         esoui_id = (r or {}).get("esoui_id") or (int(old["esouiId"]) if old.get("esouiId") else None)
         if esoui_id:
             parts.append(f"esouiId = {esoui_id}")
@@ -220,6 +262,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data-dir", required=True)
     parser.add_argument("--minion-config", default=os.path.expanduser("~/.minion/config/eso.json"))
+    parser.add_argument("--addons-dir", default=os.path.expanduser("~/Documents/Elder Scrolls Online/live/AddOns"))
     parser.add_argument("--min-api", type=int, default=101040)
     parser.add_argument("--filelist", default="")
     parser.add_argument("--categorylist", default="")
@@ -228,7 +271,8 @@ def main():
 
     catalog_rows, kept, total = read_catalog(args.min_api, args.filelist, args.categorylist)
     minion_rows = read_minion(args.minion_config)
-    rows = merge(catalog_rows, minion_rows, args.min_api)
+    local_rows = read_local_manifests(args.addons_dir)
+    rows = merge(catalog_rows, minion_rows, args.min_api, local_rows)
     d = args.data_dir
     before = {f: open(os.path.join(d, f), encoding="utf-8").read() if os.path.exists(os.path.join(d, f)) else "" for f in TABLE_FILES}
     counts = {
@@ -243,6 +287,7 @@ def main():
         "",
         f"- Catalog: {total} listings, {kept} at API {args.min_api} or newer, {len(catalog_rows)} add-on folders",
         f"- Installed (Minion): {len(minion_rows)}",
+        f"- Local manifests (.addon/.txt): {len(local_rows)}",
         f"- Merged: {len(rows)}",
         "",
         "| Table | Entries | Changed |",
