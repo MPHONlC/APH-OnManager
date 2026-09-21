@@ -1,10 +1,10 @@
 ## Title: |c9CD04CAPH-On Manager|r
 ## Version: 0.0.1
-## AddOnVersion: 260921001
+## AddOnVersion: 260922001
 ## Author: |ca500f3A|r|cb400e6P|r|cc300daH|r|cd200cdO|r|ce100c1NlC|r
 ## APIVersion: 101050 101051
 ## SavedVariables: APHOnManager
-## DependsOn: LibAPH>=260920001
+## DependsOn: LibAPH>=260922001
 ## OptionalDependsOn: AddonSelector PerfectPixel
 ## Description: |cfa9c1bCategories, search, status icons and dependency tools for the Add-Ons menu.|r |cCCFF00Usage: /libcategories /libcheck /libraryversioncheck|r
 
