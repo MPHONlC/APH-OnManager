@@ -670,14 +670,40 @@ local function IsAutoDisableZone()
 		or GetCurrentZoneDungeonDifficulty() ~= DUNGEON_DIFFICULTY_NONE
 end
 
-local function RunAutoDisableUnused()
-	if AoM.saved and AoM.saved.auto_disable_unused == false then return end
-	if not IsAutoDisableZone() then return end
-	local libraries, addons = AoM.DisableUnused({ auto = true })
-	if #libraries + #addons > 0 then
-		LibAPH.CreateChatLogger("AoM", "9CD04C"):Print("Reloading the UI to apply.")
+local SAFE_RELOAD_NAMESPACE = "AoM_DisableUnusedSafeReload"
+
+local function IsSafeToReload()
+	return not IsUnitInCombat("player") and not IsUnitDead("player")
+end
+
+local function StopWaitingForSafeReload()
+	EVENT_MANAGER:UnregisterForEvent(SAFE_RELOAD_NAMESPACE, EVENT_PLAYER_COMBAT_STATE)
+	EVENT_MANAGER:UnregisterForEvent(SAFE_RELOAD_NAMESPACE, EVENT_PLAYER_ALIVE)
+end
+
+local function ReloadWhenSafe()
+	local logger = LibAPH.CreateChatLogger("AoM", "9CD04C")
+	if IsSafeToReload() then
+		logger:Print("Reloading the UI to apply.")
+		zo_callLater(function() ReloadUI("ingame") end, AUTO_RELOAD_DELAY_MS)
+		return
+	end
+	logger:Print("Reloading the UI to apply once you are out of combat.")
+	local function TryReload()
+		if not IsSafeToReload() then return end
+		StopWaitingForSafeReload()
+		logger:Print("Reloading the UI to apply.")
 		zo_callLater(function() ReloadUI("ingame") end, AUTO_RELOAD_DELAY_MS)
 	end
+	EVENT_MANAGER:RegisterForEvent(SAFE_RELOAD_NAMESPACE, EVENT_PLAYER_COMBAT_STATE, TryReload)
+	EVENT_MANAGER:RegisterForEvent(SAFE_RELOAD_NAMESPACE, EVENT_PLAYER_ALIVE, TryReload)
+end
+
+local function RunAutoDisableUnused()
+	if not AoM.IsAutoDisableUnusedEnabled() then return end
+	if not IsAutoDisableZone() then return end
+	local libraries, addons = AoM.DisableUnused({ auto = true })
+	if #libraries + #addons > 0 then ReloadWhenSafe() end
 end
 
 EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnZone", EVENT_PLAYER_ACTIVATED, function()
@@ -688,11 +714,9 @@ EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnZone", EVENT_PLAYER_ACTIVATED
 	end
 	RunAutoDisableUnused()
 end)
-EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnEndless", EVENT_ENDLESS_DUNGEON_STARTED, RunAutoDisableUnused)
-EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnTrial", EVENT_RAID_TRIAL_STARTED, RunAutoDisableUnused)
 
 function AoM.IsAutoDisableUnusedEnabled()
-	return not (AoM.saved and AoM.saved.auto_disable_unused == false)
+	return AoM.saved ~= nil and AoM.saved.auto_disable_unused == true
 end
 
 function AoM.SetAutoDisableUnusedEnabled(enabled)
