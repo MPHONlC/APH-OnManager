@@ -254,13 +254,15 @@ local function GetOptionalLibraryWindow()
 	})
 
 	optional_library_window.check_all_btn = LibAPH.CreateKeybindLabelButton(optional_library_window.footer, {
-		keybind = "UI_SHORTCUT_TERTIARY",
+		action = "AOM_SELECT_ALL_LIBRARIES",
+		layer = AoM.LIBRARIES_KEYBIND_LAYER,
 		name = "Select All",
 	})
 	optional_library_window.check_all_btn:SetAnchor(TOPLEFT, optional_library_window.footer, TOPLEFT, 0, 0)
 
 	optional_library_window.uncheck_all_btn = LibAPH.CreateKeybindLabelButton(optional_library_window.footer, {
-		keybind = "UI_SHORTCUT_SECONDARY",
+		action = "AOM_DESELECT_ALL_LIBRARIES",
+		layer = AoM.LIBRARIES_KEYBIND_LAYER,
 		name = "Deselect All",
 	})
 	optional_library_window.uncheck_all_btn:SetAnchor(TOPLEFT, optional_library_window.check_all_btn, TOPRIGHT, 20, 0)

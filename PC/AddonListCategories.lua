@@ -184,14 +184,16 @@ function AoM.EnsureCategoryFilterDropdown()
 	local secondary_btn = ADD_ON_MANAGER.control:GetNamedChild("SecondaryButton")
 	if secondary_btn then
 		native_reset_btn = LibAPH.CreateKeybindLabelButton(ADD_ON_MANAGER.control, {
-			keybind = "UI_SHORTCUT_QUICK_SLOTS",
+			action = "AOM_RESET_LIST",
+			layer = AoM.KEYBIND_LAYER,
 			name = "Reset List",
 		})
 		native_reset_btn:SetAnchor(LEFT, secondary_btn, RIGHT, 30, 0)
 		native_reset_btn.libaph_click_action = AoM.ConfirmResetAddonCategoryAssignments
 
 		native_reset_categories_btn = LibAPH.CreateKeybindLabelButton(ADD_ON_MANAGER.control, {
-			keybind = "UI_SHORTCUT_SHOW_QUEST_ON_MAP",
+			action = "AOM_RESET_CATEGORIES",
+			layer = AoM.KEYBIND_LAYER,
 			name = "Reset Categories",
 		})
 		native_reset_categories_btn:SetAnchor(LEFT, native_reset_btn, RIGHT, 20, 0)

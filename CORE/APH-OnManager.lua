@@ -32,14 +32,44 @@ local function MigrateFromLibAPHSavedVars()
 	end
 end
 
+ZO_CreateStringId("SI_BINDING_NAME_AOM_NEW_CATEGORY", "New Category")
+ZO_CreateStringId("SI_BINDING_NAME_AOM_RESET_LIST", "Reset List")
+ZO_CreateStringId("SI_BINDING_NAME_AOM_RESET_CATEGORIES", "Reset Categories")
+ZO_CreateStringId("SI_BINDING_NAME_AOM_SELECT_ALL_LIBRARIES", "Select All Libraries")
+ZO_CreateStringId("SI_BINDING_NAME_AOM_DESELECT_ALL_LIBRARIES", "Deselect All Libraries")
+
+AoM.KEYBIND_LAYER = "APH-On Manager"
+AoM.LIBRARIES_KEYBIND_LAYER = "APH-On Manager Libraries"
+
 EVENT_MANAGER:RegisterForEvent("AoM_Init", EVENT_ADD_ON_LOADED, function(eventCode, addonName)
 	if addonName ~= AoM.name then return end
 	EVENT_MANAGER:UnregisterForEvent("AoM_Init", EVENT_ADD_ON_LOADED)
 	AoM.saved = ZO_SavedVars:NewAccountWide("APHOnManager", 1, GetWorldName() or "Default", {})
 	MigrateFromLibAPHSavedVars()
 	AoM.saved.addon_version_warned = AoM.saved.addon_version_warned or {}
+	LibAPH.RegisterKeybindDefaults("AoM", AoM.saved, {
+		AOM_NEW_CATEGORY = KEY_F,
+		AOM_RESET_LIST = KEY_Q,
+		AOM_RESET_CATEGORIES = KEY_Z,
+		AOM_SELECT_ALL_LIBRARIES = KEY_F,
+		AOM_DESELECT_ALL_LIBRARIES = KEY_R,
+	})
 
 	LibAPH.RegisterAddonDependencies(AoM.name, { "LibAPH" }, { "AddonSelector", "PerfectPixel" })
+
+	LibAPH.SetAddonMetadataProvider(function(name)
+		return AoM.KnownLibraries[name] or AoM.KnownAddonVersions[name]
+	end)
+	AoM.bug_reporter = LibAPH.CreateAddonBugReporter({
+		addonName = AoM.name,
+		title = "APH-On Manager",
+		version = AoM.VERSION,
+		boxName = "AoMBugReportBox",
+		getStore = function() return AoM.saved end,
+	})
+	if not IsConsoleUI() then
+		SLASH_COMMANDS["/aombugreport"] = AoM.bug_reporter.Show
+	end
 
 	LibAPH.CheckAddonVersions(AoM.KnownAddonVersions, AoM.saved.addon_version_warned, function(name, installedVer, expected)
 		d(string.format("|c9CD04C[AoM]|r %s is outdated (installed v%d, expected v%s or newer). Update it for the best experience.",

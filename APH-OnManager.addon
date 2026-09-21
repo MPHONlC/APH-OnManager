@@ -9,6 +9,7 @@
 ## Description: |cfa9c1bCategories, search, status icons and dependency tools for the Add-Ons menu.|r |cCCFF00Usage: /libcategories /libcheck /libraryversioncheck|r
 
 CORE/APH-OnManager.lua
+PC/Bindings.xml
 DATA/KnownLibraries.lua
 DATA/KnownAddonDependencies.lua
 DATA/KnownAddonVersions.lua

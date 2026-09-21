@@ -24,6 +24,7 @@ Hover an icon for the detail behind it, including which add-on or library it ref
 - `/libcategories`: opens the category manager window: every category with its add-ons, plus rename, delete, new category, reset list and reset categories.
 - `/libcheck`: scans every enabled add-on's declared library dependencies, offers to enable optional libraries an add-on can use but currently has switched off, or to disable any enabled library nothing currently references, then reloads and reports the result in chat.
 - `/libraryversioncheck`: lists every installed library's version next to the version recorded in this addon's own table: green for a match, cyan for newer, red for older.
+- `/aombugreport`: opens the bug report popup (PC). It also opens by itself when APH-On Manager raises a Lua error, and lists the error, the live API and every enabled add-on and library with its Version, AddOnVersion and API.
 
 ## Console and gamepad mode
 

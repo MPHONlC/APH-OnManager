@@ -235,19 +235,22 @@ local function GetCategoryManagerWindow()
 	category_window:SetSubtitle("Click an add-on to pick its category. Click a category to rename/delete it.")
 
 	category_window.new_btn = LibAPH.CreateKeybindLabelButton(category_window.footer, {
-		keybind = "UI_SHORTCUT_TERTIARY",
+		action = "AOM_NEW_CATEGORY",
+		layer = AoM.KEYBIND_LAYER,
 		name = "New Category",
 	})
 	category_window.new_btn:SetAnchor(TOPRIGHT, category_window.footer, TOPRIGHT, 0, 0)
 
 	category_window.reset_btn = LibAPH.CreateKeybindLabelButton(category_window.footer, {
-		keybind = "UI_SHORTCUT_SECONDARY",
+		action = "AOM_RESET_LIST",
+		layer = AoM.KEYBIND_LAYER,
 		name = "Reset List",
 	})
 	category_window.reset_btn:SetAnchor(TOPRIGHT, category_window.new_btn, TOPLEFT, -10, 0)
 
 	category_window.reset_categories_btn = LibAPH.CreateKeybindLabelButton(category_window.footer, {
-		keybind = "UI_SHORTCUT_QUATERNARY",
+		action = "AOM_RESET_CATEGORIES",
+		layer = AoM.KEYBIND_LAYER,
 		name = "Reset Categories",
 	})
 	category_window.reset_categories_btn:SetAnchor(TOPRIGHT, category_window.reset_btn, TOPLEFT, -10, 0)
@@ -354,7 +357,7 @@ local function ConfirmDeleteCategory(categoryName)
 				RestorePopupAfterDialog(was_visible)
 			end,
 		},
-	})
+	}, nil, function() RestorePopupAfterDialog(was_visible) end)
 end
 
 local function ShowRenameCategoryDialog(categoryName)
@@ -465,7 +468,7 @@ local function ConfirmResetAddonCategoryAssignments()
 				RestorePopupAfterDialog(was_visible)
 			end,
 		},
-	})
+	}, nil, function() RestorePopupAfterDialog(was_visible) end)
 end
 
 AoM.ConfirmResetAddonCategoryAssignments = ConfirmResetAddonCategoryAssignments
@@ -488,7 +491,7 @@ local function ConfirmResetCategories()
 				RestorePopupAfterDialog(was_visible)
 			end,
 		},
-	})
+	}, nil, function() RestorePopupAfterDialog(was_visible) end)
 end
 
 AoM.ConfirmResetCategories = ConfirmResetCategories

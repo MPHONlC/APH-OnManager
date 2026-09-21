@@ -1,0 +1,25 @@
+<Bindings>
+    <Layer name="APH-On Manager">
+        <Category name="Category Manager">
+            <Action name="AOM_NEW_CATEGORY">
+                <Down>return LibAPH.HandleKeybindButtonKey("AOM_NEW_CATEGORY")</Down>
+            </Action>
+            <Action name="AOM_RESET_LIST">
+                <Down>return LibAPH.HandleKeybindButtonKey("AOM_RESET_LIST")</Down>
+            </Action>
+            <Action name="AOM_RESET_CATEGORIES">
+                <Down>return LibAPH.HandleKeybindButtonKey("AOM_RESET_CATEGORIES")</Down>
+            </Action>
+        </Category>
+    </Layer>
+    <Layer name="APH-On Manager Libraries">
+        <Category name="Optional Libraries">
+            <Action name="AOM_SELECT_ALL_LIBRARIES">
+                <Down>return LibAPH.HandleKeybindButtonKey("AOM_SELECT_ALL_LIBRARIES")</Down>
+            </Action>
+            <Action name="AOM_DESELECT_ALL_LIBRARIES">
+                <Down>return LibAPH.HandleKeybindButtonKey("AOM_DESELECT_ALL_LIBRARIES")</Down>
+            </Action>
+        </Category>
+    </Layer>
+</Bindings>
