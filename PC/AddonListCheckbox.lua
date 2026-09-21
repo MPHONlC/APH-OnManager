@@ -4,6 +4,7 @@
 
 assert(AoMCore, "APH-OnManager.lua must be loaded before this file")
 if not ADD_ON_MANAGER then return end
+local AoM = AoMCore
 
 local function IsRecoverableByEnabling(am, addon_index)
 	local num_deps = am:GetAddOnNumDependencies(addon_index)
@@ -42,3 +43,12 @@ function ZO_AddOnManager:GetRowSetupFunction()
 		end
 	end
 end
+
+ZO_PostHook(ZO_AddOnManager, "OnEnabledButtonClicked", function(self, control, checkState)
+	local row = control and control:GetParent()
+	if checkState ~= TRISTATE_CHECK_BUTTON_UNCHECKED or not row or not row.data or not row.data.index then return end
+	if #AoM.CascadeDisableUnused(row.data.index) > 0 then
+		self.isDirty = true
+		self:RefreshData()
+	end
+end)

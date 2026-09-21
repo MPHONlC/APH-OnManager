@@ -590,6 +590,52 @@ function AoM.DisableGhostLibraries(opts)
 	return disabled_libraries, disabled_addons
 end
 
+local function AddUsedLibraries(am, index, name, into)
+	for d = 1, am:GetAddOnNumDependencies(index) do
+		local dep_name = am:GetAddOnDependencyInfo(index, d)
+		if dep_name then into[dep_name] = true end
+	end
+	for _, lib_name in ipairs(KnownAddonDependencies[name] or {}) do into[lib_name] = true end
+	local declared = LibAPH.registered_dependencies[name]
+	if declared then
+		for lib_name in pairs(declared.required) do into[lib_name] = true end
+		for lib_name in pairs(declared.optional) do into[lib_name] = true end
+	end
+end
+
+function AoM.CascadeDisableUnused(index)
+	local am = GetAddOnManager()
+	local index_by_name = {}
+	for i = 1, am:GetNumAddOns() do index_by_name[am:GetAddOnInfo(i)] = i end
+	local candidates = {}
+	AddUsedLibraries(am, index, am:GetAddOnInfo(index), candidates)
+	local disabled = {}
+	for _ = 1, GHOST_SCAN_MAX_PASSES do
+		local changed = false
+		local referenced = CollectReferencedLibraries(am, index_by_name)
+		for lib_name in pairs(candidates) do
+			local lib_index = index_by_name[lib_name]
+			if lib_index and not referenced[lib_name] then
+				local _, _, _, _, is_enabled, _, _, is_library = am:GetAddOnInfo(lib_index)
+				if is_enabled and IsLibraryEntry(lib_name, is_library) then
+					am:SetAddOnEnabled(lib_index, false)
+					disabled[#disabled + 1] = lib_name
+					AddUsedLibraries(am, lib_index, lib_name, candidates)
+					changed = true
+				end
+			end
+		end
+		if not changed then break end
+	end
+	if #disabled > 0 then
+		local logger = LibAPH.CreateChatLogger("AoM", "9CD04C")
+		for _, lib_name in ipairs(disabled) do
+			logger:Print("Also disabled " .. lib_name .. ": nothing enabled uses it anymore.")
+		end
+	end
+	return disabled
+end
+
 SLASH_COMMANDS["/libcheck"] = function()
 	RunOptionalLibraryWizard()
 end

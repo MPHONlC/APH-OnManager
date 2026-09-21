@@ -508,10 +508,31 @@ local function HookOptionsDialog(manager)
 	end)
 end
 
+local function WrapToggleForCascade(manager)
+	for _, descriptor in ipairs(manager.keybindStripDescriptor or {}) do
+		if descriptor.keybind == "UI_SHORTCUT_PRIMARY" and descriptor.callback and not descriptor.aom_cascade_wrapped then
+			descriptor.aom_cascade_wrapped = true
+			local original = descriptor.callback
+			descriptor.callback = function(...)
+				local data = manager:GetSelectedData()
+				local index = data and data.addOnIndex
+				local addon_manager = GetAddOnManager()
+				local was_enabled = index and select(5, addon_manager:GetAddOnInfo(index))
+				original(...)
+				if index and was_enabled and not select(5, addon_manager:GetAddOnInfo(index)) and #AoM.CascadeDisableUnused(index) > 0 then
+					manager:MarkDirty()
+					manager:RefreshData()
+				end
+			end
+		end
+	end
+end
+
 ZO_PostHook(ZO_AddOnManager_Gamepad, "OnDeferredInitialize", function(manager)
 	HookGamepadTooltip()
 	HookOptionsDialog(manager)
 	AddSearchKeybinds(manager)
+	WrapToggleForCascade(manager)
 end)
 
 ZO_PostHook(ZO_AddOnManager_Gamepad, "OnShowing", function()
