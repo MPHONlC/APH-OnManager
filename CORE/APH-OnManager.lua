@@ -37,6 +37,7 @@ ZO_CreateStringId("SI_BINDING_NAME_AOM_RESET_LIST", "Reset List")
 ZO_CreateStringId("SI_BINDING_NAME_AOM_RESET_CATEGORIES", "Reset Categories")
 ZO_CreateStringId("SI_BINDING_NAME_AOM_SELECT_ALL_LIBRARIES", "Select All Libraries")
 ZO_CreateStringId("SI_BINDING_NAME_AOM_DESELECT_ALL_LIBRARIES", "Deselect All Libraries")
+ZO_CreateStringId("SI_BINDING_NAME_AOM_APPLY_LIBRARY_CHANGES", "Apply Library Changes")
 
 AoM.KEYBIND_LAYER = "APH-On Manager"
 AoM.LIBRARIES_KEYBIND_LAYER = "APH-On Manager Libraries"
@@ -53,6 +54,7 @@ EVENT_MANAGER:RegisterForEvent("AoM_Init", EVENT_ADD_ON_LOADED, function(eventCo
 		AOM_RESET_CATEGORIES = KEY_Z,
 		AOM_SELECT_ALL_LIBRARIES = KEY_F,
 		AOM_DESELECT_ALL_LIBRARIES = KEY_R,
+		AOM_APPLY_LIBRARY_CHANGES = KEY_E,
 	})
 
 	LibAPH.RegisterAddonDependencies(AoM.name, { "LibAPH" }, { "AddonSelector", "PerfectPixel" })

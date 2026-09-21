@@ -20,6 +20,9 @@
             <Action name="AOM_DESELECT_ALL_LIBRARIES">
                 <Down>return LibAPH.HandleKeybindButtonKey("AOM_DESELECT_ALL_LIBRARIES")</Down>
             </Action>
+            <Action name="AOM_APPLY_LIBRARY_CHANGES">
+                <Down>return LibAPH.HandleKeybindButtonKey("AOM_APPLY_LIBRARY_CHANGES")</Down>
+            </Action>
         </Category>
     </Layer>
 </Bindings>

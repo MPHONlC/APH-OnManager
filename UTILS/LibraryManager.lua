@@ -268,8 +268,8 @@ local function GetOptionalLibraryWindow()
 	optional_library_window.uncheck_all_btn:SetAnchor(TOPLEFT, optional_library_window.check_all_btn, TOPRIGHT, 20, 0)
 
 	optional_library_window.apply_btn = LibAPH.CreateKeybindLabelButton(optional_library_window.footer, {
-		keybind = "GAME_CAMERA_INTERACT",
-		gamepadPreferredKeybind = "GAMEPAD_JUMP_OR_INTERACT",
+		action = "AOM_APPLY_LIBRARY_CHANGES",
+		layer = AoM.LIBRARIES_KEYBIND_LAYER,
 		name = "Apply Changes",
 	})
 	optional_library_window.apply_btn:SetAnchor(TOPLEFT, optional_library_window.uncheck_all_btn, TOPRIGHT, 20, 0)

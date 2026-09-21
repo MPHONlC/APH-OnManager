@@ -178,7 +178,6 @@ function AoM.EnsureCategoryFilterDropdown()
 	else
 		native_new_category_btn:SetAnchor(LEFT, container, RIGHT, 20, 0)
 	end
-	AoM.native_new_category_button = native_new_category_btn
 	added_controls[#added_controls + 1] = native_new_category_btn
 
 	local secondary_btn = ADD_ON_MANAGER.control:GetNamedChild("SecondaryButton")
