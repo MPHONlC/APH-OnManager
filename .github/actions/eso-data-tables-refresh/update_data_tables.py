@@ -130,6 +130,10 @@ def read_local_manifests(root):
     return rows
 
 
+def highest_api(api_versions):
+    return max((int(t) for t in (api_versions or "").split() if t.isdigit()), default=0)
+
+
 def merge(catalog_rows, minion_rows, min_api, local_rows=None):
     rows = {}
     for name, candidates in catalog_rows.items():
@@ -143,8 +147,9 @@ def merge(catalog_rows, minion_rows, min_api, local_rows=None):
                 c["optional"] = m["optional"]
             if m["library"]:
                 c["library"] = True
-            if m["api_versions"] and m["addon_version"] >= c["addon_version"]:
-                c["api_versions"] = m["api_versions"]
+            if m["api_versions"] and (m["addon_version"] >= c["addon_version"] or highest_api(m["api_versions"]) > highest_api(c["api_versions"])):
+                if highest_api(m["api_versions"]) >= highest_api(c["api_versions"]):
+                    c["api_versions"] = m["api_versions"]
         else:
             rows[name] = m
     for name, loc in (local_rows or {}).items():
@@ -154,7 +159,7 @@ def merge(catalog_rows, minion_rows, min_api, local_rows=None):
                 if loc[key]:
                     c[key] = loc[key]
         elif c:
-            if not c["api_versions"] and loc["api_versions"]:
+            if loc["api_versions"] and highest_api(loc["api_versions"]) > highest_api(c["api_versions"]):
                 c["api_versions"] = loc["api_versions"]
             if not c["version"] and loc["version"]:
                 c["version"] = loc["version"]

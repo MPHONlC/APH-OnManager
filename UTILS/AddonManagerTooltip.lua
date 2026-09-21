@@ -126,13 +126,13 @@ function AoM.PopulateAddonInfoTooltip(tooltip, data)
 	AddTitleLine(tooltip, data.addOnName)
 	if data.index then
 		local ver = am:GetAddOnVersion(data.index)
+		local known = KnownLibraries[data.addOnFileName] or KnownAddonVersions[data.addOnFileName]
+		if known and known.displayVersion then
+			AddSubTitleLine(tooltip, "Version " .. known.displayVersion)
+		end
 		if ver and ver > 0 then
-			AddSubTitleLine(tooltip, "Version " .. ver)
+			AddSubTitleLine(tooltip, "AddOnVersion " .. ver)
 		else
-			local known = KnownLibraries[data.addOnFileName] or KnownAddonVersions[data.addOnFileName]
-			if known and known.displayVersion then
-				AddSubTitleLine(tooltip, "Version " .. known.displayVersion)
-			end
 			AddCenterLine(tooltip, "|cFFD21ANo AddOnVersion|r")
 		end
 	end
