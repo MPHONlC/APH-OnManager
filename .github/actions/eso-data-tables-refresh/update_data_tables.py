@@ -149,14 +149,20 @@ def merge(catalog_rows, minion_rows, min_api, local_rows=None):
             rows[name] = m
     for name, loc in (local_rows or {}).items():
         c = rows.get(name)
-        if c:
-            if loc["api_versions"]:
+        if c and loc["addon_version"] > c["addon_version"] > 0:
+            for key in ("addon_version", "version", "api_versions"):
+                if loc[key]:
+                    c[key] = loc[key]
+        elif c:
+            if not c["api_versions"] and loc["api_versions"]:
                 c["api_versions"] = loc["api_versions"]
-            if loc["library"]:
-                c["library"] = True
+            if not c["version"] and loc["version"]:
+                c["version"] = loc["version"]
+            if not c["addon_version"] and loc["addon_version"]:
+                c["addon_version"] = loc["addon_version"]
             if not c["optional"] and loc["optional"]:
                 c["optional"] = loc["optional"]
-        elif loc["api_versions"] or loc["addon_version"] > 0:
+        elif loc["api_versions"] or loc["version"] or loc["addon_version"] > 0:
             rows[name] = loc
     return rows
 
@@ -182,7 +188,7 @@ def entry_fields(line):
 
 def write_versions(path, table_name, rows, is_library):
     existing = parse_existing(path)
-    names = set(existing) | {n for n, r in rows.items() if r["library"] == is_library and (r["addon_version"] > 0 or r["api_versions"])}
+    names = set(existing) | {n for n, r in rows.items() if r["library"] == is_library and (r["addon_version"] > 0 or r["api_versions"] or r["version"])}
     lines = [HEADER, f"AoM.{table_name} = {{\n"]
     count = 0
     for name in sorted(names, key=str.lower):
@@ -195,6 +201,9 @@ def write_versions(path, table_name, rows, is_library):
         if r and r["addon_version"] > 0:
             required = str(r["addon_version"])
             display = lua_str(r["version"] or str(r["addon_version"]))
+        elif r and r["version"]:
+            required = "nil"
+            display = lua_str(r["version"])
         else:
             required = old.get("requiredVersion", "nil")
             display = old.get("displayVersion", '""')

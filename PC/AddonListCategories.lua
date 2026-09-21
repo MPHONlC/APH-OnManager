@@ -168,20 +168,15 @@ function AoM.EnsureCategoryFilterDropdown()
 	AoM.category_filter_combo = category_filter_combo
 	AoM.category_filter_dropdown_container = container
 
+	native_new_category_btn = WINDOW_MANAGER:CreateControlFromVirtual("AoMNewCategoryButton", ADD_ON_MANAGER.control, "ZO_DefaultButton")
+	native_new_category_btn:SetDimensions(140, 30)
+	native_new_category_btn:SetFont("ZoFontWinH4")
+	native_new_category_btn:SetText("New Category")
+	native_new_category_btn:SetHandler("OnClicked", function() AoM.ShowNewCategoryDialog() end)
 	if addon_selector_row_end then
-		native_new_category_btn = WINDOW_MANAGER:CreateControlFromVirtual("AoMNewCategoryButton", ADD_ON_MANAGER.control, "ZO_DefaultButton")
-		native_new_category_btn:SetDimensions(140, 30)
-		native_new_category_btn:SetFont("ZoFontWinH4")
-		native_new_category_btn:SetText("New Category")
-		native_new_category_btn:SetHandler("OnClicked", function() AoM.ShowNewCategoryDialog() end)
 		native_new_category_btn:SetAnchor(TOPLEFT, _G["AddonSelectorDelete"], TOPRIGHT, 72, 0)
 	else
-		native_new_category_btn = LibAPH.CreateKeybindLabelButton(ADD_ON_MANAGER.control, {
-			keybind = "UI_SHORTCUT_TERTIARY",
-			name = "New Category",
-		})
 		native_new_category_btn:SetAnchor(LEFT, container, RIGHT, 20, 0)
-		native_new_category_btn.libaph_click_action = AoM.ShowNewCategoryDialog
 	end
 	AoM.native_new_category_button = native_new_category_btn
 	added_controls[#added_controls + 1] = native_new_category_btn
