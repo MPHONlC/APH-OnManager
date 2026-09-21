@@ -115,6 +115,7 @@ end)
 
 local category_filter_combo
 local native_new_category_btn
+local auto_disable_checkbox
 local native_reset_btn
 local native_reset_categories_btn
 local category_display_to_internal = {}
@@ -192,6 +193,12 @@ function AoM.EnsureCategoryFilterDropdown()
 	end
 	added_controls[#added_controls + 1] = ghost_btn
 
+	auto_disable_checkbox = WINDOW_MANAGER:CreateControlFromVirtual("AoMAutoDisableUnusedCheckbox", ADD_ON_MANAGER.control, "ZO_CheckButton")
+	ZO_CheckButton_SetLabelText(auto_disable_checkbox, "Auto Disable Unused")
+	ZO_CheckButton_SetToggleFunction(auto_disable_checkbox, function(_, checked) AoM.SetAutoDisableUnusedEnabled(checked) end)
+	ZO_CheckButton_SetCheckState(auto_disable_checkbox, AoM.IsAutoDisableUnusedEnabled())
+	added_controls[#added_controls + 1] = auto_disable_checkbox
+
 	local secondary_btn = ADD_ON_MANAGER.control:GetNamedChild("SecondaryButton")
 	if secondary_btn then
 		native_reset_btn = LibAPH.CreateKeybindLabelButton(ADD_ON_MANAGER.control, {
@@ -237,6 +244,22 @@ EVENT_MANAGER:RegisterForEvent("AoM_CategoryFilterBuild", EVENT_PLAYER_ACTIVATED
 end)
 
 local placing_advanced_ui_errors = false
+local AUTO_DISABLE_CHECKBOX_GAP = 25
+local CHECKBOX_BUTTON_AND_LABEL_PADDING = 16 + 8
+
+local function PlaceAutoDisableCheckbox(win, advanced_left, advanced_top)
+	if not auto_disable_checkbox then return end
+	local label_width = (auto_disable_checkbox.label and auto_disable_checkbox.label:GetTextWidth()) or 150
+	local own_width = CHECKBOX_BUTTON_AND_LABEL_PADDING + label_width
+	local left = advanced_left - AUTO_DISABLE_CHECKBOX_GAP - own_width
+	local top = advanced_top
+	if left < win:GetLeft() + 10 then
+		left = advanced_left
+		top = advanced_top + 26
+	end
+	auto_disable_checkbox:ClearAnchors()
+	auto_disable_checkbox:SetAnchor(TOPLEFT, win, TOPLEFT, left - win:GetLeft(), top - win:GetTop())
+end
 
 local function PlaceAdvancedUIErrorsCheckbox()
 	if placing_advanced_ui_errors then return end
@@ -253,6 +276,7 @@ local function PlaceAdvancedUIErrorsCheckbox()
 	if left > max_left then left = max_left end
 	if left < win:GetLeft() + 10 then left = win:GetLeft() + 10 end
 	local top = reload_btn:GetBottom() + 8
+	PlaceAutoDisableCheckbox(win, left, top)
 	if math.abs(checkbox:GetLeft() - left) < 1 and math.abs(checkbox:GetTop() - top) < 1 then return end
 
 	placing_advanced_ui_errors = true
@@ -271,6 +295,7 @@ end
 if ADDONS_FRAGMENT then
 	ADDONS_FRAGMENT:RegisterCallback("StateChange", function(oldState, newState)
 		if newState == SCENE_FRAGMENT_SHOWING then
+			if auto_disable_checkbox then ZO_CheckButton_SetCheckState(auto_disable_checkbox, AoM.IsAutoDisableUnusedEnabled()) end
 			PopulateCategoryFilterDropdown()
 			RefreshAddedControlsOnFirstShow()
 			PlaceAdvancedUIErrorsCheckbox()

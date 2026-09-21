@@ -661,10 +661,23 @@ end
 
 local function IsAutoDisableZone()
 	return IsPlayerInAvAWorld()
+		or IsInAvAZone()
+		or IsInImperialCity()
 		or IsActiveWorldBattleground()
 		or IsPlayerInRaid()
+		or IsRaidInProgress()
 		or IsEndlessDungeonStarted()
 		or GetCurrentZoneDungeonDifficulty() ~= DUNGEON_DIFFICULTY_NONE
+end
+
+local function RunAutoDisableUnused()
+	if AoM.saved and AoM.saved.auto_disable_unused == false then return end
+	if not IsAutoDisableZone() then return end
+	local libraries, addons = AoM.DisableUnused({ auto = true })
+	if #libraries + #addons > 0 then
+		LibAPH.CreateChatLogger("AoM", "9CD04C"):Print("Reloading the UI to apply.")
+		zo_callLater(function() ReloadUI("ingame") end, AUTO_RELOAD_DELAY_MS)
+	end
 end
 
 EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnZone", EVENT_PLAYER_ACTIVATED, function()
@@ -673,13 +686,18 @@ EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnZone", EVENT_PLAYER_ACTIVATED
 		AoM.saved.disabled_unused_report = nil
 		AoM.PrintDisabledUnusedReport(report.addons or {}, report.libraries or {}, nil)
 	end
-	if not IsAutoDisableZone() then return end
-	local libraries, addons = AoM.DisableUnused({ auto = true })
-	if #libraries + #addons > 0 then
-		LibAPH.CreateChatLogger("AoM", "9CD04C"):Print("Reloading the UI to apply.")
-		zo_callLater(function() ReloadUI("ingame") end, AUTO_RELOAD_DELAY_MS)
-	end
+	RunAutoDisableUnused()
 end)
+EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnEndless", EVENT_ENDLESS_DUNGEON_STARTED, RunAutoDisableUnused)
+EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnTrial", EVENT_RAID_TRIAL_STARTED, RunAutoDisableUnused)
+
+function AoM.IsAutoDisableUnusedEnabled()
+	return not (AoM.saved and AoM.saved.auto_disable_unused == false)
+end
+
+function AoM.SetAutoDisableUnusedEnabled(enabled)
+	if AoM.saved then AoM.saved.auto_disable_unused = enabled end
+end
 
 SLASH_COMMANDS["/libcheck"] = function()
 	RunOptionalLibraryWizard()
