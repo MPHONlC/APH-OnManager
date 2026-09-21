@@ -180,6 +180,18 @@ function AoM.EnsureCategoryFilterDropdown()
 	end
 	added_controls[#added_controls + 1] = native_new_category_btn
 
+	local ghost_btn = WINDOW_MANAGER:CreateControlFromVirtual("AoMDisableGhostLibrariesButton", ADD_ON_MANAGER.control, "ZO_DefaultButton")
+	ghost_btn:SetDimensions(210, 30)
+	ghost_btn:SetFont("ZoFontWinH4")
+	ghost_btn:SetText("Disable Ghost Libraries")
+	ghost_btn:SetHandler("OnClicked", function() AoM.DisableGhostLibraries() end)
+	if addon_selector_row_end then
+		ghost_btn:SetAnchor(BOTTOMRIGHT, ADD_ON_MANAGER.control, TOPRIGHT, -5, 71)
+	else
+		ghost_btn:SetAnchor(LEFT, native_new_category_btn, RIGHT, 10, 0)
+	end
+	added_controls[#added_controls + 1] = ghost_btn
+
 	local secondary_btn = ADD_ON_MANAGER.control:GetNamedChild("SecondaryButton")
 	if secondary_btn then
 		native_reset_btn = LibAPH.CreateKeybindLabelButton(ADD_ON_MANAGER.control, {

@@ -502,6 +502,94 @@ function AoM.ReportPendingOptionalLibraryChanges()
 	end
 end
 
+local GHOST_SCAN_MAX_PASSES = 10
+
+local function IsLibraryEntry(name, isLibrary)
+	return isLibrary or string.sub(name, 1, 3) == "Lib"
+end
+
+local function CollectReferencedLibraries(am, index_by_name)
+	local referenced = {}
+	for i = 1, am:GetNumAddOns() do
+		local name, _, _, _, is_enabled = am:GetAddOnInfo(i)
+		if is_enabled then
+			for d = 1, am:GetAddOnNumDependencies(i) do
+				local dep_name = am:GetAddOnDependencyInfo(i, d)
+				if dep_name then referenced[dep_name] = true end
+			end
+			local declared = LibAPH.registered_dependencies[name]
+			if declared then
+				for lib_name in pairs(declared.required) do referenced[lib_name] = true end
+				for lib_name in pairs(declared.optional) do referenced[lib_name] = true end
+			end
+			for _, lib_name in ipairs(KnownAddonDependencies[name] or {}) do
+				if index_by_name[lib_name] then referenced[lib_name] = true end
+			end
+		end
+	end
+	return referenced
+end
+
+local function FindMissingRequiredDependencies(am, index)
+	local missing = {}
+	for d = 1, am:GetAddOnNumDependencies(index) do
+		local dep_name, exists, active = am:GetAddOnDependencyInfo(index, d)
+		if dep_name and (not exists or not active) then missing[#missing + 1] = dep_name end
+	end
+	return missing
+end
+
+function AoM.DisableGhostLibraries(opts)
+	opts = opts or {}
+	local am = GetAddOnManager()
+	local index_by_name = {}
+	for i = 1, am:GetNumAddOns() do index_by_name[am:GetAddOnInfo(i)] = i end
+	local disabled_libraries, disabled_addons = {}, {}
+	for _ = 1, GHOST_SCAN_MAX_PASSES do
+		local changed = false
+		if not opts.librariesOnly then
+			for i = 1, am:GetNumAddOns() do
+				local name, _, _, _, is_enabled, _, _, is_library = am:GetAddOnInfo(i)
+				if is_enabled and not IsLibraryEntry(name, is_library) then
+					local missing = FindMissingRequiredDependencies(am, i)
+					if #missing > 0 then
+						am:SetAddOnEnabled(i, false)
+						disabled_addons[#disabled_addons + 1] = { name = name, missing = missing }
+						changed = true
+					end
+				end
+			end
+		end
+		local referenced = CollectReferencedLibraries(am, index_by_name)
+		for i = 1, am:GetNumAddOns() do
+			local name, _, _, _, is_enabled, _, _, is_library = am:GetAddOnInfo(i)
+			if is_enabled and IsLibraryEntry(name, is_library) and not referenced[name] then
+				am:SetAddOnEnabled(i, false)
+				disabled_libraries[#disabled_libraries + 1] = name
+				changed = true
+			end
+		end
+		if not changed then break end
+	end
+	if not opts.quiet then
+		local logger = LibAPH.CreateChatLogger("AoM", "9CD04C")
+		for _, entry in ipairs(disabled_addons) do
+			logger:Print("Disabled add-on missing a required library: " .. entry.name .. " (needs " .. table.concat(entry.missing, ", ") .. ")")
+		end
+		for _, name in ipairs(disabled_libraries) do
+			logger:Print("Disabled ghost library: " .. name)
+		end
+		local total = #disabled_addons + #disabled_libraries
+		if total == 0 then
+			logger:Print("No ghost libraries or add-ons found.")
+		else
+			logger:Print(total .. " disabled. Reload UI to apply.")
+		end
+	end
+	if AoM.RefreshAllCategoryUI and (#disabled_addons + #disabled_libraries) > 0 then AoM.RefreshAllCategoryUI() end
+	return disabled_libraries, disabled_addons
+end
+
 SLASH_COMMANDS["/libcheck"] = function()
 	RunOptionalLibraryWizard()
 end

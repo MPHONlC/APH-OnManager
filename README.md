@@ -37,7 +37,9 @@ Hover an icon for the detail behind it, including which add-on or library it ref
 
 ## Console and gamepad mode
 
-The gamepad Add-Ons menu (consoles, and PC in gamepad-preferred mode) shows the same categories as section headers, so the left and right triggers jump between categories, the colored status icons on every row, and the library sections and icon details inside the right-hand tooltip. Everything that needs a click or a text box lives in the menu's own Options dialog: search, filter, move the selected add-on to a category, enable or disable everything in its category, rename or delete that category, new category, reset list, reset categories. After a search, the left and right shoulder buttons step to the previous and next match. The `/libcategories`, `/libcheck` and `/libraryversioncheck` windows stay on PC.
+A **Disable Ghost Libraries** button in the Add-Ons menu disables every library nothing enabled uses, plus every add-on still switched on while a library it needs is off or missing, then lists each change in chat. On PC it sits above the search box when AddonSelector is running and next to New Category otherwise; on the gamepad menu it is in the Options dialog. Reload UI to apply.
+
+The gamepad Add-Ons menu (consoles, and PC in gamepad-preferred mode) shows the same categories as section headers, so the left and right triggers jump between categories, the colored status icons on every row, and the library sections and icon details inside the right-hand tooltip. Everything that needs a click or a text box lives in the menu's own Options dialog: search, filter, move the selected add-on to a category, enable or disable everything in its category, rename or delete that category, new category, disable ghost libraries, reset list, reset categories. After a search, the left and right shoulder buttons step to the previous and next match. The `/libcategories`, `/libcheck` and `/libraryversioncheck` windows stay on PC.
 
 ## Keeping the library/version tables fresh
 

@@ -561,26 +561,6 @@ function AoM.SetCategoryFilter(filter)
 	RefreshGamepadAddonList()
 end
 
-local function DisableUnneededLibraries()
-	local am = GetAddOnManager()
-	local needed = {}
-	for i = 1, am:GetNumAddOns() do
-		local _, _, _, _, isEnabled = am:GetAddOnInfo(i)
-		if isEnabled then
-			for d = 1, am:GetAddOnNumDependencies(i) do
-				local dep_name = am:GetAddOnDependencyInfo(i, d)
-				if dep_name then needed[dep_name] = true end
-			end
-		end
-	end
-	for i = 1, am:GetNumAddOns() do
-		local name, _, _, _, isEnabled, _, _, isLibrary = am:GetAddOnInfo(i)
-		if isEnabled and not needed[name] and (isLibrary or string.sub(name, 1, 3) == "Lib") then
-			am:SetAddOnEnabled(i, false)
-		end
-	end
-end
-
 function AoM.SetCategoryAddonsEnabled(entries, isEnabled)
 	local am = GetAddOnManager()
 	for _, entry in ipairs(entries) do
@@ -589,7 +569,7 @@ function AoM.SetCategoryAddonsEnabled(entries, isEnabled)
 		end
 	end
 	if not isEnabled then
-		DisableUnneededLibraries()
+		AoM.DisableGhostLibraries({ quiet = true, librariesOnly = true })
 	end
 end
 
