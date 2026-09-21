@@ -569,7 +569,7 @@ function AoM.SetCategoryAddonsEnabled(entries, isEnabled)
 		end
 	end
 	if not isEnabled then
-		AoM.DisableGhostLibraries({ quiet = true, librariesOnly = true })
+		AoM.DisableUnused({ quiet = true, librariesOnly = true })
 	end
 end
 

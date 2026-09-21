@@ -503,6 +503,24 @@ function AoM.ReportPendingOptionalLibraryChanges()
 end
 
 local GHOST_SCAN_MAX_PASSES = 10
+local NAMES_PER_CHAT_LINE = 6
+local AUTO_RELOAD_DELAY_MS = 1500
+
+local function PrintNames(logger, label, names)
+	for first = 1, #names, NAMES_PER_CHAT_LINE do
+		local chunk = {}
+		for i = first, math.min(first + NAMES_PER_CHAT_LINE - 1, #names) do chunk[#chunk + 1] = names[i] end
+		logger:Print(label .. table.concat(chunk, ", "))
+	end
+end
+
+function AoM.PrintDisabledUnusedReport(addon_lines, library_names, closing)
+	local logger = LibAPH.CreateChatLogger("AoM", "9CD04C")
+	logger:Print("Disable Unused turned off " .. (#addon_lines + #library_names) .. ":")
+	PrintNames(logger, "Add-ons missing a required library: ", addon_lines)
+	PrintNames(logger, "Unused libraries: ", library_names)
+	if closing then logger:Print(closing) end
+end
 
 local function IsLibraryEntry(name, isLibrary)
 	return isLibrary or string.sub(name, 1, 3) == "Lib"
@@ -539,7 +557,7 @@ local function FindMissingRequiredDependencies(am, index)
 	return missing
 end
 
-function AoM.DisableGhostLibraries(opts)
+function AoM.DisableUnused(opts)
 	opts = opts or {}
 	local am = GetAddOnManager()
 	local index_by_name = {}
@@ -571,22 +589,22 @@ function AoM.DisableGhostLibraries(opts)
 		end
 		if not changed then break end
 	end
-	if not opts.quiet then
-		local logger = LibAPH.CreateChatLogger("AoM", "9CD04C")
+	local total = #disabled_addons + #disabled_libraries
+	if total > 0 then
+		local addon_lines = {}
 		for _, entry in ipairs(disabled_addons) do
-			logger:Print("Disabled add-on missing a required library: " .. entry.name .. " (needs " .. table.concat(entry.missing, ", ") .. ")")
+			addon_lines[#addon_lines + 1] = entry.name .. " (needs " .. table.concat(entry.missing, ", ") .. ")"
 		end
-		for _, name in ipairs(disabled_libraries) do
-			logger:Print("Disabled ghost library: " .. name)
+		if AoM.saved and not opts.quiet then
+			AoM.saved.disabled_unused_report = { addons = addon_lines, libraries = disabled_libraries }
 		end
-		local total = #disabled_addons + #disabled_libraries
-		if total == 0 then
-			logger:Print("No ghost libraries or add-ons found.")
-		else
-			logger:Print(total .. " disabled. Reload UI to apply.")
+		if not opts.quiet then
+			AoM.PrintDisabledUnusedReport(addon_lines, disabled_libraries, "Reload UI to apply.")
 		end
+	elseif not opts.quiet and not opts.auto then
+		LibAPH.CreateChatLogger("AoM", "9CD04C"):Print("Nothing unused to disable.")
 	end
-	if AoM.RefreshAllCategoryUI and (#disabled_addons + #disabled_libraries) > 0 then AoM.RefreshAllCategoryUI() end
+	if AoM.RefreshAllCategoryUI and total > 0 then AoM.RefreshAllCategoryUI() end
 	return disabled_libraries, disabled_addons
 end
 
@@ -632,9 +650,36 @@ function AoM.CascadeDisableUnused(index)
 		for _, lib_name in ipairs(disabled) do
 			logger:Print("Also disabled " .. lib_name .. ": nothing enabled uses it anymore.")
 		end
+		if AoM.saved then
+			local report = AoM.saved.disabled_unused_report or { addons = {}, libraries = {} }
+			for _, lib_name in ipairs(disabled) do report.libraries[#report.libraries + 1] = lib_name end
+			AoM.saved.disabled_unused_report = report
+		end
 	end
 	return disabled
 end
+
+local function IsAutoDisableZone()
+	return IsPlayerInAvAWorld()
+		or IsActiveWorldBattleground()
+		or IsPlayerInRaid()
+		or IsEndlessDungeonStarted()
+		or GetCurrentZoneDungeonDifficulty() ~= DUNGEON_DIFFICULTY_NONE
+end
+
+EVENT_MANAGER:RegisterForEvent("AoM_DisableUnusedOnZone", EVENT_PLAYER_ACTIVATED, function()
+	local report = AoM.saved and AoM.saved.disabled_unused_report
+	if report then
+		AoM.saved.disabled_unused_report = nil
+		AoM.PrintDisabledUnusedReport(report.addons or {}, report.libraries or {}, nil)
+	end
+	if not IsAutoDisableZone() then return end
+	local libraries, addons = AoM.DisableUnused({ auto = true })
+	if #libraries + #addons > 0 then
+		LibAPH.CreateChatLogger("AoM", "9CD04C"):Print("Reloading the UI to apply.")
+		zo_callLater(function() ReloadUI("ingame") end, AUTO_RELOAD_DELAY_MS)
+	end
+end)
 
 SLASH_COMMANDS["/libcheck"] = function()
 	RunOptionalLibraryWizard()

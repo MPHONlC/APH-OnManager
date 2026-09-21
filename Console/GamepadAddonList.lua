@@ -486,7 +486,7 @@ local function BuildOptionEntries(manager, addOnData)
 	end
 
 	table.insert(entries, MakeEntry("New category...", function() AoM.ShowNewCategoryDialog() end))
-	table.insert(entries, MakeEntry("Disable Ghost Libraries", function() AoM.DisableGhostLibraries() end,
+	table.insert(entries, MakeEntry("Disable Unused", function() AoM.DisableUnused() end,
 		{ tooltipText = function() return "Disable every library nothing enabled uses, and every add-on still switched on while a library it needs is off. Chat lists what changed." end }))
 	table.insert(entries, MakeEntry("Reset list", function() AoM.ConfirmResetAddonCategoryAssignments() end,
 		{ tooltipText = function() return "Move every add-on and library back to its default category. Your own categories are kept." end }))
