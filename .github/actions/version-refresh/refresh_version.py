@@ -69,6 +69,14 @@ def build_new_date_block(date_runs):
     return ''.join(parts)
 
 
+def date_key(date_runs, block):
+    parts, pos = {}, 0
+    for ch, width in date_runs:
+        parts[ch] = int(block[pos:pos + width])
+        pos += width
+    return tuple(parts.get(ch, 0) for ch in 'YMD')
+
+
 def refresh(fmt, current_value):
     if not fmt or fmt.upper() == 'NONE':
         return current_value, False
@@ -84,6 +92,8 @@ def refresh(fmt, current_value):
 
     start, end = find_date_span(fmt, date_runs)
     new_block = build_new_date_block(date_runs)
+    if date_key(date_runs, new_block) < date_key(date_runs, current_value[start:end]):
+        return current_value, False
     new_value = current_value[:start] + new_block + current_value[end:]
     return new_value, new_value != current_value
 
