@@ -238,7 +238,7 @@ AoM.KnownAddonDependencies = {
 	["KaleidoAchievementItems"] = { "LibCustomMenu" },
 	["KayzarUI"] = { "FancyTitles" },
 	["KwibusRandomThings"] = { "LibSkillBlocker>=110" },
-	["KyzderpsDerps"] = { "BuffTheGroup", "CrutchAlerts", "HarvestMap", "HodorReflexes", "JoGroup", "LibFilteredChatPanel", "LibGroupCombatStats", "LibLootSummary", "LuiExtended", "OdySupportIcons" },
+	["KyzderpsDerps"] = { "BuffTheGroup", "CrutchAlerts", "HarvestMap", "HodorReflexes", "JoGroup", "LibFilteredChatPanel", "LibGroupCombatStats", "LibLootSummary", "LibRadialMenu", "LuiExtended", "OdySupportIcons" },
 	["LazyDecon"] = { "FCOItemSaver>=235", "LibPrice" },
 	["LazyMailReply"] = { "AwesomeGuildStore" },
 	["LeaderboardHighlights"] = { "pChat" },

@@ -74,7 +74,7 @@ AoM.KnownLibraries = {
 	["LibChatMessage"] = { fullName = "LibChatMessage", shortName = "LCMsg", requiredVersion = 120, displayVersion = "1.2.3", esouiId = 2382, apiVersion = "101050" },
 	["LibCInteraction"] = { fullName = "CQuestTracker", shortName = "LibCInteraction", requiredVersion = 10100, displayVersion = "1.5.3", esouiId = 3088, apiVersion = "101041 101042" },
 	["LibCombat"] = { fullName = "LibCombat", shortName = "LibCombat", requiredVersion = 89, displayVersion = "89", esouiId = 2528, apiVersion = "101049 101050" },
-	["LibCombatAlerts"] = { fullName = "LibCombatAlerts", shortName = "LCA", requiredVersion = 8040, displayVersion = "0.8.4", esouiId = 4225, apiVersion = "101050 101051" },
+	["LibCombatAlerts"] = { fullName = "LibCombatAlerts", shortName = "LCA", requiredVersion = 8050, displayVersion = "0.8.5", esouiId = 4225, apiVersion = "101050 101051" },
 	["LibConsoleDialogs"] = { fullName = "LibConsoleDialogs", shortName = "LibConsoleDialogs", requiredVersion = 10004, displayVersion = "1.0.4.2", esouiId = 4106, apiVersion = "101047 101048" },
 	["LibCopyWindow"] = { fullName = "LibCopyWindow", shortName = "LibCopyWindow", requiredVersion = 4, displayVersion = "0.0.4", esouiId = 2853, apiVersion = "100035 101031" },
 	["LibCovetousCountess"] = { fullName = "LibCovetousCountess", shortName = "LibCovetousCountess", requiredVersion = 103, displayVersion = "1.03", esouiId = 3266, apiVersion = "101049 101050" },
