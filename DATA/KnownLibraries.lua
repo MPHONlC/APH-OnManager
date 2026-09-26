@@ -129,7 +129,7 @@ AoM.KnownLibraries = {
 	["LibHistoire"] = { fullName = "LibHistoire", shortName = "LibHistoire", requiredVersion = 1103, displayVersion = "2.7.1", esouiId = 2817, apiVersion = "101050" },
 	["LibId64"] = { fullName = "LibId64", shortName = "LibId64", requiredVersion = 28, displayVersion = "1.0.1", esouiId = 3585, apiVersion = "101045 101046" },
 	["LibImplex"] = { fullName = "LibImplex", shortName = "LibImplex", requiredVersion = 24, displayVersion = "24", esouiId = 4108, apiVersion = "101049" },
-	["LibInteriorDetection"] = { fullName = "LibInteriorDetection", shortName = "LibInteriorDetection", requiredVersion = 29, displayVersion = "1.1.0", esouiId = 4816, apiVersion = "101050 101051" },
+	["LibInteriorDetection"] = { fullName = "LibInteriorDetection", shortName = "LibInteriorDetection", requiredVersion = 37, displayVersion = "1.3.0", esouiId = 4816, apiVersion = "101050 101051" },
 	["LibItemLink"] = { fullName = "LibItemLink", shortName = "LibItemLink", requiredVersion = 940, displayVersion = "9.4.0", esouiId = 3855, apiVersion = "100031 100032" },
 	["LibItemLinkDecoder"] = { fullName = "LibItemLinkDecoder", shortName = "LibItemLinkDecoder", requiredVersion = 103, displayVersion = "1.03", esouiId = 3265, apiVersion = "101049 101050" },
 	["LibItemSets"] = { fullName = "LibItemSets", shortName = "LibItemSets", requiredVersion = 100010, displayVersion = "1.0.1", esouiId = 4753, apiVersion = "101050 101051" },
