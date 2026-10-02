@@ -14,7 +14,7 @@ local AoM = AoMCore
 local dev_simulate_error, ApplySuggestedCategoriesOnce
 local LibAPH = LibAPH
 AoM.name = "APH-OnManager"
-AoM.VERSION = "2026.09.29.21.48"
+AoM.VERSION = "2026.10.03.06.12"
 
 function AoM.L(key, ...)
 	local id = _G["SI_AOM_" .. key]
