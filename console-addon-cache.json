@@ -406,6 +406,20 @@
    "updatedAt": 1790108789,
    "version": "0.17.0"
   },
+  "0e9f8669-fa46-49bb-a578-54569ddb865b/ScoreboardFixXbox": {
+   "addOnVersion": "102",
+   "addonId": "0e9f8669-fa46-49bb-a578-54569ddb865b",
+   "apiVersion": "101051",
+   "author": "RUSKlI",
+   "dependsOn": "",
+   "downloads": 9,
+   "folder": "ScoreboardFixXbox",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Scoreboard Fix Xbox BETA",
+   "updatedAt": 1790946196,
+   "version": "0.1.2"
+  },
   "0fa32336-8528-4747-9b01-ccba9408f654/LibMediaProvider": {
    "addOnVersion": "39",
    "addonId": "0fa32336-8528-4747-9b01-ccba9408f654",
@@ -742,6 +756,20 @@
    "updatedAt": 1773709224,
    "version": "1.0.52"
   },
+  "18d399f0-14ef-40a3-8f08-1aaa8cd0a5de/SnipersFriend": {
+   "addOnVersion": "",
+   "addonId": "18d399f0-14ef-40a3-8f08-1aaa8cd0a5de",
+   "apiVersion": "101049 101050",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "SnipersFriend",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "Snipers Friend",
+   "updatedAt": 1790982713,
+   "version": "SnipersFriend-0.2.1-2026-10-02T161144"
+  },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773/YeOldeInfos": {
    "addOnVersion": "202",
    "addonId": "1987390f-3dbd-407c-996d-aa3ef3ad9773",
@@ -910,6 +938,20 @@
    "updatedAt": 1789296074,
    "version": "1.0.15"
   },
+  "1f95515e-9df4-487e-9e56-ab184190fd95/BETABars": {
+   "addOnVersion": "1001",
+   "addonId": "1f95515e-9df4-487e-9e56-ab184190fd95",
+   "apiVersion": "101050 101051",
+   "author": "Tetsurion",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 2,
+   "folder": "BETABars",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "BetaBars",
+   "updatedAt": 1790955065,
+   "version": "1.0.1"
+  },
   "1ff1b2cd-ba65-4264-a11d-2c55b57eb158/AddonLoadouts": {
    "addOnVersion": "1",
    "addonId": "1ff1b2cd-ba65-4264-a11d-2c55b57eb158",
@@ -981,18 +1023,18 @@
    "version": "1.4.1"
   },
   "227876bb-e9b1-439f-81fe-8f458ae351a8/MSI": {
-   "addOnVersion": "2725",
+   "addOnVersion": "2737",
    "addonId": "227876bb-e9b1-439f-81fe-8f458ae351a8",
-   "apiVersion": "101050 101051",
+   "apiVersion": "101051 101052",
    "author": "MetuLiber_Ger",
    "dependsOn": "",
-   "downloads": 271,
+   "downloads": 296,
    "folder": "MSI",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "Metu's SpareIdler",
-   "updatedAt": 1784304102,
-   "version": "2.7.25"
+   "updatedAt": 1790966445,
+   "version": "2.7.37"
   },
   "22b9d3d3-0152-4001-b696-0864ab31636d/PsijicBreachHelper": {
    "addOnVersion": "032",
@@ -1084,13 +1126,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 59,
+   "downloads": 64,
    "folder": "PBsConsoleHudCustomizer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ConsoleHudCustomizer(Beta)",
-   "updatedAt": 1789852981,
-   "version": "1.27.7"
+   "updatedAt": 1790977492,
+   "version": "1.27.15"
   },
   "242aa937-0c55-4d1f-b667-0716e81eb4e7/BattleScrolls": {
    "addOnVersion": "10000",
@@ -1891,18 +1933,18 @@
    "version": "3.1.5"
   },
   "37f459c1-e6dc-4d21-afd7-eaceb68cfd82/ScreenshotModeEnhanced": {
-   "addOnVersion": "10103",
+   "addOnVersion": "10104",
    "addonId": "37f459c1-e6dc-4d21-afd7-eaceb68cfd82",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Calamath",
    "dependsOn": "LibCInteraction>=10400",
-   "downloads": 4393,
+   "downloads": 4625,
    "folder": "ScreenshotModeEnhanced",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Screenshot Mode Enhanced",
-   "updatedAt": 1782721351,
-   "version": "1.1.3"
+   "updatedAt": 1790929231,
+   "version": "1.1.4"
   },
   "389fdfeb-6af9-48ad-8121-39ce405b4267/STARS": {
    "addOnVersion": "",
@@ -2694,13 +2736,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 86,
+   "downloads": 96,
    "folder": "PBsConsoleHudCustomizer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ConsoleHudCustomizer",
-   "updatedAt": 1789854688,
-   "version": "1.27.7"
+   "updatedAt": 1790977727,
+   "version": "1.27.15"
   },
   "529cf85a-e597-4945-86c4-654d2a32a7bc/LycanMeter": {
    "addOnVersion": "",
@@ -5396,13 +5438,13 @@
    "apiVersion": "101050",
    "author": "BLKx777",
    "dependsOn": "",
-   "downloads": 30,
+   "downloads": 45,
    "folder": "UnchainedHelper",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Unchained Helper",
-   "updatedAt": 1790662919,
-   "version": "1.7"
+   "updatedAt": 1790924549,
+   "version": "1.x.x"
   },
   "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d/aeriesCryTracker": {
    "addOnVersion": "",
@@ -5858,13 +5900,13 @@
    "apiVersion": "101050 101051 101052",
    "author": "Kaos_Arbiter",
    "dependsOn": "",
-   "downloads": 352,
+   "downloads": 379,
    "folder": "CurvedHUD",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
    "title": "Curved Resource HUD",
-   "updatedAt": 1788998089,
-   "version": "1.1.2"
+   "updatedAt": 1790967162,
+   "version": "1.1.3"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/PreviewAnywhere": {
    "addOnVersion": "",
@@ -8541,6 +8583,12 @@
    ],
    "version": "0.17.0"
   },
+  "0e9f8669-fa46-49bb-a578-54569ddb865b": {
+   "folders": [
+    "ScoreboardFixXbox"
+   ],
+   "version": "0.1.2"
+  },
   "0f87c2f6-55c7-4450-b93b-d6395ac2004d": {
    "folders": [],
    "version": "3.0.0"
@@ -8696,6 +8744,12 @@
    ],
    "version": "1.0.52"
   },
+  "18d399f0-14ef-40a3-8f08-1aaa8cd0a5de": {
+   "folders": [
+    "SnipersFriend"
+   ],
+   "version": "SnipersFriend-0.2.1-2026-10-02T161144"
+  },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773": {
    "folders": [
     "YeOldeInfos"
@@ -8773,6 +8827,12 @@
    ],
    "version": "1.0.15"
   },
+  "1f95515e-9df4-487e-9e56-ab184190fd95": {
+   "folders": [
+    "BETABars"
+   ],
+   "version": "1.0.1"
+  },
   "1ff1b2cd-ba65-4264-a11d-2c55b57eb158": {
    "folders": [
     "AddonLoadouts"
@@ -8807,7 +8867,7 @@
    "folders": [
     "MSI"
    ],
-   "version": "2.7.25"
+   "version": "2.7.37"
   },
   "22b9d3d3-0152-4001-b696-0864ab31636d": {
    "folders": [
@@ -8849,7 +8909,7 @@
    "folders": [
     "PBsConsoleHudCustomizer"
    ],
-   "version": "1.27.7"
+   "version": "1.27.15"
   },
   "242aa937-0c55-4d1f-b667-0716e81eb4e7": {
    "folders": [
@@ -9205,7 +9265,7 @@
    "folders": [
     "ScreenshotModeEnhanced"
    ],
-   "version": "1.1.3"
+   "version": "1.1.4"
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
@@ -9562,7 +9622,7 @@
    "folders": [
     "PBsConsoleHudCustomizer"
    ],
-   "version": "1.27.7"
+   "version": "1.27.15"
   },
   "529cf85a-e597-4945-86c4-654d2a32a7bc": {
    "folders": [
@@ -10765,7 +10825,7 @@
    "folders": [
     "UnchainedHelper"
    ],
-   "version": "1.7"
+   "version": "1.x.x"
   },
   "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d": {
    "folders": [
@@ -10979,7 +11039,7 @@
    "folders": [
     "CurvedHUD"
    ],
-   "version": "1.1.2"
+   "version": "1.1.3"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc": {
    "folders": [

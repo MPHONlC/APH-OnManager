@@ -45,6 +45,7 @@ AntiDK	1.0.0	1.0.1	101048	AntiDK	Vixen_Hunny	1f552d57-81fb-407f-b9f2-f45228e2a17
 AntiDK2	1.5	1.2.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586d
 AntiquarianCodex	15101	1.51.01	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
+APH-OnManager	26100306	2026.10.03.06.12	101050 101051	APH-On Manager	MPHONlC	
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
 archdruidTracker		2.2.9	101050	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010100	1.1.0	101047 101048	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
@@ -74,6 +75,7 @@ BattleScrolls	10000	1.0.0	101049 101050	BattleScrollBV	SugaComa	242aa937-0c55-4d
 BattleScrollsNameColours	17	1.4	101048 101049 101050	Battle Scrolls Name Colors	BLKx777	92b1ef68-e576-4bf5-9ffe-f636c9d1c36f
 BattleStats		1.2.51	101049 101050	Battle Stats	SugaComa	fda40288-dadf-45a1-a4c5-005fa0319b93
 BeamMeUp	405031	4.0.5.031	101049 101050	BeamMeUp	beammeupbot	d2c9bb50-7161-423e-ab74-38b8353ace04
+BETABars	1001	1.0.1	101050 101051	BetaBars	Tetsurion	1f95515e-9df4-487e-9e56-ab184190fd95
 BetterBars	2	v0.0.03	101050	Better Bars	BMGxSancho	784b8f46-2797-426a-ab85-f1e5b4776b01
 BetterBuffs	317	v0.3.17	101050	Better Buffs	BMGxSancho	ecd02472-565e-4f7f-83ce-812e8a5b0bde
 BetterCharacterOverview	1900	BetterCharacterOverview-1.9.0-2026-09-27T004126	101050	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
@@ -131,7 +133,7 @@ CrownAndCrux	1.3.7	1.3.7	101049 101050	Crown And Crux	SaintAres97	0ac5fe21-6f1a-
 CrutchAlerts	22700	2.27.0	101050 101051	CrutchAlerts	Kyzeragon	21f0cc83-5ba3-4776-ac75-a5a266fde574
 CruxTracker-2.0		2.7.1	101040	CruxTracker-2.0	akbosser	aef7e9f0-ed11-4b67-99f7-c500cdc0b343
 CTest	2606272	260627.2	101050	Calamath's Test Site	Calamath	23ee5193-1c27-4b42-b005-05c3f28ad835
-CurvedHUD		1.1.2	101050 101051 101052	Curved Resource HUD	Kaos_Arbiter	bc307fb6-b7b8-4905-b81a-1b33b24c8662
+CurvedHUD		1.1.3	101050 101051 101052	Curved Resource HUD	Kaos_Arbiter	bc307fb6-b7b8-4905-b81a-1b33b24c8662
 CustomCompassPins	137	1.37	101045 101046	CustomCompassPins	Sharlikran	3c805ef7-47fe-43a7-b480-52342549e9f4
 CyroAlerts		3.1.5	101050	Cyrodiil Alerts	codeWarrior82	37bd7159-8611-4d29-8767-08434d4fe209
 DailyQuestTracker		3.3.7	101050	Daily Quest Tracker	Eldibabalo	a84f8a0c-210f-481a-b8a7-6dc95bff7664
@@ -345,7 +347,7 @@ MoreTargetInformation		3.49.0	101048 101049	More Target Information	lordrichter	
 MovableAddonMemory	100	1.0	101049	Movable Addon Memory	M0R	acf1ef04-4ec0-400b-86c6-98b7dd9d2f72
 MovableHUD	20411	2.4.11	101050 101051	Aldrens Movable UI	Rhyojaan	a25448d4-0fb6-421f-bdb2-d9cf32a397d5
 MoveBuffDebuff		51.00	101051	Move Buff & Debuff Bar	Gamer_sa22	fb88de81-c67e-4170-b8d8-39ac322f0664
-MSI	2725	2.7.25	101050 101051	Metu's SpareIdler	MetuLiber_Ger	227876bb-e9b1-439f-81fe-8f458ae351a8
+MSI	2737	2.7.37	101051 101052	Metu's SpareIdler	MetuLiber_Ger	227876bb-e9b1-439f-81fe-8f458ae351a8
 MSPAINTUI	150	1.5.0	101049 101050	MSPAINTUI	Kyzeragon	9653b3d8-c1bf-4328-9b31-5e18a4ea643d
 MTS_WRITS_HUD		1.3.1		MTS WRITS HUD – Daily Crafting Tracker (PS5).	Something_Spec90	ce9458a5-0897-4765-9ec1-5cf8e8345462
 MuchSmarterAutoLoot	80304	8.3.4	101051	Lykeion's AutoLoot+	Lykeion+	1156c297-4c51-44e7-8267-9f934307f36e
@@ -388,7 +390,7 @@ PatronsLedger	100	2.2	101050	Patron's Ledger	svammy	e6627cb6-5e78-4443-86bc-4340
 PBsChatAssistant		1.29.2	101050 101051	PinkB's ChatAssistant	PinkBanther	416eb892-aa32-4a10-8d1a-7ba7cf27cedf
 PBsChatWindowCustomizer		1.3.1	101050 101051	PinkB's ChatWindowCustomizer	PinkBanther	095b24d1-d035-4472-ae1d-9da85c61cb99
 PBsClock		1.3.1	101050 101051	PinkB's Clock(Beta)	PinkBanther	61641950-b365-49c6-bb98-dff4fa7bcc01
-PBsConsoleHudCustomizer		1.27.7	101050 101051	PinkB's ConsoleHudCustomizer	PinkBanther	51bd8b59-40b0-4e2f-b31d-527bb63f0bfc
+PBsConsoleHudCustomizer		1.27.15	101050 101051	PinkB's ConsoleHudCustomizer	PinkBanther	51bd8b59-40b0-4e2f-b31d-527bb63f0bfc
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
 PBsCyrodiilAlert		2.4.0	101050 101051	PinkB's CyrodiilAlert(Beta)	PinkBanther	233a612c-6650-451b-80d8-b1862f95c90a
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
@@ -458,7 +460,8 @@ SatiatedHunger	1	1.0.0	101050	Satiated Hunger	Kyzeragon	fba77669-8221-43e5-b44d-
 SatuveRotationTrainer		1.2.6	101050	Rotation Trainer v1	satuve	dc853c4f-c4b9-4948-9774-c0093a25d836
 SatuveXboxUI		2.0.4	101050 101051	Bandit Xbox UI	satuve	63900961-28c3-49d2-8576-476e5906e80b
 SavedChatMessages		0.3.7	101047	Saved Chat Messages	ReliktKoala	b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277
-ScreenshotModeEnhanced	10103	1.1.3	101050	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
+ScoreboardFixXbox	102	0.1.2	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46-49bb-a578-54569ddb865b
+ScreenshotModeEnhanced	10104	1.1.4	101051	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
 Seamstress		1.5.0b	101049 101050	Seamstress	SugaComa	8bc4c7c2-ee0d-488d-a3b5-ecab07912f95
 ShogrinUI	10106	1.1.51	101045 101046	ShogrinUI	sshogrin	8e6dc008-7b2f-4d55-8a1b-3ee825b1de0f
 ShouldIUlt		9	101050	buffybeta	YFNatey	086be98f-893e-4cea-a222-aad748e474c9
@@ -475,6 +478,7 @@ SimpleWarhornTimer		1.6.2	101050	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-
 SkyShards	1059	10.59	101045 101046	Skyshards	Sharlikran	e0335eb7-8445-4bde-9db4-1a4ace8ee8b1
 SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d04c0cbee9c4
 SmartTrader		SmartTrader-2.1.91-2026-07-28T215530	101043	Smart Trader	clubwratt	d9742ac5-f315-4712-8383-b1a170801ba9
+SnipersFriend		SnipersFriend-0.2.1-2026-10-02T161144	101049 101050	Snipers Friend	clubwratt	18d399f0-14ef-40a3-8f08-1aaa8cd0a5de
 SNR		v1.0.9	101049 101050	Smart Node Radar	rockintrumpet	923318b4-3671-40d4-93f3-49d2f9203093
 SpaulderNotifier	10302	1.3.4	101048 101049	Spaulder Notifier	Shienar	13e3ca65-dc26-4831-a1f1-e950fd465df9
 SPFLib		1.0.0	101048 101049 101050	SPFLib	Springpeace2575	9d474e3f-7d1b-46fc-9b81-3949ad0f70e5
@@ -538,7 +542,7 @@ TSCDataHub	127	127	101050	TSC Data Hub	SavageTSC	df7e78bb-63a0-4221-a1f6-36c7ac0
 TSCPriceFetcher2	120	120	101049 101050	TSC Price Fetcher 2	SavageTSC	2a88cc14-8e8c-4b73-9605-2e1d7c764e23
 TurningTide	010100	1.1.0	101047 101048	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c1f37e8a9a
 turningTideTracker		1.3.3	101050	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
-UnchainedHelper		1.7	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
+UnchainedHelper		1.x.x	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
 UnderPressure	11	0.3.1	101049 101050	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20400	2.4.1	101050 101051	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829

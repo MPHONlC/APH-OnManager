@@ -184,6 +184,7 @@ SiegeReminder	LibHarvensAddonSettings
 SimpleOffBalanceTracker	LibHarvensAddonSettings
 SkyShards	DebugLogViewer	LibDebugLogger
 SmartTrader	LibConsoleLogger
+SnipersFriend	LibHarvensAddonSettings
 SpaulderNotifier	LibHarvensAddonSettings
 STARS	LibHarvensAddonSettings
 StonehulkDominationTracker	LibAddonMenu-2.0
