@@ -1,0 +1,101 @@
+name: 'ESO Console Add-on Data Refresh'
+description: "Updates an add-on's console data table from Bethesda.net using ESOAddOnUploaderCli, a few add-ons per run"
+
+inputs:
+  data_file:
+    description: 'Lua table to write'
+    required: false
+    default: 'DATA/KnownConsoleAddons.lua'
+  cache_file:
+    description: 'JSON cache of already-downloaded add-ons, kept out of the shipped folder'
+    required: false
+    default: 'console-addon-cache.json'
+  bnet_username:
+    description: 'Bethesda.net account name'
+    required: true
+  bnet_password:
+    description: 'Bethesda.net password'
+    required: true
+  cli_version:
+    description: 'ESOAddOnUploaderCli release to use'
+    required: false
+    default: '1.4.0'
+  limit:
+    description: 'How many add-ons to download in this run (0 = every one that changed)'
+    required: false
+    default: '0'
+  commit:
+    description: 'Commit and push when the table changed'
+    required: false
+    default: 'true'
+  git_name:
+    description: 'Git name for the commit'
+    required: false
+    default: ''
+  git_email:
+    description: 'Git email for the commit'
+    required: false
+    default: ''
+  skip_ci:
+    description: 'Append [skip ci] to the commit message'
+    required: false
+    default: 'true'
+
+outputs:
+  changed:
+    description: "'true' if the table changed"
+    value: ${{ steps.refresh.outputs.changed }}
+  remaining:
+    description: 'Add-ons still waiting for a download after this run'
+    value: ${{ steps.refresh.outputs.remaining }}
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Download ESOAddOnUploaderCli
+      shell: bash
+      run: |
+        curl -sSL --retry 3 --retry-delay 10 -o /tmp/eso-cli.tar.gz \
+          "https://github.com/sirinsidiator/ESOAddOnUploaderCLI/releases/download/${{ inputs.cli_version }}/ESOAddOnUploaderCli-linux.tar.gz"
+        mkdir -p /tmp/eso-cli && tar xzf /tmp/eso-cli.tar.gz -C /tmp/eso-cli
+        chmod +x /tmp/eso-cli/ESOAddOnUploaderCli
+
+    - name: Log in once and reuse the session
+      shell: bash
+      env:
+        BNET_USERNAME: ${{ inputs.bnet_username }}
+        BNET_PASSWORD: ${{ inputs.bnet_password }}
+      run: /tmp/eso-cli/ESOAddOnUploaderCli login --session /tmp/eso-session.json
+
+    - name: Refresh the console table
+      id: refresh
+      shell: bash
+      run: |
+        python3 "${{ github.action_path }}/update_console_tables.py" \
+          --cli /tmp/eso-cli/ESOAddOnUploaderCli \
+          --session /tmp/eso-session.json \
+          --cache "${{ inputs.cache_file }}" \
+          --data-file "${{ inputs.data_file }}" \
+          --limit "${{ inputs.limit }}" \
+          --github-output "$GITHUB_OUTPUT" | tee -a "$GITHUB_STEP_SUMMARY"
+
+    - name: Log out
+      if: always()
+      shell: bash
+      run: /tmp/eso-cli/ESOAddOnUploaderCli logout --session /tmp/eso-session.json || true
+
+    - name: Check the regenerated Lua
+      shell: bash
+      run: luac -p "${{ inputs.data_file }}" 2>/dev/null || luac5.1 -p "${{ inputs.data_file }}"
+
+    - name: Commit and push
+      if: inputs.commit == 'true' && steps.refresh.outputs.changed == 'true'
+      shell: bash
+      run: |
+        git config user.name "${{ inputs.git_name }}"
+        git config user.email "${{ inputs.git_email }}"
+        git add "${{ inputs.data_file }}" "${{ inputs.cache_file }}"
+        MESSAGE="chore: refresh console add-on data"
+        if [ "${{ inputs.skip_ci }}" = "true" ]; then MESSAGE="$MESSAGE [skip ci]"; fi
+        git commit -m "$MESSAGE"
+        git push

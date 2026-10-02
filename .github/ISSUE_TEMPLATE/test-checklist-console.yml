@@ -1,0 +1,52 @@
+name: ✅ APH-OnManager Test Checklist (Console)
+description: Run through APH-OnManager's Console test checklist and report results
+title: '[TEST][Console] '
+labels:
+- testing
+assignees:
+- MPHONlC
+body:
+- type: markdown
+  attributes:
+    value: Thanks for testing **APH-OnManager** on Console! Check off everything you actually tested and confirmed working. Anything broken or partly working, describe it in the notes field at the end instead of checking it off.
+- type: input
+  id: version
+  attributes:
+    label: Add-on version
+    placeholder: e.g. 2026.09.29.21.48
+  validations:
+    required: true
+- type: dropdown
+  id: platform
+  attributes:
+    label: Platform
+    options:
+    - Console (Xbox)
+    - Console (PlayStation)
+  validations:
+    required: true
+- type: checkboxes
+  id: console_tests
+  attributes:
+    label: Console tests confirmed working
+    options:
+    - label: 'Categories: Open Add-Ons in the gamepad menu.'
+    - label: 'Status icons: Scroll to an add-on with a problem.'
+    - label: 'Options dialog: Open the menu''s Options and use Search, Filter and Move to category.'
+    - label: 'Profiles: From Options: New Profile, Save, then Load.'
+    - label: 'Profile triggers: From the profile options open the trigger picker for a profile and tick a trigger.'
+    - label: 'Disable Unused: Use Disable Unused from the gamepad menu.'
+    - label: 'Cascade: Turn off an add-on that is the only user of a library.'
+    - label: 'Icon actions: Focus a red icon and press the icon button; focus a grey one and do the same.'
+    - label: 'Error announcement: With Suppress Lua Errors on, trigger an add-on error twice from the same add-on.'
+    - label: 'Large saved data: Log in with an add-on holding a very large amount of saved data (or get the total near the game''s limit), then reload.'
+    - label: 'Counters: Look at the footer.'
+    - label: 'Orphaned saves: Open the game''s Delete Unused Saved Variables entry.'
+    - label: 'Low memory: When close to the add-on memory limit, trigger an error with no add-on name.'
+    - label: 'Outdated add-ons: Log in with an add-on older than the version AoM has on record.'
+- type: textarea
+  id: notes
+  attributes:
+    label: Anything broken, partly working, or not tested
+    description: 'One line per issue: which test, what happened instead of Expected.'
+    placeholder: 'e.g. PC-L-04 Bug report: popup opened but API version line was blank'
