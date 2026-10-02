@@ -1,0 +1,49 @@
+name: Data Tables Refresh
+
+on:
+  schedule:
+    - cron: '0 0,5,10,15,20 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/git-commit-signing
+        with:
+          ssh_signing_key: ${{ secrets.SSH_SIGNING_KEY }}
+
+      - name: Install Lua 5.1
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lua5.1
+
+      - name: Refresh the PC data tables
+        uses: ./.github/actions/eso-data-tables-refresh
+        with:
+          data_dir: 'DATA'
+          commit: 'false'
+
+      - name: Write the add-on's own rows into the data tables
+        uses: ./.github/actions/eso-own-data-row
+        with:
+          manifest_file: 'APH-OnManager.addon'
+          folder: 'APH-OnManager'
+          title: 'APH-On Manager'
+          author: 'MPHONlC'
+          pc_file: 'DATA/KnownAddonVersions.lua'
+
+      - name: Commit and push
+        run: |
+          git config user.name "MPHONlC"
+          git config user.email "207844175+MPHONlC@users.noreply.github.com"
+          git add DATA
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore: refresh add-on data tables from the ESOUI catalog [skip ci]"
+            git push
+          fi

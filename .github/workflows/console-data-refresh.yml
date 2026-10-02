@@ -1,0 +1,58 @@
+name: Console Data Refresh
+
+on:
+  schedule:
+    - cron: '0 0,5,10,15,20 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'How many add-ons to download in this run (0 = every one that changed)'
+        required: false
+        default: '0'
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/git-commit-signing
+        with:
+          ssh_signing_key: ${{ secrets.SSH_SIGNING_KEY }}
+
+      - name: Install Lua 5.1
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lua5.1
+
+      - name: Refresh the console data table
+        uses: ./.github/actions/eso-console-data-refresh
+        with:
+          data_file: 'DATA/KnownConsoleAddons.lua'
+          cache_file: 'console-addon-cache.json'
+          bnet_username: ${{ secrets.BNET_USERNAME }}
+          bnet_password: ${{ secrets.BNET_PASSWORD }}
+          limit: ${{ inputs.limit || '0' }}
+          commit: 'false'
+
+      - name: Write the add-on's own rows into the data tables
+        uses: ./.github/actions/eso-own-data-row
+        with:
+          manifest_file: 'APH-OnManager.addon'
+          folder: 'APH-OnManager'
+          title: 'APH-On Manager'
+          author: 'MPHONlC'
+          console_file: 'DATA/KnownConsoleAddons.lua'
+
+      - name: Commit and push
+        run: |
+          git config user.name "MPHONlC"
+          git config user.email "207844175+MPHONlC@users.noreply.github.com"
+          git add DATA console-addon-cache.json
+          if git diff --cached --quiet; then
+            echo "No console data changes."
+          else
+            git commit -m "chore: refresh console add-on data [skip ci]"
+            git push
+          fi
