@@ -77,7 +77,7 @@ LibCharacterKnowledge	301020	3.1.2	3317	101050 101051	LibCharacterKnowledge	LCK
 LibCharacterKnowledgeZHPatch	200001	2.0.0.1	3899	101042	LibCharacterKnowledgeZHPatch	LibCharacterKnowledgeZHPatch
 LibChatMenuButton	1006	1.6	3805	101042	LibChatMenuButton	LibChatMenuButton
 LibChatMessage	120	1.2.3	2382	101050	LibChatMessage	LCMsg
-LibCInteraction	10100	2.2.8	3276	101041 101042	CQuestTracker	LibCInteraction
+LibCInteraction	10100	2.2.9	3276	101041 101042	CQuestTracker	LibCInteraction
 LibCombat	89	89	2528	101049 101050	LibCombat	LibCombat
 LibCombatAlerts	8050	0.8.5	4225	101050 101051	LibCombatAlerts	LCA
 LibConsoleDialogs	10004	1.0.4.2	4106	101047 101048	LibConsoleDialogs	LibConsoleDialogs
