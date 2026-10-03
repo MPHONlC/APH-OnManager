@@ -61,6 +61,7 @@ AoM.SuggestedCategories = {
 	["AlchemyTooltips"] = "Bags, Bank, Inventory",
 	["AlignGrid"] = "Graphic UI Mods",
 	["AllAP"] = "PvP",
+	["AlphaGear"] = "Action Bar Mods",
 	["ALT"] = "Miscellaneous",
 	["AltBossBar"] = "Unit Mods",
 	["AltBuffs"] = "Buff, Debuff, Spell",

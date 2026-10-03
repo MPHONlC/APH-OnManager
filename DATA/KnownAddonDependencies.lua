@@ -25,6 +25,7 @@ AoM.KnownAddonDependencies = {
 	["AffectionMaxxing"] = { "LibAddonMenu-2.0" },
 	["AlabuzyaUI"] = { "ArkadiusTradeTools", "FancyActionBar", "LibAddonMenu-2.0", "QuestArrow", "pChat" },
 	["AlchemyTooltips"] = { "ArkadiusTradeTools", "MasterMerchant", "TamrielTradeCentre" },
+	["AlphaGear"] = { "AutoCategory", "CSPS", "ChampionPointsSlots", "DynamicCP", "FCOItemSaver", "LibRadialMenu", "LibZone" },
 	["AlternateDeathRecap"] = { "LibHarvensAddonSettings" },
 	["AltGroupFrames"] = { "AddOnVersion", "Does", "OdySupportIcons", "PlayerRoleIndicator", "define", "not" },
 	["AnimatedActionBarPlus"] = { "AlphaGear", "Azurah", "FancyActionBar+", "LuiExtended" },
