@@ -314,7 +314,7 @@ LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-1
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000072	1.0.72	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000073	1.0.73	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7228	7.2.2.8	101050 101051	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -350,7 +350,7 @@ MoveBuffDebuff		51.00	101051	Move Buff & Debuff Bar	Gamer_sa22	fb88de81-c67e-417
 MSI	2737	2.7.37	101051 101052	Metu's SpareIdler	MetuLiber_Ger	227876bb-e9b1-439f-81fe-8f458ae351a8
 MSPAINTUI	150	1.5.0	101049 101050	MSPAINTUI	Kyzeragon	9653b3d8-c1bf-4328-9b31-5e18a4ea643d
 MTS_WRITS_HUD		1.3.1		MTS WRITS HUD – Daily Crafting Tracker (PS5).	Something_Spec90	ce9458a5-0897-4765-9ec1-5cf8e8345462
-MuchSmarterAutoLoot	80304	8.3.4	101051	Lykeion's AutoLoot+	Lykeion+	1156c297-4c51-44e7-8267-9f934307f36e
+MuchSmarterAutoLoot	80305	8.3.5	101051	Lykeion's AutoLoot+	Lykeion+	1156c297-4c51-44e7-8267-9f934307f36e
 MultiMark	1	1.3	101050	Many Markers	dicen9	59768602-717c-425b-a4ce-7ffc14887bc0
 MurfKnickknacks		0.4.4	101050 101051	Murf's Knickknacks	murphyx	d38d1fe9-e738-4036-9d0d-baeaa4ebbe2e
 MurfLorebooks		1.3.9	101050 101051	Murf's Lorebooks	murphyx	f10225ef-7745-4a1b-b0c3-5b45cc8655a6
@@ -392,7 +392,7 @@ PBsChatWindowCustomizer		1.3.1	101050 101051	PinkB's ChatWindowCustomizer	PinkBa
 PBsClock		1.3.1	101050 101051	PinkB's Clock(Beta)	PinkBanther	61641950-b365-49c6-bb98-dff4fa7bcc01
 PBsConsoleHudCustomizer		1.27.15	101050 101051	PinkB's ConsoleHudCustomizer	PinkBanther	51bd8b59-40b0-4e2f-b31d-527bb63f0bfc
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
-PBsCyrodiilAlert		2.4.0	101050 101051	PinkB's CyrodiilAlert(Beta)	PinkBanther	233a612c-6650-451b-80d8-b1862f95c90a
+PBsCyrodiilAlert		2.6.0	101050 101051	PinkB's CyrodiilAlert(Beta)	PinkBanther	233a612c-6650-451b-80d8-b1862f95c90a
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25bb-1103-4636-a4f6-5c6a280ff8e2
 PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4878125-abb0-49bd-b8d3-ca06c9ad746a
@@ -460,7 +460,7 @@ SatiatedHunger	1	1.0.0	101050	Satiated Hunger	Kyzeragon	fba77669-8221-43e5-b44d-
 SatuveRotationTrainer		1.2.6	101050	Rotation Trainer v1	satuve	dc853c4f-c4b9-4948-9774-c0093a25d836
 SatuveXboxUI		2.0.4	101050 101051	Bandit Xbox UI	satuve	63900961-28c3-49d2-8576-476e5906e80b
 SavedChatMessages		0.3.7	101047	Saved Chat Messages	ReliktKoala	b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277
-ScoreboardFixXbox	102	0.1.2	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46-49bb-a578-54569ddb865b
+ScoreboardFixXbox	200	0.2.0	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46-49bb-a578-54569ddb865b
 ScreenshotModeEnhanced	10104	1.1.4	101051	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
 Seamstress		1.5.0b	101049 101050	Seamstress	SugaComa	8bc4c7c2-ee0d-488d-a3b5-ecab07912f95
 ShogrinUI	10106	1.1.51	101045 101046	ShogrinUI	sshogrin	8e6dc008-7b2f-4d55-8a1b-3ee825b1de0f
@@ -478,7 +478,7 @@ SimpleWarhornTimer		1.6.2	101050	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-
 SkyShards	1059	10.59	101045 101046	Skyshards	Sharlikran	e0335eb7-8445-4bde-9db4-1a4ace8ee8b1
 SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d04c0cbee9c4
 SmartTrader		SmartTrader-2.1.91-2026-07-28T215530	101043	Smart Trader	clubwratt	d9742ac5-f315-4712-8383-b1a170801ba9
-SnipersFriend		SnipersFriend-0.5.0-2026-10-02T202741	101049 101050	Snipers Friend	clubwratt	18d399f0-14ef-40a3-8f08-1aaa8cd0a5de
+SnipersFriend		SnipersFriend-0.7.0-2026-10-02T205537	101049 101050	Snipers Friend	clubwratt	18d399f0-14ef-40a3-8f08-1aaa8cd0a5de
 SNR		v1.0.9	101049 101050	Smart Node Radar	rockintrumpet	923318b4-3671-40d4-93f3-49d2f9203093
 SpaulderNotifier	10302	1.3.4	101048 101049	Spaulder Notifier	Shienar	13e3ca65-dc26-4831-a1f1-e950fd465df9
 SPFLib		1.0.0	101048 101049 101050	SPFLib	Springpeace2575	9d474e3f-7d1b-46fc-9b81-3949ad0f70e5

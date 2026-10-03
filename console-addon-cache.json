@@ -407,18 +407,18 @@
    "version": "0.17.0"
   },
   "0e9f8669-fa46-49bb-a578-54569ddb865b/ScoreboardFixXbox": {
-   "addOnVersion": "102",
+   "addOnVersion": "200",
    "addonId": "0e9f8669-fa46-49bb-a578-54569ddb865b",
    "apiVersion": "101051",
    "author": "RUSKlI",
    "dependsOn": "",
-   "downloads": 9,
+   "downloads": 13,
    "folder": "ScoreboardFixXbox",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Scoreboard Fix Xbox BETA",
-   "updatedAt": 1790946196,
-   "version": "0.1.2"
+   "updatedAt": 1791022197,
+   "version": "0.2.0"
   },
   "0fa32336-8528-4747-9b01-ccba9408f654/LibMediaProvider": {
    "addOnVersion": "39",
@@ -547,18 +547,18 @@
    "version": "1.0.10"
   },
   "1156c297-4c51-44e7-8267-9f934307f36e/MuchSmarterAutoLoot": {
-   "addOnVersion": "80304",
+   "addOnVersion": "80305",
    "addonId": "1156c297-4c51-44e7-8267-9f934307f36e",
    "apiVersion": "101051",
    "author": "Lykeion+",
    "dependsOn": "",
-   "downloads": 171345,
+   "downloads": 173420,
    "folder": "MuchSmarterAutoLoot",
    "isLibrary": "",
    "optionalDependsOn": "LibCharacterKnowledge>=201030 TamrielTradeCentre MasterMerchant ArkadiusTradeTools LibSavedVars LibRadialMenu PerfectPixel TSCPriceDataAPIXBNA TSCPriceDataAPIPSNA TSCPriceDataAPIXBEU TSCPriceDataAPIPSEU LibCustomMenu",
    "title": "Lykeion's AutoLoot+",
-   "updatedAt": 1790067748,
-   "version": "8.3.4"
+   "updatedAt": 1791014142,
+   "version": "8.3.5"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a/AreYouSlow": {
    "addOnVersion": "1",
@@ -762,13 +762,13 @@
    "apiVersion": "101049 101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 6,
+   "downloads": 9,
    "folder": "SnipersFriend",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Snipers Friend",
-   "updatedAt": 1790998070,
-   "version": "SnipersFriend-0.5.0-2026-10-02T202741"
+   "updatedAt": 1790999745,
+   "version": "SnipersFriend-0.7.0-2026-10-02T205537"
   },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773/YeOldeInfos": {
    "addOnVersion": "202",
@@ -1070,13 +1070,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 16,
+   "downloads": 18,
    "folder": "PBsCyrodiilAlert",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CyrodiilAlert(Beta)",
-   "updatedAt": 1790138212,
-   "version": "2.4.0"
+   "updatedAt": 1791019877,
+   "version": "2.6.0"
   },
   "23989a49-5901-4ccb-9b71-6e848d4bceee/BetterCharacterOverview": {
    "addOnVersion": "1801",
@@ -6301,18 +6301,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000072",
+   "addOnVersion": "01000073",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 8970,
+   "downloads": 9245,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1790913612,
-   "version": "1.0.72"
+   "updatedAt": 1791000012,
+   "version": "1.0.73"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -6950,13 +6950,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 53,
+   "downloads": 63,
    "folder": "PBsCyrodiilAlert",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CyrodiilAlert",
-   "updatedAt": 1790138181,
-   "version": "2.4.0"
+   "updatedAt": 1791016133,
+   "version": "2.5.2"
   },
   "da93c9ce-04e0-4acf-a62a-16e23c1e8d06/LibQRCode": {
    "addOnVersion": "046",
@@ -8587,7 +8587,7 @@
    "folders": [
     "ScoreboardFixXbox"
    ],
-   "version": "0.1.2"
+   "version": "0.2.0"
   },
   "0f87c2f6-55c7-4450-b93b-d6395ac2004d": {
    "folders": [],
@@ -8652,7 +8652,7 @@
    "folders": [
     "MuchSmarterAutoLoot"
    ],
-   "version": "8.3.4"
+   "version": "8.3.5"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a": {
    "folders": [
@@ -8748,7 +8748,7 @@
    "folders": [
     "SnipersFriend"
    ],
-   "version": "SnipersFriend-0.5.0-2026-10-02T202741"
+   "version": "SnipersFriend-0.7.0-2026-10-02T205537"
   },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773": {
    "folders": [
@@ -8885,7 +8885,7 @@
    "folders": [
     "PBsCyrodiilAlert"
    ],
-   "version": "2.4.0"
+   "version": "2.6.0"
   },
   "23989a49-5901-4ccb-9b71-6e848d4bceee": {
    "folders": [
@@ -11230,7 +11230,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.72"
+   "version": "1.0.73"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -11520,7 +11520,7 @@
    "folders": [
     "PBsCyrodiilAlert"
    ],
-   "version": "2.4.0"
+   "version": "2.5.2"
   },
   "da93c9ce-04e0-4acf-a62a-16e23c1e8d06": {
    "folders": [
