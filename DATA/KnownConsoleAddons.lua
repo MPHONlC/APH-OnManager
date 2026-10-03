@@ -478,7 +478,7 @@ SimpleWarhornTimer		1.6.2	101050	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-
 SkyShards	1059	10.59	101045 101046	Skyshards	Sharlikran	e0335eb7-8445-4bde-9db4-1a4ace8ee8b1
 SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d04c0cbee9c4
 SmartTrader		SmartTrader-2.1.91-2026-07-28T215530	101043	Smart Trader	clubwratt	d9742ac5-f315-4712-8383-b1a170801ba9
-SnipersFriend		SnipersFriend-0.2.1-2026-10-02T161144	101049 101050	Snipers Friend	clubwratt	18d399f0-14ef-40a3-8f08-1aaa8cd0a5de
+SnipersFriend		SnipersFriend-0.5.0-2026-10-02T202741	101049 101050	Snipers Friend	clubwratt	18d399f0-14ef-40a3-8f08-1aaa8cd0a5de
 SNR		v1.0.9	101049 101050	Smart Node Radar	rockintrumpet	923318b4-3671-40d4-93f3-49d2f9203093
 SpaulderNotifier	10302	1.3.4	101048 101049	Spaulder Notifier	Shienar	13e3ca65-dc26-4831-a1f1-e950fd465df9
 SPFLib		1.0.0	101048 101049 101050	SPFLib	Springpeace2575	9d474e3f-7d1b-46fc-9b81-3949ad0f70e5

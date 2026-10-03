@@ -762,13 +762,13 @@
    "apiVersion": "101049 101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 6,
    "folder": "SnipersFriend",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Snipers Friend",
-   "updatedAt": 1790982713,
-   "version": "SnipersFriend-0.2.1-2026-10-02T161144"
+   "updatedAt": 1790998070,
+   "version": "SnipersFriend-0.5.0-2026-10-02T202741"
   },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773/YeOldeInfos": {
    "addOnVersion": "202",
@@ -8748,7 +8748,7 @@
    "folders": [
     "SnipersFriend"
    ],
-   "version": "SnipersFriend-0.2.1-2026-10-02T161144"
+   "version": "SnipersFriend-0.5.0-2026-10-02T202741"
   },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773": {
    "folders": [
