@@ -335,6 +335,7 @@ AoM.SuggestedCategories = {
 	["CommonWorksUI"] = "Graphic UI Mods",
 	["CompanionFix"] = "Group, Guild & Friends",
 	["CompanionFrame"] = "Graphic UI Mods",
+	["CompanionGearHunter"] = "Character Advancement",
 	["CompanionRapportNumbers"] = "Character Advancement",
 	["CompanionRapportToChat"] = "Miscellaneous",
 	["CompanionRoster"] = "Character Advancement",
