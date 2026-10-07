@@ -65,7 +65,7 @@ LibAkaUtils	22	22	3683	101045	LibAkaUtils	LibAkaUtils
 LibAlchemy	27	2.7	2618	101051 101052	LibAlchemy	LibAlchemy
 LibAlchemyStation	345	3.4.5	2628	101037 101038	LibAlchemyStation	LAS
 LibAnimation-1.0	23	2.3	54	101032 101033	LibAnimation-1.0	LibAnimation-1.0
-LibAPH	26100607	2026.10.06.07.36	4917	101051 101052	LibAPH	LibAPH
+LibAPH	26100717	2026.10.07.17.24	4917	101051 101052	LibAPH	LibAPH
 LibArmorInsulation	22	2.7.11	4709	101050 101051	LibArmorInsulation	LibArmorInsulation
 LibAsync	30105	3.1.5	2125	101051 101052	LibAsync	LibAsync
 LibBase64		1.0	3795	101040	LibBase64	LibBase64
@@ -189,7 +189,7 @@ LibResearch	43	4.0r3	517	101042 101043	libResearch	libResearch
 LibSavedVars	60101	6.1.1	2161	101052 101051	LibSavedVars	LSV
 LibSaveToDisk	102	1.3g r6	1993	100033 100034	LibSaveToDisk	LibSaveToDisk
 LibScroll	2	2	1151	100033 100034	LibScroll	LibScroll
-LibScrollableMenu	20406	2.46	3546	101051 101052	LibScrollableMenu	LSM
+LibScrollableMenu	20407	2.47	3546	101051 101052	LibScrollableMenu	LSM
 LibScrollList	4	4	4609	101050	LibScrollList	LibScrollList
 LibSeasonalEventManager	1	1.3	3670	101040 101038	LibSeasonalEventManager	LibSeasonalEventManager
 LibServerResetTime	200000	2.0.0	4427	101049 101050	LibServerResetTime	LibServerResetTime
