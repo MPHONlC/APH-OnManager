@@ -1,0 +1,415 @@
+name: Data Release
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry Run (refreshes and tests every upload, publishes nothing)"
+        type: boolean
+        default: true
+      upload_esoui:
+        description: "Upload to ESOUI"
+        type: boolean
+        default: false
+      release_github:
+        description: "Release to GitHub"
+        type: boolean
+        default: false
+      upload_bethesda:
+        description: "Upload to Bethesda"
+        type: boolean
+        default: false
+      force:
+        description: "Release even if no data changed since the last release"
+        type: boolean
+        default: false
+
+env:
+  AUTO_RELEASE_ENABLED: 'false'
+  AUTO_RELEASE_DRY_RUN: 'true'
+
+concurrency:
+  group: release-${{ github.repository }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  switch:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.decide.outputs.run }}
+      dry: ${{ steps.decide.outputs.dry }}
+      esoui: ${{ steps.decide.outputs.esoui }}
+      github: ${{ steps.decide.outputs.github }}
+      bethesda: ${{ steps.decide.outputs.bethesda }}
+    steps:
+      - id: decide
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "dry=${{ inputs.dry_run }}" >> "$GITHUB_OUTPUT"
+            echo "esoui=${{ inputs.upload_esoui }}" >> "$GITHUB_OUTPUT"
+            echo "github=${{ inputs.release_github }}" >> "$GITHUB_OUTPUT"
+            echo "bethesda=${{ inputs.upload_bethesda }}" >> "$GITHUB_OUTPUT"
+          elif [ "$AUTO_RELEASE_ENABLED" == "true" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "dry=$AUTO_RELEASE_DRY_RUN" >> "$GITHUB_OUTPUT"
+            echo "esoui=true" >> "$GITHUB_OUTPUT"
+            echo "github=true" >> "$GITHUB_OUTPUT"
+            echo "bethesda=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "dry=true" >> "$GITHUB_OUTPUT"
+            echo "esoui=false" >> "$GITHUB_OUTPUT"
+            echo "github=false" >> "$GITHUB_OUTPUT"
+            echo "bethesda=false" >> "$GITHUB_OUTPUT"
+            echo "::notice title=Data Release Is Off::AUTO_RELEASE_ENABLED is 'false' at the top of this workflow, so the schedule does nothing."
+          fi
+
+  prepare:
+    needs: switch
+    if: needs.switch.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      changed: ${{ steps.compare.outputs.changed }}
+      version: ${{ steps.stamp.outputs.version }}
+      addon_version: ${{ steps.stamp.outputs.addon_version }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - uses: ./.github/actions/git-commit-signing
+        with:
+          ssh_signing_key: ${{ secrets.SSH_SIGNING_KEY }}
+
+      - name: Install Lua 5.1
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lua5.1
+
+      - name: Refresh the PC data tables
+        uses: ./.github/actions/eso-data-tables-refresh
+        with:
+          data_dir: 'DATA'
+          commit: 'false'
+
+      - name: Refresh the console data table
+        uses: ./.github/actions/eso-console-data-refresh
+        with:
+          data_file: 'DATA/KnownConsoleAddons.lua'
+          cache_file: 'console-addon-cache.json'
+          bnet_username: ${{ secrets.AOM_DATA_BNET_USERNAME }}
+          bnet_password: ${{ secrets.AOM_DATA_BNET_PASSWORD }}
+          limit: '0'
+          commit: 'false'
+
+      - id: compare
+        run: |
+          LAST=$(git tag --list 'Version-*' --sort=-creatordate | head -1)
+          if [ "${{ inputs.force }}" == "true" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Forced by hand."
+          elif [ -z "$LAST" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "::notice title=No Release Yet::No Version-* tag exists, so there is no earlier data to compare against. Release once by hand first."
+          elif git diff --quiet "$LAST" -- DATA; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "::notice title=No Data Change::The data tables match the last release ($LAST), so nothing is published."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Data changed since $LAST:"
+            git diff --stat "$LAST" -- DATA
+          fi
+
+      - name: Stamp the new version
+        id: stamp
+        if: steps.compare.outputs.changed == 'true'
+        run: |
+          python3 .github/actions/version-refresh/calver_refresh.py \
+            --manifest-file APH-OnManager.addon \
+            --utc-offset 8 \
+            --force \
+            --sync 'CORE/APH-OnManager.lua::(AoM\.VERSION = ")([^"]*)(")' | tee /tmp/stamp.txt
+          echo "version=$(grep '^## Version:' APH-OnManager.addon | awk '{print $3}')" >> "$GITHUB_OUTPUT"
+          echo "addon_version=$(grep '^## AddOnVersion:' APH-OnManager.addon | awk '{print $3}')" >> "$GITHUB_OUTPUT"
+
+      - name: Write the add-on's own rows into the data tables
+        if: steps.compare.outputs.changed == 'true'
+        uses: ./.github/actions/eso-own-data-row
+        with:
+          manifest_file: 'APH-OnManager.addon'
+          folder: 'APH-OnManager'
+          title: 'APH-On Manager'
+          author: 'MPHONlC'
+          pc_file: 'DATA/KnownAddonVersions.lua'
+          console_file: 'DATA/KnownConsoleAddons.lua'
+
+      - name: Check the tables parse
+        if: steps.compare.outputs.changed == 'true'
+        run: |
+          for f in DATA/*.lua; do
+            luac -p "$f" 2>/dev/null || luac5.1 -p "$f"
+          done
+
+      - name: Commit and push
+        if: steps.compare.outputs.changed == 'true'
+        run: |
+          git config user.name "MPHONlC"
+          git config user.email "207844175+MPHONlC@users.noreply.github.com"
+          git add -A APH-OnManager.addon CORE/APH-OnManager.lua DATA console-addon-cache.json
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "chore: data update ${{ steps.stamp.outputs.version }} [skip ci]"
+            git push
+          fi
+
+  esoui:
+    needs: [switch, prepare]
+    if: needs.prepare.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Decide what this run does
+        id: mode
+        run: |
+          if [ "${{ needs.switch.outputs.dry }}" == "true" ]; then
+            echo "mode=dry" >> "$GITHUB_OUTPUT"
+          elif [ "${{ needs.switch.outputs.esoui }}" == "true" ]; then
+            echo "mode=real" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=none" >> "$GITHUB_OUTPUT"
+            echo "::warning title=Nothing To Do::Dry Run is off and Upload to ESOUI is not checked."
+          fi
+
+      - name: Check the LibAPH floor against the published LibAPH
+
+        uses: ./.github/actions/eso-dependency-check
+
+        with:
+
+          manifest_file: 'APH-OnManager.addon'
+
+          dependency_name: 'LibAPH'
+
+          dependency_manifest_url: 'https://raw.githubusercontent.com/MPHONlC/LibAPH/main/LibAPH.addon'
+          dependency_release_repo: 'MPHONlC/LibAPH'
+
+          release_gate: true
+
+
+      - name: Build addon zip (excludes anything in .build-ignore)
+        run: |
+          mkdir -p /tmp/build/APH-OnManager
+          rsync -a --exclude-from=.build-ignore --exclude='.*' --exclude='__*' ./ /tmp/build/APH-OnManager/
+          cd /tmp/build && zip -r APH-OnManager-${{ needs.prepare.outputs.version }}.zip APH-OnManager
+          echo "zip_file=/tmp/build/APH-OnManager-${{ needs.prepare.outputs.version }}.zip" >> "$GITHUB_ENV"
+
+      - name: Test upload to ESOUI (dry run)
+        if: steps.mode.outputs.mode == 'dry'
+        uses: m00nyONE/esoui-upload@main
+        with:
+          api_key: ${{ secrets.ESOUI_API_KEY }}
+          addon_id: ''
+          version: ${{ needs.prepare.outputs.version }}
+          zip_file: ${{ env.zip_file }}
+          changelog_file: ''
+          description_file: ''
+          test: true
+
+      - name: Upload to ESOUI
+        if: steps.mode.outputs.mode == 'real'
+        uses: m00nyONE/esoui-upload@main
+        with:
+          api_key: ${{ secrets.ESOUI_API_KEY }}
+          addon_id: ''
+          version: ${{ needs.prepare.outputs.version }}
+          zip_file: ${{ env.zip_file }}
+          changelog_file: ''
+          description_file: ''
+
+      - uses: ./.github/actions/git-commit-signing
+        if: steps.mode.outputs.mode == 'real'
+        with:
+          ssh_signing_key: ${{ secrets.SSH_SIGNING_KEY }}
+
+      - name: Tag the release
+        if: steps.mode.outputs.mode == 'real' && success()
+        run: |
+          TAG="Version-${{ needs.prepare.outputs.version }}"
+          git config user.name "MPHONlC"
+          git config user.email "207844175+MPHONlC@users.noreply.github.com"
+          git tag -m "$TAG" "$TAG" || true
+          git push origin "$TAG" || echo "Tag $TAG is already on the remote."
+
+  github:
+    needs: [switch, prepare]
+    if: needs.prepare.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Decide what this run does
+        id: mode
+        run: |
+          if [ "${{ needs.switch.outputs.dry }}" == "true" ]; then
+            echo "mode=dry" >> "$GITHUB_OUTPUT"
+          elif [ "${{ needs.switch.outputs.github }}" == "true" ]; then
+            echo "mode=real" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=none" >> "$GITHUB_OUTPUT"
+            echo "::warning title=Nothing To Do::Dry Run is off and Release to GitHub is not checked."
+          fi
+
+      - name: Check the LibAPH floor against the published LibAPH
+
+        uses: ./.github/actions/eso-dependency-check
+
+        with:
+
+          manifest_file: 'APH-OnManager.addon'
+
+          dependency_name: 'LibAPH'
+
+          dependency_manifest_url: 'https://raw.githubusercontent.com/MPHONlC/LibAPH/main/LibAPH.addon'
+          dependency_release_repo: 'MPHONlC/LibAPH'
+
+          release_gate: true
+
+
+      - name: Build addon zip (excludes anything in .build-ignore)
+        run: |
+          mkdir -p /tmp/build/APH-OnManager
+          rsync -a --exclude-from=.build-ignore --exclude='.*' --exclude='__*' ./ /tmp/build/APH-OnManager/
+          cd /tmp/build && zip -r APH-OnManager-${{ needs.prepare.outputs.version }}.zip APH-OnManager
+          echo "zip_file=/tmp/build/APH-OnManager-${{ needs.prepare.outputs.version }}.zip" >> "$GITHUB_ENV"
+
+      - name: Create GitHub Release (dry run, draft)
+        if: steps.mode.outputs.mode == 'dry'
+        uses: ncipollo/release-action@v1
+        with:
+          name: Version-${{ needs.prepare.outputs.version }}
+          tag: Version-${{ needs.prepare.outputs.version }}
+          artifacts: ${{ env.zip_file }}
+          artifactContentType: application/zip
+          body: Data update
+          allowUpdates: true
+          draft: true
+          makeLatest: false
+
+      - name: Create GitHub Release
+        if: steps.mode.outputs.mode == 'real'
+        uses: ncipollo/release-action@v1
+        with:
+          name: Version-${{ needs.prepare.outputs.version }}
+          tag: Version-${{ needs.prepare.outputs.version }}
+          artifacts: ${{ env.zip_file }}
+          artifactContentType: application/zip
+          body: Data update
+          allowUpdates: true
+          draft: false
+          makeLatest: true
+
+  bethesda:
+    needs: [switch, prepare]
+    if: needs.prepare.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Decide what this run does
+        id: mode
+        run: |
+          if [ "${{ needs.switch.outputs.dry }}" == "true" ]; then
+            echo "mode=dry" >> "$GITHUB_OUTPUT"
+          elif [ "${{ needs.switch.outputs.bethesda }}" == "true" ]; then
+            echo "mode=real" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=none" >> "$GITHUB_OUTPUT"
+            echo "::warning title=Nothing To Do::Dry Run is off and Upload to Bethesda is not checked."
+          fi
+
+      - name: Check the LibAPH floor against the published LibAPH
+
+        uses: ./.github/actions/eso-dependency-check
+
+        with:
+
+          manifest_file: 'APH-OnManager.addon'
+
+          dependency_name: 'LibAPH'
+
+          dependency_manifest_url: 'https://raw.githubusercontent.com/MPHONlC/LibAPH/main/LibAPH.addon'
+          dependency_release_repo: 'MPHONlC/LibAPH'
+
+          release_gate: true
+
+
+      - name: Build addon zip (excludes anything in .build-ignore and .build-ignore-console)
+        run: |
+          mkdir -p /tmp/build/APH-OnManager
+          rsync -a --exclude-from=.build-ignore --exclude-from=.build-ignore-console --exclude='.*' --exclude='__*' ./ /tmp/build/APH-OnManager/
+          cd /tmp/build && zip -r APH-OnManager-${{ needs.prepare.outputs.version }}.zip APH-OnManager
+          echo "zip_file=/tmp/build/APH-OnManager-${{ needs.prepare.outputs.version }}.zip" >> "$GITHUB_ENV"
+          echo "Data update" > /tmp/release_notes.txt
+
+      - name: Test upload to Bethesda (dry run)
+        if: steps.mode.outputs.mode == 'dry'
+        uses: ./.github/actions/eso-bethesda-upload
+        with:
+          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
+          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
+          addon_id: ''
+          version: ${{ needs.prepare.outputs.version }}
+          zip_file: ${{ env.zip_file }}
+          release_notes_file: '/tmp/release_notes.txt'
+          publish: false
+
+      - name: Upload to Bethesda
+        if: steps.mode.outputs.mode == 'real'
+        uses: ./.github/actions/eso-bethesda-upload
+        with:
+          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
+          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
+          addon_id: ''
+          version: ${{ needs.prepare.outputs.version }}
+          zip_file: ${{ env.zip_file }}
+          release_notes_file: '/tmp/release_notes.txt'
+          publish: true
+
+      - uses: ./.github/actions/git-commit-signing
+        if: steps.mode.outputs.mode == 'real'
+        with:
+          ssh_signing_key: ${{ secrets.SSH_SIGNING_KEY }}
+
+      - name: Tag the release
+        if: steps.mode.outputs.mode == 'real' && success()
+        run: |
+          TAG="Version-${{ needs.prepare.outputs.version }}"
+          git config user.name "MPHONlC"
+          git config user.email "207844175+MPHONlC@users.noreply.github.com"
+          git tag -m "$TAG" "$TAG" || true
+          git push origin "$TAG" || echo "Tag $TAG is already on the remote."

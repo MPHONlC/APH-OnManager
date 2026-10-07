@@ -1,0 +1,70 @@
+name: 'ESO Add-on Data Tables Refresh'
+description: "Rebuilds an add-on's Known*/SuggestedCategories Lua tables from the public MMOUI catalog and commits any change."
+
+inputs:
+  data_dir:
+    description: 'Folder holding KnownLibraries.lua, KnownAddonVersions.lua, SuggestedCategories.lua and KnownAddonDependencies.lua'
+    required: false
+    default: 'DATA'
+  min_api:
+    description: 'Lowest ESO APIVersion a catalog listing must support to be included'
+    required: false
+    default: '101040'
+  commit:
+    description: 'Commit and push the regenerated tables when they changed'
+    required: false
+    default: 'true'
+  git_name:
+    description: 'Git name for the refresh commit'
+    required: false
+    default: ''
+  git_email:
+    description: 'Git email for the refresh commit'
+    required: false
+    default: ''
+  skip_ci:
+    description: 'Append [skip ci] to the commit message'
+    required: false
+    default: 'true'
+
+outputs:
+  changed:
+    description: "'true' if any table changed"
+    value: ${{ steps.refresh.outputs.changed }}
+  changed_files:
+    description: 'Space-separated list of the tables that changed'
+    value: ${{ steps.refresh.outputs.changed_files }}
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Rebuild the data tables from the catalog
+      id: refresh
+      shell: bash
+      run: |
+        python3 "${{ github.action_path }}/update_data_tables.py" \
+          --data-dir "${{ inputs.data_dir }}" \
+          --min-api "${{ inputs.min_api }}" \
+          --github-output "$GITHUB_OUTPUT"
+
+    - name: Check the regenerated Lua
+      shell: bash
+      run: |
+        for f in "${{ inputs.data_dir }}"/*.lua; do
+          luac -p "$f" 2>/dev/null || luac5.1 -p "$f" || { echo "::error title=Data Tables Refresh Failed::$f does not parse as Lua after regeneration."; exit 1; }
+        done
+
+    - name: Commit and push
+      if: inputs.commit == 'true' && steps.refresh.outputs.changed == 'true'
+      shell: bash
+      run: |
+        git config user.name "${{ inputs.git_name }}"
+        git config user.email "${{ inputs.git_email }}"
+        git add "${{ inputs.data_dir }}"
+        MSG="chore: refresh add-on data tables from the ESOUI catalog"
+        if [ "${{ inputs.skip_ci }}" == "true" ]; then
+          MSG="$MSG [skip ci]"
+        fi
+        git commit -m "$MSG"
+        git push
+        echo "::notice title=Data Tables Refreshed::${{ steps.refresh.outputs.changed_files }} updated and pushed."
