@@ -1,0 +1,58 @@
+name: Data Table Submission Check
+
+on:
+  pull_request:
+    paths:
+      - 'DATA/KnownLibraries.lua'
+      - 'DATA/KnownAddonVersions.lua'
+      - 'DATA/KnownAddonDependencies.lua'
+      - 'DATA/SuggestedCategories.lua'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-libraries:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/eso-data-table-submission-check
+        with:
+          data_file: 'DATA/KnownLibraries.lua'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  check-addon-versions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/eso-data-table-submission-check
+        with:
+          data_file: 'DATA/KnownAddonVersions.lua'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  check-addon-dependencies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/eso-data-table-submission-check
+        with:
+          data_file: 'DATA/KnownAddonDependencies.lua'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  check-suggested-categories:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/eso-data-table-submission-check
+        with:
+          data_file: 'DATA/SuggestedCategories.lua'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
