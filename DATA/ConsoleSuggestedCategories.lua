@@ -42,6 +42,7 @@ CanThisBeCraftedAtHome	Developer Utilities
 CBookFontStylist	Graphic UI Mods
 CCSentinel	Discontinued & Outdated
 CCTracker	Discontinued & Outdated
+CharacterBoundItemHider	Bags, Bank, Inventory
 CircularMinimap	Plug-Ins & Patches
 CombatAlerts	Combat Mods
 CombatTopHealthbar	Action Bar Mods
@@ -164,6 +165,7 @@ MuteyPacrooti	Miscellaneous
 NumbersOnDummyOnly	Info, Plug-in Bars
 OffBalanceTracker	Combat Mods
 Olorime	Buff, Debuff, Spell
+OneAPHaTime	Bags, Bank, Inventory
 OneMorRockgrove	Combat Mods
 PairsWellWithCheese	RolePlay
 PermMemento	Miscellaneous

@@ -57,6 +57,7 @@ Destinations	DebugLogViewer	LibDebugLogger
 DevSandbox3	LibConsoleLogger	LibHarvensAddonSettings
 DM2_ParseFightStats	LibAddonMenu-2.0	LibAddonMenu2	LibStub
 DM2SimpleDPS	LibAddonMenu-2.0	LibAddonMenu2	LibStub
+DoesThisThingGoAnyFaster	LibHarvensAddonSettings
 DolgubonsLazySetCrafter	LibCustomMenu	LibFeedback	LibPrice	LibStub	pChat
 DolgubonsLazyWritCreator	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
 DolmenRunner	LibHarvensAddonSettings
@@ -91,6 +92,7 @@ HousingForge	LibAddonMenu-2.0
 IAHelper	LibDataShare
 InsatiableHungerBlocker	LibAddonMenu-2.0
 IsItTaunted	LibAddonMenu-2.0
+JumpToSearch	LibConsoleLogger
 KDRTracker	LibHarvensAddonSettings
 KhajiitFengShui	LuiExtended
 LibAddonMenu-2.0	LibDebugLogger	LibHarvensAddonSettings	LibStub
@@ -116,6 +118,7 @@ LibTextFilter	Taneth
 LibVotansAddonList	AddonCategory	AddonSelector
 LibZone	LibSlashCommander
 LiveAchiever	LibVotans
+LiveBuffUptime	LibCombat
 LootLog	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
 LoreBooks	DebugLogViewer	LibDebugLogger
 LoreLibrary	AUI	LibHarvensAddonSettings	MiniMap	VotansMiniMap
@@ -141,6 +144,7 @@ NoTargetFrame	LibAddonMenu-2.0
 NQOL	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	LibGPS	LibLazyCrafting	LibQRC
 NQOL-dev	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	LibGPS	LibLazyCrafting	LibQRC
 OffBalanceTracker	LibAddonMenu-2.0
+OneAPHaTime	LibAPH	LibAddonMenu-2.0	LibHarvensAddonSettings
 OneMorRockgrove	Breadcrumbs
 PacketByteExporter	LibAddonMenu-2.0
 PBsChatWindowCustomizer	LibHarvensAddonSettings
@@ -162,7 +166,6 @@ PersonalDpsTracker	LibHarvensAddonSettings
 PetHealth	LibAddonMenu-2.0	LibAddonMenuOrderListBox	LibHarvensAddonSettings	LibSlashCommander
 PinAutoResizer	LibGPS
 PreviewAnywhere	LibConsoleLogger
-PullCard	LibAddonMenu-2.0	LibConsoleMenu
 PVPBuddy	LibAddonMenu-2.0
 PvPUA	LibGroupBroadcast
 PvPUAPatch	LibGroupBroadcast

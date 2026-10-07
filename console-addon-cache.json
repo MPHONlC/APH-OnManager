@@ -182,6 +182,20 @@
    "updatedAt": 1761772956,
    "version": "1.0.5"
   },
+  "081ea199-9758-4f43-b194-ba2df6ad9562/LibTrack": {
+   "addOnVersion": "",
+   "addonId": "081ea199-9758-4f43-b194-ba2df6ad9562",
+   "apiVersion": "101051",
+   "author": "codeWarrior82",
+   "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
+   "downloads": 14,
+   "folder": "LibTrack",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "LibTrack",
+   "updatedAt": 1791361579,
+   "version": "1.1.3"
+  },
   "086be98f-893e-4cea-a222-aad748e474c9/ShouldIUlt": {
    "addOnVersion": "",
    "addonId": "086be98f-893e-4cea-a222-aad748e474c9",
@@ -365,18 +379,18 @@
    "version": "7.1.3.3"
   },
   "0b7868ba-bd96-4cff-a633-8ad4ff7c5829/UniversalEffectTracker": {
-   "addOnVersion": "20400",
+   "addOnVersion": "20402",
    "addonId": "0b7868ba-bd96-4cff-a633-8ad4ff7c5829",
-   "apiVersion": "101050 101051",
+   "apiVersion": "101051 101052",
    "author": "Shienar",
    "dependsOn": "",
-   "downloads": 11180,
+   "downloads": 11658,
    "folder": "UniversalEffectTracker",
    "isLibrary": "False",
    "optionalDependsOn": "LibHarvensAddonSettings>=20004 LibRadialMenu",
    "title": "Universal Effect Tracker",
-   "updatedAt": 1788119805,
-   "version": "2.4.1"
+   "updatedAt": 1791391559,
+   "version": "2.4.2"
   },
   "0bb2a403-2da7-4c0d-8546-7957cbc8735b/WritReady": {
    "addOnVersion": "2",
@@ -575,18 +589,18 @@
    "version": "1.0.10"
   },
   "1156c297-4c51-44e7-8267-9f934307f36e/MuchSmarterAutoLoot": {
-   "addOnVersion": "80307",
+   "addOnVersion": "80308",
    "addonId": "1156c297-4c51-44e7-8267-9f934307f36e",
    "apiVersion": "101051",
    "author": "Lykeion+",
    "dependsOn": "",
-   "downloads": 177118,
+   "downloads": 178787,
    "folder": "MuchSmarterAutoLoot",
    "isLibrary": "",
    "optionalDependsOn": "LibCharacterKnowledge>=201030 TamrielTradeCentre MasterMerchant ArkadiusTradeTools LibSavedVars LibRadialMenu PerfectPixel TSCPriceFetcher2 LibCustomMenu",
    "title": "Lykeion's AutoLoot+",
-   "updatedAt": 1791250998,
-   "version": "8.3.7"
+   "updatedAt": 1791366860,
+   "version": "8.3.8"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a/AreYouSlow": {
    "addOnVersion": "2",
@@ -1051,18 +1065,18 @@
    "version": "1.4.1"
   },
   "227876bb-e9b1-439f-81fe-8f458ae351a8/MSI": {
-   "addOnVersion": "2775",
+   "addOnVersion": "2787",
    "addonId": "227876bb-e9b1-439f-81fe-8f458ae351a8",
    "apiVersion": "101051 101052",
    "author": "MetuLiber_Ger",
    "dependsOn": "",
-   "downloads": 371,
+   "downloads": 398,
    "folder": "MSI",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "Metu's SpareIdler",
-   "updatedAt": 1791290495,
-   "version": "2.7.75"
+   "updatedAt": 1791384958,
+   "version": "2.7.87"
   },
   "22b9d3d3-0152-4001-b696-0864ab31636d/PsijicBreachHelper": {
    "addOnVersion": "032",
@@ -1133,6 +1147,20 @@
    "title": "ESO Build Tracker - Prototype",
    "updatedAt": 1789939912,
    "version": "0.3.0"
+  },
+  "23c652bc-541e-443a-8f1f-e2f7c0bfef13/TGWBindAndInvite": {
+   "addOnVersion": "4",
+   "addonId": "23c652bc-541e-443a-8f1f-e2f7c0bfef13",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "TGWBindAndInvite",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "TGW Bind & Invite",
+   "updatedAt": 1791394162,
+   "version": "1.0.0"
   },
   "23ee5193-1c27-4b42-b005-05c3f28ad835/CTest": {
    "addOnVersion": "2606272",
@@ -1415,18 +1443,18 @@
    "version": "120"
   },
   "2aa223e9-ba88-45f7-90d3-0a47002c720c/PermMemento": {
-   "addOnVersion": "26100608",
+   "addOnVersion": "26100717",
    "addonId": "2aa223e9-ba88-45f7-90d3-0a47002c720c",
    "apiVersion": "101051 101052",
    "author": "APH0NlC",
-   "dependsOn": "LibAPH>=26100607",
-   "downloads": 115392,
+   "dependsOn": "LibAPH>=26100717",
+   "downloads": 117300,
    "folder": "PermMemento",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings LibGroupBroadcast",
    "title": "Permanent Memento",
-   "updatedAt": 1791250880,
-   "version": "2026.10.06.08.01"
+   "updatedAt": 1791367193,
+   "version": "2026.10.07.17.24"
   },
   "2abdc7a0-d15d-42ae-aad7-bccf995da180/Olorime": {
    "addOnVersion": "020300",
@@ -1611,18 +1639,18 @@
    "version": "1.5.5"
   },
   "2efc3a91-8534-4f0c-964e-56389bb3aa9b/EasyMark": {
-   "addOnVersion": "101",
+   "addOnVersion": "110",
    "addonId": "2efc3a91-8534-4f0c-964e-56389bb3aa9b",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 21,
+   "downloads": 29,
    "folder": "EasyMark",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "EasyMark",
-   "updatedAt": 1791246743,
-   "version": "1.01"
+   "updatedAt": 1791302833,
+   "version": "1.1.0"
   },
   "2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5/EsoBR": {
    "addOnVersion": "",
@@ -1840,13 +1868,13 @@
    "apiVersion": "101051",
    "author": "LeonShu",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 15,
+   "downloads": 20,
    "folder": "Leo_tracker_beta",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Leo_tracker_beta",
-   "updatedAt": 1791128075,
-   "version": "0.2.19"
+   "updatedAt": 1791316891,
+   "version": "0.3.3"
   },
   "35d616b7-f96d-4181-8d13-c75bf9c5617d/BetterCharacterOverview": {
    "addOnVersion": "1603",
@@ -2297,18 +2325,18 @@
    "version": "PreviewAnywhere-0.1.1-2026-09-23T053413"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
-   "addOnVersion": "10",
+   "addOnVersion": "",
    "addonId": "438e8153-db0e-4264-87cb-29c1d97e20ef",
    "apiVersion": "101050 101051",
    "author": "yodased-mods",
    "dependsOn": "",
-   "downloads": 24,
+   "downloads": 33,
    "folder": "PullCard",
    "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0 LibConsoleMenu",
+   "optionalDependsOn": "",
    "title": "Dungeon Boss Pull Card",
-   "updatedAt": 1788467899,
-   "version": "0.3.6"
+   "updatedAt": 1791402153,
+   "version": "0.4.4"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb/SupressErrors": {
    "addOnVersion": "1",
@@ -2323,6 +2351,20 @@
    "title": "Test",
    "updatedAt": 1781981942,
    "version": "0"
+  },
+  "442cb9b3-e5a9-4cf0-a01f-df3af415e92a/ZoneSweep": {
+   "addOnVersion": "7",
+   "addonId": "442cb9b3-e5a9-4cf0-a01f-df3af415e92a",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 9,
+   "folder": "ZoneSweep",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "ZoneSweep",
+   "updatedAt": 1791373147,
+   "version": "0.4.0"
   },
   "443e6038-7baa-4e81-84fb-afe6cd3f92d6/TauntAssist": {
    "addOnVersion": "6",
@@ -2423,18 +2465,18 @@
    "version": "1.0.0"
   },
   "475ce77b-6d09-4c75-8c28-95fff8f907c9/NQOL-dev": {
-   "addOnVersion": "361",
+   "addOnVersion": "366",
    "addonId": "475ce77b-6d09-4c75-8c28-95fff8f907c9",
    "apiVersion": "101050 101051",
    "author": "unacntble",
    "dependsOn": "",
-   "downloads": 364,
+   "downloads": 374,
    "folder": "NQOL-dev",
    "isLibrary": "",
    "optionalDependsOn": "LibFoodDrinkBuff LibCustomNames LibGPS>=73 LibQRC>=046 LibLazyCrafting>=4035 DolgubonsLazyWritCreator",
    "title": "NQOL-dev",
-   "updatedAt": 1790869763,
-   "version": "361"
+   "updatedAt": 1791309575,
+   "version": "366"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -2505,6 +2547,20 @@
    "title": "Trials & Arenas Tracker",
    "updatedAt": 1783029502,
    "version": "2.0.3"
+  },
+  "49e5c9da-dc0d-4bf5-b60c-6e6e53784107/CharacterBoundItemHider": {
+   "addOnVersion": "26100613",
+   "addonId": "49e5c9da-dc0d-4bf5-b60c-6e6e53784107",
+   "apiVersion": "101051 101052",
+   "author": "APH0NlC",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "CharacterBoundItemHider",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Character Bound Item Hider",
+   "updatedAt": 1791368577,
+   "version": "2026.10.06.13.49"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/TrackersByJH": {
    "addOnVersion": "1105",
@@ -2856,6 +2912,20 @@
    "updatedAt": 1783028389,
    "version": "1.5.1"
   },
+  "53c80097-33fd-4ef3-83f4-e78d6d9482ee/OneAPHaTime": {
+   "addOnVersion": "26100613",
+   "addonId": "53c80097-33fd-4ef3-83f4-e78d6d9482ee",
+   "apiVersion": "101051 101052",
+   "author": "APH0NlC",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "OneAPHaTime",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings LibAPH",
+   "title": "One APH a Time",
+   "updatedAt": 1791371444,
+   "version": "2026.10.06.13.49"
+  },
   "541ab871-9386-4990-a3c7-32563ded9243/ProcReminder": {
    "addOnVersion": "1.0.0",
    "addonId": "541ab871-9386-4990-a3c7-32563ded9243",
@@ -2887,16 +2957,16 @@
   "543e2fe8-def0-4dc1-a833-07518e6432eb/SimpleWarhornTimer": {
    "addOnVersion": "",
    "addonId": "543e2fe8-def0-4dc1-a833-07518e6432eb",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 22541,
+   "downloads": 23020,
    "folder": "SimpleWarhornTimer",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "SimpleWarhornTimer",
-   "updatedAt": 1783367986,
-   "version": "1.6.2"
+   "updatedAt": 1791383694,
+   "version": "1.6.3"
   },
   "54495f75-791c-4010-8120-4aae3fdc19a1/CBookFontStylist": {
    "addOnVersion": "50002",
@@ -3072,13 +3142,13 @@
    "apiVersion": "101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 9,
+   "downloads": 17,
    "folder": "FurniturePlanSearch",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Furniture Plan Search",
-   "updatedAt": 1791037787,
-   "version": "0.2.3"
+   "updatedAt": 1791313428,
+   "version": "0.2.4"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
@@ -3374,6 +3444,34 @@
    "updatedAt": 1788108318,
    "version": "V2.0"
   },
+  "656a56dd-1f9a-428e-a52e-dc72a77de425/LiveBuffUptime": {
+   "addOnVersion": "",
+   "addonId": "656a56dd-1f9a-428e-a52e-dc72a77de425",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 1,
+   "folder": "LiveBuffUptime",
+   "isLibrary": "",
+   "optionalDependsOn": "LibCombat",
+   "title": "testo",
+   "updatedAt": 1791401975,
+   "version": "1.3.0"
+  },
+  "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
+   "addOnVersion": "101",
+   "addonId": "65eefa37-d12c-4876-bdb9-aa547f7a070a",
+   "apiVersion": "101050",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "JumpToSearch",
+   "isLibrary": "",
+   "optionalDependsOn": "LibConsoleLogger",
+   "title": "Jump to Search",
+   "updatedAt": 1791340329,
+   "version": "JumpToSearch-0.1.1-2026-10-06T193201"
+  },
   "66400ef3-3d78-4737-a158-c48633706a83/AA_Profiler": {
    "addOnVersion": "100",
    "addonId": "66400ef3-3d78-4737-a158-c48633706a83",
@@ -3515,18 +3613,18 @@
    "version": "1.0"
   },
   "6987c48d-827e-4583-a5a7-6cb748174190/NQOL": {
-   "addOnVersion": "362",
+   "addOnVersion": "367",
    "addonId": "6987c48d-827e-4583-a5a7-6cb748174190",
    "apiVersion": "101050 101051",
    "author": "unacntble",
    "dependsOn": "",
-   "downloads": 17861,
+   "downloads": 18751,
    "folder": "NQOL",
    "isLibrary": "",
    "optionalDependsOn": "LibFoodDrinkBuff LibCustomNames LibGPS>=73 LibQRC>=046 LibLazyCrafting>=4035 DolgubonsLazyWritCreator",
    "title": "NQOL",
-   "updatedAt": 1790870133,
-   "version": "362"
+   "updatedAt": 1791310602,
+   "version": "367"
   },
   "6a072e95-965d-4368-9c0f-196d198ad5dd/GroupEncore": {
    "addOnVersion": "",
@@ -3695,6 +3793,20 @@
    "title": "My Damage Tracker",
    "updatedAt": 1774046900,
    "version": "1.2"
+  },
+  "70b691c1-ae82-42c5-ad2d-4dad6bd53b36/ItemHound": {
+   "addOnVersion": "9",
+   "addonId": "70b691c1-ae82-42c5-ad2d-4dad6bd53b36",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 12,
+   "folder": "ItemHound",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "ItemHound",
+   "updatedAt": 1791359582,
+   "version": "0.8.0"
   },
   "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0/QcellDreadsailReefHelper": {
    "addOnVersion": "",
@@ -4201,18 +4313,18 @@
    "version": "0.3.6"
   },
   "838c4ba0-f7d2-4d29-ab28-7bd838a4973b/DoesThisThingGoAnyFaster": {
-   "addOnVersion": "12",
+   "addOnVersion": "13",
    "addonId": "838c4ba0-f7d2-4d29-ab28-7bd838a4973b",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "",
-   "downloads": 58,
+   "downloads": 98,
    "folder": "DoesThisThingGoAnyFaster",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20200",
    "title": "DoesThisThingGoAnyFaster",
-   "updatedAt": 1783286879,
-   "version": "0.6"
+   "updatedAt": 1791320635,
+   "version": "0.7"
   },
   "8394c641-1cb2-45f3-8b73-b6f424d6c630/TeaAndToast": {
    "addOnVersion": "",
@@ -4822,13 +4934,13 @@
    "apiVersion": "101051",
    "author": "lesse83",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 43,
+   "downloads": 65,
    "folder": "CraftMaterialAssistant",
    "isLibrary": "",
    "optionalDependsOn": "LibResearch",
    "title": "CraftMaterialAssistant",
-   "updatedAt": 1790635841,
-   "version": "1.0.5"
+   "updatedAt": 1791400184,
+   "version": "1.0.6"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347/feedingFrenzyTracker": {
    "addOnVersion": "",
@@ -4957,18 +5069,18 @@
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
   },
   "9926b8d4-d4ca-4215-8790-013c0b1630c0/AutoLuaMemoryCleaner": {
-   "addOnVersion": "26100608",
+   "addOnVersion": "26100717",
    "addonId": "9926b8d4-d4ca-4215-8790-013c0b1630c0",
    "apiVersion": "101051 101052",
    "author": "APH0NlC",
-   "dependsOn": "LibAPH>=26100607",
-   "downloads": 32354,
+   "dependsOn": "LibAPH>=26100717",
+   "downloads": 35687,
    "folder": "AutoLuaMemoryCleaner",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
    "title": "AUTO LUA MEMORY CLEANER",
-   "updatedAt": 1791250211,
-   "version": "2026.10.06.08.01"
+   "updatedAt": 1791366493,
+   "version": "2026.10.07.17.24"
   },
   "992e3a70-4653-4937-9089-bfee29417439/SpringPeaceDev": {
    "addOnVersion": "",
@@ -5319,20 +5431,6 @@
    "title": "PvP UA!",
    "updatedAt": 1790827795,
    "version": "5"
-  },
-  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
-   "addOnVersion": "102",
-   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
-   "apiVersion": "101050",
-   "author": "Bucketmore",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 149,
-   "folder": "PvPTargetInfo",
-   "isLibrary": "false",
-   "optionalDependsOn": "",
-   "title": "PvP Target Info",
-   "updatedAt": 1791290660,
-   "version": "v2.0.3"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -6034,6 +6132,20 @@
    "updatedAt": 1783038691,
    "version": "3.1.3"
   },
+  "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
+   "addOnVersion": "6",
+   "addonId": "be795295-0a8b-40e3-9fc6-f3086e0f202c",
+   "apiVersion": "101051",
+   "author": "ForiMonster",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "An_Daghdha1233Inventory",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "An_Daghdha1233 Inventory",
+   "updatedAt": 1791397220,
+   "version": "0.3.3"
+  },
   "be99bdeb-a9e3-4b63-abe8-9aa886190e8e/AutoReadyCheck": {
    "addOnVersion": "241",
    "addonId": "be99bdeb-a9e3-4b63-abe8-9aa886190e8e",
@@ -6315,18 +6427,18 @@
    "version": "2026-01-11-fix"
   },
   "c75df85c-f9c0-4e54-a0f3-d5173e44a850/CasualClean": {
-   "addOnVersion": "9",
+   "addOnVersion": "10",
    "addonId": "c75df85c-f9c0-4e54-a0f3-d5173e44a850",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Th3rtythr33",
-   "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 29,
+   "dependsOn": "LibHarvensAddonSettings>=20200",
+   "downloads": 38,
    "folder": "CasualClean",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "CasualClean",
-   "updatedAt": 1786250462,
-   "version": "9"
+   "updatedAt": 1791301889,
+   "version": "1.6.6"
   },
   "c7f082bc-03e0-4e0c-b82b-d7903e5101ad/PBsCraftMaterialAssistant": {
    "addOnVersion": "",
@@ -6399,18 +6511,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000076",
+   "addOnVersion": "01000077",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 9936,
+   "downloads": 10240,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1791259212,
-   "version": "1.0.76"
+   "updatedAt": 1791345612,
+   "version": "1.0.77"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -6427,18 +6539,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "11",
+   "addOnVersion": "14",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
-   "apiVersion": "101049 101050",
+   "apiVersion": "101051",
    "author": "Th3rtythr33",
-   "dependsOn": "LibAddonMenu-2.0>=32",
-   "downloads": 286,
+   "dependsOn": "LibHarvensAddonSettings>=20200",
+   "downloads": 355,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1785377783,
-   "version": "0.3.1"
+   "updatedAt": 1791326890,
+   "version": "0.4.0"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
@@ -7043,18 +7155,18 @@
    "version": "0.1.2"
   },
   "da37ddee-0a3a-403e-aee9-d45c9af8a488/DiabloFramesConsole": {
-   "addOnVersion": "2",
+   "addOnVersion": "4",
    "addonId": "da37ddee-0a3a-403e-aee9-d45c9af8a488",
    "apiVersion": "101051",
    "author": "RagePhoenix96",
-   "dependsOn": "",
-   "downloads": 2,
+   "dependsOn": "LibHarvensAddonSettings>=20008",
+   "downloads": 6,
    "folder": "DiabloFramesConsole",
    "isLibrary": "",
    "optionalDependsOn": "",
-   "title": "Diablo Frames Console",
-   "updatedAt": 1791259167,
-   "version": "0.1.1"
+   "title": "Diablo Frames Action Bar Console",
+   "updatedAt": 1791338495,
+   "version": "0.1.3"
   },
   "da882875-d281-47d4-b525-aa19f4f40875/GroupBuffPanels": {
    "addOnVersion": "203030",
@@ -7099,18 +7211,18 @@
    "version": "1.0.8"
   },
   "dac0d37e-2d2f-4813-a148-6198c2d54687/LibAPH": {
-   "addOnVersion": "26100607",
+   "addOnVersion": "26100717",
    "addonId": "dac0d37e-2d2f-4813-a148-6198c2d54687",
    "apiVersion": "101051 101052",
    "author": "APH0NlC",
    "dependsOn": "",
-   "downloads": 97,
+   "downloads": 2406,
    "folder": "LibAPH",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibAPH",
-   "updatedAt": 1791244516,
-   "version": "2026.10.06.07.36"
+   "updatedAt": 1791365709,
+   "version": "2026.10.07.17.24"
   },
   "db3e5212-7543-479f-a881-7cda2bd1a1c9/UndauntedDaily": {
    "addOnVersion": "49",
@@ -7552,13 +7664,13 @@
    "apiVersion": "101051",
    "author": "LeonShu",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 1,
+   "downloads": 5,
    "folder": "Leo_sust_beta",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "leo_sust_beta",
-   "updatedAt": 1791270914,
-   "version": "0.0.1"
+   "updatedAt": 1791316901,
+   "version": "0.1.7"
   },
   "e6627cb6-5e78-4443-86bc-4340210a5684/PatronsLedger": {
    "addOnVersion": "100",
@@ -8135,18 +8247,18 @@
    "version": "2.0.1"
   },
   "f6c4019b-59cf-4a0b-8550-0e83c807df18/WizardsWardrobeCompanion": {
-   "addOnVersion": "10000",
+   "addOnVersion": "10001",
    "addonId": "f6c4019b-59cf-4a0b-8550-0e83c807df18",
    "apiVersion": "101048",
    "author": "RagePhoenix96",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 11,
    "folder": "WizardsWardrobeCompanion",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Wizard's Wardrobe Console Companion",
-   "updatedAt": 1791200432,
-   "version": "1.0.0"
+   "updatedAt": 1791338784,
+   "version": "1.0.1"
   },
   "f6e1e99b-174a-401e-8acf-d4a7e6e2c352/LibMapPing": {
    "addOnVersion": "1240",
@@ -8357,6 +8469,20 @@
    "title": "Favorite Home Teleporter",
    "updatedAt": 1773698575,
    "version": "1.5"
+  },
+  "fcf311fe-14ad-4eff-ae72-cee32d7b5943/MasterBaiter": {
+   "addOnVersion": "13",
+   "addonId": "fcf311fe-14ad-4eff-ae72-cee32d7b5943",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 15,
+   "folder": "MasterBaiter",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Master Baiter",
+   "updatedAt": 1791387561,
+   "version": "1.0.1"
   },
   "fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8/IAHelper": {
    "addOnVersion": "",
@@ -8640,6 +8766,12 @@
    ],
    "version": "1.0.5"
   },
+  "081ea199-9758-4f43-b194-ba2df6ad9562": {
+   "folders": [
+    "LibTrack"
+   ],
+   "version": "1.1.3"
+  },
   "086be98f-893e-4cea-a222-aad748e474c9": {
    "folders": [
     "ShouldIUlt"
@@ -8723,7 +8855,7 @@
    "folders": [
     "UniversalEffectTracker"
    ],
-   "version": "2.4.1"
+   "version": "2.4.2"
   },
   "0bb2a403-2da7-4c0d-8546-7957cbc8735b": {
    "folders": [
@@ -8819,7 +8951,7 @@
    "folders": [
     "MuchSmarterAutoLoot"
    ],
-   "version": "8.3.7"
+   "version": "8.3.8"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a": {
    "folders": [
@@ -9034,7 +9166,7 @@
    "folders": [
     "MSI"
    ],
-   "version": "2.7.75"
+   "version": "2.7.87"
   },
   "22b9d3d3-0152-4001-b696-0864ab31636d": {
    "folders": [
@@ -9065,6 +9197,13 @@
     "ESOBuildTracker"
    ],
    "version": "0.3.0"
+  },
+  "23c652bc-541e-443a-8f1f-e2f7c0bfef13": {
+   "folders": [
+    "TGWBindAndInvite",
+    "TGWBindAndInvite"
+   ],
+   "version": "1.0.0"
   },
   "23ee5193-1c27-4b42-b005-05c3f28ad835": {
    "folders": [
@@ -9191,7 +9330,7 @@
    "folders": [
     "PermMemento"
    ],
-   "version": "2026.10.06.08.01"
+   "version": "2026.10.07.17.24"
   },
   "2abdc7a0-d15d-42ae-aad7-bccf995da180": {
    "folders": [
@@ -9280,7 +9419,7 @@
    "folders": [
     "EasyMark"
    ],
-   "version": "1.01"
+   "version": "1.1.0"
   },
   "2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5": {
    "folders": [
@@ -9377,7 +9516,7 @@
    "folders": [
     "Leo_tracker_beta"
    ],
-   "version": "0.2.19"
+   "version": "0.3.3"
   },
   "35d616b7-f96d-4181-8d13-c75bf9c5617d": {
    "folders": [
@@ -9573,7 +9712,7 @@
    "folders": [
     "PullCard"
    ],
-   "version": "0.3.6"
+   "version": "0.4.4"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb": {
    "folders": [
@@ -9584,6 +9723,13 @@
   "441715a3-5c4e-4ba6-8004-86dbf4485eb0": {
    "folders": [],
    "version": "1.0.0"
+  },
+  "442cb9b3-e5a9-4cf0-a01f-df3af415e92a": {
+   "folders": [
+    "ZoneSweep",
+    "ZoneSweep"
+   ],
+   "version": "0.4.0"
   },
   "443e6038-7baa-4e81-84fb-afe6cd3f92d6": {
    "folders": [
@@ -9632,7 +9778,7 @@
    "folders": [
     "NQOL-dev"
    ],
-   "version": "361"
+   "version": "366"
   },
   "47bd1882-3ae4-414d-929c-aad937946be0": {
    "folders": [],
@@ -9668,6 +9814,12 @@
     "TrialArenaTracker"
    ],
    "version": "2.0.3"
+  },
+  "49e5c9da-dc0d-4bf5-b60c-6e6e53784107": {
+   "folders": [
+    "CharacterBoundItemHider"
+   ],
+   "version": "2026.10.06.13.49"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd": {
    "folders": [
@@ -9799,7 +9951,7 @@
   },
   "52520d7f-b02f-4dd5-a337-d24e924354c9": {
    "folders": [],
-   "version": "1.0.1"
+   "version": "1.2.0"
   },
   "529cf85a-e597-4945-86c4-654d2a32a7bc": {
    "folders": [
@@ -9825,6 +9977,12 @@
    ],
    "version": "1.5.1"
   },
+  "53c80097-33fd-4ef3-83f4-e78d6d9482ee": {
+   "folders": [
+    "OneAPHaTime"
+   ],
+   "version": "2026.10.06.13.49"
+  },
   "541ab871-9386-4990-a3c7-32563ded9243": {
    "folders": [
     "ProcReminder"
@@ -9841,7 +9999,7 @@
    "folders": [
     "SimpleWarhornTimer"
    ],
-   "version": "1.6.2"
+   "version": "1.6.3"
   },
   "54495f75-791c-4010-8120-4aae3fdc19a1": {
    "folders": [
@@ -9920,7 +10078,7 @@
    "folders": [
     "FurniturePlanSearch"
    ],
-   "version": "0.2.3"
+   "version": "0.2.4"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -10054,6 +10212,18 @@
    ],
    "version": "V2.0"
   },
+  "656a56dd-1f9a-428e-a52e-dc72a77de425": {
+   "folders": [
+    "LiveBuffUptime"
+   ],
+   "version": "1.3.0"
+  },
+  "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
+   "folders": [
+    "JumpToSearch"
+   ],
+   "version": "JumpToSearch-0.1.1-2026-10-06T193201"
+  },
   "66400ef3-3d78-4737-a158-c48633706a83": {
    "folders": [
     "AA_Profiler"
@@ -10118,7 +10288,7 @@
    "folders": [
     "NQOL"
    ],
-   "version": "362"
+   "version": "367"
   },
   "6a072e95-965d-4368-9c0f-196d198ad5dd": {
    "folders": [
@@ -10192,6 +10362,13 @@
     "MyDamageTracker"
    ],
    "version": "1.2"
+  },
+  "70b691c1-ae82-42c5-ad2d-4dad6bd53b36": {
+   "folders": [
+    "ItemHound",
+    "ItemHound"
+   ],
+   "version": "0.8.0"
   },
   "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0": {
    "folders": [
@@ -10432,7 +10609,7 @@
    "folders": [
     "DoesThisThingGoAnyFaster"
    ],
-   "version": "0.6"
+   "version": "0.7"
   },
   "8394c641-1cb2-45f3-8b73-b6f424d6c630": {
    "folders": [
@@ -10709,7 +10886,7 @@
    "folders": [
     "CraftMaterialAssistant"
    ],
-   "version": "1.0.5"
+   "version": "1.0.6"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347": {
    "folders": [
@@ -10771,7 +10948,7 @@
    "folders": [
     "AutoLuaMemoryCleaner"
    ],
-   "version": "2026.10.06.08.01"
+   "version": "2026.10.07.17.24"
   },
   "992e3a70-4653-4937-9089-bfee29417439": {
    "folders": [
@@ -10923,12 +11100,6 @@
     "PvPUA"
    ],
    "version": "5"
-  },
-  "a5490d07-2b02-4714-bf07-a18820977a3c": {
-   "folders": [
-    "PvPTargetInfo"
-   ],
-   "version": "v2.0.3"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -11248,6 +11419,12 @@
    ],
    "version": "3.1.3"
   },
+  "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
+   "folders": [
+    "An_Daghdha1233Inventory"
+   ],
+   "version": "0.3.3"
+  },
   "be99bdeb-a9e3-4b63-abe8-9aa886190e8e": {
    "folders": [
     "AutoReadyCheck"
@@ -11381,7 +11558,7 @@
    "folders": [
     "CasualClean"
    ],
-   "version": "9"
+   "version": "1.6.6"
   },
   "c786f4ab-0ae9-4067-bfd7-5d9ec9b2705b": {
    "folders": [],
@@ -11425,7 +11602,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.76"
+   "version": "1.0.77"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -11437,7 +11614,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.3.1"
+   "version": "0.4.0"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c": {
    "folders": [
@@ -11713,10 +11890,9 @@
   },
   "da37ddee-0a3a-403e-aee9-d45c9af8a488": {
    "folders": [
-    "DiabloFramesConsole",
     "DiabloFramesConsole"
    ],
-   "version": "0.1.1"
+   "version": "0.1.3"
   },
   "da882875-d281-47d4-b525-aa19f4f40875": {
    "folders": [
@@ -11740,7 +11916,7 @@
    "folders": [
     "LibAPH"
    ],
-   "version": "2026.10.06.07.36"
+   "version": "2026.10.07.17.24"
   },
   "db3e5212-7543-479f-a881-7cda2bd1a1c9": {
    "folders": [
@@ -11956,7 +12132,7 @@
    "folders": [
     "Leo_sust_beta"
    ],
-   "version": "0.0.1"
+   "version": "0.1.7"
   },
   "e6627cb6-5e78-4443-86bc-4340210a5684": {
    "folders": [
@@ -12227,7 +12403,7 @@
    "folders": [
     "WizardsWardrobeCompanion"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "f6e1e99b-174a-401e-8acf-d4a7e6e2c352": {
    "folders": [
@@ -12318,6 +12494,13 @@
     "FavoriteHomeTeleports"
    ],
    "version": "1.5"
+  },
+  "fcf311fe-14ad-4eff-ae72-cee32d7b5943": {
+   "folders": [
+    "MasterBaiter",
+    "MasterBaiter"
+   ],
+   "version": "1.0.1"
   },
   "fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8": {
    "folders": [
