@@ -316,10 +316,10 @@ CommandCodex	101	1.0.1	4871	101050 101051
 CommonWorksUI		1.0	4838	101050
 CompanionFix		2026.03.10	3677	101049
 CompanionFrame	11300	1.13.0	3146	101044
-CompanionGearHunter		0.9.0	4908	101050 101051
+CompanionGearHunter		0.9.1	4908	101050 101051
 CompanionRapportNumbers		1.2	3128	101040
 CompanionRapportToChat	2	5	3113	101042 101043
-CompanionRoster		2.2.1	4862	101051
+CompanionRoster		2.3.0	4862	101051
 CompanionsCompanion	100	v2.4.0	3474	101040
 CompanionsCompanion_Updated	110	1.1.0	4125	101046
 CompanionsContainers		1.8	4143	101050
@@ -941,7 +941,7 @@ Mephisto		2.2.7	3833	101041 101042
 merCharacterSheet	5301	5.3	742	101049 101050
 merQuickslotFilters	3000	3.0	953	101043 101044
 merTorchbug	177	1.77	2601	101051 101052
-Meterskull		1.5.9	3941	101050 101051
+Meterskull		1.6.0	3941	101051
 MiatsTickTracker	115	1.15	4240	101047
 MidTrialMechs	1	1.0.1	4907	101050 101051
 MightyExperienceBar		1.1.0	3126	101041
