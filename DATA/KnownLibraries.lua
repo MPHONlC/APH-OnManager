@@ -212,7 +212,7 @@ LibSubzones	1	v22	4112	101048	ImperialCartographer	LibSubzones
 LibSurfaceTools	8	8	4584	101049	LibSurfaceTools	LibSurfaceTools
 LibTableFunctions-1.0	101	1.0.1	2624	100030	LibTableFunctions-1.0	LibTableFunctions-1.0
 LibTarget		1.0.0	4830	101049	LibTarget	LibTarget
-LibTeamShadows	10302	1.3.2	4669	101050	LibTeamshadows	LibTeamShadows
+LibTeamShadows	10303	1.3.3	4669	101050 101051	LibTeamshadows	LibTeamShadows
 LibTextFilter	13	1.0.7	1311	101045 101046	LibTextFilter	LibTextFilter
 LibTextFormat	19	0.1.9	4380	101050 101051	LibTextFormat	LibTextFormat
 LibTraitResearch	105	1.05	3264	101049 101050	LibTraitResearch	LibTraitResearch
