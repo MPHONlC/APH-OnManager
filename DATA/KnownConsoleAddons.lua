@@ -44,11 +44,11 @@ AntiAllCaps		1.1	101045 101046	Anti All Caps	Dolgubon	556512a1-fb7c-4558-9572-f7
 AntiDismount	1	1.0.0	101049	Anti Dismount	Dolgubon	1da0a275-fc2d-43cc-869f-a8103095dc29
 AntiDK	1.0.0	1.0.1	101048	AntiDK	Vixen_Hunny	1f552d57-81fb-407f-b9f2-f45228e2a171
 AntiDK2	1.5	1.2.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586d
-AntiquarianCodex	15102	1.51.02	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
+AntiquarianCodex	15103	1.51.03	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-OnManager	26100613	2026.10.06.13.49	101051 101052	APH-On Manager	MPHONlC
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
-archdruidTracker		2.3.7	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
+archdruidTracker		2.4.5	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010100	1.1.0	101047 101048	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
 AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5272a2a
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
@@ -144,7 +144,7 @@ darkConvergenceTracker		1.0.6	101050	Dark Convergence Tracker	codeWarrior82	8dff
 DeadMarker2	10203	1.2.3	101048 101047	DeadMarker2	Fredgu3	6f38e877-6d9e-464c-a1c8-83de0f7f3d88
 DeadMarker_Holodeck	58	0.0.58	101048 101047	DeadMarker Holodeck	Fredgu3	87237de2-d657-4844-8498-ed9136ff45cc
 Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b-bd58-5dcec8942b9d
-DevSandbox3	41900	DevSandbox3-4.19.0-2026-10-07T153239	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
+DevSandbox3	41901	DevSandbox3-4.19.1-2026-10-08T015849	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
 DM2_ParseFightStats	31803	3.18.3	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
@@ -559,7 +559,7 @@ TSCDataHub	127	127	101050	TSC Data Hub	SavageTSC	df7e78bb-63a0-4221-a1f6-36c7ac0
 TSCPriceFetcher2	120	120	101049 101050	TSC Price Fetcher 2	SavageTSC	2a88cc14-8e8c-4b73-9605-2e1d7c764e23
 TurningTide	010100	1.1.0	101047 101048	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c1f37e8a9a
 turningTideTracker		1.3.3	101050	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
-UnchainedHelper		1.x.x	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
+UnchainedHelper		1.x.x.x	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
 UnderPressure	15	0.4.1	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20402	2.4.2	101051 101052	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829

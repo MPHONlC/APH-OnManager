@@ -54,6 +54,7 @@ DolgubonsLazySetCrafter	TradeSkill Mods
 DolgubonsLazyWritCreator	TradeSkill Mods
 DryzlerElderGeekNetLore	Map, Coords, Compasses
 DWAllianceRankProgress	Character Advancement
+EsoAR	Unofficial game translations
 EsoKR	Unofficial game translations
 EsoTR	Unofficial game translations
 ExoYsCruxTracker	Arcanist

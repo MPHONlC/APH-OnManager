@@ -295,18 +295,18 @@
    "version": "0.1.0"
   },
   "09fedb91-c1d9-4f3b-8882-b8c9e36bda36/AntiquarianCodex": {
-   "addOnVersion": "15102",
+   "addOnVersion": "15103",
    "addonId": "09fedb91-c1d9-4f3b-8882-b8c9e36bda36",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 19334,
+   "downloads": 19603,
    "folder": "AntiquarianCodex",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Antiquarian's Codex",
-   "updatedAt": 1791203660,
-   "version": "1.51.02"
+   "updatedAt": 1791441961,
+   "version": "1.51.03"
   },
   "0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d/LibPrice": {
    "addOnVersion": "70460",
@@ -2087,18 +2087,18 @@
    "version": "1.2.0"
   },
   "3a4024fc-1465-4e5e-a96f-6d6b6a781497/DevSandbox3": {
-   "addOnVersion": "41900",
+   "addOnVersion": "41901",
    "addonId": "3a4024fc-1465-4e5e-a96f-6d6b6a781497",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 67,
+   "downloads": 68,
    "folder": "DevSandbox3",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger LibHarvensAddonSettings",
    "title": "dev sandbox 3",
-   "updatedAt": 1791412367,
-   "version": "DevSandbox3-4.19.0-2026-10-07T153239"
+   "updatedAt": 1791449938,
+   "version": "DevSandbox3-4.19.1-2026-10-08T015849"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d/GamepadUITweaks": {
    "addOnVersion": "107",
@@ -3128,13 +3128,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 119,
+   "downloads": 131,
    "folder": "archdruidTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Archdruid Tracker",
-   "updatedAt": 1791415363,
-   "version": "2.3.7"
+   "updatedAt": 1791452410,
+   "version": "2.4.5"
   },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73/FurniturePlanSearch": {
    "addOnVersion": "",
@@ -5648,13 +5648,13 @@
    "apiVersion": "101050",
    "author": "BLKx777",
    "dependsOn": "",
-   "downloads": 50,
+   "downloads": 61,
    "folder": "UnchainedHelper",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Unchained Helper",
-   "updatedAt": 1790924549,
-   "version": "1.x.x"
+   "updatedAt": 1791445903,
+   "version": "1.x.x.x"
   },
   "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d/aeriesCryTracker": {
    "addOnVersion": "",
@@ -8833,7 +8833,7 @@
    "folders": [
     "AntiquarianCodex"
    ],
-   "version": "1.51.02"
+   "version": "1.51.03"
   },
   "0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d": {
    "folders": [
@@ -9631,7 +9631,7 @@
    "folders": [
     "DevSandbox3"
    ],
-   "version": "DevSandbox3-4.19.0-2026-10-07T153239"
+   "version": "DevSandbox3-4.19.1-2026-10-08T015849"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d": {
    "folders": [
@@ -9966,7 +9966,7 @@
   },
   "52520d7f-b02f-4dd5-a337-d24e924354c9": {
    "folders": [],
-   "version": "1.2.0"
+   "version": "1.2.1"
   },
   "529cf85a-e597-4945-86c4-654d2a32a7bc": {
    "folders": [
@@ -10087,7 +10087,7 @@
    "folders": [
     "archdruidTracker"
    ],
-   "version": "2.3.7"
+   "version": "2.4.5"
   },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73": {
    "folders": [
@@ -11212,7 +11212,7 @@
    "folders": [
     "UnchainedHelper"
    ],
-   "version": "1.x.x"
+   "version": "1.x.x.x"
   },
   "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d": {
    "folders": [
