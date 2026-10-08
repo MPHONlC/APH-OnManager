@@ -286,27 +286,27 @@
    "apiVersion": "101050 101051",
    "author": "greeneca",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 3,
    "folder": "TrialTagger",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Discord Trial Tagger",
-   "updatedAt": 1791204627,
-   "version": "0.1.0"
+   "updatedAt": 1791468354,
+   "version": "0.1.1"
   },
   "09fedb91-c1d9-4f3b-8882-b8c9e36bda36/AntiquarianCodex": {
-   "addOnVersion": "15103",
+   "addOnVersion": "15104",
    "addonId": "09fedb91-c1d9-4f3b-8882-b8c9e36bda36",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 19603,
+   "downloads": 19916,
    "folder": "AntiquarianCodex",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Antiquarian's Codex",
-   "updatedAt": 1791441961,
-   "version": "1.51.03"
+   "updatedAt": 1791477200,
+   "version": "1.51.04"
   },
   "0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d/LibPrice": {
    "addOnVersion": "70460",
@@ -1555,18 +1555,18 @@
    "version": "1.0.8"
   },
   "2d6ff530-edbc-4425-be68-daadbc3c0afa/AbahsAppraiser": {
-   "addOnVersion": "15104",
+   "addOnVersion": "15105",
    "addonId": "2d6ff530-edbc-4425-be68-daadbc3c0afa",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 33610,
+   "downloads": 34442,
    "folder": "AbahsAppraiser",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Sell Junk - Abah's Appraiser",
-   "updatedAt": 1791231246,
-   "version": "1.51.04"
+   "updatedAt": 1791479889,
+   "version": "1.51.05"
   },
   "2d86078c-b982-4ffc-a7f0-7905e41c2354/PvpReadyEmotes": {
    "addOnVersion": "",
@@ -2325,18 +2325,18 @@
    "version": "PreviewAnywhere-0.1.1-2026-09-23T053413"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
-   "addOnVersion": "",
+   "addOnVersion": "12",
    "addonId": "438e8153-db0e-4264-87cb-29c1d97e20ef",
    "apiVersion": "101050 101051",
    "author": "yodased-mods",
    "dependsOn": "",
-   "downloads": 36,
+   "downloads": 41,
    "folder": "PullCard",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Pull Card: Controller Friendly Dungeon Boss Mechanics",
-   "updatedAt": 1791422152,
-   "version": "0.4.6"
+   "updatedAt": 1791476577,
+   "version": "0.4.8"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb/SupressErrors": {
    "addOnVersion": "1",
@@ -2563,7 +2563,7 @@
    "version": "2026.10.06.13.49"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/TrackersByJH": {
-   "addOnVersion": "1105",
+   "addOnVersion": "1106",
    "addonId": "4b0c0d15-66db-4be0-b76a-b9817a229cfd",
    "apiVersion": "101050 101051",
    "author": "j.hhh",
@@ -2573,8 +2573,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "My Trackers",
-   "updatedAt": 1791134137,
-   "version": "v2.2"
+   "updatedAt": 1791490826,
+   "version": "v2.3"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/WarmasktrackerByJH": {
    "addOnVersion": "",
@@ -3450,13 +3450,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 1,
+   "downloads": 2,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
    "optionalDependsOn": "LibCombat",
    "title": "testo",
-   "updatedAt": 1791401975,
-   "version": "1.3.0"
+   "updatedAt": 1791479360,
+   "version": "1.3.2"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
    "addOnVersion": "101",
@@ -5866,6 +5866,20 @@
    "updatedAt": 1773081560,
    "version": "3.49.0"
   },
+  "b25439ca-4262-4d71-940e-8b5db7507286/Loadout": {
+   "addOnVersion": "10000",
+   "addonId": "b25439ca-4262-4d71-940e-8b5db7507286",
+   "apiVersion": "101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "Loadout",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Loadout",
+   "updatedAt": 1791482390,
+   "version": "1.0.0"
+  },
   "b288ca12-6f96-416d-8cc1-13397e5f997a/ShowBagSpace": {
    "addOnVersion": "",
    "addonId": "b288ca12-6f96-416d-8cc1-13397e5f997a",
@@ -6317,16 +6331,16 @@
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e/TrueDebuffsBars": {
    "addOnVersion": "",
    "addonId": "c3d7fa6e-9024-4480-a02b-a9672c9da86e",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 64,
+   "downloads": 73,
    "folder": "TrueDebuffsBars",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "True (De)Buffs Bars",
-   "updatedAt": 1790448219,
-   "version": "2.9"
+   "updatedAt": 1791480734,
+   "version": "2.10"
   },
   "c41f5a50-974f-45e6-a218-e99590da3841/M0RMarkers": {
    "addOnVersion": "222",
@@ -7994,6 +8008,20 @@
    "updatedAt": 1789814091,
    "version": "0.3.2"
   },
+  "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3/Atlas": {
+   "addOnVersion": "104",
+   "addonId": "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3",
+   "apiVersion": "101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "Atlas",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Atlas",
+   "updatedAt": 1791490643,
+   "version": "0.1.4"
+  },
   "f0561a3c-bea9-49e8-926e-53825934fb7e/DVDScreenSaver": {
    "addOnVersion": "",
    "addonId": "f0561a3c-bea9-49e8-926e-53825934fb7e",
@@ -8827,13 +8855,13 @@
     "TrialTagger",
     "TrialTagger"
    ],
-   "version": "0.1.0"
+   "version": "0.1.1"
   },
   "09fedb91-c1d9-4f3b-8882-b8c9e36bda36": {
    "folders": [
     "AntiquarianCodex"
    ],
-   "version": "1.51.03"
+   "version": "1.51.04"
   },
   "0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d": {
    "folders": [
@@ -9396,7 +9424,7 @@
    "folders": [
     "AbahsAppraiser"
    ],
-   "version": "1.51.04"
+   "version": "1.51.05"
   },
   "2d86078c-b982-4ffc-a7f0-7905e41c2354": {
    "folders": [
@@ -9727,7 +9755,7 @@
    "folders": [
     "PullCard"
    ],
-   "version": "0.4.6"
+   "version": "0.4.8"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb": {
    "folders": [
@@ -9840,7 +9868,7 @@
    "folders": [
     "TrackersByJH"
    ],
-   "version": "v2.2"
+   "version": "v2.3"
   },
   "4b4ddced-3d97-431c-8c43-a9c732ea2cae": {
    "folders": [
@@ -10231,7 +10259,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "1.3.0"
+   "version": "1.3.2"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
    "folders": [
@@ -11308,6 +11336,12 @@
    ],
    "version": "3.49.0"
   },
+  "b25439ca-4262-4d71-940e-8b5db7507286": {
+   "folders": [
+    "Loadout"
+   ],
+   "version": "1.0.0"
+  },
   "b288ca12-6f96-416d-8cc1-13397e5f997a": {
    "folders": [
     "ShowBagSpace"
@@ -11525,7 +11559,7 @@
    "folders": [
     "TrueDebuffsBars"
    ],
-   "version": "2.9"
+   "version": "2.10"
   },
   "c41f5a50-974f-45e6-a218-e99590da3841": {
    "folders": [
@@ -12300,6 +12334,12 @@
     "PBsUltraDetailedStats"
    ],
    "version": "0.3.2"
+  },
+  "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3": {
+   "folders": [
+    "Atlas"
+   ],
+   "version": "0.1.4"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e": {
    "folders": [

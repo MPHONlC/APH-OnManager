@@ -24,6 +24,7 @@ AntiDismount	Utility Mods
 ArchdruidTracker	Casting Bars, Cooldowns
 ArmoryRoleSwitcher	Character Advancement
 ArtaeumGroupTool	PvP
+Atlas	Map, Coords, Compasses
 AutoClaimGoldenPursuits	Bags, Bank, Inventory
 AutoClaimTomePoints	Bags, Bank, Inventory
 AutoComplete	Chat Mods
