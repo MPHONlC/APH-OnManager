@@ -38,7 +38,7 @@ AlternateDeathRecap	30200	3.3	101049 101050	AlternateDeathRecap	Shienar	9e55edc2
 AltGroupFrames	30	v1.3.2	101049 101050	Alternative Group Frames	j.hhh	a020fed1-e58d-4c59-8ec5-6fb71e8ee9cc
 AM0RAutoInv	100	1.0.0	101046	A More Automated Invite	M0R	44437e40-fb6e-46cb-9717-9b21c46fc1cf
 AmIBlockingPlus		3.14	101051	Am I Blocking+	Lykeion+	e1710013-83a1-4e50-941a-5464d85d587c
-An_Daghdha1233Inventory	6	0.3.3	101051	An_Daghdha1233 Inventory	ForiMonster	be795295-0a8b-40e3-9fc6-f3086e0f202c
+An_Daghdha1233Inventory	8	0.4.1	101051	An_Daghdha1233 Inventory	ForiMonster	be795295-0a8b-40e3-9fc6-f3086e0f202c
 Andy	101100	1.1.2	101048	AddonAnalyzer (ANDY) - Checks for malicious, stolen, or other flagged content in addons!	CallMeLent	0495e6ed-49a8-4a03-b529-048fbc4b758a
 AntiAllCaps		1.1	101045 101046	Anti All Caps	Dolgubon	556512a1-fb7c-4558-9572-f7cf6fd8b171
 AntiDismount	1	1.0.0	101049	Anti Dismount	Dolgubon	1da0a275-fc2d-43cc-869f-a8103095dc29
@@ -48,7 +48,7 @@ AntiquarianCodex	15102	1.51.02	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-OnManager	26100613	2026.10.06.13.49	101051 101052	APH-On Manager	MPHONlC
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
-archdruidTracker		2.2.9	101050	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
+archdruidTracker		2.3.7	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010100	1.1.0	101047 101048	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
 AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5272a2a
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
@@ -144,7 +144,7 @@ darkConvergenceTracker		1.0.6	101050	Dark Convergence Tracker	codeWarrior82	8dff
 DeadMarker2	10203	1.2.3	101048 101047	DeadMarker2	Fredgu3	6f38e877-6d9e-464c-a1c8-83de0f7f3d88
 DeadMarker_Holodeck	58	0.0.58	101048 101047	DeadMarker Holodeck	Fredgu3	87237de2-d657-4844-8498-ed9136ff45cc
 Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b-bd58-5dcec8942b9d
-DevSandbox3	41800	DevSandbox3-4.18.0-2026-10-06T002216	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
+DevSandbox3	41900	DevSandbox3-4.19.0-2026-10-07T153239	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
 DM2_ParseFightStats	31803	3.18.3	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
@@ -304,7 +304,7 @@ LibMediaProvider	39	1.1 r39	101051	LibMediaProvider	Calamath	0fa32336-8528-4747-
 LibMessagePlugin	110	1.1.31	101049 101050	LibMessagePlugin	SugaComa	90c97baa-6170-421f-bd23-7fd88500168d
 LibMousePointer	10000	1.0.0	101049 101050	LibMousePointer	votan73	de9c92f2-729c-45e6-8071-0155852da2c0
 LibNotification	15	1.1.0	101045 101046	LibNotification	sirinsidiator	68111c3f-410f-4318-b9ec-582b8c68c374
-LibNotify		1.4.2	101050	LibNotify	codeWarrior82	2c6301b6-2c09-4282-9496-84ffcb7577ce
+LibNotify		1.4.3	101051	LibNotify	codeWarrior82	2c6301b6-2c09-4282-9496-84ffcb7577ce
 LibPrice	70460	7.46	101045 101046	LibPrice	Sharlikran	0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d
 LibPromises	37	1.1.2	101045 101046	LibPromises	sirinsidiator	eb221fca-fa24-44ac-9fab-6ee0f8cba1e0
 LibQRCode	046	1.0.8	101046	LibQRCode	RoyalTonberry	da93c9ce-04e0-4acf-a62a-16e23c1e8d06
@@ -317,7 +317,6 @@ LibSideQuestPins		v4	101048	Side Quests	0mniX	1ac2188b-1200-476b-a90c-6561a7d3b5
 LibSlashCommander	45	1.2.0	101045 101046	LibSlashCommander	sirinsidiator	c0ae2cd5-69de-4e29-8be3-1607be88e54a
 LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-408e-9617-05161b5c9650
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
-LibTrack		1.1.3	101051	LibTrack	codeWarrior82	081ea199-9758-4f43-b194-ba2df6ad9562
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
 LibVotansAddonList	11000	1.10.0	101045 101046	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
@@ -326,7 +325,7 @@ LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-9
 LiveBuffUptime		1.3.0	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000077	1.0.77	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000079	1.0.79	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7228	7.2.2.8	101050 101051	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -410,6 +409,7 @@ PBsCyrodiilAlert		2.7.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsHudManager		1.0.2	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
 PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25bb-1103-4636-a4f6-5c6a280ff8e2
+PBsKillLog		1.2.0	101050 101051	PinkB's KillLog(Beta)	PinkBanther	79dd6cfe-4b31-471a-96b6-061bf53f35f6
 PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4878125-abb0-49bd-b8d3-ca06c9ad746a
 PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371fcd02-ae32-4937-a1d4-de4f33b01870
 PBsMiniMap		2.2.17	101050 101051	PinkB's MiniMap(Beta)	PinkBanther	d0219382-bec1-477e-bcc2-d2b0c7138a79
@@ -438,12 +438,12 @@ ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-4
 ProximityAlert		ProximityAlert	101040	ProximityAlert	BeastAF-	ebdcb1e1-d96b-4d8c-a931-d6035865e34d
 PsijicBreachHelper	032	0.3.2	101050 101051	PsijicBreachHelper	saranicole1980	22b9d3d3-0152-4001-b696-0864ab31636d
 PsijicWay	101051	1.51.01	101051	The Psijic Way	xbutch	d55988d9-2bec-4972-b8cb-795ea26131ad
-PullCard		0.4.4	101050 101051	Dungeon Boss Pull Card	yodased-mods	438e8153-db0e-4264-87cb-29c1d97e20ef
+PullCard		0.4.6	101050 101051	Pull Card: Controller Friendly Dungeon Boss Mechanics	yodased-mods	438e8153-db0e-4264-87cb-29c1d97e20ef
 Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	21.7 Texture Addition	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
-PvPUA		5	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
+PvPUA		5.1	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
 PvPUAPatch		PvPUAPatch-5.0.1-2026-10-01T120418	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		1.2	101049	Testing	FiNk3F13	8cd10e06-846e-4b81-9858-f1a6943f0b32
@@ -526,6 +526,7 @@ TetsuDailyWritPrecrafter	25003	2.5.3	101050 101051	Tetsu's Daily Writ Precrafter
 TetsuQuietZone	10003	1.0.3	101050 101051	Tetsu's Quite Zone	Tetsurion	ea28fcab-28b2-43ca-addc-2547aa85a38f
 TGsGroupTrackers		2.1	101047	TG's Group Trackers	TaTerGoTcha	cd045612-ec90-4885-be99-f35f328691f8
 TGWBindAndInvite	4	1.0.0	101050 101051	TGW Bind & Invite	TheGreyWolf98	23c652bc-541e-443a-8f1f-e2f7c0bfef13
+TGWSkillSeeker	6	1.0.0	101050 101051	Skill Point Finder	TheGreyWolf98	427000e9-72c4-4fc9-b9b6-3cca4f863607
 TheArtaeumAngler	1	1.0.7	101046	The Artaeum Angler	sehts_architect	2918facc-2603-4099-bbcd-e4e91e58c429
 TheSynapticRegistry	9	0.1.8	101050 101049	The Synaptic Registry(The Clockwork Arsenal) _in_development_	sehts_architect	588eb388-ead2-4649-82cc-13838f638b1f
 ThisIsTheWayshrine		0.3.10	101050 101051	ThisIsTheWayshrine	saranicole1980	f524ac28-70c4-455c-8637-232a342f3c8f
@@ -560,7 +561,7 @@ TurningTide	010100	1.1.0	101047 101048	TurningTide	tmbrinks	853b60aa-f47b-4f79-b
 turningTideTracker		1.3.3	101050	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
 UnchainedHelper		1.x.x	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
-UnderPressure	14	0.4.0	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
+UnderPressure	15	0.4.1	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20402	2.4.2	101051 101052	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829
 UnknownFilter	302	0.3.2	101050	UnknownFilter	Xarador	670babe5-297e-4cb3-88d6-cda790275d1a
 Update47Tweaker		1.2.6	101050 101051	Update 47 Tweaker	murphyx	50a4c919-aff0-4475-8614-eb2576d6b6d9

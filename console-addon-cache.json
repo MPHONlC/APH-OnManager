@@ -182,20 +182,6 @@
    "updatedAt": 1761772956,
    "version": "1.0.5"
   },
-  "081ea199-9758-4f43-b194-ba2df6ad9562/LibTrack": {
-   "addOnVersion": "",
-   "addonId": "081ea199-9758-4f43-b194-ba2df6ad9562",
-   "apiVersion": "101051",
-   "author": "codeWarrior82",
-   "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 14,
-   "folder": "LibTrack",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "LibTrack",
-   "updatedAt": 1791361579,
-   "version": "1.1.3"
-  },
   "086be98f-893e-4cea-a222-aad748e474c9/ShouldIUlt": {
    "addOnVersion": "",
    "addonId": "086be98f-893e-4cea-a222-aad748e474c9",
@@ -1529,16 +1515,16 @@
   "2c6301b6-2c09-4282-9496-84ffcb7577ce/LibNotify": {
    "addOnVersion": "",
    "addonId": "2c6301b6-2c09-4282-9496-84ffcb7577ce",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 637,
+   "downloads": 1108,
    "folder": "LibNotify",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibNotify",
-   "updatedAt": 1790521655,
-   "version": "1.4.2"
+   "updatedAt": 1791406114,
+   "version": "1.4.3"
   },
   "2c70f704-e9aa-42d3-8c65-894ef085a9ea/GroupFullDante": {
    "addOnVersion": "110",
@@ -2101,18 +2087,18 @@
    "version": "1.2.0"
   },
   "3a4024fc-1465-4e5e-a96f-6d6b6a781497/DevSandbox3": {
-   "addOnVersion": "41800",
+   "addOnVersion": "41900",
    "addonId": "3a4024fc-1465-4e5e-a96f-6d6b6a781497",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 64,
+   "downloads": 67,
    "folder": "DevSandbox3",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger LibHarvensAddonSettings",
    "title": "dev sandbox 3",
-   "updatedAt": 1791271345,
-   "version": "DevSandbox3-4.18.0-2026-10-06T002216"
+   "updatedAt": 1791412367,
+   "version": "DevSandbox3-4.19.0-2026-10-07T153239"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d/GamepadUITweaks": {
    "addOnVersion": "107",
@@ -2254,6 +2240,20 @@
    "updatedAt": 1790279054,
    "version": "1.29.2"
   },
+  "427000e9-72c4-4fc9-b9b6-3cca4f863607/TGWSkillSeeker": {
+   "addOnVersion": "6",
+   "addonId": "427000e9-72c4-4fc9-b9b6-3cca4f863607",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 7,
+   "folder": "TGWSkillSeeker",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Skill Point Finder",
+   "updatedAt": 1791430179,
+   "version": "1.0.0"
+  },
   "42a55498-b21a-4657-86ba-bdb954f7a09d/InsatiableHungerBlocker": {
    "addOnVersion": "",
    "addonId": "42a55498-b21a-4657-86ba-bdb954f7a09d",
@@ -2330,13 +2330,13 @@
    "apiVersion": "101050 101051",
    "author": "yodased-mods",
    "dependsOn": "",
-   "downloads": 33,
+   "downloads": 36,
    "folder": "PullCard",
    "isLibrary": "",
    "optionalDependsOn": "",
-   "title": "Dungeon Boss Pull Card",
-   "updatedAt": 1791402153,
-   "version": "0.4.4"
+   "title": "Pull Card: Controller Friendly Dungeon Boss Mechanics",
+   "updatedAt": 1791422152,
+   "version": "0.4.6"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb/SupressErrors": {
    "addOnVersion": "1",
@@ -3125,16 +3125,16 @@
   "5c997615-ee42-43dd-a5d0-5337fb785714/archdruidTracker": {
    "addOnVersion": "",
    "addonId": "5c997615-ee42-43dd-a5d0-5337fb785714",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 95,
+   "downloads": 119,
    "folder": "archdruidTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Archdruid Tracker",
-   "updatedAt": 1789587674,
-   "version": "2.2.9"
+   "updatedAt": 1791415363,
+   "version": "2.3.7"
   },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73/FurniturePlanSearch": {
    "addOnVersion": "",
@@ -4129,6 +4129,20 @@
    "title": "SurvivalMode",
    "updatedAt": 1782442061,
    "version": "1.8"
+  },
+  "79dd6cfe-4b31-471a-96b6-061bf53f35f6/PBsKillLog": {
+   "addOnVersion": "",
+   "addonId": "79dd6cfe-4b31-471a-96b6-061bf53f35f6",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "PBsKillLog",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's KillLog(Beta)",
+   "updatedAt": 1791409895,
+   "version": "1.2.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a/BetterEffectViewer": {
    "addOnVersion": "",
@@ -5424,13 +5438,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibConsoleMenu AAAConsoleUIShim",
-   "downloads": 27365,
+   "downloads": 28341,
    "folder": "PvPUA",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast",
    "title": "PvP UA!",
-   "updatedAt": 1790827795,
-   "version": "5"
+   "updatedAt": 1791404618,
+   "version": "5.1"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -6133,18 +6147,18 @@
    "version": "3.1.3"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
-   "addOnVersion": "6",
+   "addOnVersion": "8",
    "addonId": "be795295-0a8b-40e3-9fc6-f3086e0f202c",
    "apiVersion": "101051",
    "author": "ForiMonster",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 4,
    "folder": "An_Daghdha1233Inventory",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "An_Daghdha1233 Inventory",
-   "updatedAt": 1791397220,
-   "version": "0.3.3"
+   "updatedAt": 1791423689,
+   "version": "0.4.1"
   },
   "be99bdeb-a9e3-4b63-abe8-9aa886190e8e/AutoReadyCheck": {
    "addOnVersion": "241",
@@ -6511,18 +6525,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000077",
+   "addOnVersion": "01000079",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 10240,
+   "downloads": 10363,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1791345612,
-   "version": "1.0.77"
+   "updatedAt": 1791432013,
+   "version": "1.0.79"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -6539,18 +6553,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "14",
+   "addOnVersion": "15",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 355,
+   "downloads": 383,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1791326890,
-   "version": "0.4.0"
+   "updatedAt": 1791408278,
+   "version": "0.4.1"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
@@ -8766,12 +8780,6 @@
    ],
    "version": "1.0.5"
   },
-  "081ea199-9758-4f43-b194-ba2df6ad9562": {
-   "folders": [
-    "LibTrack"
-   ],
-   "version": "1.1.3"
-  },
   "086be98f-893e-4cea-a222-aad748e474c9": {
    "folders": [
     "ShouldIUlt"
@@ -9370,7 +9378,7 @@
    "folders": [
     "LibNotify"
    ],
-   "version": "1.4.2"
+   "version": "1.4.3"
   },
   "2c70f704-e9aa-42d3-8c65-894ef085a9ea": {
    "folders": [
@@ -9623,7 +9631,7 @@
    "folders": [
     "DevSandbox3"
    ],
-   "version": "DevSandbox3-4.18.0-2026-10-06T002216"
+   "version": "DevSandbox3-4.19.0-2026-10-07T153239"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d": {
    "folders": [
@@ -9690,6 +9698,13 @@
    ],
    "version": "1.29.2"
   },
+  "427000e9-72c4-4fc9-b9b6-3cca4f863607": {
+   "folders": [
+    "TGWSkillSeeker",
+    "TGWSkillSeeker"
+   ],
+   "version": "1.0.0"
+  },
   "42a55498-b21a-4657-86ba-bdb954f7a09d": {
    "folders": [
     "InsatiableHungerBlocker"
@@ -9712,7 +9727,7 @@
    "folders": [
     "PullCard"
    ],
-   "version": "0.4.4"
+   "version": "0.4.6"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb": {
    "folders": [
@@ -10072,7 +10087,7 @@
    "folders": [
     "archdruidTracker"
    ],
-   "version": "2.2.9"
+   "version": "2.3.7"
   },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73": {
    "folders": [
@@ -10521,6 +10536,12 @@
     "SurvivalMode"
    ],
    "version": "1.8"
+  },
+  "79dd6cfe-4b31-471a-96b6-061bf53f35f6": {
+   "folders": [
+    "PBsKillLog"
+   ],
+   "version": "1.2.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a": {
    "folders": [
@@ -11099,7 +11120,7 @@
    "folders": [
     "PvPUA"
    ],
-   "version": "5"
+   "version": "5.1"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -11423,7 +11444,7 @@
    "folders": [
     "An_Daghdha1233Inventory"
    ],
-   "version": "0.3.3"
+   "version": "0.4.1"
   },
   "be99bdeb-a9e3-4b63-abe8-9aa886190e8e": {
    "folders": [
@@ -11602,7 +11623,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.77"
+   "version": "1.0.79"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -11614,7 +11635,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.4.0"
+   "version": "0.4.1"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c": {
    "folders": [
