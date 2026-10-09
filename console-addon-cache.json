@@ -168,6 +168,20 @@
    "updatedAt": 1785395353,
    "version": "0.1a"
   },
+  "07ad2fa8-6b34-4021-bcb1-886119449ac1/PBsGammaAdjuster": {
+   "addOnVersion": "",
+   "addonId": "07ad2fa8-6b34-4021-bcb1-886119449ac1",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "LibHarvensAddonSettings>=20106",
+   "downloads": 6,
+   "folder": "PBsGammaAdjuster",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "PinkB's GammaAdjuster(Beta)",
+   "updatedAt": 1791579356,
+   "version": "1.1.0"
+  },
   "081b2e52-b426-454f-9be3-3a9a4aa5678f/Test": {
    "addOnVersion": "",
    "addonId": "081b2e52-b426-454f-9be3-3a9a4aa5678f",
@@ -3066,6 +3080,20 @@
    "updatedAt": 1790885374,
    "version": "Rahaad1.0.6a"
   },
+  "56cfaf14-f344-4808-bed0-fa69138769fd/AtlasMiniMap": {
+   "addOnVersion": "4",
+   "addonId": "56cfaf14-f344-4808-bed0-fa69138769fd",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "AtlasMiniMap",
+   "isLibrary": "False",
+   "optionalDependsOn": "",
+   "title": "Atlas Mini Map",
+   "updatedAt": 1791587106,
+   "version": "1.0.1"
+  },
   "588eb388-ead2-4649-82cc-13838f638b1f/TheSynapticRegistry": {
    "addOnVersion": "9",
    "addonId": "588eb388-ead2-4649-82cc-13838f638b1f",
@@ -3331,6 +3359,20 @@
    "title": "LibLazyCrafting",
    "updatedAt": 1790615699,
    "version": "4.042"
+  },
+  "612f9579-3c45-4ab4-84e0-6989fb59bd19/PBsGammaAdjuster": {
+   "addOnVersion": "",
+   "addonId": "612f9579-3c45-4ab4-84e0-6989fb59bd19",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "LibHarvensAddonSettings>=20106",
+   "downloads": 0,
+   "folder": "PBsGammaAdjuster",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "PinkB's GammaAdjuster",
+   "updatedAt": 1791579652,
+   "version": "1.1.0"
   },
   "61641950-b365-49c6-bb98-dff4fa7bcc01/PBsClock": {
    "addOnVersion": "",
@@ -5488,20 +5530,6 @@
    "updatedAt": 1791404618,
    "version": "5.1"
   },
-  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
-   "addOnVersion": "102",
-   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
-   "apiVersion": "101050",
-   "author": "Bucketmore",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 152,
-   "folder": "PvPTargetInfo",
-   "isLibrary": "false",
-   "optionalDependsOn": "",
-   "title": "PvP Target Info",
-   "updatedAt": 1791552620,
-   "version": "v2.0.3"
-  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
    "addonId": "a6c22156-8b52-467d-ab02-287e5731a1fb",
@@ -5970,13 +5998,13 @@
    "apiVersion": "101046",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 8614,
+   "downloads": 9133,
    "folder": "PvPCooldownTracker",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PvPCooldownTracker",
-   "updatedAt": 1785103548,
-   "version": "21.7 Texture Addition"
+   "updatedAt": 1791581554,
+   "version": "22.0"
   },
   "b3b32522-0ed3-419e-b20d-ef4b651bc013/702sCraftCompletionistList": {
    "addOnVersion": "",
@@ -6079,16 +6107,16 @@
   "b7f8c335-5c64-42cf-813e-c178bb11a1e5/warmaskTracker": {
    "addOnVersion": "",
    "addonId": "b7f8c335-5c64-42cf-813e-c178bb11a1e5",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 5799,
+   "downloads": 6545,
    "folder": "warmaskTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Warmask Tracker",
-   "updatedAt": 1789638304,
-   "version": "1.5.4"
+   "updatedAt": 1791579885,
+   "version": "1.5.5"
   },
   "b95c419b-3f27-4214-aaae-c39bc4cbbeab/AsylumTimers": {
    "addOnVersion": "10303",
@@ -8896,6 +8924,12 @@
    "folders": [],
    "version": "1.1.2"
   },
+  "07ad2fa8-6b34-4021-bcb1-886119449ac1": {
+   "folders": [
+    "PBsGammaAdjuster"
+   ],
+   "version": "1.1.0"
+  },
   "080f12f0-6b90-43c7-b89f-352feee686e2": {
    "folders": [],
    "version": "1.16.5"
@@ -10185,6 +10219,12 @@
    ],
    "version": "Rahaad1.0.6a"
   },
+  "56cfaf14-f344-4808-bed0-fa69138769fd": {
+   "folders": [
+    "AtlasMiniMap"
+   ],
+   "version": "1.0.1"
+  },
   "588eb388-ead2-4649-82cc-13838f638b1f": {
    "folders": [
     "TheSynapticRegistry"
@@ -10299,6 +10339,12 @@
     "LibLazyCrafting"
    ],
    "version": "4.042"
+  },
+  "612f9579-3c45-4ab4-84e0-6989fb59bd19": {
+   "folders": [
+    "PBsGammaAdjuster"
+   ],
+   "version": "1.1.0"
   },
   "61641950-b365-49c6-bb98-dff4fa7bcc01": {
    "folders": [
@@ -11266,12 +11312,6 @@
    ],
    "version": "5.1"
   },
-  "a5490d07-2b02-4714-bf07-a18820977a3c": {
-   "folders": [
-    "PvPTargetInfo"
-   ],
-   "version": "v2.0.3"
-  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
     "SynergyCooldown"
@@ -11484,7 +11524,7 @@
    "folders": [
     "PvPCooldownTracker"
    ],
-   "version": "21.7 Texture Addition"
+   "version": "22.0"
   },
   "b3b32522-0ed3-419e-b20d-ef4b651bc013": {
    "folders": [
@@ -11536,7 +11576,7 @@
    "folders": [
     "warmaskTracker"
    ],
-   "version": "1.5.4"
+   "version": "1.5.5"
   },
   "b95c419b-3f27-4214-aaae-c39bc4cbbeab": {
    "folders": [
