@@ -54,7 +54,7 @@ AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
 ArtaeumGroupTool	613	6.1.3	101048	Artaeum Group Tool	M0R	dc653131-c684-4f94-b875-35a29506436b
 AsylumTimers	10303	1.3.5	101048 101049	Asylum Timers	Shienar	b95c419b-3f27-4214-aaae-c39bc4cbbeab
-Atlas	104	0.1.4	101051	Atlas	TheGreyWolf98	f01417b0-7ff1-43e7-9d6e-9ff9e62279b3
+Atlas	10000	1.0.0	101051	Atlas	TheGreyWolf98	f01417b0-7ff1-43e7-9d6e-9ff9e62279b3
 atronachTracker		1.1.0	101050	Storm Atronach Tracker	codeWarrior82	a70e4425-99f9-4fdb-85da-dc21b578e10f
 AutoClaimGoldenPursuits	200010	2.0.1	101050	Auto-Claim or Hide Golden Pursuits	code65536	48b63611-befb-44e1-b87a-1bac567ee234
 AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenges	code65536	910446ca-4e83-47c8-8c9b-a5d99bcec73e
@@ -252,7 +252,7 @@ IsItTaunted		1.9.10	101046	IsItTaunted	RipleyZepher	6b4f359b-e17e-46f6-b2c9-9a1e
 ItalianScrollsOnline		1.75	101046	ItalianScrollsOnline	dusty82	5d612b95-1149-48f4-b359-2aaee406bd86
 ItemHound	9	0.8.0	101050 101051	ItemHound	TheGreyWolf98	70b691c1-ae82-42c5-ad2d-4dad6bd53b36
 ItemStackSplitter		1.0.1	101050	Item Stack Splitter	Eldibabalo	fd260c09-574e-4494-9d13-dad835b05662
-JumpToSearch	101	JumpToSearch-0.1.1-2026-10-06T193201	101050	Jump to Search	clubwratt	65eefa37-d12c-4876-bdb9-aa547f7a070a
+JumpToSearch	201	JumpToSearch-0.2.1-2026-10-08T192243	101050	Jump to Search	clubwratt	65eefa37-d12c-4876-bdb9-aa547f7a070a
 KDRTracker		1	101050 101051	DaveeKDR	DaveeMafiaa	84fad8c0-9712-446a-9fff-e8bf44ad6d40
 KhajiitFengShui	137	1.3.7	101050 101051	Khajiit Feng Shui	Dack.Janiels	cae51d07-5b11-4feb-ab79-11e17ca47dca
 KhajiitVoice		4.2	101049	Speak Like Khajiit	YFNatey	8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2
@@ -327,7 +327,7 @@ LiveBuffUptime		1.3.2	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 Loadout	10000	1.0.0	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000079	1.0.79	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000080	1.0.80	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7228	7.2.2.8	101050 101051	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -440,7 +440,7 @@ ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-4
 ProximityAlert		ProximityAlert	101040	ProximityAlert	BeastAF-	ebdcb1e1-d96b-4d8c-a931-d6035865e34d
 PsijicBreachHelper	032	0.3.2	101050 101051	PsijicBreachHelper	saranicole1980	22b9d3d3-0152-4001-b696-0864ab31636d
 PsijicWay	101051	1.51.01	101051	The Psijic Way	xbutch	d55988d9-2bec-4972-b8cb-795ea26131ad
-PullCard	12	0.4.8	101050 101051	Pull Card: Controller Friendly Dungeon Boss Mechanics	yodased-mods	438e8153-db0e-4264-87cb-29c1d97e20ef
+PullCard	14	0.5.1	101050 101051	Pull Card: Controller Friendly Dungeon Boss Mechanics	yodased-mods	438e8153-db0e-4264-87cb-29c1d97e20ef
 Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	21.7 Texture Addition	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
@@ -547,11 +547,11 @@ TrialArenaTracker		2.0.3	101047	Trials & Arenas Tracker	Eldibabalo	49b41fa8-a5b3
 TrialTagger	1	0.1.1	101050 101051	Discord Trial Tagger	greeneca	097d0094-d2c0-4e8c-be4e-016e8046d655
 TrueCombatText		1.1	101050 101051	True Combat Text	Toudidef	9c4d5a13-410a-4a89-9024-319578ddd3a4
 TrueDarkConvergencetimer		1.5	101048	True DarkConvergence timer	Toudidef	b73a092a-bcf8-4b42-9833-97402a32ed87
-TrueDebuffsBars		2.10	101051	True (De)Buffs Bars	Toudidef	c3d7fa6e-9024-4480-a02b-a9672c9da86e
+TrueDebuffsBars		2.11	101051	True (De)Buffs Bars	Toudidef	c3d7fa6e-9024-4480-a02b-a9672c9da86e
 TrueExploration	203	2.3	101046	True Exploration	Shinni42	a095f0da-9f45-4dde-a150-2c9b09ba7317
 TrueFlagCaptureMover		1.1	101050	True Flag Capture Mover	Toudidef	4c1cca0d-7e48-40ed-bd8f-1c87ac158341
 TrueOptionsPannelMover		1.0.7	101050	True Options Pannel Mover	Toudidef	e432e963-6c1d-4e4c-b9b9-491f51ff8d07
-TruePvPRatio		1.13	101051	True PvP Ratio	Toudidef	309e8628-9a7c-45a6-8a1d-c87738ff8757
+TruePvPRatio		1.14	101051	True PvP Ratio	Toudidef	309e8628-9a7c-45a6-8a1d-c87738ff8757
 TrueRessourceBars		0.25	101051	True Ressource Bars	Toudidef	047a332e-1f48-4610-ac9c-72fc6b0fabc7
 TrueReticle		1.2	101050	TrueReticle	Toudidef	f9506e69-c90e-42e8-bef8-115490c59348
 TrueReticle2		2.1	101050	True Reticle 2.0	Toudidef	2e985373-cd04-4a3e-855f-4f8a4ada4d76
