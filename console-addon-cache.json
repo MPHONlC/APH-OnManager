@@ -59,16 +59,16 @@
   "03e3b721-0ccb-4e27-9f1c-ae0e6bf96be5/rushOfAgonyTracker": {
    "addOnVersion": "",
    "addonId": "03e3b721-0ccb-4e27-9f1c-ae0e6bf96be5",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 19,
+   "downloads": 43,
    "folder": "rushOfAgonyTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Rush of Agony Tracker",
-   "updatedAt": 1789554068,
-   "version": "1.0.8"
+   "updatedAt": 1791551069,
+   "version": "1.0.9"
   },
   "04141a46-3d9c-4b14-aa0e-d841090d128c/LibAddonMenu-2.0": {
    "addOnVersion": "44",
@@ -1207,16 +1207,16 @@
   "254690df-a05a-4c44-9c95-9a898dea8d92/mechAcuityTracker": {
    "addOnVersion": "",
    "addonId": "254690df-a05a-4c44-9c95-9a898dea8d92",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 88,
+   "downloads": 136,
    "folder": "mechAcuityTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Mechanical Acuity Tracker",
-   "updatedAt": 1789557275,
-   "version": "1.3.5"
+   "updatedAt": 1791562226,
+   "version": "1.3.6"
   },
   "256dc81e-d505-4eb6-9a51-1d7ffc360c69/HouseHotkey": {
    "addOnVersion": "182",
@@ -1599,16 +1599,16 @@
   "2e985373-cd04-4a3e-855f-4f8a4ada4d76/TrueReticle2": {
    "addOnVersion": "",
    "addonId": "2e985373-cd04-4a3e-855f-4f8a4ada4d76",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 276,
+   "downloads": 538,
    "folder": "TrueReticle2",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "True Reticle 2.0",
-   "updatedAt": 1789662368,
-   "version": "2.1"
+   "updatedAt": 1791554998,
+   "version": "2.2"
   },
   "2edefdf7-97a0-476e-98a0-f76c40976159/CombatFPSBooster": {
    "addOnVersion": "10505",
@@ -1879,16 +1879,16 @@
   "35f1d905-7f5e-4e44-90e8-b304454b4bc9/FrenziedMomentumTracker": {
    "addOnVersion": "",
    "addonId": "35f1d905-7f5e-4e44-90e8-b304454b4bc9",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 28,
+   "downloads": 35,
    "folder": "FrenziedMomentumTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Frenzied Momentum Tracker",
-   "updatedAt": 1789592179,
-   "version": "1.1.7"
+   "updatedAt": 1791559059,
+   "version": "1.1.9"
   },
   "36532469-e4dc-4cc3-b312-16b8a4bebc5b/Meterskull": {
    "addOnVersion": "",
@@ -2162,13 +2162,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 207,
+   "downloads": 216,
    "folder": "advancingYokedaTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Advancing Yokeda Tracker",
-   "updatedAt": 1791545461,
-   "version": "1.3.0"
+   "updatedAt": 1791547649,
+   "version": "1.3.1"
   },
   "3d1bd08c-876b-4248-b347-1a5fd451912d/GroupResources": {
    "addOnVersion": "56",
@@ -2211,6 +2211,20 @@
    "title": "ESO_BuildForge",
    "updatedAt": 1785233450,
    "version": "v4.0.1"
+  },
+  "3ecd8aa0-ce2c-4b41-b059-214dad8bac4f/ChatPalette": {
+   "addOnVersion": "2",
+   "addonId": "3ecd8aa0-ce2c-4b41-b059-214dad8bac4f",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "ChatPalette",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Chat Palette",
+   "updatedAt": 1791565084,
+   "version": "1.0.0"
   },
   "3f511a24-33c0-4c94-979a-97e0982dbb6b/SynergyPriority": {
    "addOnVersion": "2.0",
@@ -2325,18 +2339,18 @@
    "version": "PreviewAnywhere-0.1.1-2026-09-23T053413"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
-   "addOnVersion": "15",
+   "addOnVersion": "18",
    "addonId": "438e8153-db0e-4264-87cb-29c1d97e20ef",
    "apiVersion": "101050 101051",
    "author": "yodased-mods",
    "dependsOn": "",
-   "downloads": 49,
+   "downloads": 65,
    "folder": "PullCard",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Pull Card: Controller Friendly Dungeon Boss Mechanics",
-   "updatedAt": 1791544576,
-   "version": "0.5.2"
+   "updatedAt": 1791566392,
+   "version": "0.5.7"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb/SupressErrors": {
    "addOnVersion": "1",
@@ -2691,16 +2705,16 @@
   "4c1cca0d-7e48-40ed-bd8f-1c87ac158341/TrueFlagCaptureMover": {
    "addOnVersion": "",
    "addonId": "4c1cca0d-7e48-40ed-bd8f-1c87ac158341",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 139,
+   "downloads": 165,
    "folder": "TrueFlagCaptureMover",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "True Flag Capture Mover",
-   "updatedAt": 1789929412,
-   "version": "1.1"
+   "updatedAt": 1791555203,
+   "version": "1.2"
   },
   "4c4e9010-a3ef-435d-b540-4d292e289eca/MurfTreasures": {
    "addOnVersion": "",
@@ -2943,16 +2957,16 @@
   "54292201-deac-4b5d-a9ac-151313446029/turningTideTracker": {
    "addOnVersion": "",
    "addonId": "54292201-deac-4b5d-a9ac-151313446029",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 105,
+   "downloads": 115,
    "folder": "turningTideTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Turning Tide Tracker",
-   "updatedAt": 1789586597,
-   "version": "1.3.3"
+   "updatedAt": 1791575682,
+   "version": "1.3.4"
   },
   "543e2fe8-def0-4dc1-a833-07518e6432eb/SimpleWarhornTimer": {
    "addOnVersion": "",
@@ -3128,13 +3142,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 146,
+   "downloads": 154,
    "folder": "archdruidTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Archdruid Tracker",
-   "updatedAt": 1791544941,
-   "version": "2.5.3"
+   "updatedAt": 1791547602,
+   "version": "2.5.4"
   },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73/FurniturePlanSearch": {
    "addOnVersion": "",
@@ -3279,16 +3293,16 @@
   "6077d87d-fafc-431b-9380-f25348d7b430/gorethiefTracker": {
    "addOnVersion": "",
    "addonId": "6077d87d-fafc-431b-9380-f25348d7b430",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 66,
+   "downloads": 119,
    "folder": "gorethiefTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Gorethief Tracker",
-   "updatedAt": 1789560142,
-   "version": "1.1.2"
+   "updatedAt": 1791561197,
+   "version": "1.1.3"
   },
   "608b7ab5-db64-423a-af5c-2438027f0eed/BannerStatus": {
    "addOnVersion": "",
@@ -3449,14 +3463,14 @@
    "addonId": "656a56dd-1f9a-428e-a52e-dc72a77de425",
    "apiVersion": "101051",
    "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibCombat",
-   "downloads": 2,
+   "dependsOn": "LibHarvensAddonSettings LibCombat2",
+   "downloads": 8,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibCombat",
    "title": "testo",
-   "updatedAt": 1791539859,
-   "version": "1.5.0"
+   "updatedAt": 1791565810,
+   "version": "1.6.2"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
    "addOnVersion": "201",
@@ -3555,6 +3569,20 @@
    "title": "AlreadyListed",
    "updatedAt": 1786385702,
    "version": "1.1"
+  },
+  "66e37433-eec7-410c-8d64-001233195f18/PerCharacterMounts": {
+   "addOnVersion": "13",
+   "addonId": "66e37433-eec7-410c-8d64-001233195f18",
+   "apiVersion": "101051",
+   "author": "-Chin",
+   "dependsOn": "",
+   "downloads": 8,
+   "folder": "PerCharacterMounts",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
+   "title": "Per-Character Mount Randomizer",
+   "updatedAt": 1791575143,
+   "version": "1.4.6"
   },
   "670babe5-297e-4cb3-88d6-cda790275d1a/UnknownFilter": {
    "addOnVersion": "302",
@@ -4637,16 +4665,16 @@
   "8dff29ed-8886-46e4-ad37-c73add153c3f/darkConvergenceTracker": {
    "addOnVersion": "",
    "addonId": "8dff29ed-8886-46e4-ad37-c73add153c3f",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 9,
+   "downloads": 16,
    "folder": "darkConvergenceTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Dark Convergence Tracker",
-   "updatedAt": 1789554613,
-   "version": "1.0.6"
+   "updatedAt": 1791550312,
+   "version": "1.0.8"
   },
   "8e142999-8113-4317-9868-a6be8e0a34cc/GroupFinderAlerts": {
    "addOnVersion": "",
@@ -5082,6 +5110,20 @@
    "updatedAt": 1785120364,
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
   },
+  "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
+   "addOnVersion": "7",
+   "addonId": "989b1df5-3c15-479c-b13d-a42ed8b45214",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 9,
+   "folder": "CombatRecap",
+   "isLibrary": "False",
+   "optionalDependsOn": "",
+   "title": "Combat Recap",
+   "updatedAt": 1791575387,
+   "version": "1.0.0"
+  },
   "9926b8d4-d4ca-4215-8790-013c0b1630c0/AutoLuaMemoryCleaner": {
    "addOnVersion": "26100717",
    "addonId": "9926b8d4-d4ca-4215-8790-013c0b1630c0",
@@ -5183,16 +5225,16 @@
   "9c4d5a13-410a-4a89-9024-319578ddd3a4/TrueCombatText": {
    "addOnVersion": "",
    "addonId": "9c4d5a13-410a-4a89-9024-319578ddd3a4",
-   "apiVersion": "101050 101051",
+   "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "",
-   "downloads": 25,
+   "downloads": 30,
    "folder": "TrueCombatText",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "True Combat Text",
-   "updatedAt": 1791046634,
-   "version": "1.1"
+   "updatedAt": 1791554388,
+   "version": "1.3"
   },
   "9cb042d4-e427-4f0c-9c9c-48e1a355c970/CollectablesTesting": {
    "addOnVersion": "",
@@ -5446,6 +5488,20 @@
    "updatedAt": 1791404618,
    "version": "5.1"
   },
+  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
+   "addOnVersion": "102",
+   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
+   "apiVersion": "101050",
+   "author": "Bucketmore",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 152,
+   "folder": "PvPTargetInfo",
+   "isLibrary": "false",
+   "optionalDependsOn": "",
+   "title": "PvP Target Info",
+   "updatedAt": 1791552620,
+   "version": "v2.0.3"
+  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
    "addonId": "a6c22156-8b52-467d-ab02-287e5731a1fb",
@@ -5659,16 +5715,16 @@
   "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d/aeriesCryTracker": {
    "addOnVersion": "",
    "addonId": "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 37,
+   "downloads": 46,
    "folder": "aeriesCryTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Aerie's Cry Tracker",
-   "updatedAt": 1791545164,
-   "version": "1.2.6"
+   "updatedAt": 1791548129,
+   "version": "1.2.9"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43/PBsLuaMemoryMonitor": {
    "addOnVersion": "",
@@ -5715,16 +5771,16 @@
   "af0511e3-aa4e-4d26-8665-e486da04c1cd/wretchedVitalityTracker": {
    "addOnVersion": "",
    "addonId": "af0511e3-aa4e-4d26-8665-e486da04c1cd",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 48,
+   "downloads": 54,
    "folder": "wretchedVitalityTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Wretched Vitality Tracker",
-   "updatedAt": 1789554993,
-   "version": "1.4.4"
+   "updatedAt": 1791563033,
+   "version": "1.4.5"
   },
   "afe5bbbc-a2e0-48de-965a-29eff222393f/VotansMiniMap": {
    "addOnVersion": "",
@@ -6314,6 +6370,20 @@
    "updatedAt": 1783028178,
    "version": "2.3.6"
   },
+  "c28be74a-4ab1-4d74-8b7f-db340f69a7ee/EsoAR": {
+   "addOnVersion": "",
+   "addonId": "c28be74a-4ab1-4d74-8b7f-db340f69a7ee",
+   "apiVersion": "101050 101051",
+   "author": "azoozovicSaw21",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "EsoAR",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Arabic localization",
+   "updatedAt": 1791563475,
+   "version": "2.2.5"
+  },
   "c3b0724d-c60e-44de-9244-7cdc9f20c868/PBsScreenshotModeShortcut": {
    "addOnVersion": "",
    "addonId": "c3b0724d-c60e-44de-9244-7cdc9f20c868",
@@ -6355,6 +6425,20 @@
    "title": "More Markers",
    "updatedAt": 1787930746,
    "version": "2.2.2"
+  },
+  "c42c61b1-af71-4aaf-9667-240aabc831e8/HouseDirectory": {
+   "addOnVersion": "4",
+   "addonId": "c42c61b1-af71-4aaf-9667-240aabc831e8",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "HouseDirectory",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "House Directory",
+   "updatedAt": 1791562751,
+   "version": "1.0.0"
   },
   "c49e3df6-7e8e-4a29-8866-1afb08cca3a8/PBsTranslate": {
    "addOnVersion": "",
@@ -6737,16 +6821,16 @@
   "cec19621-d3f2-4b43-b391-5d028918cfb4/rallyingCryTracker": {
    "addOnVersion": "",
    "addonId": "cec19621-d3f2-4b43-b391-5d028918cfb4",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 31,
+   "downloads": 49,
    "folder": "rallyingCryTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Rallying Cry Tracker",
-   "updatedAt": 1789570540,
-   "version": "1.0.9"
+   "updatedAt": 1791574391,
+   "version": "1.1.0"
   },
   "cec7b602-5dc0-4af0-a949-cd5483dc7329/LibTextFormat": {
    "addOnVersion": "019",
@@ -6849,16 +6933,16 @@
   "d16fe7aa-9938-433f-bac9-3a808f810ae7/TrueSynergiesMover": {
    "addOnVersion": "",
    "addonId": "d16fe7aa-9938-433f-bac9-3a808f810ae7",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 1239,
+   "downloads": 1421,
    "folder": "TrueSynergiesMover",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "True Synergies Mover",
-   "updatedAt": 1789929146,
-   "version": "1.1"
+   "updatedAt": 1791555488,
+   "version": "1.4"
   },
   "d1a95060-4ee7-4fc9-a0f1-681fe479c5b9/LibSavedVars": {
    "addOnVersion": "60100",
@@ -7619,16 +7703,16 @@
   "e432e963-6c1d-4e4c-b9b9-491f51ff8d07/TrueOptionsPannelMover": {
    "addOnVersion": "",
    "addonId": "e432e963-6c1d-4e4c-b9b9-491f51ff8d07",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 364,
+   "downloads": 388,
    "folder": "TrueOptionsPannelMover",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "True Options Pannel Mover",
-   "updatedAt": 1789928957,
-   "version": "1.0.7"
+   "updatedAt": 1791555131,
+   "version": "1.0.8"
   },
   "e4b71317-9236-4462-a9a2-889700f950bb/LibAbilityLogger": {
    "addOnVersion": "1",
@@ -7717,16 +7801,16 @@
   "e6634e8a-1c51-45d7-ba7b-f062e50e5ee8/essenceThiefTracker": {
    "addOnVersion": "",
    "addonId": "e6634e8a-1c51-45d7-ba7b-f062e50e5ee8",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 9,
+   "downloads": 14,
    "folder": "essenceThiefTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Essence Thief Tracker",
-   "updatedAt": 1789564182,
-   "version": "1.0.4"
+   "updatedAt": 1791551742,
+   "version": "1.0.5"
   },
   "e6bacf32-d124-4c92-bc87-b477e7611861/ShowCP": {
    "addOnVersion": "4",
@@ -7813,18 +7897,18 @@
    "version": "1.0.3"
   },
   "ea5313bb-c034-4b91-8816-546e4d37a355/WhatsMissing": {
-   "addOnVersion": "15104",
+   "addOnVersion": "15105",
    "addonId": "ea5313bb-c034-4b91-8816-546e4d37a355",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 5995,
+   "downloads": 6244,
    "folder": "WhatsMissing",
    "isLibrary": "false",
    "optionalDependsOn": "LibRadialMenu",
    "title": "What's Missing? - Skill Point Tracker",
-   "updatedAt": 1791531403,
-   "version": "1.51.04"
+   "updatedAt": 1791550291,
+   "version": "1.51.05"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0/LibPromises": {
    "addOnVersion": "37",
@@ -8009,18 +8093,18 @@
    "version": "0.3.2"
   },
   "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3/Atlas": {
-   "addOnVersion": "10000",
+   "addOnVersion": "10001",
    "addonId": "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3",
    "apiVersion": "101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 8,
+   "downloads": 11,
    "folder": "Atlas",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Atlas",
-   "updatedAt": 1791517200,
-   "version": "1.0.0"
+   "updatedAt": 1791558083,
+   "version": "1.0.1"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e/DVDScreenSaver": {
    "addOnVersion": "",
@@ -8403,16 +8487,16 @@
   "f9506e69-c90e-42e8-bef8-115490c59348/TrueReticle": {
    "addOnVersion": "",
    "addonId": "f9506e69-c90e-42e8-bef8-115490c59348",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 6388,
+   "downloads": 6938,
    "folder": "TrueReticle",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "TrueReticle",
-   "updatedAt": 1789927074,
-   "version": "1.2"
+   "updatedAt": 1791555444,
+   "version": "1.3"
   },
   "fa4ee6fb-c601-4163-998f-801078e1eac0/PriorityBunny": {
    "addOnVersion": "400",
@@ -8756,7 +8840,7 @@
    "folders": [
     "rushOfAgonyTracker"
    ],
-   "version": "1.0.8"
+   "version": "1.0.9"
   },
   "04141a46-3d9c-4b14-aa0e-d841090d128c": {
    "folders": [
@@ -9283,7 +9367,7 @@
    "folders": [
     "mechAcuityTracker"
    ],
-   "version": "1.3.5"
+   "version": "1.3.6"
   },
   "256dc81e-d505-4eb6-9a51-1d7ffc360c69": {
    "folders": [
@@ -9457,7 +9541,7 @@
    "folders": [
     "TrueReticle2"
    ],
-   "version": "2.1"
+   "version": "2.2"
   },
   "2edefdf7-97a0-476e-98a0-f76c40976159": {
    "folders": [
@@ -9578,7 +9662,7 @@
    "folders": [
     "FrenziedMomentumTracker"
    ],
-   "version": "1.1.7"
+   "version": "1.1.9"
   },
   "36532469-e4dc-4cc3-b312-16b8a4bebc5b": {
    "folders": [
@@ -9703,7 +9787,7 @@
    "folders": [
     "advancingYokedaTracker"
    ],
-   "version": "1.3.0"
+   "version": "1.3.1"
   },
   "3ce79776-65cd-4ba4-aff5-0703076be756": {
    "folders": [],
@@ -9727,6 +9811,12 @@
     "ESO_BuildForge"
    ],
    "version": "v4.0.1"
+  },
+  "3ecd8aa0-ce2c-4b41-b059-214dad8bac4f": {
+   "folders": [
+    "ChatPalette"
+   ],
+   "version": "1.0.0"
   },
   "3f511a24-33c0-4c94-979a-97e0982dbb6b": {
    "folders": [
@@ -9769,7 +9859,7 @@
    "folders": [
     "PullCard"
    ],
-   "version": "0.5.2"
+   "version": "0.5.7"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb": {
    "folders": [
@@ -9930,7 +10020,7 @@
    "folders": [
     "TrueFlagCaptureMover"
    ],
-   "version": "1.1"
+   "version": "1.2"
   },
   "4c4e9010-a3ef-435d-b540-4d292e289eca": {
    "folders": [
@@ -10050,7 +10140,7 @@
    "folders": [
     "turningTideTracker"
    ],
-   "version": "1.3.3"
+   "version": "1.3.4"
   },
   "543e2fe8-def0-4dc1-a833-07518e6432eb": {
    "folders": [
@@ -10129,7 +10219,7 @@
    "folders": [
     "archdruidTracker"
    ],
-   "version": "2.5.3"
+   "version": "2.5.4"
   },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73": {
    "folders": [
@@ -10196,7 +10286,7 @@
    "folders": [
     "gorethiefTracker"
    ],
-   "version": "1.1.2"
+   "version": "1.1.3"
   },
   "608b7ab5-db64-423a-af5c-2438027f0eed": {
    "folders": [
@@ -10273,7 +10363,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "1.5.0"
+   "version": "1.6.2"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
    "folders": [
@@ -10316,6 +10406,12 @@
     "AlreadyListed"
    ],
    "version": "1.1"
+  },
+  "66e37433-eec7-410c-8d64-001233195f18": {
+   "folders": [
+    "PerCharacterMounts"
+   ],
+   "version": "1.4.6"
   },
   "670babe5-297e-4cb3-88d6-cda790275d1a": {
    "folders": [
@@ -10812,7 +10908,7 @@
    "folders": [
     "darkConvergenceTracker"
    ],
-   "version": "1.0.6"
+   "version": "1.0.8"
   },
   "8e0a0bf5-7c84-4155-ba23-48c34887ff9f": {
    "folders": [],
@@ -11007,6 +11103,12 @@
    ],
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
   },
+  "989b1df5-3c15-479c-b13d-a42ed8b45214": {
+   "folders": [
+    "CombatRecap"
+   ],
+   "version": "1.0.0"
+  },
   "9926b8d4-d4ca-4215-8790-013c0b1630c0": {
    "folders": [
     "AutoLuaMemoryCleaner"
@@ -11053,7 +11155,7 @@
    "folders": [
     "TrueCombatText"
    ],
-   "version": "1.1"
+   "version": "1.3"
   },
   "9cb042d4-e427-4f0c-9c9c-48e1a355c970": {
    "folders": [
@@ -11164,6 +11266,12 @@
    ],
    "version": "5.1"
   },
+  "a5490d07-2b02-4714-bf07-a18820977a3c": {
+   "folders": [
+    "PvPTargetInfo"
+   ],
+   "version": "v2.0.3"
+  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
     "SynergyCooldown"
@@ -11260,7 +11368,7 @@
    "folders": [
     "aeriesCryTracker"
    ],
-   "version": "1.2.6"
+   "version": "1.2.9"
   },
   "adeb7cae-c7d2-4f05-9f6b-398235624c33": {
    "folders": [],
@@ -11288,7 +11396,7 @@
    "folders": [
     "wretchedVitalityTracker"
    ],
-   "version": "1.4.4"
+   "version": "1.4.5"
   },
   "afe5bbbc-a2e0-48de-965a-29eff222393f": {
    "folders": [
@@ -11559,6 +11667,12 @@
    "folders": [],
    "version": "1"
   },
+  "c28be74a-4ab1-4d74-8b7f-db340f69a7ee": {
+   "folders": [
+    "EsoAR"
+   ],
+   "version": "2.2.5"
+  },
   "c370eaba-64de-4a9b-9d9a-d6bd0c3db0aa": {
    "folders": [],
    "version": "1.1.0"
@@ -11580,6 +11694,12 @@
     "M0RMarkers"
    ],
    "version": "2.2.2"
+  },
+  "c42c61b1-af71-4aaf-9667-240aabc831e8": {
+   "folders": [
+    "HouseDirectory"
+   ],
+   "version": "1.0.0"
   },
   "c49e3df6-7e8e-4a29-8866-1afb08cca3a8": {
    "folders": [
@@ -11759,7 +11879,7 @@
    "folders": [
     "rallyingCryTracker"
    ],
-   "version": "1.0.9"
+   "version": "1.1.0"
   },
   "cec7b602-5dc0-4af0-a949-cd5483dc7329": {
    "folders": [
@@ -11807,7 +11927,7 @@
    "folders": [
     "TrueSynergiesMover"
    ],
-   "version": "1.1"
+   "version": "1.4"
   },
   "d1a95060-4ee7-4fc9-a0f1-681fe479c5b9": {
    "folders": [
@@ -12167,7 +12287,7 @@
    "folders": [
     "TrueOptionsPannelMover"
    ],
-   "version": "1.0.7"
+   "version": "1.0.8"
   },
   "e4b71317-9236-4462-a9a2-889700f950bb": {
    "folders": [
@@ -12213,7 +12333,7 @@
    "folders": [
     "essenceThiefTracker"
    ],
-   "version": "1.0.4"
+   "version": "1.0.5"
   },
   "e6bacf32-d124-4c92-bc87-b477e7611861": {
    "folders": [
@@ -12260,7 +12380,7 @@
    "folders": [
     "WhatsMissing"
    ],
-   "version": "1.51.04"
+   "version": "1.51.05"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0": {
    "folders": [
@@ -12353,7 +12473,7 @@
    "folders": [
     "Atlas"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e": {
    "folders": [
@@ -12526,7 +12646,7 @@
    "folders": [
     "TrueReticle"
    ],
-   "version": "1.2"
+   "version": "1.3"
   },
   "fa4ee6fb-c601-4163-998f-801078e1eac0": {
    "folders": [

@@ -118,6 +118,7 @@ LibTextFilter	Taneth
 LibVotansAddonList	AddonCategory	AddonSelector
 LibZone	LibSlashCommander
 LiveAchiever	LibVotans
+LiveBuffUptime	LibCombat
 LootLog	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
 LoreBooks	DebugLogViewer	LibDebugLogger
 LoreLibrary	AUI	LibHarvensAddonSettings	MiniMap	VotansMiniMap
@@ -161,6 +162,7 @@ PBsOmikuji	LibHarvensAddonSettings
 PBsTetris	LibGroupBroadcast
 PBsTranslate	LibGroupBroadcast	LibHarvensAddonSettings
 PBsWarTable	LibGroupBroadcast
+PerCharacterMounts	LibAddonMenu-2.0	LibHarvensAddonSettings
 PermMemento	LibAddonMenu-2.0	LibGroupBroadcast	LibHarvensAddonSettings
 PersonalDpsTracker	LibHarvensAddonSettings
 PetHealth	LibAddonMenu-2.0	LibAddonMenuOrderListBox	LibHarvensAddonSettings	LibSlashCommander
