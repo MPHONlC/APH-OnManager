@@ -23,6 +23,7 @@ AoM.SuggestedCategories = {
 	["AchievementFilter"] = "Character Advancement",
 	["AchievementIDs"] = "Developer Utilities",
 	["AchievementInfo"] = "Character Advancement",
+	["AchievementPeek"] = "Character Advancement",
 	["ActionBarLabels"] = "Action Bar Mods",
 	["ActionBarSkillStyles"] = "Action Bar Mods",
 	["ActionDurationReminder"] = "Action Bar Mods",

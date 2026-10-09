@@ -23,6 +23,7 @@ AchievementDateFormatter	2	1.1	4668	101049 101050
 AchievementFilter		1.1.3	4301	101050
 AchievementIDs	101	1.0.1	4215	101046
 AchievementInfo		4.17	350	101044
+AchievementPeek		1.0.0	4930	101051
 ActionBarLabels	1	1.0	4348	101048
 ActionBarSkillStyles	4	0.0.4	3928	101044
 ActionDurationReminder	31660	3.166	1536	101051 101052
@@ -658,7 +659,7 @@ GroupModerationBlacklist		0.0.1	4880	101045
 GroupResources	56	0.10.0	1338	101048 101049
 GroupUserId	116	2026.07.09	2589	101055
 GrumpysLarcenistTracker		1.1.0	4531	101050
-GTA		2026.10.08	4590	101051
+GTA		2026.10.09	4590	101051
 GuardHelper		1.0.1	3553	101040
 GuardWarner	20250221	1.4.1	3590	101044
 GuildAdblockCustomized		1.0.2	4340
@@ -945,7 +946,7 @@ Mephisto		2.2.7	3833	101041 101042
 merCharacterSheet	5301	5.3	742	101049 101050
 merQuickslotFilters	3000	3.0	953	101043 101044
 merTorchbug	177	1.77	2601	101051 101052
-Meterskull		1.6.0	3941	101051
+Meterskull		1.6.1	3941	101051
 MiatsTickTracker	115	1.15	4240	101047
 MidTrialMechs	1	1.0.1	4907	101050 101051
 MightyExperienceBar		1.1.0	3126	101041
@@ -979,6 +980,7 @@ MyDynamicCamera		1	4115	101042
 MyLittleJournal	100	1.01	4802	101046
 MyStatus	170	1.70	1263	101040 101041
 MythicSelector	1	1.1.1	3315	101049
+NagaMapaCompleto	20705	2.9.0	4839	101050 101051
 NameLanguageNinja	10117	1.1.17	2667	101045 101046
 NamePlater	15	v0.15	2344	101039 101040
 Namez	10114	1.1.14	3411	101050
@@ -1301,7 +1303,7 @@ SimpleSkyshards	106	1.06	3501	101040
 SiphoningTransferCD		1.0	4142	101046
 SkillBlocker	100	1.0b	2619	100030
 SkillBlocker_NJ		1.5	4318	101048
-Skillbound	3	1.0.2	4911	101050 101051
+Skillbound	4	1.0.3	4911	101050 101051
 SkillExp		1.1.0	4445	101048 101049
 SkillIssueTracker		1.0.3	4744	101050
 SkillLines		v2.1.2	4041	101051
