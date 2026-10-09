@@ -27,7 +27,7 @@ ArkadiusTradeToolsSalesData13	20000	2.0.0	1752	101041	Arkadius' Trade Tools	Arka
 ArkadiusTradeToolsSalesData14	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData14
 ArkadiusTradeToolsSalesData15	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData15
 ArkadiusTradeToolsSalesData16	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData16
-AUI_FightData		3.992	919	101049	AUI - Advanced UI	AUI_FightData
+AUI_FightData		3.993	919	101051	AUI - Advanced UI	AUI_FightData
 blox		1.0.0	4004		LibFonts	blox
 CombatInsightsFightData	10200	1.2.2	3730	101046	CombatInsightsFightData	CombatInsightsFightData
 CombatMetricsFightData	22	1.7.8	1360	101048	CombatMetricsFightData	CombatMetricsFightData
