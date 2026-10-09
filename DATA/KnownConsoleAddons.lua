@@ -23,9 +23,9 @@ AddonInsights	180	0.10	101049 101047	AddonInsights	spoqster	11249dc8-1df3-4342-a
 AddonLoadMonitor		1.0.0	101047 101048	Addon Load Time Monitor	code65536	a89e4472-1774-4182-bc32-05d04d19ca06
 AddonLoadouts	1	1.5	101049 101050	Addon Loadouts	Dack.Janiels	1ff1b2cd-ba65-4264-a11d-2c55b57eb158
 AdrosarSandbox		0.2.1	101048	AdrosarSandbox	Adrosar	4b7473ab-b042-43c8-9fb3-117f372331c3
-advancingYokedaTracker		1.2.4	101050	Advancing Yokeda Tracker	codeWarrior82	3cd8f841-6502-49d4-866c-a49b12a16460
+advancingYokedaTracker		1.3.0	101051	Advancing Yokeda Tracker	codeWarrior82	3cd8f841-6502-49d4-866c-a49b12a16460
 AdventurersToolkit	652	14.12.652	101048	Adventurer's Toolkit	Tekatsu	8ba040d8-fba0-4a01-aa63-4ee74dd2d1d6
-aeriesCryTracker		1.2.4	101050	Aerie's Cry Tracker	codeWarrior82	ad7a6e1f-ea28-463b-819f-fd0ce5f2395d
+aeriesCryTracker		1.2.6	101050	Aerie's Cry Tracker	codeWarrior82	ad7a6e1f-ea28-463b-819f-fd0ce5f2395d
 AlchemyOpener	1	1.0.2	101046	Alchemy Opener	Vixen_Hunny	8f125308-c2a5-40e6-b249-d29e85f81020
 AldrensGrandmasterWorkshop		2.0.1	101050	Aldrens Grandmaster Workshop	Rhyojaan	764a614a-74ad-46e6-b587-0bea7cd6174c
 AldrensWorldEvents		0.4.4	101050	Aldrens World Events	Rhyojaan	1314f50c-ef2d-47b1-a8e8-18bf28416980
@@ -48,7 +48,7 @@ AntiquarianCodex	15104	1.51.04	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-OnManager	26100613	2026.10.06.13.49	101051 101052	APH-On Manager	MPHONlC
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
-archdruidTracker		2.4.5	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
+archdruidTracker		2.5.3	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010100	1.1.0	101047 101048	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
 AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5272a2a
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
@@ -323,7 +323,7 @@ LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a1
 LibVotansAddonList	11000	1.10.0	101045 101046	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
-LiveBuffUptime		1.3.2	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
+LiveBuffUptime		1.5.0	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 Loadout	10000	1.0.0	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
@@ -411,7 +411,7 @@ PBsCyrodiilAlert		2.7.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsHudManager		1.0.2	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
 PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25bb-1103-4636-a4f6-5c6a280ff8e2
-PBsKillLog		1.2.0	101050 101051	PinkB's KillLog(Beta)	PinkBanther	79dd6cfe-4b31-471a-96b6-061bf53f35f6
+PBsKillLog		1.3.0	101050 101051	PinkB's KillLog	PinkBanther	ff4bafd1-1006-4f21-8d38-7a45f4527518
 PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4878125-abb0-49bd-b8d3-ca06c9ad746a
 PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371fcd02-ae32-4937-a1d4-de4f33b01870
 PBsMiniMap		2.2.17	101050 101051	PinkB's MiniMap(Beta)	PinkBanther	d0219382-bec1-477e-bcc2-d2b0c7138a79
@@ -440,7 +440,7 @@ ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-4
 ProximityAlert		ProximityAlert	101040	ProximityAlert	BeastAF-	ebdcb1e1-d96b-4d8c-a931-d6035865e34d
 PsijicBreachHelper	032	0.3.2	101050 101051	PsijicBreachHelper	saranicole1980	22b9d3d3-0152-4001-b696-0864ab31636d
 PsijicWay	101051	1.51.01	101051	The Psijic Way	xbutch	d55988d9-2bec-4972-b8cb-795ea26131ad
-PullCard	14	0.5.1	101050 101051	Pull Card: Controller Friendly Dungeon Boss Mechanics	yodased-mods	438e8153-db0e-4264-87cb-29c1d97e20ef
+PullCard	15	0.5.2	101050 101051	Pull Card: Controller Friendly Dungeon Boss Mechanics	yodased-mods	438e8153-db0e-4264-87cb-29c1d97e20ef
 Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	21.7 Texture Addition	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
@@ -582,7 +582,7 @@ warmaskTracker		1.5.4	101050	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-81
 WarmasktrackerByJH		1.5	101051 101050	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
 WeaveDelays	105	1.0.5	101050	WeaveDelays	ThePsiioniic	1428d8ab-7f1f-4741-833a-93180287dd09
 WeavingMetronome	101059	1.9.9	101051	Weaving Metronome	FiNk3F13	c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5
-WhatsMissing	15103	1.51.03	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
+WhatsMissing	15104	1.51.04	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
 WhatsMyBuildAgain	005005004	5.0.5	101050	What's My Build Again	Eldibabalo	61ffae27-7976-4d4b-a9fa-0fafb387434a
 WheeWheel		0.0.5	101050 101051	Wheewheel	murphyx	6b001219-cfeb-4b80-b418-e3c7da481d73
 WhereIsIt		1.3	101048 101049 101050 101051	Where Is It?	user562x	45d919f9-f85b-4930-9348-94fe2e245f98

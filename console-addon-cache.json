@@ -2159,16 +2159,16 @@
   "3cd8f841-6502-49d4-866c-a49b12a16460/advancingYokedaTracker": {
    "addOnVersion": "",
    "addonId": "3cd8f841-6502-49d4-866c-a49b12a16460",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 167,
+   "downloads": 207,
    "folder": "advancingYokedaTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Advancing Yokeda Tracker",
-   "updatedAt": 1789588291,
-   "version": "1.2.4"
+   "updatedAt": 1791545461,
+   "version": "1.3.0"
   },
   "3d1bd08c-876b-4248-b347-1a5fd451912d/GroupResources": {
    "addOnVersion": "56",
@@ -2325,7 +2325,7 @@
    "version": "PreviewAnywhere-0.1.1-2026-09-23T053413"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
-   "addOnVersion": "14",
+   "addOnVersion": "15",
    "addonId": "438e8153-db0e-4264-87cb-29c1d97e20ef",
    "apiVersion": "101050 101051",
    "author": "yodased-mods",
@@ -2335,8 +2335,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Pull Card: Controller Friendly Dungeon Boss Mechanics",
-   "updatedAt": 1791505782,
-   "version": "0.5.1"
+   "updatedAt": 1791544576,
+   "version": "0.5.2"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb/SupressErrors": {
    "addOnVersion": "1",
@@ -3128,13 +3128,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 131,
+   "downloads": 146,
    "folder": "archdruidTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Archdruid Tracker",
-   "updatedAt": 1791452410,
-   "version": "2.4.5"
+   "updatedAt": 1791544941,
+   "version": "2.5.3"
   },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73/FurniturePlanSearch": {
    "addOnVersion": "",
@@ -3449,14 +3449,14 @@
    "addonId": "656a56dd-1f9a-428e-a52e-dc72a77de425",
    "apiVersion": "101051",
    "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings",
+   "dependsOn": "LibHarvensAddonSettings LibCombat",
    "downloads": 2,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
-   "optionalDependsOn": "LibCombat",
+   "optionalDependsOn": "",
    "title": "testo",
-   "updatedAt": 1791479360,
-   "version": "1.3.2"
+   "updatedAt": 1791539859,
+   "version": "1.5.0"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
    "addOnVersion": "201",
@@ -4136,13 +4136,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 4,
    "folder": "PBsKillLog",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's KillLog(Beta)",
-   "updatedAt": 1791409895,
-   "version": "1.2.0"
+   "updatedAt": 1791539524,
+   "version": "1.3.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a/BetterEffectViewer": {
    "addOnVersion": "",
@@ -5662,13 +5662,13 @@
    "apiVersion": "101050",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 31,
+   "downloads": 37,
    "folder": "aeriesCryTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Aerie's Cry Tracker",
-   "updatedAt": 1789555117,
-   "version": "1.2.4"
+   "updatedAt": 1791545164,
+   "version": "1.2.6"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43/PBsLuaMemoryMonitor": {
    "addOnVersion": "",
@@ -7813,18 +7813,18 @@
    "version": "1.0.3"
   },
   "ea5313bb-c034-4b91-8816-546e4d37a355/WhatsMissing": {
-   "addOnVersion": "15103",
+   "addOnVersion": "15104",
    "addonId": "ea5313bb-c034-4b91-8816-546e4d37a355",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 5539,
+   "downloads": 5995,
    "folder": "WhatsMissing",
    "isLibrary": "false",
    "optionalDependsOn": "LibRadialMenu",
    "title": "What's Missing? - Skill Point Tracker",
-   "updatedAt": 1791039872,
-   "version": "1.51.03"
+   "updatedAt": 1791531403,
+   "version": "1.51.04"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0/LibPromises": {
    "addOnVersion": "37",
@@ -8665,6 +8665,20 @@
    "title": "HodorReflexes",
    "updatedAt": 1779009338,
    "version": "2026-05-17"
+  },
+  "ff4bafd1-1006-4f21-8d38-7a45f4527518/PBsKillLog": {
+   "addOnVersion": "",
+   "addonId": "ff4bafd1-1006-4f21-8d38-7a45f4527518",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsKillLog",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's KillLog",
+   "updatedAt": 1791539559,
+   "version": "1.3.0"
   },
   "ff73a91e-28b3-476c-be2b-ac5e47d079eb/LibHarvensAddonSettings": {
    "addOnVersion": "20200",
@@ -9689,7 +9703,7 @@
    "folders": [
     "advancingYokedaTracker"
    ],
-   "version": "1.2.4"
+   "version": "1.3.0"
   },
   "3ce79776-65cd-4ba4-aff5-0703076be756": {
    "folders": [],
@@ -9755,7 +9769,7 @@
    "folders": [
     "PullCard"
    ],
-   "version": "0.5.1"
+   "version": "0.5.2"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb": {
    "folders": [
@@ -10115,7 +10129,7 @@
    "folders": [
     "archdruidTracker"
    ],
-   "version": "2.4.5"
+   "version": "2.5.3"
   },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73": {
    "folders": [
@@ -10259,7 +10273,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "1.3.2"
+   "version": "1.5.0"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
    "folders": [
@@ -10569,7 +10583,7 @@
    "folders": [
     "PBsKillLog"
    ],
-   "version": "1.2.0"
+   "version": "1.3.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a": {
    "folders": [
@@ -11246,7 +11260,7 @@
    "folders": [
     "aeriesCryTracker"
    ],
-   "version": "1.2.4"
+   "version": "1.2.6"
   },
   "adeb7cae-c7d2-4f05-9f6b-398235624c33": {
    "folders": [],
@@ -12246,7 +12260,7 @@
    "folders": [
     "WhatsMissing"
    ],
-   "version": "1.51.03"
+   "version": "1.51.04"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0": {
    "folders": [
@@ -12627,6 +12641,12 @@
     "HodorReflexes"
    ],
    "version": "2026-05-17"
+  },
+  "ff4bafd1-1006-4f21-8d38-7a45f4527518": {
+   "folders": [
+    "PBsKillLog"
+   ],
+   "version": "1.3.0"
   },
   "ff73a91e-28b3-476c-be2b-ac5e47d079eb": {
    "folders": [
