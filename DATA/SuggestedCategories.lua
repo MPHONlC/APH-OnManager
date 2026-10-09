@@ -374,6 +374,7 @@ AoM.SuggestedCategories = {
 	["CraftingStations"] = "Map, Coords, Compasses",
 	["CraftingStationSpCpDisplayNinja"] = "TradeSkill Mods",
 	["CraftPawns"] = "TradeSkill Mods",
+	["CraftSearch"] = "Graphic UI Mods",
 	["CraftStoreFixedAndImproved"] = "TradeSkill Mods",
 	["Crafty"] = "Bags, Bank, Inventory",
 	["CritMarker"] = "Combat Mods",
