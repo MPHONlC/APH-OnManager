@@ -2506,6 +2506,20 @@
    "updatedAt": 1791309575,
    "version": "366"
   },
+  "47608f50-4be4-46b1-833f-575274a7dbf2/ChatKeeper": {
+   "addOnVersion": "2",
+   "addonId": "47608f50-4be4-46b1-833f-575274a7dbf2",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "ChatKeeper",
+   "isLibrary": "False",
+   "optionalDependsOn": "",
+   "title": "Chat keeper",
+   "updatedAt": 1791612032,
+   "version": "0.1.1"
+  },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
    "addonId": "48762aef-8240-473f-aef5-17d1b5d5b9b6",
@@ -5167,18 +5181,18 @@
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
-   "addOnVersion": "7",
+   "addOnVersion": "8",
    "addonId": "989b1df5-3c15-479c-b13d-a42ed8b45214",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 9,
+   "downloads": 11,
    "folder": "CombatRecap",
    "isLibrary": "False",
    "optionalDependsOn": "",
    "title": "Combat Recap",
-   "updatedAt": 1791575387,
-   "version": "1.0.0"
+   "updatedAt": 1791624096,
+   "version": "1.0.1"
   },
   "9926b8d4-d4ca-4215-8790-013c0b1630c0/AutoLuaMemoryCleaner": {
    "addOnVersion": "26100717",
@@ -5382,13 +5396,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 4,
    "folder": "PBsHudManager",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 PBsConsoleHudCustomizer PBsClock PBsChatWindowCustomizer PBsCyrodiilAlert PBsMiniMap PBsNamePlateChanger PBsQuestTrackerFontChanger",
    "title": "PinkB's HudManager",
-   "updatedAt": 1791066902,
-   "version": "1.0.2"
+   "updatedAt": 1791616237,
+   "version": "1.3.0"
   },
   "a020fed1-e58d-4c59-8ec5-6fb71e8ee9cc/AltGroupFrames": {
    "addOnVersion": "30",
@@ -6651,18 +6665,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000080",
+   "addOnVersion": "01000081",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 10594,
+   "downloads": 10904,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1791518413,
-   "version": "1.0.80"
+   "updatedAt": 1791604813,
+   "version": "1.0.81"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -7174,13 +7188,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 7,
    "folder": "PBsHudManager",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 PBsConsoleHudCustomizer PBsClock PBsChatWindowCustomizer PBsCyrodiilAlert PBsMiniMap PBsNamePlateChanger PBsQuestTrackerFontChanger",
    "title": "PinkB's HudManager(Beta)",
-   "updatedAt": 1791066168,
-   "version": "1.0.2"
+   "updatedAt": 1791611263,
+   "version": "1.2.0"
   },
   "d85860ca-4b0a-47c6-8a0b-45472e2f1878/LibItemSets": {
    "addOnVersion": "100010",
@@ -9961,6 +9975,12 @@
    ],
    "version": "366"
   },
+  "47608f50-4be4-46b1-833f-575274a7dbf2": {
+   "folders": [
+    "ChatKeeper"
+   ],
+   "version": "0.1.1"
+  },
   "47bd1882-3ae4-414d-929c-aad937946be0": {
    "folders": [],
    "version": "1.4.6"
@@ -11159,7 +11179,7 @@
    "folders": [
     "CombatRecap"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "9926b8d4-d4ca-4215-8790-013c0b1630c0": {
    "folders": [
@@ -11249,7 +11269,7 @@
    "folders": [
     "PBsHudManager"
    ],
-   "version": "1.0.2"
+   "version": "1.3.0"
   },
   "a020fed1-e58d-4c59-8ec5-6fb71e8ee9cc": {
    "folders": [
@@ -11831,7 +11851,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.80"
+   "version": "1.0.81"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -12067,7 +12087,7 @@
    "folders": [
     "PBsHudManager"
    ],
-   "version": "1.0.2"
+   "version": "1.2.0"
   },
   "d85860ca-4b0a-47c6-8a0b-45472e2f1878": {
    "folders": [

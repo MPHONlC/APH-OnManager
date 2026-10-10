@@ -107,6 +107,7 @@ CCTracker	010006	3.1 Stable	101046	CCTracker	Synkronist	154706f1-4dcc-478b-a08e-
 ChampionXPBar		1.7	101047	ChampionXPBar	thewizadt	863227c7-d9fe-4803-b842-d9fb1aa79f16
 CharacterBoundItemHider	26100613	2026.10.06.13.49	101051 101052	Character Bound Item Hider	APH0NlC	49e5c9da-dc0d-4bf5-b60c-6e6e53784107
 ChatBeGone	10143	1.1.4.3	101050 101049 101048	Chat Be Gone	xPricee	85e2f419-414a-48a9-ad3b-4b713c098ca2
+ChatKeeper	2	0.1.1	101050 101051	Chat keeper	TheGreyWolf98	47608f50-4be4-46b1-833f-575274a7dbf2
 ChatLogPreserver		ChatLogPreserver-0.0.2-2026-07-26T220304	101048	Chat Log Preserver	clubwratt	cebfe41b-3168-432c-a3cf-795bbe56e54e
 ChatPalette	2	1.0.0	101050 101051	Chat Palette	TheGreyWolf98	3ecd8aa0-ce2c-4b41-b059-214dad8bac4f
 ChatSkipper	100	1.0.1	101048 101049	Chat Skipper	mYoda01	5e1a067b-7af6-4752-bbb0-3de588e8587e
@@ -117,7 +118,7 @@ CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
 CombatAlerts	206070	2.6.7	101051	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
-CombatRecap	7	1.0.0	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
+CombatRecap	8	1.0.1	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
 CombatTopHealthbar		2025.05.29	101046	CombatTopHealthbar	Masteroshi430	7c18ff01-65ca-424a-9797-987227ea3ac6
 CompanionHelper		0.0.4a	101048	Companion Helper	Scribe_Rob	ac31de38-34d3-4d5d-b0a4-282e26e25fa1
@@ -331,7 +332,7 @@ LiveBuffUptime		1.6.2	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 Loadout	10000	1.0.0	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000080	1.0.80	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000081	1.0.81	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7228	7.2.2.8	101050 101051	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -414,7 +415,7 @@ PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Be
 PBsCyrodiilAlert		2.7.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
-PBsHudManager		1.0.2	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
+PBsHudManager		1.3.0	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
 PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25bb-1103-4636-a4f6-5c6a280ff8e2
 PBsKillLog		1.3.0	101050 101051	PinkB's KillLog	PinkBanther	ff4bafd1-1006-4f21-8d38-7a45f4527518
 PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4878125-abb0-49bd-b8d3-ca06c9ad746a
