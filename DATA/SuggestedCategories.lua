@@ -90,6 +90,7 @@ AoM.SuggestedCategories = {
 	["APH-OnManager"] = "Utility Mods",
 	["APH-Profiler"] = "Utility Mods",
 	["APH-Search"] = "Utility Mods",
+	["ApostropheNameFix"] = "Utility Mods",
 	["ArabChat"] = "Chat Mods",
 	["ArcanistMasteryTracker"] = "Arcanist",
 	["ArcanumGuildHall"] = "Group, Guild & Friends",
