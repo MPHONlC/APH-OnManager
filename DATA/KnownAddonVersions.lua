@@ -20,7 +20,7 @@ AccountSettings		2026.09.28	3418	101051
 AccurateWorldMap	2310	2.3.1	4471	101050
 AchievementBar		1.0.4	4227	101050
 AchievementDateFormatter	2	1.1	4668	101049 101050
-AchievementFilter		1.1.3	4301	101050
+AchievementFilter		1.2.1	4301	101051
 AchievementIDs	101	1.0.1	4215	101046
 AchievementInfo		4.17	350	101044
 AchievementPeek		1.0.0	4930	101051
@@ -788,7 +788,7 @@ InfoPanel		1.65	1831	101051
 InfoPanelLayoutFix	10001	1.0.2	4725	101050
 IngredientHunter	1	1.0.0	4513	101044
 InkTracker		1.0.0	3924	101042
-InsatiableHungerBlocker		1.13	4628	101051
+InsatiableHungerBlocker		1.14	4628	101051
 InspectVestige	140	1.4.0	4706	101049
 InstanceLeaver	2	0.2	4867	101050
 InstantSwap		1.2	2987	100034
@@ -830,7 +830,7 @@ JunkBuster		1.92	266	101041 101042
 JunkHotkey	19	1.9	3372	101043 101044
 KaleidoAchievementItems	13	1.7.1	4044	101049 101050
 KaleidoContainerInsight	5	1.0.4	4347	101048 101049
-KApplicationHistory		1.0.1	4933	101051
+KApplicationHistory		2.0.1	4933	101051
 KattsCryptIcons	18	1.7.2	3818	101050 101051
 KayzarUI	2	1.2	4387	101047 101048
 KDialogueHistory		1.1.0	4919	101050 101051
@@ -847,6 +847,7 @@ Killz	118	1.10.7	3572	101050
 KillZaeler	16	1.7.0	4543	101042
 KindlerBeggarLiarThief		1.2	4321	101048 101048
 KMailMaterials		1.0.2	4934	101051
+KozyEsoBuildPort	1002	0.10.2	4938	101051 101052
 KWerewolfTracker		1.6.0	4727	101050 101051
 KwibusRandomThings		1.3.3	4450	101050 101051
 KwibusReset	110101	1.11.0	4281	101047
@@ -977,6 +978,7 @@ MudcrabTracker		0.1.4	4312	101049
 MuffinsSetRecipeTracker		1.6.1	4090	101049 101050
 MuffinsUtilityTree		1.2	4797	101050 101051
 MultiClassAbilityTracker		0.1.1	4831	101050
+MundusGate	20000	2.0.0	4937	101050 101051
 MuteBardsImproved	1	1.0.5	4016	101046
 MuteyPacrooti		0.3.0	4507	101049
 MyDomainGUHalls		1.0.7	3092	101049 101050
@@ -1302,7 +1304,7 @@ SimpleAchievementTracker		1.0.5	4283	101048
 SimpleCastbar	10304	1.3.4	3702	101044
 SimpleDailyCraft	20251117	0.93	3844	101047 101048
 SimpleDPS		4.1.101042	2849	101042 101041 101040 101039 101038 101037 101036 101035 101034 101033 101032 101031 100035 100034 100033
-SimpleEventTracker	3005	3.0.5	4932	101050 101051
+SimpleEventTracker	3008	3.0.8	4932	101050 101051
 SimplePlayTime		1.1.3	4452	101050
 SimpleSkyshards	106	1.06	3501	101040
 SiphoningTransferCD		1.0	4142	101046
