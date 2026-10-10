@@ -4746,6 +4746,20 @@
    "updatedAt": 1745371509,
    "version": "1.1.51"
   },
+  "8e72977c-9627-465e-829d-4950e13e6d82/EsoAR": {
+   "addOnVersion": "",
+   "addonId": "8e72977c-9627-465e-829d-4950e13e6d82",
+   "apiVersion": "101050 101051",
+   "author": "azoozovicSaw21",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "EsoAR",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Arabic localization Beta",
+   "updatedAt": 1791599980,
+   "version": "0.0.4"
+  },
   "8e7b0d7b-4c3c-4dfc-896e-6c413074928b/HideGroupNecro": {
    "addOnVersion": "",
    "addonId": "8e7b0d7b-4c3c-4dfc-896e-6c413074928b",
@@ -6398,20 +6412,6 @@
    "updatedAt": 1783028178,
    "version": "2.3.6"
   },
-  "c28be74a-4ab1-4d74-8b7f-db340f69a7ee/EsoAR": {
-   "addOnVersion": "",
-   "addonId": "c28be74a-4ab1-4d74-8b7f-db340f69a7ee",
-   "apiVersion": "101050 101051",
-   "author": "azoozovicSaw21",
-   "dependsOn": "",
-   "downloads": 0,
-   "folder": "EsoAR",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Arabic localization",
-   "updatedAt": 1791563475,
-   "version": "2.2.5"
-  },
   "c3b0724d-c60e-44de-9244-7cdc9f20c868/PBsScreenshotModeShortcut": {
    "addOnVersion": "",
    "addonId": "c3b0724d-c60e-44de-9244-7cdc9f20c868",
@@ -7099,18 +7099,18 @@
    "version": "0.7.20"
   },
   "d55988d9-2bec-4972-b8cb-795ea26131ad/PsijicWay": {
-   "addOnVersion": "101051",
+   "addOnVersion": "15102",
    "addonId": "d55988d9-2bec-4972-b8cb-795ea26131ad",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 4300,
+   "downloads": 4506,
    "folder": "PsijicWay",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "The Psijic Way",
-   "updatedAt": 1791149659,
-   "version": "1.51.01"
+   "updatedAt": 1791604121,
+   "version": "1.51.02"
   },
   "d5a2661e-4b51-4601-aa8f-84e97fc445ab/LuXhrysVaultAndCoffer": {
    "addOnVersion": "005",
@@ -7925,18 +7925,18 @@
    "version": "1.0.3"
   },
   "ea5313bb-c034-4b91-8816-546e4d37a355/WhatsMissing": {
-   "addOnVersion": "15105",
+   "addOnVersion": "15106",
    "addonId": "ea5313bb-c034-4b91-8816-546e4d37a355",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 6244,
+   "downloads": 6445,
    "folder": "WhatsMissing",
    "isLibrary": "false",
    "optionalDependsOn": "LibRadialMenu",
    "title": "What's Missing? - Skill Point Tracker",
-   "updatedAt": 1791550291,
-   "version": "1.51.05"
+   "updatedAt": 1791604112,
+   "version": "1.51.06"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0/LibPromises": {
    "addOnVersion": "37",
@@ -10972,6 +10972,12 @@
    ],
    "version": "1.1.51"
   },
+  "8e72977c-9627-465e-829d-4950e13e6d82": {
+   "folders": [
+    "EsoAR"
+   ],
+   "version": "0.0.4"
+  },
   "8e7b0d7b-4c3c-4dfc-896e-6c413074928b": {
    "folders": [
     "HideGroupNecro"
@@ -11707,12 +11713,6 @@
    "folders": [],
    "version": "1"
   },
-  "c28be74a-4ab1-4d74-8b7f-db340f69a7ee": {
-   "folders": [
-    "EsoAR"
-   ],
-   "version": "2.2.5"
-  },
   "c370eaba-64de-4a9b-9d9a-d6bd0c3db0aa": {
    "folders": [],
    "version": "1.1.0"
@@ -12037,7 +12037,7 @@
    "folders": [
     "PsijicWay"
    ],
-   "version": "1.51.01"
+   "version": "1.51.02"
   },
   "d5a2661e-4b51-4601-aa8f-84e97fc445ab": {
    "folders": [
@@ -12420,7 +12420,7 @@
    "folders": [
     "WhatsMissing"
    ],
-   "version": "1.51.05"
+   "version": "1.51.06"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0": {
    "folders": [
