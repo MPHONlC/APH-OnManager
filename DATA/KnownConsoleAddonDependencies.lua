@@ -118,7 +118,7 @@ LibTextFilter	Taneth
 LibVotansAddonList	AddonCategory	AddonSelector
 LibZone	LibSlashCommander
 LiveAchiever	LibVotans
-LiveBuffUptime	LibCombat
+LiveBuffUptime	LibCombat	LibCombat2
 LootLog	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
 LoreBooks	DebugLogViewer	LibDebugLogger
 LoreLibrary	AUI	LibHarvensAddonSettings	MiniMap	VotansMiniMap

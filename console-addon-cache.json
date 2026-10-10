@@ -589,18 +589,18 @@
    "version": "1.0.10"
   },
   "1156c297-4c51-44e7-8267-9f934307f36e/MuchSmarterAutoLoot": {
-   "addOnVersion": "80308",
+   "addOnVersion": "80309",
    "addonId": "1156c297-4c51-44e7-8267-9f934307f36e",
    "apiVersion": "101051",
    "author": "Lykeion+",
    "dependsOn": "",
-   "downloads": 178787,
+   "downloads": 180358,
    "folder": "MuchSmarterAutoLoot",
    "isLibrary": "",
    "optionalDependsOn": "LibCharacterKnowledge>=201030 TamrielTradeCentre MasterMerchant ArkadiusTradeTools LibSavedVars LibRadialMenu PerfectPixel TSCPriceFetcher2 LibCustomMenu",
    "title": "Lykeion's AutoLoot+",
-   "updatedAt": 1791366860,
-   "version": "8.3.8"
+   "updatedAt": 1791650227,
+   "version": "8.3.9"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a/AreYouSlow": {
    "addOnVersion": "2",
@@ -1896,13 +1896,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 35,
+   "downloads": 37,
    "folder": "FrenziedMomentumTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Frenzied Momentum Tracker",
-   "updatedAt": 1791559059,
-   "version": "1.1.9"
+   "updatedAt": 1791637262,
+   "version": "1.2.0"
   },
   "36532469-e4dc-4cc3-b312-16b8a4bebc5b/Meterskull": {
    "addOnVersion": "",
@@ -2358,13 +2358,13 @@
    "apiVersion": "101050 101051",
    "author": "yodased-mods",
    "dependsOn": "",
-   "downloads": 65,
+   "downloads": 71,
    "folder": "PullCard",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Pull Card: Controller Friendly Dungeon Boss Mechanics",
-   "updatedAt": 1791566392,
-   "version": "0.5.7"
+   "updatedAt": 1791635761,
+   "version": "0.5.8"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb/SupressErrors": {
    "addOnVersion": "1",
@@ -2507,18 +2507,18 @@
    "version": "366"
   },
   "47608f50-4be4-46b1-833f-575274a7dbf2/ChatKeeper": {
-   "addOnVersion": "2",
+   "addOnVersion": "11",
    "addonId": "47608f50-4be4-46b1-833f-575274a7dbf2",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 12,
    "folder": "ChatKeeper",
    "isLibrary": "False",
    "optionalDependsOn": "",
    "title": "Chat keeper",
-   "updatedAt": 1791612032,
-   "version": "0.1.1"
+   "updatedAt": 1791641558,
+   "version": "1.0.0"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -2551,16 +2551,16 @@
   "491c3ac5-72b5-4579-80fa-36d9e97a7f5b/riposteTracker": {
    "addOnVersion": "",
    "addonId": "491c3ac5-72b5-4579-80fa-36d9e97a7f5b",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 9,
+   "downloads": 38,
    "folder": "riposteTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Riposte Tracker",
-   "updatedAt": 1789561644,
-   "version": "1.0.3"
+   "updatedAt": 1791642024,
+   "version": "1.0.6"
   },
   "49a3eac1-a81d-43dc-8b84-097b6d7ee558/LibCInteraction": {
    "addOnVersion": "10402",
@@ -3500,6 +3500,20 @@
    "updatedAt": 1751056538,
    "version": "1.5"
   },
+  "64ff6b45-1306-4375-8422-3ff52ef58d90/SynergyImprover": {
+   "addOnVersion": "120",
+   "addonId": "64ff6b45-1306-4375-8422-3ff52ef58d90",
+   "apiVersion": "101050 101051",
+   "author": "j.hhh",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "SynergyImprover",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "SynergyImprover",
+   "updatedAt": 1791656122,
+   "version": "v1.1"
+  },
   "655e721d-2e85-48fd-83f9-bcbb1e9c7392/FurnitureLocator": {
    "addOnVersion": "",
    "addonId": "655e721d-2e85-48fd-83f9-bcbb1e9c7392",
@@ -3519,14 +3533,14 @@
    "addonId": "656a56dd-1f9a-428e-a52e-dc72a77de425",
    "apiVersion": "101051",
    "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibCombat2",
-   "downloads": 8,
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 10,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
-   "optionalDependsOn": "LibCombat",
+   "optionalDependsOn": "LibCombat LibCombat2",
    "title": "testo",
-   "updatedAt": 1791565810,
-   "version": "1.6.2"
+   "updatedAt": 1791652618,
+   "version": "1.6.5"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
    "addOnVersion": "201",
@@ -3627,18 +3641,18 @@
    "version": "1.1"
   },
   "66e37433-eec7-410c-8d64-001233195f18/PerCharacterMounts": {
-   "addOnVersion": "13",
+   "addOnVersion": "15",
    "addonId": "66e37433-eec7-410c-8d64-001233195f18",
    "apiVersion": "101051",
    "author": "-Chin",
    "dependsOn": "",
-   "downloads": 8,
+   "downloads": 16,
    "folder": "PerCharacterMounts",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
-   "title": "Per-Character Mount Randomizer",
-   "updatedAt": 1791575143,
-   "version": "1.4.6"
+   "title": "Mount Shuffle - Random Favorite Mount per Character",
+   "updatedAt": 1791645690,
+   "version": "1.5.1"
   },
   "670babe5-297e-4cb3-88d6-cda790275d1a/UnknownFilter": {
    "addOnVersion": "302",
@@ -3968,13 +3982,13 @@
    "apiVersion": "101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 569,
+   "downloads": 612,
    "folder": "CallToArm",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibConsoleDialogs",
    "title": "Call To Arms",
-   "updatedAt": 1791274785,
-   "version": "1.1.6 -T4"
+   "updatedAt": 1791646398,
+   "version": "1.1.6-T5c"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b/LibConsoleDialogs": {
    "addOnVersion": "10004",
@@ -5242,13 +5256,13 @@
    "apiVersion": "101050 101051",
    "author": "Wayzminn",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 7,
    "folder": "GamepadHUDCustomizer",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
    "title": "GamepadHUDCustomizer",
-   "updatedAt": 1791123568,
-   "version": "0.3.2 TEST"
+   "updatedAt": 1791646030,
+   "version": "0.3.3A"
   },
   "9a439c8a-322c-472e-99f9-e05a6f76532b/QuestMover": {
    "addOnVersion": "",
@@ -6370,6 +6384,20 @@
    "updatedAt": 1745543748,
    "version": "1.3.3"
   },
+  "c0db4e1c-b7ae-4821-b7e8-4a8cfed56e96/BuildAdvisor": {
+   "addOnVersion": "1",
+   "addonId": "c0db4e1c-b7ae-4821-b7e8-4a8cfed56e96",
+   "apiVersion": "101050 101051",
+   "author": "yodased-mods",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "BuildAdvisor",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "BuildAdvisor",
+   "updatedAt": 1791659094,
+   "version": "0.1.0"
+  },
   "c12b4c6f-c657-4d0b-ac4e-77374335877c/M0RCameraSensitivity": {
    "addOnVersion": "101",
    "addonId": "c12b4c6f-c657-4d0b-ac4e-77374335877c",
@@ -6693,18 +6721,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "15",
+   "addOnVersion": "16",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 383,
+   "downloads": 415,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1791408278,
-   "version": "0.4.1"
+   "updatedAt": 1791654350,
+   "version": "0.4.2"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
@@ -8050,6 +8078,20 @@
    "updatedAt": 1789229265,
    "version": "v0.3.17"
   },
+  "ee217f7c-81b5-40dc-beb5-a6a184260d9d/Zaji": {
+   "addOnVersion": "2",
+   "addonId": "ee217f7c-81b5-40dc-beb5-a6a184260d9d",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "Zaji",
+   "isLibrary": "False",
+   "optionalDependsOn": "",
+   "title": "Zaji",
+   "updatedAt": 1791641613,
+   "version": "1.0.1"
+  },
   "ee431f44-2522-4944-ad58-8916644ec121/OffBalanceTracker": {
    "addOnVersion": "0005",
    "addonId": "ee431f44-2522-4944-ad58-8916644ec121",
@@ -9133,7 +9175,7 @@
    "folders": [
     "MuchSmarterAutoLoot"
    ],
-   "version": "8.3.8"
+   "version": "8.3.9"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a": {
    "folders": [
@@ -9710,7 +9752,7 @@
    "folders": [
     "FrenziedMomentumTracker"
    ],
-   "version": "1.1.9"
+   "version": "1.2.0"
   },
   "36532469-e4dc-4cc3-b312-16b8a4bebc5b": {
    "folders": [
@@ -9907,7 +9949,7 @@
    "folders": [
     "PullCard"
    ],
-   "version": "0.5.7"
+   "version": "0.5.8"
   },
   "43eacadc-428c-4ca4-b0da-e2777148a4fb": {
    "folders": [
@@ -9979,7 +10021,7 @@
    "folders": [
     "ChatKeeper"
    ],
-   "version": "0.1.1"
+   "version": "1.0.0"
   },
   "47bd1882-3ae4-414d-929c-aad937946be0": {
    "folders": [],
@@ -10001,7 +10043,7 @@
    "folders": [
     "riposteTracker"
    ],
-   "version": "1.0.3"
+   "version": "1.0.6"
   },
   "49a3eac1-a81d-43dc-8b84-097b6d7ee558": {
    "folders": [
@@ -10419,6 +10461,12 @@
    ],
    "version": "1.5"
   },
+  "64ff6b45-1306-4375-8422-3ff52ef58d90": {
+   "folders": [
+    "SynergyImprover"
+   ],
+   "version": "v1.1"
+  },
   "655e721d-2e85-48fd-83f9-bcbb1e9c7392": {
    "folders": [
     "FurnitureLocator"
@@ -10429,7 +10477,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "1.6.2"
+   "version": "1.6.5"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
    "folders": [
@@ -10477,7 +10525,7 @@
    "folders": [
     "PerCharacterMounts"
    ],
-   "version": "1.4.6"
+   "version": "1.5.1"
   },
   "670babe5-297e-4cb3-88d6-cda790275d1a": {
    "folders": [
@@ -10623,7 +10671,7 @@
    "folders": [
     "CallToArm"
    ],
-   "version": "1.1.6 -T4"
+   "version": "1.1.6-T5c"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b": {
    "folders": [
@@ -11203,7 +11251,7 @@
    "folders": [
     "GamepadHUDCustomizer"
    ],
-   "version": "0.3.2 TEST"
+   "version": "0.3.3A"
   },
   "9a439c8a-322c-472e-99f9-e05a6f76532b": {
    "folders": [
@@ -11704,6 +11752,12 @@
    ],
    "version": "1.3.3"
   },
+  "c0db4e1c-b7ae-4821-b7e8-4a8cfed56e96": {
+   "folders": [
+    "BuildAdvisor"
+   ],
+   "version": "0.1.0"
+  },
   "c12b4c6f-c657-4d0b-ac4e-77374335877c": {
    "folders": [
     "M0RCameraSensitivity"
@@ -11863,7 +11917,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.4.1"
+   "version": "0.4.2"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c": {
    "folders": [
@@ -12491,6 +12545,12 @@
     "BetterBuffs"
    ],
    "version": "v0.3.17"
+  },
+  "ee217f7c-81b5-40dc-beb5-a6a184260d9d": {
+   "folders": [
+    "Zaji"
+   ],
+   "version": "1.0.1"
   },
   "ee431f44-2522-4944-ad58-8916644ec121": {
    "folders": [

@@ -92,10 +92,11 @@ BoostTimer		0.0.18	101050	Aldrens Timers	Rhyojaan	9341ca4f-303b-4e36-b2c8-b559e4
 BossBarSuppressor		1.0.14	101046	Boss Bar Suppressor	brossin13	0c5ee200-59f0-443c-b3a8-4eb164532120
 buffdebuffbarplus	124	1.06	101050	BuffDebuffBar+	BLKx777	f47025d4-d5d3-4863-b0b0-1d9f57dd6c41
 BuffoverhaulByJH		v3	101050	Buffoverhaul	j.hhh	3b05def8-1192-4bc3-8954-f69f9cf0977c
+BuildAdvisor	1	0.1.0	101050 101051	BuildAdvisor	yodased-mods	c0db4e1c-b7ae-4821-b7e8-4a8cfed56e96
 BuildForge	1617	1.6.17	101050	Test suite	Tekatsu	dc420d92-00cf-428d-8c89-a7cb5ceecd44
 BulkBuy		1.8.2	101047	Bulk buy	Copper0	0ad00225-1c8b-4f4a-8e95-ca8986209a7f
 CadenceCoach		0.0.7	101049 101050	CadenceCoach	SugaComa	09535f7c-d041-4d75-963a-167fa47d3df2
-CallToArm		1.1.6 -T4	101051	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
+CallToArm		1.1.6-T5c	101051	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
 CanITravelBack	1	0.3.6	101046	Can I Travel Back?	Xarador	8289722e-8e80-4a3d-ba1a-31ae1194ffce
 CanThisBeCraftedAtHome		2025.05.29	101046	CanThisBeCraftedAtHome	Masteroshi430	434ce5ca-211a-4a6b-8682-21f39dcb2d25
 CasualClean	10	1.6.6	101051	CasualClean	Th3rtythr33	c75df85c-f9c0-4e54-a0f3-d5173e44a850
@@ -107,7 +108,7 @@ CCTracker	010006	3.1 Stable	101046	CCTracker	Synkronist	154706f1-4dcc-478b-a08e-
 ChampionXPBar		1.7	101047	ChampionXPBar	thewizadt	863227c7-d9fe-4803-b842-d9fb1aa79f16
 CharacterBoundItemHider	26100613	2026.10.06.13.49	101051 101052	Character Bound Item Hider	APH0NlC	49e5c9da-dc0d-4bf5-b60c-6e6e53784107
 ChatBeGone	10143	1.1.4.3	101050 101049 101048	Chat Be Gone	xPricee	85e2f419-414a-48a9-ad3b-4b713c098ca2
-ChatKeeper	2	0.1.1	101050 101051	Chat keeper	TheGreyWolf98	47608f50-4be4-46b1-833f-575274a7dbf2
+ChatKeeper	11	1.0.0	101050 101051	Chat keeper	TheGreyWolf98	47608f50-4be4-46b1-833f-575274a7dbf2
 ChatLogPreserver		ChatLogPreserver-0.0.2-2026-07-26T220304	101048	Chat Log Preserver	clubwratt	cebfe41b-3168-432c-a3cf-795bbe56e54e
 ChatPalette	2	1.0.0	101050 101051	Chat Palette	TheGreyWolf98	3ecd8aa0-ce2c-4b41-b059-214dad8bac4f
 ChatSkipper	100	1.0.1	101048 101049	Chat Skipper	mYoda01	5e1a067b-7af6-4752-bbb0-3de588e8587e
@@ -195,7 +196,7 @@ FishingMap		50.07	101050	Fishing Map - Experimental	Gamer_sa22	cebf06be-ff4d-4f5
 Flexatron	19	0.8.6	101050	Flexatron	-Chin	cf03f2d9-c234-46ee-a20b-ae75c678e225
 FlexibleBars	100	1.0.0	101047	Flexible Bars	M0R	4be7617d-7e6d-42bf-bcbb-921e37ace7bc
 Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6dec3b447
-FrenziedMomentumTracker		1.1.9	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
+FrenziedMomentumTracker		1.2.0	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
 FunKillFeed		1.4.8	101049 101050	FunKillFeed	SugaComa	08954d6b-1604-4daf-9cf3-99b327dd7afd
 FurnishingTracker		1.0.18	101050	Furnishing Tracker	Eldibabalo	c49eb98c-6821-47de-9cb2-10b972d1a55f
 FurnitureBuilder	1	V2	101050	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
@@ -203,7 +204,7 @@ FurnitureFinder	1	V2.2.1	101050	Furniture Finder	killerkev77	2b591c30-b518-46da-
 FurnitureLocator		V2.0	101050	Furniture Tracker	killerkev77	655e721d-2e85-48fd-83f9-bcbb1e9c7392
 FurniturePlanSearch		0.2.4	101051	Furniture Plan Search	SugaComa	5d0f8b9b-9537-4b51-b576-5ec13219cc73
 GamePadHelper	10618	1.06.18	101049 101050	GamePadHelper	Delte	71f99aa0-341b-44fb-8b98-0dbda2a5b136
-GamepadHUDCustomizer	302	0.3.2 TEST	101050 101051	GamepadHUDCustomizer	Wayzminn	9a1d3850-22ef-484a-baa5-b7c30d0f31a2
+GamepadHUDCustomizer	302	0.3.3A	101050 101051	GamepadHUDCustomizer	Wayzminn	9a1d3850-22ef-484a-baa5-b7c30d0f31a2
 GamepadInventoryTweaks	041	0.4.2	101049	Gamepad Inventory Tweaks	YeOldeDragon	1a29fcf8-992f-4334-bf0a-088cc4ac73a7
 GamepadMiniChatTabs	105	1.0.5	101048 101049	Gamepad Mini Chat Tabs	Dack.Janiels	754151c2-90b5-4c5f-ba25-ab2b38c18284
 GamepadStayMounted	10101	1.1.1	101045 101046	Stay Mounted	SirNightstorm	38c45fe7-8274-43a2-9eaa-570253d23fdb
@@ -328,7 +329,7 @@ LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a1
 LibVotansAddonList	11000	1.10.0	101045 101046	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
-LiveBuffUptime		1.6.2	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
+LiveBuffUptime		1.6.5	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 Loadout	10000	1.0.0	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
@@ -369,7 +370,7 @@ MoveBuffDebuff		51.00	101051	Move Buff & Debuff Bar	Gamer_sa22	fb88de81-c67e-417
 MSI	2787	2.7.87	101051 101052	Metu's SpareIdler	MetuLiber_Ger	227876bb-e9b1-439f-81fe-8f458ae351a8
 MSPAINTUI	150	1.5.0	101049 101050	MSPAINTUI	Kyzeragon	9653b3d8-c1bf-4328-9b31-5e18a4ea643d
 MTS_WRITS_HUD		1.3.1		MTS WRITS HUD – Daily Crafting Tracker (PS5).	Something_Spec90	ce9458a5-0897-4765-9ec1-5cf8e8345462
-MuchSmarterAutoLoot	80308	8.3.8	101051	Lykeion's AutoLoot+	Lykeion+	1156c297-4c51-44e7-8267-9f934307f36e
+MuchSmarterAutoLoot	80309	8.3.9	101051	Lykeion's AutoLoot+	Lykeion+	1156c297-4c51-44e7-8267-9f934307f36e
 MultiMark	1	1.3	101050	Many Markers	dicen9	59768602-717c-425b-a4ce-7ffc14887bc0
 MurfKnickknacks		0.4.4	101050 101051	Murf's Knickknacks	murphyx	d38d1fe9-e738-4036-9d0d-baeaa4ebbe2e
 MurfLorebooks		1.3.9	101050 101051	Murf's Lorebooks	murphyx	f10225ef-7745-4a1b-b0c3-5b45cc8655a6
@@ -429,7 +430,7 @@ PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanthe
 PBsTranslate		1.3.2dev	101050 101051	PinkB's Translator(Beta)	PinkBanther	cf0aea14-ea0e-49d3-89c4-1987b725c79e
 PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f00e5b13-5452-4284-98f7-2bdbe3caff63
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
-PerCharacterMounts	13	1.4.6	101051	Per-Character Mount Randomizer	-Chin	66e37433-eec7-410c-8d64-001233195f18
+PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
 PermMemento	26100717	2026.10.07.17.24	101051 101052	Permanent Memento	APH0NlC	2aa223e9-ba88-45f7-90d3-0a47002c720c
 Persona		1.0.0a	101049 101050	Persona	SugaComa	a3bda6e6-a854-4387-825a-dccb05d706d8
@@ -447,7 +448,7 @@ ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-4
 ProximityAlert		ProximityAlert	101040	ProximityAlert	BeastAF-	ebdcb1e1-d96b-4d8c-a931-d6035865e34d
 PsijicBreachHelper	032	0.3.2	101050 101051	PsijicBreachHelper	saranicole1980	22b9d3d3-0152-4001-b696-0864ab31636d
 PsijicWay	15102	1.51.02	101051	The Psijic Way	xbutch	d55988d9-2bec-4972-b8cb-795ea26131ad
-PullCard	18	0.5.7	101050 101051	Pull Card: Controller Friendly Dungeon Boss Mechanics	yodased-mods	438e8153-db0e-4264-87cb-29c1d97e20ef
+PullCard	18	0.5.8	101050 101051	Pull Card: Controller Friendly Dungeon Boss Mechanics	yodased-mods	438e8153-db0e-4264-87cb-29c1d97e20ef
 Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
@@ -471,7 +472,7 @@ ReticleRainbow		1.3	101049	Reticle Rainbow	FiNk3F13	30b30033-06cc-48b7-a0c6-7be8
 RezAlert		1.0.13	101044	RezAlert	RipleyZepher	9d977c03-cdc6-45ef-99da-5dcd825ccfa1
 RezBot		1.9.5	101046 101047	RezBot	goron_spice	91330ebe-27c8-46b9-ad71-42991b96789d
 RideAlong		RideAlong-0.1.0-2026-08-15T123050	101050	Ride Along	clubwratt	e6c08a97-e33e-4716-83c6-a46ad3c43fbb
-riposteTracker		1.0.3	101050	Riposte Tracker	codeWarrior82	491c3ac5-72b5-4579-80fa-36d9e97a7f5b
+riposteTracker		1.0.6	101051	Riposte Tracker	codeWarrior82	491c3ac5-72b5-4579-80fa-36d9e97a7f5b
 RoaringOpportunist	020500	2.5.0	101047 101048	RoaringOpportunist	tmbrinks	f8e59501-116b-422a-90e9-f57cf2dc7b9d
 RockGroveAlkoshTimer		1.0.3	101048	RockGrove Alkosh Timer	Phamo1000	d8edb913-8af4-455a-939f-5bbd598eeff7
 Rolodex	1	1.0	101050	Rolodex	dicen9	fba4016e-4c55-48b5-9f38-f169d2190581
@@ -521,6 +522,7 @@ SurveySentinel		0.1.2	101047	Survey Sentinel	ReliktKoala	d9ba289c-0a0a-4233-80ab
 SurvivalMode		1.8	101050	SurvivalMode	TankiestTank	79d39b6d-3f2c-48e3-a08f-b6c2c69751fd
 SXUIBeaconPet	705	0.5.1	101050 101051	pet	satuve	25a0aeff-e8df-4458-bc72-f5a8319dbade
 SynergyCooldown	20101	2.1.1	101050	Synergy Cooldown	Kyzeragon	a6c22156-8b52-467d-ab02-287e5731a1fb
+SynergyImprover	120	v1.1	101050 101051	SynergyImprover	j.hhh	64ff6b45-1306-4375-8422-3ff52ef58d90
 SynergyPriority	2.0	Recovery Convergence update	101048	Synergy Priority	Vixen_Hunny	3f511a24-33c0-4c94-979a-97e0982dbb6b
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
 TargetInfo		1.1.1	101049 101050 101051	TargetInfo	SugaComa	a8908085-8223-4986-ac34-5932bc2c5172
@@ -570,7 +572,7 @@ TurningTide	010100	1.1.0	101047 101048	TurningTide	tmbrinks	853b60aa-f47b-4f79-b
 turningTideTracker		1.3.4	101051	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
 UnchainedHelper		1.x.x.x	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
-UnderPressure	15	0.4.1	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
+UnderPressure	16	0.4.2	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20402	2.4.2	101051 101052	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829
 UnknownFilter	302	0.3.2	101050	UnknownFilter	Xarador	670babe5-297e-4cb3-88d6-cda790275d1a
 Update47Tweaker		1.2.6	101050 101051	Update 47 Tweaker	murphyx	50a4c919-aff0-4475-8614-eb2576d6b6d9
@@ -599,6 +601,7 @@ WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	
 wretchedVitalityTracker		1.4.5	101051	Wretched Vitality Tracker	codeWarrior82	af0511e3-aa4e-4d26-8665-e486da04c1cd
 WritReady	2	2.13	101050	MWeyes	dicen9	0bb2a403-2da7-4c0d-8546-7957cbc8735b
 YeOldeInfos	202	2.0.2	101049	YeOlde-Infos	YeOldeDragon	1987390f-3dbd-407c-996d-aa3ef3ad9773
+Zaji	2	1.0.1	101050 101051	Zaji	TheGreyWolf98	ee217f7c-81b5-40dc-beb5-a6a184260d9d
 ZoneMountSwitcher	110	1.1.0	101046 101047	Zone Mount and Pet Switcher	MadeByQwerty	03172246-c90c-4b8b-9821-06a74a01ce96
 ZoneSweep	7	0.4.0	101050 101051	ZoneSweep	TheGreyWolf98	442cb9b3-e5a9-4cf0-a01f-df3af415e92a
 ZoomInFurther		1.4.5	101050 101051	ZoomInFurther	murphyx	e748a1af-bca6-470d-be77-d5e7ab432006
