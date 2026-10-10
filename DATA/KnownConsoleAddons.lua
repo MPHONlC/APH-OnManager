@@ -23,6 +23,7 @@ AddonInsights	180	0.10	101049 101047	AddonInsights	spoqster	11249dc8-1df3-4342-a
 AddonLoadMonitor		1.0.0	101047 101048	Addon Load Time Monitor	code65536	a89e4472-1774-4182-bc32-05d04d19ca06
 AddonLoadouts	1	1.5	101049 101050	Addon Loadouts	Dack.Janiels	1ff1b2cd-ba65-4264-a11d-2c55b57eb158
 AdrosarSandbox		0.2.1	101048	AdrosarSandbox	Adrosar	4b7473ab-b042-43c8-9fb3-117f372331c3
+AdvancedCruxTracker		v1.5	101050	Advanced Crux Tracker	j.hhh	7c2543a8-c08b-4c48-b4bf-47d2463b616f
 advancingYokedaTracker		1.3.1	101051	Advancing Yokeda Tracker	codeWarrior82	3cd8f841-6502-49d4-866c-a49b12a16460
 AdventurersToolkit	652	14.12.652	101048	Adventurer's Toolkit	Tekatsu	8ba040d8-fba0-4a01-aa63-4ee74dd2d1d6
 aeriesCryTracker		1.2.9	101051	Aerie's Cry Tracker	codeWarrior82	ad7a6e1f-ea28-463b-819f-fd0ce5f2395d
@@ -92,7 +93,7 @@ BoostTimer		0.0.18	101050	Aldrens Timers	Rhyojaan	9341ca4f-303b-4e36-b2c8-b559e4
 BossBarSuppressor		1.0.14	101046	Boss Bar Suppressor	brossin13	0c5ee200-59f0-443c-b3a8-4eb164532120
 buffdebuffbarplus	124	1.06	101050	BuffDebuffBar+	BLKx777	f47025d4-d5d3-4863-b0b0-1d9f57dd6c41
 BuffoverhaulByJH		v3	101050	Buffoverhaul	j.hhh	3b05def8-1192-4bc3-8954-f69f9cf0977c
-BuildAdvisor	1	0.1.0	101050 101051	BuildAdvisor	yodased-mods	c0db4e1c-b7ae-4821-b7e8-4a8cfed56e96
+BuildAdvisor	4	0.1.5	101050 101051	BuildAdvisor	yodased-mods	c0db4e1c-b7ae-4821-b7e8-4a8cfed56e96
 BuildForge	1617	1.6.17	101050	Test suite	Tekatsu	dc420d92-00cf-428d-8c89-a7cb5ceecd44
 BulkBuy		1.8.2	101047	Bulk buy	Copper0	0ad00225-1c8b-4f4a-8e95-ca8986209a7f
 CadenceCoach		0.0.7	101049 101050	CadenceCoach	SugaComa	09535f7c-d041-4d75-963a-167fa47d3df2
@@ -204,7 +205,7 @@ FurnitureFinder	1	V2.2.1	101050	Furniture Finder	killerkev77	2b591c30-b518-46da-
 FurnitureLocator		V2.0	101050	Furniture Tracker	killerkev77	655e721d-2e85-48fd-83f9-bcbb1e9c7392
 FurniturePlanSearch		0.2.4	101051	Furniture Plan Search	SugaComa	5d0f8b9b-9537-4b51-b576-5ec13219cc73
 GamePadHelper	10618	1.06.18	101049 101050	GamePadHelper	Delte	71f99aa0-341b-44fb-8b98-0dbda2a5b136
-GamepadHUDCustomizer	302	0.3.3A	101050 101051	GamepadHUDCustomizer	Wayzminn	9a1d3850-22ef-484a-baa5-b7c30d0f31a2
+GamepadHUDCustomizer	304	0.3.4	101050 101051	GamepadHUDCustomizer	Wayzminn	9a1d3850-22ef-484a-baa5-b7c30d0f31a2
 GamepadInventoryTweaks	041	0.4.2	101049	Gamepad Inventory Tweaks	YeOldeDragon	1a29fcf8-992f-4334-bf0a-088cc4ac73a7
 GamepadMiniChatTabs	105	1.0.5	101048 101049	Gamepad Mini Chat Tabs	Dack.Janiels	754151c2-90b5-4c5f-ba25-ab2b38c18284
 GamepadStayMounted	10101	1.1.1	101045 101046	Stay Mounted	SirNightstorm	38c45fe7-8274-43a2-9eaa-570253d23fdb
@@ -251,7 +252,7 @@ IFG		1.1.15	101049	IFG	FIG_BOT	869cd684-8dba-4750-bdf3-9b3be03ecdc6
 ImperialCityBossTimers	10400	5.0.0	101050 101051	Imperial City Boss Timers	ParanoidGaming	6684c311-afc5-48de-8ced-f86edbe863f1
 ImprovedAttributeBars	102000	1.2.0	101051	Improved Attribute Bars and Target Frame	code65536	11036cca-172c-4428-83fe-301cb496b33e
 ImprovedNightMarketHUD	100030	1.0.3	101049 101050	Improved Night Market HUD	code65536	b344faa0-0b93-431e-ae22-befcaaa36333
-InsatiableHungerBlocker		1.13	101051	Insatiable Hunger Blocker	Lykeion+	42a55498-b21a-4657-86ba-bdb954f7a09d
+InsatiableHungerBlocker		1.14	101051	Insatiable Hunger Blocker	Lykeion+	42a55498-b21a-4657-86ba-bdb954f7a09d
 InstaQ	1	1.2 Stable	101046	InstaQ	Synkronist	5da20bd4-9950-42b8-aca8-deadd5817210
 InterruptNarc		1.0.6	101044	Interrupt Narc	brossin13	fe232f99-8f31-4163-906d-48182e80a59d
 IsItTaunted		1.9.10	101046	IsItTaunted	RipleyZepher	6b4f359b-e17e-46f6-b2c9-9a1e42e7de2b
@@ -324,6 +325,7 @@ LibSideQuestPins		v4	101048	Side Quests	0mniX	1ac2188b-1200-476b-a90c-6561a7d3b5
 LibSlashCommander	45	1.2.0	101045 101046	LibSlashCommander	sirinsidiator	c0ae2cd5-69de-4e29-8be3-1607be88e54a
 LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-408e-9617-05161b5c9650
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
+LibTrack		1.06	101051	LibTrack	codeWarrior82	a10e4b3c-8f12-4c74-ba89-81d3677ca143
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
 LibVotansAddonList	11000	1.10.0	101045 101046	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
@@ -406,6 +408,7 @@ OneMorRockgrove	140	1.4.0	101048	One More Rockgrove Helper	M0R	38f0df90-e793-4c9
 OpenAll	1312	1.3.2	101046	Auto Opener	Copper0	79b6b597-9e33-4cd7-b076-44e9a153a44c
 OsseinAssist		0.0.11	101048 101049	Ossein Assist	goron_spice	fea36b82-af6d-4ba4-803b-94703baf934a
 PacketByteExporter	105	0.1.5	101050 101051	PacketByte Exporter	packetloss404	96620ecb-ccf7-4298-9215-636f4075695b
+PactWatch	102	0.1.2	101050 101051	Pact Watch	TheGreyWolf98	f6ca400d-2787-4c8a-91db-e78125233eb1
 PairsWellWithCheese	029	0.2.9	101050 101051	PairsWellWithCheese	saranicole1980	b57202fe-9b3a-4021-ad86-f2db8dfe0c5e
 PatronsLedger	100	2.2	101050	Patron's Ledger	svammy	e6627cb6-5e78-4443-86bc-4340210a5684
 PBsChatAssistant		1.29.2	101050 101051	PinkB's ChatAssistant	PinkBanther	416eb892-aa32-4a10-8d1a-7ba7cf27cedf
@@ -453,7 +456,7 @@ Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
-PvPUA		5.1	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
+PvPUA		t	101048 101049 101050 101051	t	user562x	52dd9df5-7395-4ce8-99c7-2ca4c6b41df6
 PvPUAPatch		PvPUAPatch-5.0.1-2026-10-01T120418	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		1.2	101049	Testing	FiNk3F13	8cd10e06-846e-4b81-9858-f1a6943f0b32

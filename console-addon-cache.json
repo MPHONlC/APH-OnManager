@@ -2288,13 +2288,13 @@
    "apiVersion": "101051",
    "author": "Lykeion+",
    "dependsOn": "",
-   "downloads": 1008,
+   "downloads": 1137,
    "folder": "InsatiableHungerBlocker",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0>=41",
    "title": "Insatiable Hunger Blocker",
-   "updatedAt": 1786997066,
-   "version": "1.13"
+   "updatedAt": 1791660839,
+   "version": "1.14"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25/CanThisBeCraftedAtHome": {
    "addOnVersion": "",
@@ -2925,6 +2925,20 @@
    "title": "Ar2",
    "updatedAt": 1789095009,
    "version": "1"
+  },
+  "52dd9df5-7395-4ce8-99c7-2ca4c6b41df6/PvPUA": {
+   "addOnVersion": "",
+   "addonId": "52dd9df5-7395-4ce8-99c7-2ca4c6b41df6",
+   "apiVersion": "101048 101049 101050 101051",
+   "author": "user562x",
+   "dependsOn": "AAAConsoleUIShim",
+   "downloads": 0,
+   "folder": "PvPUA",
+   "isLibrary": "",
+   "optionalDependsOn": "LibGroupBroadcast",
+   "title": "t",
+   "updatedAt": 1791670554,
+   "version": "t"
   },
   "52e26019-7e65-4ad8-9af6-bfdf51ef2bce/esoReport": {
    "addOnVersion": "",
@@ -4312,6 +4326,20 @@
    "updatedAt": 1748498564,
    "version": "2025.05.29"
   },
+  "7c2543a8-c08b-4c48-b4bf-47d2463b616f/AdvancedCruxTracker": {
+   "addOnVersion": "",
+   "addonId": "7c2543a8-c08b-4c48-b4bf-47d2463b616f",
+   "apiVersion": "101050",
+   "author": "j.hhh",
+   "dependsOn": "LibAddonMenu-2.0>=43",
+   "downloads": 42,
+   "folder": "AdvancedCruxTracker",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Advanced Crux Tracker",
+   "updatedAt": 1791660140,
+   "version": "v1.5"
+  },
   "7c2543a8-c08b-4c48-b4bf-47d2463b616f/ExoYsCruxTracker": {
    "addOnVersion": "",
    "addonId": "7c2543a8-c08b-4c48-b4bf-47d2463b616f",
@@ -5251,7 +5279,7 @@
    "version": "1.2.2"
   },
   "9a1d3850-22ef-484a-baa5-b7c30d0f31a2/GamepadHUDCustomizer": {
-   "addOnVersion": "302",
+   "addOnVersion": "304",
    "addonId": "9a1d3850-22ef-484a-baa5-b7c30d0f31a2",
    "apiVersion": "101050 101051",
    "author": "Wayzminn",
@@ -5261,8 +5289,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
    "title": "GamepadHUDCustomizer",
-   "updatedAt": 1791646030,
-   "version": "0.3.3A"
+   "updatedAt": 1791665963,
+   "version": "0.3.4"
   },
   "9a439c8a-322c-472e-99f9-e05a6f76532b/QuestMover": {
    "addOnVersion": "",
@@ -5459,6 +5487,20 @@
    "title": "LeadReminder",
    "updatedAt": 1752622858,
    "version": "1.0.2"
+  },
+  "a10e4b3c-8f12-4c74-ba89-81d3677ca143/LibTrack": {
+   "addOnVersion": "",
+   "addonId": "a10e4b3c-8f12-4c74-ba89-81d3677ca143",
+   "apiVersion": "101051",
+   "author": "codeWarrior82",
+   "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
+   "downloads": 6,
+   "folder": "LibTrack",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "LibTrack",
+   "updatedAt": 1791673497,
+   "version": "1.06"
   },
   "a17836b4-17ec-478f-91a6-f0c59e123e2a/RanckorsBaggage": {
    "addOnVersion": "3.1.2",
@@ -6385,18 +6427,18 @@
    "version": "1.3.3"
   },
   "c0db4e1c-b7ae-4821-b7e8-4a8cfed56e96/BuildAdvisor": {
-   "addOnVersion": "1",
+   "addOnVersion": "4",
    "addonId": "c0db4e1c-b7ae-4821-b7e8-4a8cfed56e96",
    "apiVersion": "101050 101051",
    "author": "yodased-mods",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 6,
    "folder": "BuildAdvisor",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "BuildAdvisor",
-   "updatedAt": 1791659094,
-   "version": "0.1.0"
+   "updatedAt": 1791669409,
+   "version": "0.1.5"
   },
   "c12b4c6f-c657-4d0b-ac4e-77374335877c/M0RCameraSensitivity": {
    "addOnVersion": "101",
@@ -8470,6 +8512,20 @@
    "updatedAt": 1791338784,
    "version": "1.0.1"
   },
+  "f6ca400d-2787-4c8a-91db-e78125233eb1/PactWatch": {
+   "addOnVersion": "102",
+   "addonId": "f6ca400d-2787-4c8a-91db-e78125233eb1",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "PactWatch",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Pact Watch",
+   "updatedAt": 1791664896,
+   "version": "0.1.2"
+  },
   "f6e1e99b-174a-401e-8acf-d4a7e6e2c352/LibMapPing": {
    "addOnVersion": "1240",
    "addonId": "f6e1e99b-174a-401e-8acf-d4a7e6e2c352",
@@ -9931,7 +9987,7 @@
    "folders": [
     "InsatiableHungerBlocker"
    ],
-   "version": "1.13"
+   "version": "1.14"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25": {
    "folders": [
@@ -10207,6 +10263,12 @@
     "EsoAR"
    ],
    "version": "1"
+  },
+  "52dd9df5-7395-4ce8-99c7-2ca4c6b41df6": {
+   "folders": [
+    "PvPUA"
+   ],
+   "version": "t"
   },
   "52e26019-7e65-4ad8-9af6-bfdf51ef2bce": {
    "folders": [
@@ -10828,9 +10890,9 @@
   },
   "7c2543a8-c08b-4c48-b4bf-47d2463b616f": {
    "folders": [
-    "ExoYsCruxTracker"
+    "AdvancedCruxTracker"
    ],
-   "version": "v1.3"
+   "version": "v1.5"
   },
   "7c703441-775f-466c-9811-b6b2ee0e480e": {
    "folders": [
@@ -11251,7 +11313,7 @@
    "folders": [
     "GamepadHUDCustomizer"
    ],
-   "version": "0.3.3A"
+   "version": "0.3.4"
   },
   "9a439c8a-322c-472e-99f9-e05a6f76532b": {
    "folders": [
@@ -11336,6 +11398,12 @@
     "LeadReminder"
    ],
    "version": "1.0.2"
+  },
+  "a10e4b3c-8f12-4c74-ba89-81d3677ca143": {
+   "folders": [
+    "LibTrack"
+   ],
+   "version": "1.06"
   },
   "a17836b4-17ec-478f-91a6-f0c59e123e2a": {
    "folders": [
@@ -11756,7 +11824,7 @@
    "folders": [
     "BuildAdvisor"
    ],
-   "version": "0.1.0"
+   "version": "0.1.5"
   },
   "c12b4c6f-c657-4d0b-ac4e-77374335877c": {
    "folders": [
@@ -12719,6 +12787,12 @@
     "WizardsWardrobeCompanion"
    ],
    "version": "1.0.1"
+  },
+  "f6ca400d-2787-4c8a-91db-e78125233eb1": {
+   "folders": [
+    "PactWatch"
+   ],
+   "version": "0.1.2"
   },
   "f6e1e99b-174a-401e-8acf-d4a7e6e2c352": {
    "folders": [
