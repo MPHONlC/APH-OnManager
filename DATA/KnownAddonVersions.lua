@@ -492,7 +492,7 @@ EndeavorChatTracker		1.1.4	3274	101048
 EndeavorTracker		2.3.1	3154	101042 101043
 ESO_UA_GoA	107	46.99.67	4702	101049 101050
 ESOAdventurerSuite	3725	0.29.790	4779	101050 101051
-EsoAR		2.3.0	4927	101050 101051
+EsoAR		2.3.5	4927	101050 101051
 EsoBR_Reforged		1.3.1	2256	101051
 EsoCombatLock	20260808	1.2.0	4754	101051 101050
 ESODatabaseExport		4.6.18	916	101048
@@ -595,9 +595,9 @@ FreshUI		1.4.1	3804	101046
 Frostfall	31	3.4.35	4710	101051 101052
 FunKillFeed		1.3.5	4286	101046
 FurnishingRecipeCollector		1.4.9	3862	101050
-FurnitureCatalogue	7000000	7.0.0	1617	101050 101051
-FurnitureCatalogue_DevUtility		7.0.0	1617	101050 101051
-FurnitureCatalogue_Export		7.0.0	1617	101050 101051
+FurnitureCatalogue	8000000	8.0.0	1617	101050 101051
+FurnitureCatalogue_DevUtility		8.0.0	1617	101050 101051
+FurnitureCatalogue_Export		8.0.0	1617	101050 101051
 GamePadHelper	10618	1.06.18	3268	101049 101050
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -687,6 +687,7 @@ HardModeReminders	51	0.51	4310	101049 101050
 HarvensAliases		1.5.0	380	101046 101047
 HarvensCustomMapPins		3.4.1	357	101051 101052
 HarvensCustomMapPinsWorld		0.5.1	4018	101048 101049
+HarvensExtraIcons		1.0.0	4939	101051
 HarvensImprovedSkillsWindow		2.0.13	489	101046 101047
 HarvensItemStatsComparsion		1.0.0	1206	101044 101045
 HarvensPotionsAlert		2.2.2	562	101041 101042
@@ -1491,6 +1492,7 @@ Untaunted	10105	1.1.5	1475	101039
 UpExperienceBar		2.1	3958	101043
 UseWarmaskYouFool	141	1.0.0	4722	101048 101049
 USPF	70500	7.5.0	1863	101048
+ValuesBars	2	1.0.0	4940	101051
 VampireWoe		1.28	1375	101046 101047
 VampStage		1.0.1	4544	101048 101049
 Vampz	10407	1.4.7	3144	101050

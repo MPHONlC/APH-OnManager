@@ -115,7 +115,7 @@ LibFLEncode	2	1.1.9	1563	101046 101047 101048 101049	LibFLEncode	LibFLEncode
 LibFloatingIcons		0.2	3599	101045	LibFloatingIcons	LibFloatingIcons
 LibFonts	10000	1.0.0	4004	101044	LibFonts	LibFonts
 LibFoodDrinkBuff	19	19	1902	101049 101050	LibFoodDrinkBuff	LibFoodDrinkBuff
-LibFurnitureCatalogue	1001000	1.1.0	4804	101050 101051	LibFurnitureCatalogue	LibFurnitureCatalogue
+LibFurnitureCatalogue	1002000	1.2.0	4804	101051 101052	LibFurnitureCatalogue	LibFurnitureCatalogue
 LibGamepad	107	1.0.8	4441	101049	LibGamepad	LibGamepad
 LibGamepadContextMenuBridge	151	1.5.1	4432	101048 101049	[Beta] LibGamepadContextMenuBridge v1.5.1 - gamepad context actions for LibCustomMenu	LibGamepadContextMenuBridge
 LibGamepadOptions	7	0.2.4	4614	101049 101050	LibGamepadOptions	LibGamepadOptions
