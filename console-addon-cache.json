@@ -434,6 +434,20 @@
    "updatedAt": 1788722677,
    "version": "2.13"
   },
+  "0bfedee5-e73d-43f5-8e5a-cee64c2f5e6f/APH-Profiler": {
+   "addOnVersion": "26101514",
+   "addonId": "0bfedee5-e73d-43f5-8e5a-cee64c2f5e6f",
+   "apiVersion": "101051 101052",
+   "author": "APH0NlC",
+   "dependsOn": "LibAPH>=26100607",
+   "downloads": 0,
+   "folder": "APH-Profiler",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings LibDebugLogger",
+   "title": "APH Profiler",
+   "updatedAt": 1792262301,
+   "version": "2026.10.18.01.41"
+  },
   "0c5ee200-59f0-443c-b3a8-4eb164532120/BossBarSuppressor": {
    "addOnVersion": "",
    "addonId": "0c5ee200-59f0-443c-b3a8-4eb164532120",
@@ -1485,18 +1499,18 @@
    "version": "123"
   },
   "2aa223e9-ba88-45f7-90d3-0a47002c720c/PermMemento": {
-   "addOnVersion": "26100717",
+   "addOnVersion": "26101801",
    "addonId": "2aa223e9-ba88-45f7-90d3-0a47002c720c",
    "apiVersion": "101051 101052",
    "author": "APH0NlC",
-   "dependsOn": "LibAPH>=26100717",
-   "downloads": 119900,
+   "dependsOn": "LibAPH>=26101801",
+   "downloads": 120333,
    "folder": "PermMemento",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings LibGroupBroadcast",
    "title": "Permanent Memento",
-   "updatedAt": 1791367193,
-   "version": "2026.10.07.17.24"
+   "updatedAt": 1792260878,
+   "version": "2026.10.18.01.41"
   },
   "2abdc7a0-d15d-42ae-aad7-bccf995da180/Olorime": {
    "addOnVersion": "020300",
@@ -2675,18 +2689,18 @@
    "version": "2.0.3"
   },
   "49e5c9da-dc0d-4bf5-b60c-6e6e53784107/CharacterBoundItemHider": {
-   "addOnVersion": "26100613",
+   "addOnVersion": "26101801",
    "addonId": "49e5c9da-dc0d-4bf5-b60c-6e6e53784107",
    "apiVersion": "101051 101052",
    "author": "APH0NlC",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 5,
    "folder": "CharacterBoundItemHider",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Character Bound Item Hider",
-   "updatedAt": 1791368577,
-   "version": "2026.10.06.13.49"
+   "updatedAt": 1792260649,
+   "version": "2026.10.18.01.41"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/TrackersByJH": {
    "addOnVersion": "1106",
@@ -3067,18 +3081,18 @@
    "version": "1.5.1"
   },
   "53c80097-33fd-4ef3-83f4-e78d6d9482ee/OneAPHaTime": {
-   "addOnVersion": "26100613",
+   "addOnVersion": "26101801",
    "addonId": "53c80097-33fd-4ef3-83f4-e78d6d9482ee",
    "apiVersion": "101051 101052",
    "author": "APH0NlC",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 4,
    "folder": "OneAPHaTime",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings LibAPH",
    "title": "One APH a Time",
-   "updatedAt": 1791371444,
-   "version": "2026.10.06.13.49"
+   "updatedAt": 1792260681,
+   "version": "2026.10.18.01.41"
   },
   "541ab871-9386-4990-a3c7-32563ded9243/ProcReminder": {
    "addOnVersion": "1.0.0",
@@ -3681,6 +3695,20 @@
    "title": "Jump to Search",
    "updatedAt": 1791512571,
    "version": "JumpToSearch-0.2.1-2026-10-08T192243"
+  },
+  "66108dc4-7941-473d-8b4a-f129da12e33c/Leo_stats_panel": {
+   "addOnVersion": "",
+   "addonId": "66108dc4-7941-473d-8b4a-f129da12e33c",
+   "apiVersion": "101051",
+   "author": "LeonShu",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 1,
+   "folder": "Leo_stats_panel",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Leo_stat_panel_beta",
+   "updatedAt": 1792260368,
+   "version": "0.1.0"
   },
   "66400ef3-3d78-4737-a158-c48633706a83/AA_Profiler": {
    "addOnVersion": "100",
@@ -5405,18 +5433,18 @@
    "version": "1.0.1"
   },
   "9926b8d4-d4ca-4215-8790-013c0b1630c0/AutoLuaMemoryCleaner": {
-   "addOnVersion": "26100717",
+   "addOnVersion": "26101801",
    "addonId": "9926b8d4-d4ca-4215-8790-013c0b1630c0",
    "apiVersion": "101051 101052",
    "author": "APH0NlC",
-   "dependsOn": "LibAPH>=26100717",
-   "downloads": 38688,
+   "dependsOn": "LibAPH>=26101801",
+   "downloads": 39254,
    "folder": "AutoLuaMemoryCleaner",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
    "title": "AUTO LUA MEMORY CLEANER",
-   "updatedAt": 1791366493,
-   "version": "2026.10.07.17.24"
+   "updatedAt": 1792260704,
+   "version": "2026.10.18.01.41"
   },
   "992e3a70-4653-4937-9089-bfee29417439/SpringPeaceDev": {
    "addOnVersion": "",
@@ -6006,6 +6034,20 @@
    "updatedAt": 1791445903,
    "version": "1.x.x.x"
   },
+  "ad02eccd-a3f5-4375-8c13-e631101449c5/APH-FPSGraph": {
+   "addOnVersion": "26101514",
+   "addonId": "ad02eccd-a3f5-4375-8c13-e631101449c5",
+   "apiVersion": "101051 101052",
+   "author": "APH0NlC",
+   "dependsOn": "LibAPH>=26100607",
+   "downloads": 0,
+   "folder": "APH-FPSGraph",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
+   "title": "APH FPS GRAPH",
+   "updatedAt": 1792261683,
+   "version": "2026.10.18.01.41"
+  },
   "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d/aeriesCryTracker": {
    "addOnVersion": "",
    "addonId": "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d",
@@ -6301,18 +6343,18 @@
    "version": "0.2.9"
   },
   "b630804a-0ccd-4828-8c9e-945790ec3774/AccountHold": {
-   "addOnVersion": "26072810",
+   "addOnVersion": "26101700",
    "addonId": "b630804a-0ccd-4828-8c9e-945790ec3774",
    "apiVersion": "101049 101050",
    "author": "newhite70",
    "dependsOn": "",
-   "downloads": 62,
+   "downloads": 63,
    "folder": "AccountHold",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "[Beta]Gear_Manage",
-   "updatedAt": 1785811007,
-   "version": "26080303"
+   "updatedAt": 1792261490,
+   "version": "26101701"
   },
   "b680d5f3-b8ab-4158-a513-d3f2a14921db/DolmenRunner": {
    "addOnVersion": "2",
@@ -6852,13 +6894,13 @@
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 42,
+   "downloads": 46,
    "folder": "CasualClean",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "CasualClean",
-   "updatedAt": 1791301889,
-   "version": "1.6.6"
+   "updatedAt": 1792262078,
+   "version": "1.7.4"
   },
   "c7f082bc-03e0-4e0c-b82b-d7903e5101ad/PBsCraftMaterialAssistant": {
    "addOnVersion": "",
@@ -6971,6 +7013,20 @@
    "title": "Under Pressure",
    "updatedAt": 1791654350,
    "version": "0.4.2"
+  },
+  "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
+   "addOnVersion": "",
+   "addonId": "cbe4d714-54cb-4495-a852-fdbd74443b5a",
+   "apiVersion": "101051",
+   "author": "LeonShu",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 1,
+   "folder": "Leo_status_panel",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Leo_status_panel_beta",
+   "updatedAt": 1792260552,
+   "version": "0.1.0"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
@@ -7631,18 +7687,18 @@
    "version": "1.0.8"
   },
   "dac0d37e-2d2f-4813-a148-6198c2d54687/LibAPH": {
-   "addOnVersion": "26100717",
+   "addOnVersion": "26101801",
    "addonId": "dac0d37e-2d2f-4813-a148-6198c2d54687",
    "apiVersion": "101051 101052",
    "author": "APH0NlC",
    "dependsOn": "",
-   "downloads": 8171,
+   "downloads": 9580,
    "folder": "LibAPH",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibAPH",
-   "updatedAt": 1791365709,
-   "version": "2026.10.07.17.24"
+   "updatedAt": 1792259189,
+   "version": "2026.10.18.01.41"
   },
   "db3e5212-7543-479f-a881-7cda2bd1a1c9/UndauntedDaily": {
    "addOnVersion": "49",
@@ -8084,13 +8140,13 @@
    "apiVersion": "101051",
    "author": "LeonShu",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 7,
+   "downloads": 9,
    "folder": "Leo_sust_beta",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "leo_sust_beta",
-   "updatedAt": 1791316901,
-   "version": "0.1.7"
+   "updatedAt": 1792260192,
+   "version": "0.1.8"
   },
   "e6627cb6-5e78-4443-86bc-4340210a5684/PatronsLedger": {
    "addOnVersion": "100",
@@ -8175,6 +8231,20 @@
    "title": "PinkB's Tamriel de Tetris",
    "updatedAt": 1789850727,
    "version": "1.16.0"
+  },
+  "e96f0d83-b3f0-47a8-a59a-2d6020816550/ALCBenchmark": {
+   "addOnVersion": "26101514",
+   "addonId": "e96f0d83-b3f0-47a8-a59a-2d6020816550",
+   "apiVersion": "101051 101052",
+   "author": "APH0NlC",
+   "dependsOn": "LibAPH>=26100717",
+   "downloads": 0,
+   "folder": "ALCBenchmark",
+   "isLibrary": "",
+   "optionalDependsOn": "AutoLuaMemoryCleaner",
+   "title": "ALCBenchmark",
+   "updatedAt": 1792259843,
+   "version": "2026.10.18.01.41"
   },
   "e9774308-4827-4806-b3bd-924016769cd3/PBsOmikuji": {
    "addOnVersion": "",
@@ -9333,6 +9403,12 @@
    ],
    "version": "2.13"
   },
+  "0bfedee5-e73d-43f5-8e5a-cee64c2f5e6f": {
+   "folders": [
+    "APH-Profiler"
+   ],
+   "version": "2026.10.18.01.41"
+  },
   "0c5ee200-59f0-443c-b3a8-4eb164532120": {
    "folders": [
     "BossBarSuppressor"
@@ -9806,7 +9882,7 @@
    "folders": [
     "PermMemento"
    ],
-   "version": "2026.10.07.17.24"
+   "version": "2026.10.18.01.41"
   },
   "2abdc7a0-d15d-42ae-aad7-bccf995da180": {
    "folders": [
@@ -10320,7 +10396,7 @@
    "folders": [
     "CharacterBoundItemHider"
    ],
-   "version": "2026.10.06.13.49"
+   "version": "2026.10.18.01.41"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd": {
    "folders": [
@@ -10494,7 +10570,7 @@
    "folders": [
     "OneAPHaTime"
    ],
-   "version": "2026.10.06.13.49"
+   "version": "2026.10.18.01.41"
   },
   "541ab871-9386-4990-a3c7-32563ded9243": {
    "folders": [
@@ -10760,6 +10836,12 @@
     "JumpToSearch"
    ],
    "version": "JumpToSearch-0.2.1-2026-10-08T192243"
+  },
+  "66108dc4-7941-473d-8b4a-f129da12e33c": {
+   "folders": [
+    "Leo_stats_panel"
+   ],
+   "version": "0.1.0"
   },
   "66400ef3-3d78-4737-a158-c48633706a83": {
    "folders": [
@@ -11537,7 +11619,7 @@
    "folders": [
     "AutoLuaMemoryCleaner"
    ],
-   "version": "2026.10.07.17.24"
+   "version": "2026.10.18.01.41"
   },
   "992e3a70-4653-4937-9089-bfee29417439": {
    "folders": [
@@ -11794,6 +11876,12 @@
    ],
    "version": "1.x.x.x"
   },
+  "ad02eccd-a3f5-4375-8c13-e631101449c5": {
+   "folders": [
+    "APH-FPSGraph"
+   ],
+   "version": "2026.10.18.01.41"
+  },
   "ad7a6e1f-ea28-463b-819f-fd0ce5f2395d": {
    "folders": [
     "aeriesCryTracker"
@@ -11936,7 +12024,7 @@
    "folders": [
     "AccountHold"
    ],
-   "version": "26080303"
+   "version": "26101701"
   },
   "b680d5f3-b8ab-4158-a513-d3f2a14921db": {
    "folders": [
@@ -12183,7 +12271,7 @@
    "folders": [
     "CasualClean"
    ],
-   "version": "1.6.6"
+   "version": "1.7.4"
   },
   "c786f4ab-0ae9-4067-bfd7-5d9ec9b2705b": {
    "folders": [],
@@ -12240,6 +12328,12 @@
     "UnderPressure"
    ],
    "version": "0.4.2"
+  },
+  "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
+   "folders": [
+    "Leo_status_panel"
+   ],
+   "version": "0.1.0"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c": {
    "folders": [
@@ -12541,7 +12635,7 @@
    "folders": [
     "LibAPH"
    ],
-   "version": "2026.10.07.17.24"
+   "version": "2026.10.18.01.41"
   },
   "db3e5212-7543-479f-a881-7cda2bd1a1c9": {
    "folders": [
@@ -12757,7 +12851,7 @@
    "folders": [
     "Leo_sust_beta"
    ],
-   "version": "0.1.7"
+   "version": "0.1.8"
   },
   "e6627cb6-5e78-4443-86bc-4340210a5684": {
    "folders": [
@@ -12799,6 +12893,12 @@
     "PBsTetris"
    ],
    "version": "1.16.0"
+  },
+  "e96f0d83-b3f0-47a8-a59a-2d6020816550": {
+   "folders": [
+    "ALCBenchmark"
+   ],
+   "version": "2026.10.18.01.41"
   },
   "e9774308-4827-4806-b3bd-924016769cd3": {
    "folders": [

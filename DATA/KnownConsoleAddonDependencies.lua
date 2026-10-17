@@ -15,8 +15,11 @@ AdditionalReminders	LibAddonMenu-2.0
 advancingYokedaTracker	LibNotify
 AdventurersToolkit	LibAddonMenu-2.0	LibQRCode
 aeriesCryTracker	LibNotify
+ALCBenchmark	AutoLuaMemoryCleaner
 AltAttributes	Azurah	LibAddonMenu-2.0	LibGamepad	LibHarvensAddonSettings	LibVotans
 AlternateDeathRecap	LibHarvensAddonSettings
+APH-FPSGraph	LibAddonMenu-2.0	LibHarvensAddonSettings
+APH-Profiler	LibAddonMenu-2.0	LibDebugLogger	LibHarvensAddonSettings
 Archaeology	LibHarvensAddonSettings
 archdruidTracker	LibNotify
 AsylumTimers	LibHarvensAddonSettings

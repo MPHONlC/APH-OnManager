@@ -16,7 +16,7 @@ AAAConsoleUIShim		1	101050 101051	ACUS	user562x	35468315-d34f-4779-b62b-ccb35919
 AbahsAppraiser	15106	1.51.06	101051	Auto Sell Junk - Abah's Appraiser	xbutch	2d6ff530-edbc-4425-be68-daadbc3c0afa
 AbilityIDToolkit		v0.0.05	101050	TEST 03	BMGxSancho	ccd8ba3a-f81c-4f99-98fd-84f9ce3c76f0
 AboveMe	771	v0.0.02	101050	Above Me Icon Browser	BMGxSancho	c1746be9-5c6a-4516-aa21-e54bd8e5a25e
-AccountHold	26072810	26080303	101049 101050	[Beta]Gear_Manage	newhite70	b630804a-0ccd-4828-8c9e-945790ec3774
+AccountHold	26101700	26101701	101049 101050	[Beta]Gear_Manage	newhite70	b630804a-0ccd-4828-8c9e-945790ec3774
 AdditionalReminders	1	1.0	101050	Additional Reminders	M0R	301799ca-d139-4097-8799-022ef07985ad
 AddonInsights	180	0.10	101049 101047	AddonInsights	spoqster	11249dc8-1df3-4342-a040-ec0aaccef76d
 AddonLoadMonitor		1.0.0	101047 101048	Addon Load Time Monitor	code65536	a89e4472-1774-4182-bc32-05d04d19ca06
@@ -26,6 +26,7 @@ AdvancedCruxTracker		v1.5	101050	Advanced Crux Tracker	j.hhh	7c2543a8-c08b-4c48-
 advancingYokedaTracker		1.3.1	101051	Advancing Yokeda Tracker	codeWarrior82	3cd8f841-6502-49d4-866c-a49b12a16460
 AdventurersToolkit	652	14.12.652	101048	Adventurer's Toolkit	Tekatsu	8ba040d8-fba0-4a01-aa63-4ee74dd2d1d6
 aeriesCryTracker		1.2.9	101051	Aerie's Cry Tracker	codeWarrior82	ad7a6e1f-ea28-463b-819f-fd0ce5f2395d
+ALCBenchmark	26101514	2026.10.18.01.41	101051 101052	ALCBenchmark	APH0NlC	e96f0d83-b3f0-47a8-a59a-2d6020816550
 AlchemyOpener	1	1.0.2	101046	Alchemy Opener	Vixen_Hunny	8f125308-c2a5-40e6-b249-d29e85f81020
 AldrensGrandmasterWorkshop		2.0.1	101050	Aldrens Grandmaster Workshop	Rhyojaan	764a614a-74ad-46e6-b587-0bea7cd6174c
 AldrensWorldEvents		0.4.4	101050	Aldrens World Events	Rhyojaan	1314f50c-ef2d-47b1-a8e8-18bf28416980
@@ -46,7 +47,9 @@ AntiDK	1.0.0	1.0.1	101048	AntiDK	Vixen_Hunny	1f552d57-81fb-407f-b9f2-f45228e2a17
 AntiDK2	1.5	1.2.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586d
 AntiquarianCodex	15105	1.51.05	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
+APH-FPSGraph	26101514	2026.10.18.01.41	101051 101052	APH FPS GRAPH	APH0NlC	ad02eccd-a3f5-4375-8c13-e631101449c5
 APH-OnManager	26101514	2026.10.15.14.36	101051 101052	APH-On Manager	MPHONlC
+APH-Profiler	26101514	2026.10.18.01.41	101051 101052	APH Profiler	APH0NlC	0bfedee5-e73d-43f5-8e5a-cee64c2f5e6f
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
 archdruidTracker		2.5.4	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010100	1.1.0	101047 101048	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
@@ -63,7 +66,7 @@ AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf
 AutoConsume		3.4	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
-AutoLuaMemoryCleaner	26100717	2026.10.07.17.24	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
+AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
 AutoReadyCheck	241	v2.4.1	101049 101048	AutoReadyCheck	L_cky	be99bdeb-a9e3-4b63-abe8-9aa886190e8e
 AutoRechargeAndRepair	10503	1.5.5	101048 101049	Auto Repair and Recharge	Shienar	560a465f-d7b4-49ae-af7a-0558e1683ada
 AutoResearch		3.1.2	101046	Auto Research	Dolgubon	6694e6d4-7ae0-4eb8-9a61-e1c53ac5c187
@@ -101,14 +104,14 @@ CallToArm		1.1.6-T5c	101051	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175
 CanCraftMasterWrit	10100	1.1.0	101051	Can Craft Master Writ	xSuperSlayan	008cd443-6347-421a-bfcf-ddc830e8cfef
 CanITravelBack	1	0.3.6	101046	Can I Travel Back?	Xarador	8289722e-8e80-4a3d-ba1a-31ae1194ffce
 CanThisBeCraftedAtHome		2025.05.29	101046	CanThisBeCraftedAtHome	Masteroshi430	434ce5ca-211a-4a6b-8682-21f39dcb2d25
-CasualClean	10	1.6.6	101051	CasualClean	Th3rtythr33	c75df85c-f9c0-4e54-a0f3-d5173e44a850
+CasualClean	10	1.7.4	101051	CasualClean	Th3rtythr33	c75df85c-f9c0-4e54-a0f3-d5173e44a850
 CBookFontStylist	50002	5.0.2	101050	Book Font Stylist	Calamath	54495f75-791c-4010-8120-4aae3fdc19a1
 CBStampOfManufacture	1	1.2	101050	CB's stamp of manufacture	dicen9	4e562dc4-090e-42a9-9a27-6c9ef5e1daee
 cChat	2	2.2	101050	cChat	svammy	93511248-c8d1-4b19-9167-08bbeb5d10ac
 CCSentinel	1	2.1 Stable Revised	101046	CCSentinel	Synkronist	070110ba-7a49-4a58-8a9a-a164977f2835
 CCTracker	010006	3.1 Stable	101046	CCTracker	Synkronist	154706f1-4dcc-478b-a08e-42bd6f7caeff
 ChampionXPBar		1.7	101047	ChampionXPBar	thewizadt	863227c7-d9fe-4803-b842-d9fb1aa79f16
-CharacterBoundItemHider	26100613	2026.10.06.13.49	101051 101052	Character Bound Item Hider	APH0NlC	49e5c9da-dc0d-4bf5-b60c-6e6e53784107
+CharacterBoundItemHider	26101801	2026.10.18.01.41	101051 101052	Character Bound Item Hider	APH0NlC	49e5c9da-dc0d-4bf5-b60c-6e6e53784107
 ChatBeGone	10143	1.1.4.3	101050 101049 101048	Chat Be Gone	xPricee	85e2f419-414a-48a9-ad3b-4b713c098ca2
 ChatKeeper	12	1.0.1	101050 101051	Chat keeper	TheGreyWolf98	47608f50-4be4-46b1-833f-575274a7dbf2
 ChatLogPreserver		ChatLogPreserver-0.0.2-2026-07-26T220304	101048	Chat Log Preserver	clubwratt	cebfe41b-3168-432c-a3cf-795bbe56e54e
@@ -273,12 +276,14 @@ LazyCrown	6	0.2.2	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-
 LazyHorseFeed		1.0.5	101045 101046	Lazy Horse Trainer	Dolgubon	dd337340-e6c9-4835-8e50-ba68c7e949e4
 LCMDemo		1.1.7	101050 101051	LCM Demo	Fluazinam	e27e2f85-110a-4725-ab46-5f878649b8a3
 LeadReminder	002	1.0.2	101045 101046	LeadReminder	aronsini	a10a8862-6862-4916-a685-c75f5a098637
-Leo_sust_beta		0.1.7	101051	leo_sust_beta	LeonShu	e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76
+Leo_stats_panel		0.1.0	101051	Leo_stat_panel_beta	LeonShu	66108dc4-7941-473d-8b4a-f129da12e33c
+Leo_status_panel		0.1.0	101051	Leo_status_panel_beta	LeonShu	cbe4d714-54cb-4495-a852-fdbd74443b5a
+Leo_sust_beta		0.1.8	101051	leo_sust_beta	LeonShu	e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76
 Leo_tracker_beta		0.3.3	101051	Leo_tracker_beta	LeonShu	35b41333-fe07-42d9-b8f7-aa2f6b7c83cc
 LibAbilityLogger	1	LAB 6,9,1	101046	LibAbilityLogger	Vixen_Hunny	e4b71317-9236-4462-a9a2-889700f950bb
 LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9c-4b14-aa0e-d841090d128c
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
-LibAPH	26100717	2026.10.07.17.24	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
+LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
 LibAsync	30106	LibAsync-3.1.6-2026-10-04T142628	101049 101050	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 LibCharacterKnowledge	301020	3.1.2	101050 101051	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
@@ -411,7 +416,7 @@ NumbersOnDummyOnly		2025.05.29	101046	NumbersOnDummyOnly	Masteroshi430	7dd87315-
 OffBalanceTracker	0005	20260914-0005	101050	Off Balance Tracker - incl. Smart Tracking Mode	DuesentriebESO	ee431f44-2522-4944-ad58-8916644ec121
 OhNoMyMenu		1.0.1	101050	Oh No My Menu	BLKx777	30102403-93a7-4fd2-a08a-4b249f03e4d4
 Olorime	020300	2.3.0	101047 101048	Olorime	tmbrinks	2abdc7a0-d15d-42ae-aad7-bccf995da180
-OneAPHaTime	26100613	2026.10.06.13.49	101051 101052	One APH a Time	APH0NlC	53c80097-33fd-4ef3-83f4-e78d6d9482ee
+OneAPHaTime	26101801	2026.10.18.01.41	101051 101052	One APH a Time	APH0NlC	53c80097-33fd-4ef3-83f4-e78d6d9482ee
 OneMorRockgrove	140	1.4.0	101048	One More Rockgrove Helper	M0R	38f0df90-e793-4c9c-af2b-44a958ed38cf
 OpenAll	1312	1.3.2	101046	Auto Opener	Copper0	79b6b597-9e33-4cd7-b076-44e9a153a44c
 OsseinAssist		0.0.11	101048 101049	Ossein Assist	goron_spice	fea36b82-af6d-4ba4-803b-94703baf934a
@@ -442,7 +447,7 @@ PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f0
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
-PermMemento	26100717	2026.10.07.17.24	101051 101052	Permanent Memento	APH0NlC	2aa223e9-ba88-45f7-90d3-0a47002c720c
+PermMemento	26101801	2026.10.18.01.41	101051 101052	Permanent Memento	APH0NlC	2aa223e9-ba88-45f7-90d3-0a47002c720c
 Persona		1.0.0a	101049 101050	Persona	SugaComa	a3bda6e6-a854-4387-825a-dccb05d706d8
 PersonalDpsTracker	21007	2.1.7	101050 101051	Personal Dps Tracker	Shienar	c9b85989-bab6-4000-a3fc-80ed49e25e87
 PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a86588cd787

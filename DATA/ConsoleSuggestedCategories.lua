@@ -11,6 +11,7 @@ assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.ConsoleSuggestedCategories = AoM.CreateConsoleValueTable([==[
 AAAConsoleUIShim	Libraries
+ALCBenchmark	Plug-Ins & Patches
 AllAP	PvP
 AltBossBar	Unit Mods
 AlternateDeathRecap	Combat Mods
@@ -20,6 +21,8 @@ AmIBlockingPlus	Plug-Ins & Patches
 Andy	Utility Mods
 AntiAllCaps	Chat Mods
 AntiDismount	Utility Mods
+APH-FPSGraph	Utility Mods
+APH-Profiler	Utility Mods
 ArchdruidTracker	Casting Bars, Cooldowns
 ArmoryRoleSwitcher	Character Advancement
 ArtaeumGroupTool	PvP
