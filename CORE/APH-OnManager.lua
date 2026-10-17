@@ -14,7 +14,7 @@ local AoM = APHOnManagerCore
 local dev_simulate_error, ApplySuggestedCategoriesOnce
 local LibAPH = LibAPH
 AoM.name = "APH-OnManager"
-AoM.VERSION = "2026.10.15.14.36"
+AoM.VERSION = "2026.10.18.01.41"
 
 function AoM.L(key, ...)
 	local id = _G["SI_AOM_" .. key]
