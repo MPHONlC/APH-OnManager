@@ -48,7 +48,7 @@ AntiDK2	1.5	1.2.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586
 AntiquarianCodex	15105	1.51.05	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-FPSGraph	26101514	2026.10.18.01.41	101051 101052	APH FPS GRAPH	APH0NlC	ad02eccd-a3f5-4375-8c13-e631101449c5
-APH-OnManager	26101514	2026.10.15.14.36	101051 101052	APH-On Manager	MPHONlC
+APH-OnManager	26101801	2026.10.18.01.41	101051 101052	APH-On Manager	MPHONlC
 APH-Profiler	26101514	2026.10.18.01.41	101051 101052	APH Profiler	APH0NlC	0bfedee5-e73d-43f5-8e5a-cee64c2f5e6f
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
 archdruidTracker		2.5.4	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
