@@ -1,18 +1,18 @@
 {
  "addons": {
   "008cd443-6347-421a-bfcf-ddc830e8cfef/CanCraftMasterWrit": {
-   "addOnVersion": "10000",
+   "addOnVersion": "10100",
    "addonId": "008cd443-6347-421a-bfcf-ddc830e8cfef",
    "apiVersion": "101051",
    "author": "xSuperSlayan",
    "dependsOn": "LibCharacterKnowledge>=301020 LibLazyCrafting>=4041 LibQRCode",
-   "downloads": 145381,
+   "downloads": 154091,
    "folder": "CanCraftMasterWrit",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Can Craft Master Writ",
-   "updatedAt": 1791702680,
-   "version": "1.0"
+   "updatedAt": 1792110749,
+   "version": "1.1.0"
   },
   "03172246-c90c-4b8b-9821-06a74a01ce96/ZoneMountSwitcher": {
    "addOnVersion": "110",
@@ -980,6 +980,20 @@
    "updatedAt": 1774378058,
    "version": "CM 4.0.1 0 bug fix"
   },
+  "1f42735d-8e9b-47ab-a1a7-f70de8bef493/BeyondTheMap": {
+   "addOnVersion": "15100",
+   "addonId": "1f42735d-8e9b-47ab-a1a7-f70de8bef493",
+   "apiVersion": "101051",
+   "author": "xbutch",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "BeyondTheMap",
+   "isLibrary": "false",
+   "optionalDependsOn": "",
+   "title": "Beyond The Map",
+   "updatedAt": 1792244359,
+   "version": "1.51.00"
+  },
   "1f552d57-81fb-407f-b9f2-f45228e2a171/AntiDK": {
    "addOnVersion": "1.0.0",
    "addonId": "1f552d57-81fb-407f-b9f2-f45228e2a171",
@@ -1588,13 +1602,13 @@
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 24,
    "folder": "MyUI",
    "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings LibStub LibDebugLogger",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibStub",
    "title": "ttest",
-   "updatedAt": 1792005815,
-   "version": "v1.2"
+   "updatedAt": 1792256470,
+   "version": "v2.8"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa/ValknarrUIE": {
    "addOnVersion": "43",
@@ -2302,13 +2316,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 288,
+   "downloads": 307,
    "folder": "PBsChatAssistant",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's ChatAssistant",
-   "updatedAt": 1791711998,
-   "version": "1.30.0"
+   "updatedAt": 1792237356,
+   "version": "1.30.1"
   },
   "427000e9-72c4-4fc9-b9b6-3cca4f863607/TGWSkillSeeker": {
    "addOnVersion": "6",
@@ -2344,13 +2358,13 @@
    "apiVersion": "101051",
    "author": "Lykeion+",
    "dependsOn": "LibAddonMenu-2.0>=43",
-   "downloads": 1318,
+   "downloads": 1447,
    "folder": "LykeionsAwareWolf",
    "isLibrary": "",
    "optionalDependsOn": "LibCombatAlerts",
    "title": "Lykeion's Aware Wolf",
-   "updatedAt": 1792001930,
-   "version": "2.0"
+   "updatedAt": 1792050327,
+   "version": "2.1"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25/CanThisBeCraftedAtHome": {
    "addOnVersion": "",
@@ -2414,13 +2428,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "LibConsoleMenu AAAConsoleUIShim",
-   "downloads": 234,
+   "downloads": 238,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast",
    "title": "dev sandbox",
-   "updatedAt": 1792039871,
-   "version": "PvPUAPatch-5.2.0-2026-10-14T215102"
+   "updatedAt": 1792105246,
+   "version": "PvPUAPatch-5.3.0-2026-10-15T160037"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -2946,13 +2960,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "LibConsoleMenu AAAConsoleUIShim",
-   "downloads": 20,
+   "downloads": 152,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast",
    "title": "PvP UA (Patch)",
-   "updatedAt": 1790881466,
-   "version": "PvPUAPatch-5.0.1-2026-10-01T120418"
+   "updatedAt": 1792119705,
+   "version": "PvPUAPatch-5.3.1-2026-10-15T200136"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9/Update47Tweaker": {
    "addOnVersion": "",
@@ -3646,13 +3660,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 30,
+   "downloads": 32,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
    "optionalDependsOn": "LibCombat LibCombat2",
    "title": "testo",
-   "updatedAt": 1791977650,
-   "version": "1.8.3"
+   "updatedAt": 1792086083,
+   "version": "2.0.1"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
    "addOnVersion": "201",
@@ -4004,6 +4018,20 @@
    "updatedAt": 1774046900,
    "version": "1.2"
   },
+  "70b691c1-ae82-42c5-ad2d-4dad6bd53b36/ItemHound": {
+   "addOnVersion": "10",
+   "addonId": "70b691c1-ae82-42c5-ad2d-4dad6bd53b36",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 32,
+   "folder": "ItemHound",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "ItemHound",
+   "updatedAt": 1791921354,
+   "version": "0.8.1"
+  },
   "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0/QcellDreadsailReefHelper": {
    "addOnVersion": "",
    "addonId": "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0",
@@ -4159,18 +4187,18 @@
    "version": "100"
   },
   "754151c2-90b5-4c5f-ba25-ab2b38c18284/GamepadMiniChatTabs": {
-   "addOnVersion": "105",
+   "addOnVersion": "106",
    "addonId": "754151c2-90b5-4c5f-ba25-ab2b38c18284",
-   "apiVersion": "101048 101049",
+   "apiVersion": "101051 101052",
    "author": "Dack.Janiels",
    "dependsOn": "LibHarvensAddonSettings LibRadialMenu",
-   "downloads": 1501,
+   "downloads": 1581,
    "folder": "GamepadMiniChatTabs",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Gamepad Mini Chat Tabs",
-   "updatedAt": 1778036039,
-   "version": "1.0.5"
+   "updatedAt": 1792253010,
+   "version": "1.0.6"
   },
   "756d3118-70ee-4ed7-a49e-5217da36e5fe/LibCombatAlerts": {
    "addOnVersion": "8052",
@@ -4570,13 +4598,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 110,
+   "downloads": 112,
    "folder": "PBsChatAssistant",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's ChatAssistant(Beta)",
-   "updatedAt": 1791711789,
-   "version": "1.30.0"
+   "updatedAt": 1792237313,
+   "version": "1.30.1"
   },
   "8421afb6-ec3a-4d66-a247-e161c5656103/TrustButVerify": {
    "addOnVersion": "",
@@ -4732,6 +4760,20 @@
    "updatedAt": 1786472505,
    "version": "1.0.0"
   },
+  "899e2487-496c-40d0-9a7e-dad95a1807fc/ScryMaster": {
+   "addOnVersion": "",
+   "addonId": "899e2487-496c-40d0-9a7e-dad95a1807fc",
+   "apiVersion": "101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 14,
+   "folder": "ScryMaster",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Scry Master",
+   "updatedAt": 1792082593,
+   "version": "1.0.1"
+  },
   "89ecfc27-e76b-48ae-8d40-e76bbf0c5c13/TamrielMasterLedger": {
    "addOnVersion": "21694",
    "addonId": "89ecfc27-e76b-48ae-8d40-e76bbf0c5c13",
@@ -4857,6 +4899,20 @@
    "title": "Dark Convergence Tracker",
    "updatedAt": 1791550312,
    "version": "1.0.8"
+  },
+  "8e0c89af-87a5-4154-b9cd-1d1e5ed943a5/DeskUI": {
+   "addOnVersion": "6",
+   "addonId": "8e0c89af-87a5-4154-b9cd-1d1e5ed943a5",
+   "apiVersion": "101050 101051",
+   "author": "ItsCraniBaby1",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "DeskUI",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Xbox-PCUI",
+   "updatedAt": 1792217567,
+   "version": "0.6.0"
   },
   "8e142999-8113-4317-9868-a6be8e0a34cc/GroupFinderAlerts": {
    "addOnVersion": "",
@@ -5027,18 +5083,18 @@
    "version": "2.0.1"
   },
   "910cac85-d8d4-4788-949b-2954e8ee9215/RodZillaTraderStats": {
-   "addOnVersion": "6",
+   "addOnVersion": "7",
    "addonId": "910cac85-d8d4-4788-949b-2954e8ee9215",
    "apiVersion": "101050",
    "author": "TeamRodZillaLLC",
    "dependsOn": "LibHistoire LibAddonMenu-2.0",
-   "downloads": 12,
+   "downloads": 67,
    "folder": "RodZillaTraderStats",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "RodZilla's Trader Stats",
-   "updatedAt": 1791833794,
-   "version": "0.1.6"
+   "updatedAt": 1792089830,
+   "version": "0.1.7"
   },
   "91330ebe-27c8-46b9-ad71-42991b96789d/RezBot": {
    "addOnVersion": "",
@@ -5572,6 +5628,20 @@
    "updatedAt": 1791129609,
    "version": "v1.3.2"
   },
+  "a0257a7b-725f-4051-91ee-a686c0c70fc2/LazyCrown": {
+   "addOnVersion": "6",
+   "addonId": "a0257a7b-725f-4051-91ee-a686c0c70fc2",
+   "apiVersion": "101050 101051",
+   "author": "absolventR3M",
+   "dependsOn": "LibRadialMenu>=9",
+   "downloads": 9,
+   "folder": "LazyCrown",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings LibGroupCombatStats",
+   "title": "Lazy Crown",
+   "updatedAt": 1792213450,
+   "version": "0.2.2"
+  },
   "a095f0da-9f45-4dde-a150-2c9b09ba7317/TrueExploration": {
    "addOnVersion": "203",
    "addonId": "a095f0da-9f45-4dde-a150-2c9b09ba7317",
@@ -5711,6 +5781,20 @@
    "title": "PvP UA!",
    "updatedAt": 1791404618,
    "version": "5.1"
+  },
+  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
+   "addOnVersion": "102",
+   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
+   "apiVersion": "101050",
+   "author": "Bucketmore",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 155,
+   "folder": "PvPTargetInfo",
+   "isLibrary": "false",
+   "optionalDependsOn": "",
+   "title": "PvP Target Info",
+   "updatedAt": 1792153137,
+   "version": "v2.0.3"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -6432,13 +6516,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 89,
+   "downloads": 178,
    "folder": "LibTrack",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1792021863,
-   "version": "1.9.4"
+   "updatedAt": 1792258872,
+   "version": "2.9.2"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
    "addOnVersion": "8",
@@ -6614,13 +6698,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 6,
+   "downloads": 8,
    "folder": "PBsScreenshotModeShortcut",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's ScreenshotModeShortcut(Beta)",
-   "updatedAt": 1789258835,
-   "version": "1.0.5"
+   "updatedAt": 1792237202,
+   "version": "1.0.6"
   },
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e/TrueDebuffsBars": {
    "addOnVersion": "",
@@ -6847,18 +6931,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000086",
+   "addOnVersion": "01000088",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 12047,
+   "downloads": 12689,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792036813,
-   "version": "1.0.86"
+   "updatedAt": 1792209613,
+   "version": "1.0.88"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8233,18 +8317,18 @@
    "version": "v0.3.17"
   },
   "ee217f7c-81b5-40dc-beb5-a6a184260d9d/Zaji": {
-   "addOnVersion": "2",
+   "addOnVersion": "3",
    "addonId": "ee217f7c-81b5-40dc-beb5-a6a184260d9d",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 8,
    "folder": "Zaji",
    "isLibrary": "False",
    "optionalDependsOn": "",
    "title": "Zaji",
-   "updatedAt": 1791641613,
-   "version": "1.0.1"
+   "updatedAt": 1792173710,
+   "version": "1.0.2"
   },
   "ee431f44-2522-4944-ad58-8916644ec121/OffBalanceTracker": {
    "addOnVersion": "0005",
@@ -8392,13 +8476,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 16,
+   "downloads": 27,
    "folder": "PBsScreenshotModeShortcut",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's ScreenshotModeShortcut",
-   "updatedAt": 1789258865,
-   "version": "1.0.5"
+   "updatedAt": 1792237239,
+   "version": "1.0.6"
   },
   "f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d/MyROCooldownBar": {
    "addOnVersion": "",
@@ -8623,20 +8707,6 @@
    "title": "Wizard's Wardrobe Console Companion",
    "updatedAt": 1791338784,
    "version": "1.0.1"
-  },
-  "f6ca400d-2787-4c8a-91db-e78125233eb1/PactWatch": {
-   "addOnVersion": "104",
-   "addonId": "f6ca400d-2787-4c8a-91db-e78125233eb1",
-   "apiVersion": "101050 101051",
-   "author": "TheGreyWolf98",
-   "dependsOn": "",
-   "downloads": 6,
-   "folder": "PactWatch",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Pact Watch",
-   "updatedAt": 1791699393,
-   "version": "0.1.4"
   },
   "f6e1e99b-174a-401e-8acf-d4a7e6e2c352/LibMapPing": {
    "addOnVersion": "1240",
@@ -9064,7 +9134,7 @@
    "folders": [
     "CanCraftMasterWrit"
    ],
-   "version": "1.0"
+   "version": "1.1.0"
   },
   "03172246-c90c-4b8b-9821-06a74a01ce96": {
    "folders": [
@@ -9514,6 +9584,12 @@
    ],
    "version": "CM 4.0.1 0 bug fix"
   },
+  "1f42735d-8e9b-47ab-a1a7-f70de8bef493": {
+   "folders": [
+    "BeyondTheMap"
+   ],
+   "version": "1.51.00"
+  },
   "1f552d57-81fb-407f-b9f2-f45228e2a171": {
    "folders": [
     "AntiDK"
@@ -9782,7 +9858,7 @@
    "folders": [
     "MyUI"
    ],
-   "version": "v1.2"
+   "version": "v2.8"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa": {
    "folders": [
@@ -10100,7 +10176,7 @@
    "folders": [
     "PBsChatAssistant"
    ],
-   "version": "1.30.0"
+   "version": "1.30.1"
   },
   "427000e9-72c4-4fc9-b9b6-3cca4f863607": {
    "folders": [
@@ -10113,7 +10189,7 @@
    "folders": [
     "LykeionsAwareWolf"
    ],
-   "version": "2.0"
+   "version": "2.1"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25": {
    "folders": [
@@ -10125,7 +10201,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.2.0-2026-10-14T215102"
+   "version": "PvPUAPatch-5.3.0-2026-10-15T160037"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -10366,7 +10442,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.0.1-2026-10-01T120418"
+   "version": "PvPUAPatch-5.3.1-2026-10-15T200136"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9": {
    "folders": [
@@ -10677,7 +10753,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "1.8.3"
+   "version": "2.0.1"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
    "folders": [
@@ -10830,6 +10906,13 @@
    ],
    "version": "1.2"
   },
+  "70b691c1-ae82-42c5-ad2d-4dad6bd53b36": {
+   "folders": [
+    "ItemHound",
+    "ItemHound"
+   ],
+   "version": "0.8.1"
+  },
   "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0": {
    "folders": [
     "QcellDreadsailReefHelper"
@@ -10900,7 +10983,7 @@
    "folders": [
     "GamepadMiniChatTabs"
    ],
-   "version": "1.0.5"
+   "version": "1.0.6"
   },
   "756d3118-70ee-4ed7-a49e-5217da36e5fe": {
    "folders": [
@@ -11087,7 +11170,7 @@
    "folders": [
     "PBsChatAssistant"
    ],
-   "version": "1.30.0"
+   "version": "1.30.1"
   },
   "8421afb6-ec3a-4d66-a247-e161c5656103": {
    "folders": [
@@ -11161,6 +11244,12 @@
    ],
    "version": "1.0.0"
   },
+  "899e2487-496c-40d0-9a7e-dad95a1807fc": {
+   "folders": [
+    "ScryMaster"
+   ],
+   "version": "1.0.1"
+  },
   "89ecfc27-e76b-48ae-8d40-e76bbf0c5c13": {
    "folders": [
     "TamrielMasterLedger"
@@ -11224,6 +11313,12 @@
   "8e0a0bf5-7c84-4155-ba23-48c34887ff9f": {
    "folders": [],
    "version": "4.6.2"
+  },
+  "8e0c89af-87a5-4154-b9cd-1d1e5ed943a5": {
+   "folders": [
+    "DeskUI"
+   ],
+   "version": "0.6.0"
   },
   "8e142999-8113-4317-9868-a6be8e0a34cc": {
    "folders": [
@@ -11301,7 +11396,7 @@
    "folders": [
     "RodZillaTraderStats"
    ],
-   "version": "0.1.6"
+   "version": "0.1.7"
   },
   "91330ebe-27c8-46b9-ad71-42991b96789d": {
    "folders": [
@@ -11534,6 +11629,12 @@
    ],
    "version": "v1.3.2"
   },
+  "a0257a7b-725f-4051-91ee-a686c0c70fc2": {
+   "folders": [
+    "LazyCrown"
+   ],
+   "version": "0.2.2"
+  },
   "a095f0da-9f45-4dde-a150-2c9b09ba7317": {
    "folders": [
     "TrueExploration"
@@ -11594,6 +11695,12 @@
     "PvPUA"
    ],
    "version": "5.1"
+  },
+  "a5490d07-2b02-4714-bf07-a18820977a3c": {
+   "folders": [
+    "PvPTargetInfo"
+   ],
+   "version": "v2.0.3"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -11923,7 +12030,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "1.9.4"
+   "version": "2.9.2"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
    "folders": [
@@ -12010,7 +12117,7 @@
    "folders": [
     "PBsScreenshotModeShortcut"
    ],
-   "version": "1.0.5"
+   "version": "1.0.6"
   },
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e": {
    "folders": [
@@ -12120,7 +12227,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.86"
+   "version": "1.0.88"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -12765,7 +12872,7 @@
    "folders": [
     "Zaji"
    ],
-   "version": "1.0.1"
+   "version": "1.0.2"
   },
   "ee431f44-2522-4944-ad58-8916644ec121": {
    "folders": [
@@ -12833,7 +12940,7 @@
    "folders": [
     "PBsScreenshotModeShortcut"
    ],
-   "version": "1.0.5"
+   "version": "1.0.6"
   },
   "f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d": {
    "folders": [
@@ -12934,12 +13041,6 @@
     "WizardsWardrobeCompanion"
    ],
    "version": "1.0.1"
-  },
-  "f6ca400d-2787-4c8a-91db-e78125233eb1": {
-   "folders": [
-    "PactWatch"
-   ],
-   "version": "0.1.4"
   },
   "f6e1e99b-174a-401e-8acf-d4a7e6e2c352": {
    "folders": [

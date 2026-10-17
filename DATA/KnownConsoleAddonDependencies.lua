@@ -96,6 +96,7 @@ IsItTaunted	LibAddonMenu-2.0
 JumpToSearch	LibConsoleLogger
 KDRTracker	LibHarvensAddonSettings
 KhajiitFengShui	LuiExtended
+LazyCrown	LibGroupCombatStats	LibHarvensAddonSettings
 LibAddonMenu-2.0	LibDebugLogger	LibHarvensAddonSettings	LibStub
 LibAlchemy	DebugLogViewer	LibDebugLogger
 LibAsync	LibDebugLogger
@@ -140,7 +141,7 @@ MicToggle	LibAddonMenu-2.0
 MSPAINTUI	AbilityIconsFramework
 MuchSmarterAutoLoot	ArkadiusTradeTools	LibCharacterKnowledge	LibCustomMenu	LibRadialMenu	LibSavedVars	MasterMerchant	PerfectPixel	TSCPriceFetcher2	TamrielTradeCentre
 MultiMark	LibAddonMenu-2.0
-MyUI	LibAddonMenu-2.0	LibDebugLogger	LibHarvensAddonSettings	LibStub
+MyUI	LibAddonMenu-2.0	LibStub
 Nemesis	LibHarvensAddonSettings	LibVotans
 NewQuestAssist	LibAddonMenu-2.0
 NoTargetFrame	LibAddonMenu-2.0
