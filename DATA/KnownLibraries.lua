@@ -64,7 +64,7 @@ LibAkaUtils	22	22	3683	101045	LibAkaUtils	LibAkaUtils
 LibAlchemy	27	2.7	2618	101051 101052	LibAlchemy	LibAlchemy
 LibAlchemyStation	345	3.4.5	2628	101037 101038	LibAlchemyStation	LAS
 LibAnimation-1.0	23	2.3	54	101032 101033	LibAnimation-1.0	LibAnimation-1.0
-LibAPH	26100717	2026.10.07.17.24	4917	101051 101052	LibAPH	LibAPH
+LibAPH	26101801	2026.10.18.01.41	4917	101051 101052	LibAPH	LibAPH
 LibArmorInsulation	22	2.7.11	4709	101050 101051	LibArmorInsulation	LibArmorInsulation
 LibAsync	30105	3.1.5	2125	101051 101052	LibAsync	LibAsync
 LibBase64		1.0	3795	101040	LibBase64	LibBase64
