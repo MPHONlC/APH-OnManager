@@ -130,7 +130,7 @@ LibGuildRoster	104	1.0.4	2784	101049 101050	LibGuildRoster	LibGuildRoster
 LibGuildStore	105	3.8.33	2753	101049 101050	Master Merchant 3.0	LibGuildStore
 LibHandler	3	0.0.3	3156	101033 101034	LibHandler	LibHandler
 LibHarvensAddonSettings	20200	2.2.0	584	101050 101051	LibHarvensAddonSettings	LHAS
-LibHistoire	1103	2.7.1	2817	101050	LibHistoire	LibHistoire
+LibHistoire	1105	2.7.2	2817	101050 101051	LibHistoire	LibHistoire
 LibId64	28	1.0.1	3585	101045 101046	LibId64	LibId64
 LibImplex	24	24	4108	101049	LibImplex	LibImplex
 LibInteriorDetection	44	1.3.7	4816	101051 101052	LibInteriorDetection	LibInteriorDetection
@@ -249,7 +249,7 @@ MM13Data	331	1.03	3334	101047 101048	Importers for Master Merchant 3.0	MM13Data
 MM14Data	331	1.03	3334	101047 101048	Importers for Master Merchant 3.0	MM14Data
 MM15Data	331	1.03	3334	101047 101048	Importers for Master Merchant 3.0	MM15Data
 MM16Data	331	1.03	3334	101047 101048	Importers for Master Merchant 3.0	MM16Data
-NodeDetection	113	3.16.12	57	101049 101050	NodeDetection	NodeDetection
+NodeDetection	113	3.16.13	57	101049 101050	NodeDetection	NodeDetection
 ShoppingList		0.19.4	4775	101050 101051	Shopping List	ShoppingList
 Taneth	31	1.1.0	3584	101044 101045	Taneth - Testing Framwork	Taneth
 united		1.0.0	4004		LibFonts	united
