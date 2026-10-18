@@ -338,7 +338,7 @@ LibSideQuestPins		v4	101048	Side Quests	0mniX	1ac2188b-1200-476b-a90c-6561a7d3b5
 LibSlashCommander	45	1.2.0	101045 101046	LibSlashCommander	sirinsidiator	c0ae2cd5-69de-4e29-8be3-1607be88e54a
 LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-408e-9617-05161b5c9650
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
-LibTrack		3.1.2	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
+LibTrack		3.1.7	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
 LibVotansAddonList	11000	1.10.0	101045 101046	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
@@ -352,7 +352,7 @@ LoreLibrary	01000089	1.0.89	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
-LuiExtended	7273	7.2.7.3	101051 101052	LuiExtended	Dack.Janiels	198814e6-46ba-4bb3-b368-ba1a2af67c52
+LuiExtended	7274	7.2.7.4	101051 101052	LuiExtended	Dack.Janiels	198814e6-46ba-4bb3-b368-ba1a2af67c52
 LuiMedia	7134	7.1.3.4	101051 101052	LuiMedia	Dack.Janiels	0b695623-5ffb-4700-835c-fa628fdcb1ba
 LuXhrysLibExtendedInventory	008	0.8a	101050	LibExtendedInventory	Xhrysanth	28dff940-503c-4c6c-8921-044ad6e35a86
 LuXhrysLibItemLinkPreview	001	0.1a	101050	LibItemLinkPreview	Xhrysanth	075222fe-7845-484e-a060-69ddb8d571d8

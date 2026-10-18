@@ -869,18 +869,18 @@
    "version": "2.0.2"
   },
   "198814e6-46ba-4bb3-b368-ba1a2af67c52/LuiExtended": {
-   "addOnVersion": "7273",
+   "addOnVersion": "7274",
    "addonId": "198814e6-46ba-4bb3-b368-ba1a2af67c52",
    "apiVersion": "101051 101052",
    "author": "Dack.Janiels",
    "dependsOn": "LuiMedia>=7134 LuiData>=7231",
-   "downloads": 24021,
+   "downloads": 24313,
    "folder": "LuiExtended",
    "isLibrary": "",
    "optionalDependsOn": "LootLog>=408040 Taneth LibCombat LibCombat2 LibSlashCommander HarvestMap LibMapPins-1.0",
    "title": "LuiExtended",
-   "updatedAt": 1791916539,
-   "version": "7.2.7.3"
+   "updatedAt": 1792345805,
+   "version": "7.2.7.4"
   },
   "1a29fcf8-992f-4334-bf0a-088cc4ac73a7/GamepadInventoryTweaks": {
    "addOnVersion": "041",
@@ -6614,13 +6614,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 199,
+   "downloads": 202,
    "folder": "LibTrack",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1792338561,
-   "version": "3.1.2"
+   "updatedAt": 1792358173,
+   "version": "3.1.7"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
    "addOnVersion": "8",
@@ -9717,7 +9717,7 @@
    "folders": [
     "LuiExtended"
    ],
-   "version": "7.2.7.3"
+   "version": "7.2.7.4"
   },
   "19ce6fa1-98c2-458e-b92b-c47fc6f55b55": {
    "folders": [],
@@ -10251,7 +10251,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.557"
+   "version": "0.0.558"
   },
   "389fdfeb-6af9-48ad-8121-39ce405b4267": {
    "folders": [
@@ -12254,7 +12254,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "3.1.2"
+   "version": "3.1.7"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
    "folders": [
