@@ -19,7 +19,9 @@ ALCBenchmark	AutoLuaMemoryCleaner
 AltAttributes	Azurah	LibAddonMenu-2.0	LibGamepad	LibHarvensAddonSettings	LibVotans
 AlternateDeathRecap	LibHarvensAddonSettings
 APH-FPSGraph	LibAddonMenu-2.0	LibHarvensAddonSettings
+APH-OnManager	AddonSelector	PerfectPixel
 APH-Profiler	LibAddonMenu-2.0	LibDebugLogger	LibHarvensAddonSettings
+APH-Search	LibAddonMenu-2.0	LibHarvensAddonSettings
 Archaeology	LibHarvensAddonSettings
 archdruidTracker	LibNotify
 AsylumTimers	LibHarvensAddonSettings
@@ -123,7 +125,7 @@ LibTextFilter	Taneth
 LibVotansAddonList	AddonCategory	AddonSelector
 LibZone	LibSlashCommander
 LiveAchiever	LibVotans
-LiveBuffUptime	LibCombat	LibCombat2
+LiveBuffUptime	LibCombat
 LootLog	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
 LoreBooks	DebugLogViewer	LibDebugLogger
 LoreLibrary	AUI	LibHarvensAddonSettings	MiniMap	VotansMiniMap
@@ -160,6 +162,7 @@ PBsConsoleHudCustomizer	LibHarvensAddonSettings
 PBsCraftMaterialAssistant	LibHarvensAddonSettings
 PBsCyrodiilAlert	LibHarvensAddonSettings
 PBsDiceExtension	LibHarvensAddonSettings
+PBsFurnitureEditor	LibHarvensAddonSettings
 PBsHudManager	LibHarvensAddonSettings	PBsChatWindowCustomizer	PBsClock	PBsConsoleHudCustomizer	PBsCyrodiilAlert	PBsMiniMap	PBsNamePlateChanger	PBsQuestTrackerFontChanger
 PBsJanken	LibGroupBroadcast
 PBsKillLog	LibHarvensAddonSettings
@@ -192,11 +195,13 @@ SatuveRotationTrainer	LibGamepad
 SatuveXboxUI	LibDebugLogger	LibStub
 SavedChatMessages	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
 Seamstress	LibHarvensAddonSettings
+SetTracker	LibHarvensAddonSettings-1.0
 ShogrinUI	LibAddonMenu-2.0	LibSlashCommander
 ShowEquipped	LibHarvensAddonSettings
 SiegeReminder	LibHarvensAddonSettings
 SimpleOffBalanceTracker	LibHarvensAddonSettings
 SkyShards	DebugLogViewer	LibDebugLogger
+SlayansBossTimer	LibChatMessage
 SmartTrader	LibConsoleLogger
 SnipersFriend	LibHarvensAddonSettings
 SpaulderNotifier	LibHarvensAddonSettings

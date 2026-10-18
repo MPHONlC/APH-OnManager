@@ -22,7 +22,9 @@ Andy	Utility Mods
 AntiAllCaps	Chat Mods
 AntiDismount	Utility Mods
 APH-FPSGraph	Utility Mods
+APH-OnManager	Utility Mods
 APH-Profiler	Utility Mods
+APH-Search	Utility Mods
 ArchdruidTracker	Casting Bars, Cooldowns
 ArmoryRoleSwitcher	Character Advancement
 ArtaeumGroupTool	PvP
@@ -187,6 +189,7 @@ RareFishTracker	Info, Plug-in Bars
 RoaringOpportunist	Casting Bars, Cooldowns
 Roomba	Bags, Bank, Inventory
 SatiatedHunger	Combat Mods
+SetTracker	Bags, Bank, Inventory
 ShogrinUI	UI Media
 SkyShards	Map, Coords, Compasses
 SmartLooter	Bags, Bank, Inventory

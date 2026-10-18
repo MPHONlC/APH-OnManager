@@ -40,7 +40,7 @@ LibGroupPotionCooldowns	20260111	2026-01-11-fix	101046 101047	LibGroupPotionCool
 LibGroupResources	95	2.0.0	101048 101049	LibGroupResources	sirinsidiator	f55094d7-29e8-4a43-a3f5-bd748dda7c09
 LibGroupUIReload	95	2.0.0	101048 101049	LibGroupUIReload	sirinsidiator	e06117c8-dc48-479b-aa35-08555712f2ef
 LibHarvensAddonSettings	20200	2.2.0	101049 101050	LibHarvensAddonSettings	votan73	ff73a91e-28b3-476c-be2b-ac5e47d079eb
-LibHistoire	1103	2.7.1	101050	LibHistoire	sirinsidiator	f7fc3e7c-b17d-47bd-915b-40c09291efb0
+LibHistoire	1105	2.7.2	101050 101051	LibHistoire	sirinsidiator	f7fc3e7c-b17d-47bd-915b-40c09291efb0
 LibId64	28	1.0.1	101045 101046	LibId64	sirinsidiator	0faeb5c6-5fc7-48bc-91c6-61d863d7bf6e
 LibItemLinkDecoder	103	1.03	101049 101050	LibItemLinkDecoder	Delte	03b27b8e-253d-4288-ba88-4340d56faeac
 LibItemSets	100010	1.0.1	101050 101051	LibItemSets	code65536	d85860ca-4b0a-47c6-8a0b-45472e2f1878

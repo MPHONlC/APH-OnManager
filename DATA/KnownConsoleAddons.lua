@@ -48,8 +48,9 @@ AntiDK2	1.5	1.2.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586
 AntiquarianCodex	15105	1.51.05	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-FPSGraph	26101514	2026.10.18.01.41	101051 101052	APH FPS GRAPH	APH0NlC	ad02eccd-a3f5-4375-8c13-e631101449c5
-APH-OnManager	26101801	2026.10.18.01.41	101051 101052	APH-On Manager	MPHONlC
+APH-OnManager	26101801	2026.10.18.01.41	101051 101052	APH-On Manager	APH0NlC	7b833469-41d6-4060-b6df-547ae3ca188c
 APH-Profiler	26101514	2026.10.18.01.41	101051 101052	APH Profiler	APH0NlC	0bfedee5-e73d-43f5-8e5a-cee64c2f5e6f
+APH-Search	26101514	2026.10.18.01.41	101051 101052	APH Search	APH0NlC	3b4ab551-7e9e-4a11-9db5-e23b03dcc608
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
 archdruidTracker		2.5.4	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010100	1.1.0	101047 101048	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
@@ -104,7 +105,7 @@ CallToArm		1.1.6-T5c	101051	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175
 CanCraftMasterWrit	10100	1.1.0	101051	Can Craft Master Writ	xSuperSlayan	008cd443-6347-421a-bfcf-ddc830e8cfef
 CanITravelBack	1	0.3.6	101046	Can I Travel Back?	Xarador	8289722e-8e80-4a3d-ba1a-31ae1194ffce
 CanThisBeCraftedAtHome		2025.05.29	101046	CanThisBeCraftedAtHome	Masteroshi430	434ce5ca-211a-4a6b-8682-21f39dcb2d25
-CasualClean	10	1.7.4	101051	CasualClean	Th3rtythr33	c75df85c-f9c0-4e54-a0f3-d5173e44a850
+CasualClean	11	1.7.5	101051	CasualClean	Th3rtythr33	c75df85c-f9c0-4e54-a0f3-d5173e44a850
 CBookFontStylist	50002	5.0.2	101050	Book Font Stylist	Calamath	54495f75-791c-4010-8120-4aae3fdc19a1
 CBStampOfManufacture	1	1.2	101050	CB's stamp of manufacture	dicen9	4e562dc4-090e-42a9-9a27-6c9ef5e1daee
 cChat	2	2.2	101050	cChat	svammy	93511248-c8d1-4b19-9167-08bbeb5d10ac
@@ -157,14 +158,14 @@ DeadMarker2	10203	1.2.3	101048 101047	DeadMarker2	Fredgu3	6f38e877-6d9e-464c-a1c
 DeadMarker_Holodeck	58	0.0.58	101048 101047	DeadMarker Holodeck	Fredgu3	87237de2-d657-4844-8498-ed9136ff45cc
 DeskUI	6	0.6.0	101050 101051	Xbox-PCUI	ItsCraniBaby1	8e0c89af-87a5-4154-b9cd-1d1e5ed943a5
 Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b-bd58-5dcec8942b9d
-DevSandbox3	41901	DevSandbox3-4.19.1-2026-10-08T015849	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
+DevSandbox3	41902	DevSandbox3-4.19.2-2026-10-17T150333	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
 DM2_ParseFightStats	31803	3.18.3	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
 DM2SimpleDPS	10014	1.0.14	101048 101047	DM2 Simple DPS	Fredgu3	324ffb56-dc57-4b03-a4b0-2c43de605ef1
 DoesThisThingGoAnyFaster	13	0.7	101051	DoesThisThingGoAnyFaster	Th3rtythr33	838c4ba0-f7d2-4d29-ab28-7bd838a4973b
 DolgubonsLazySetCrafter		3.0.7.9	101049 101050	Dolgubon's Lazy Set Crafter (XBPA ONLY)	Dolgubon	e1b979e5-1c57-4da0-8980-5477f9d3b689
-DolgubonsLazyWritCreator	4057	4.0.5.7.8	101051 101050	Dolgubon's Lazy Writ Crafter	Dolgubon	eeff2a8e-c911-4984-a07f-784c7155ddad
+DolgubonsLazyWritCreator	4057	4.0.5.7.9	101051	Dolgubon's Lazy Writ Crafter	Dolgubon	eeff2a8e-c911-4984-a07f-784c7155ddad
 DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a513-d3f2a14921db
 DreadVision	602	A	101049 101050	Dread Vision	Dreadazar	0db118b4-92d1-4b06-b81a-64a67e477e60
 DryzlerElderGeekNetLore		1.15	101047 101048	Dryzler's LoreBooks	Sharlikran	747e5279-71c7-4d0b-8db8-5c7552b2ed65
@@ -235,6 +236,7 @@ GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a2
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
 GuildMarketScannerDev	83	0.7.3	101050	Guild Market Scanner DEV	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
 GuildStoreTimeSort		1.5.7	101050 101051	Guild Store Time Sort	murphyx	a3a0c6d0-3d0a-4e8c-a79a-1e4d3ca82d10
@@ -247,7 +249,7 @@ HelloWorld		0.0.6	101047	HelloWorld	ReliktKoala	d3514a63-e01b-4267-ab25-f1b8e79a
 HerosCompass		1.4.2	101050 101051	Hero's Compass	murphyx	282169ec-5b28-4744-bed7-c866d07adb4a
 HideAntiquariansEyePrompt	100000	1.0.0	101051	Hide Antiquarian's Eye Prompt	code65536	9d18decc-c49a-447c-afad-03a243ddfc6a
 HideGroupNecro		1.4.0	101046	HideGroupNecro	B7TxSpeed	8e7b0d7b-4c3c-4dfc-896e-6c413074928b
-HodorReflexes	20260517	2026-05-17	101049 101050	HodorReflexes	m00nyONE	fef0db78-bc0e-4c89-b77e-f03d570d10a9
+HodorReflexes	20261018	2026-10-18	101049 101050	HodorReflexes	m00nyONE	fef0db78-bc0e-4c89-b77e-f03d570d10a9
 HomeTourHistory		Beta	101035	House ID	Trunxrdm	1a4c7280-2bf3-4373-b9b5-6f872886f724
 HouseDirectory	4	1.0.0	101050 101051	House Directory	TheGreyWolf98	c42c61b1-af71-4aaf-9667-240aabc831e8
 HouseHotkey	182	1.8.2	101050 101051	House Hotkey	saranicole1980	256dc81e-d505-4eb6-9a51-1d7ffc360c69
@@ -272,14 +274,15 @@ KhajiitFengShui	137	1.3.7	101050 101051	Khajiit Feng Shui	Dack.Janiels	cae51d07-
 KhajiitVoice		4.2	101049	Speak Like Khajiit	YFNatey	8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2
 KillCount	3100	new	101049 101050	Kill Count	Dreadazar	29b689fc-d75c-432c-adfa-691d46ddf847
 LazyConfirm		1.0.4	101045 101046	Lazy Confirm (and delete)	Dolgubon	8fbbe7ae-8178-4e35-9755-3cafefd42095
-LazyCrown	6	0.2.2	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
+LazyCrown	13	0.3.1	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
 LazyHorseFeed		1.0.5	101045 101046	Lazy Horse Trainer	Dolgubon	dd337340-e6c9-4835-8e50-ba68c7e949e4
 LCMDemo		1.1.7	101050 101051	LCM Demo	Fluazinam	e27e2f85-110a-4725-ab46-5f878649b8a3
 LeadReminder	002	1.0.2	101045 101046	LeadReminder	aronsini	a10a8862-6862-4916-a685-c75f5a098637
-Leo_stats_panel		0.1.0	101051	Leo_stat_panel_beta	LeonShu	66108dc4-7941-473d-8b4a-f129da12e33c
-Leo_status_panel		0.1.0	101051	Leo_status_panel_beta	LeonShu	cbe4d714-54cb-4495-a852-fdbd74443b5a
-Leo_sust_beta		0.1.8	101051	leo_sust_beta	LeonShu	e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76
-Leo_tracker_beta		0.3.3	101051	Leo_tracker_beta	LeonShu	35b41333-fe07-42d9-b8f7-aa2f6b7c83cc
+Leo_AbilityInspector		0.1.1	101051	Leo_abilityInspector_beta	LeonShu	c0145498-9c60-472f-9776-bed94e9fba11
+Leo_stats_panel		0.2.7	101051	Leo_stat_panel_beta	LeonShu	66108dc4-7941-473d-8b4a-f129da12e33c
+Leo_status_panel		0.1.2	101051	Leo_status_panel_beta	LeonShu	cbe4d714-54cb-4495-a852-fdbd74443b5a
+Leo_sust_beta		0.1.9	101051	leo_sust_beta	LeonShu	e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76
+Leo_tracker_beta		0.3.4	101051	Leo_tracker_beta	LeonShu	35b41333-fe07-42d9-b8f7-aa2f6b7c83cc
 LibAbilityLogger	1	LAB 6,9,1	101046	LibAbilityLogger	Vixen_Hunny	e4b71317-9236-4462-a9a2-889700f950bb
 LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9c-4b14-aa0e-d841090d128c
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
@@ -310,7 +313,7 @@ LibGroupPotionCooldowns	20260111	2026-01-11-fix	101046 101047	LibGroupPotionCool
 LibGroupResources	95	2.0.0	101048 101049	LibGroupResources	sirinsidiator	f55094d7-29e8-4a43-a3f5-bd748dda7c09
 LibGroupUIReload	95	2.0.0	101048 101049	LibGroupUIReload	sirinsidiator	e06117c8-dc48-479b-aa35-08555712f2ef
 LibHarvensAddonSettings	20200	2.2.0	101049 101050	LibHarvensAddonSettings	votan73	ff73a91e-28b3-476c-be2b-ac5e47d079eb
-LibHistoire	1103	2.7.1	101050	LibHistoire	sirinsidiator	f7fc3e7c-b17d-47bd-915b-40c09291efb0
+LibHistoire	1105	2.7.2	101050 101051	LibHistoire	sirinsidiator	f7fc3e7c-b17d-47bd-915b-40c09291efb0
 LibId64	28	1.0.1	101045 101046	LibId64	sirinsidiator	0faeb5c6-5fc7-48bc-91c6-61d863d7bf6e
 LibItemLinkDecoder	103	1.03	101049 101050	LibItemLinkDecoder	Delte	03b27b8e-253d-4288-ba88-4340d56faeac
 LibItemSets	100010	1.0.1	101050 101051	LibItemSets	code65536	d85860ca-4b0a-47c6-8a0b-45472e2f1878
@@ -335,17 +338,17 @@ LibSideQuestPins		v4	101048	Side Quests	0mniX	1ac2188b-1200-476b-a90c-6561a7d3b5
 LibSlashCommander	45	1.2.0	101045 101046	LibSlashCommander	sirinsidiator	c0ae2cd5-69de-4e29-8be3-1607be88e54a
 LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-408e-9617-05161b5c9650
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
-LibTrack		2.9.2	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
+LibTrack		3.1.2	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
 LibVotansAddonList	11000	1.10.0	101045 101046	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
-LiveBuffUptime		2.0.1	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
+LiveBuffUptime		2.2.5	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 Loadout	10000	1.0.0	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000088	1.0.88	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000089	1.0.89	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -401,7 +404,7 @@ MyMapPos		1.0	101049	MyMapPos	Unfounded_Puppy3	2c07f374-57bc-4f20-814f-d40e4d932
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTankBars	2	1.0	101048 101049	MyTankBars	Unfounded_Puppy3	fe2be9f7-6b33-44e1-8b54-7a7afcc9b63d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
-MyUI		v2.8	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
+MyUI		v2.9.4	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
 necroTracker		1.3.5	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
 NedsGroupManager		1.5	101046	Ned's Group Manager	Ned919x	4f86b7c8-8fb6-432c-a1b9-2004263244ab
 Nemesis	100	1.0.0	101050	Nemesis	Rogue0rbit	88739d40-c764-4276-9157-ba0eb1d47805
@@ -426,10 +429,11 @@ PatronsLedger	100	2.2	101050	Patron's Ledger	svammy	e6627cb6-5e78-4443-86bc-4340
 PBsChatAssistant		1.30.1	101050 101051	PinkB's ChatAssistant	PinkBanther	416eb892-aa32-4a10-8d1a-7ba7cf27cedf
 PBsChatWindowCustomizer		1.3.2	101050 101051	PinkB's ChatWindowCustomizer	PinkBanther	095b24d1-d035-4472-ae1d-9da85c61cb99
 PBsClock		1.3.1	101050 101051	PinkB's Clock(Beta)	PinkBanther	61641950-b365-49c6-bb98-dff4fa7bcc01
-PBsConsoleHudCustomizer		1.27.16	101050 101051	PinkB's ResourceAndSkillBarCustomizer	PinkBanther	51bd8b59-40b0-4e2f-b31d-527bb63f0bfc
+PBsConsoleHudCustomizer		1.27.17	101050 101051	PinkB's ResourceAndSkillBarCustomizer(Beta)	PinkBanther	23fd4e21-b28d-4af9-badd-3e009f4cb75b
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
 PBsCyrodiilAlert		2.7.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
+PBsFurnitureEditor		1.0.6	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
 PBsHudManager		1.3.0	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
 PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25bb-1103-4636-a4f6-5c6a280ff8e2
@@ -505,6 +509,7 @@ ScoreboardFixXbox	201	0.2.1	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46
 ScreenshotModeEnhanced	10104	1.1.4	101051	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
 ScryMaster		1.0.1	101051	Scry Master	TheGreyWolf98	899e2487-496c-40d0-9a7e-dad95a1807fc
 Seamstress		1.5.0b	101049 101050	Seamstress	SugaComa	8bc4c7c2-ee0d-488d-a3b5-ecab07912f95
+SetTracker		0.2.7	101051	Set Perk Tracker	SugaComa	9e3a7462-c06e-4ee2-a7da-ac5279f979c8
 ShogrinUI	10106	1.1.51	101045 101046	ShogrinUI	sshogrin	8e6dc008-7b2f-4d55-8a1b-3ee825b1de0f
 ShouldIUlt		9	101050	buffybeta	YFNatey	086be98f-893e-4cea-a222-aad748e474c9
 ShowAPIVersion		3.0.0	101049	ShowApiVersion	FIG_BOT	cf379dee-3395-4310-ab3f-433677ac7201
@@ -518,6 +523,7 @@ SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shi
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb
 SkyShards	1059	10.59	101045 101046	Skyshards	Sharlikran	e0335eb7-8445-4bde-9db4-1a4ace8ee8b1
+SlayansBossTimer	2	1.0.0	101051	Slayan's Boss Timer	xSuperSlayan	e77534ef-ba1c-4ce2-becb-c7c534a86ebe
 SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d04c0cbee9c4
 SmartTrader		SmartTrader-2.1.91-2026-07-28T215530	101043	Smart Trader	clubwratt	d9742ac5-f315-4712-8383-b1a170801ba9
 SnipersFriend		SnipersFriend-0.8.0-2026-10-03T042857	101049 101050	Snipers Friend	clubwratt	18d399f0-14ef-40a3-8f08-1aaa8cd0a5de

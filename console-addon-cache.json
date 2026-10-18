@@ -1238,13 +1238,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 71,
+   "downloads": 73,
    "folder": "PBsConsoleHudCustomizer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ResourceAndSkillBarCustomizer(Beta)",
-   "updatedAt": 1791060409,
-   "version": "1.27.16"
+   "updatedAt": 1792313839,
+   "version": "1.27.17"
   },
   "242aa937-0c55-4d1f-b667-0716e81eb4e7/BattleScrolls": {
    "addOnVersion": "10000",
@@ -1616,13 +1616,13 @@
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "",
-   "downloads": 24,
+   "downloads": 30,
    "folder": "MyUI",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibStub",
    "title": "ttest",
-   "updatedAt": 1792256470,
-   "version": "v2.8"
+   "updatedAt": 1792283198,
+   "version": "v2.9.4"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa/ValknarrUIE": {
    "addOnVersion": "43",
@@ -1938,13 +1938,13 @@
    "apiVersion": "101051",
    "author": "LeonShu",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 21,
+   "downloads": 24,
    "folder": "Leo_tracker_beta",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Leo_tracker_beta",
-   "updatedAt": 1791316891,
-   "version": "0.3.3"
+   "updatedAt": 1792308647,
+   "version": "0.3.4"
   },
   "35d616b7-f96d-4181-8d13-c75bf9c5617d/BetterCharacterOverview": {
    "addOnVersion": "1603",
@@ -2171,18 +2171,18 @@
    "version": "1.2.0"
   },
   "3a4024fc-1465-4e5e-a96f-6d6b6a781497/DevSandbox3": {
-   "addOnVersion": "41901",
+   "addOnVersion": "41902",
    "addonId": "3a4024fc-1465-4e5e-a96f-6d6b6a781497",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 72,
+   "downloads": 77,
    "folder": "DevSandbox3",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger LibHarvensAddonSettings",
    "title": "dev sandbox 3",
-   "updatedAt": 1791449938,
-   "version": "DevSandbox3-4.19.1-2026-10-08T015849"
+   "updatedAt": 1792274623,
+   "version": "DevSandbox3-4.19.2-2026-10-17T150333"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d/GamepadUITweaks": {
    "addOnVersion": "107",
@@ -2225,6 +2225,20 @@
    "title": "Buffoverhaul",
    "updatedAt": 1789846205,
    "version": "v3"
+  },
+  "3b4ab551-7e9e-4a11-9db5-e23b03dcc608/APH-Search": {
+   "addOnVersion": "26101514",
+   "addonId": "3b4ab551-7e9e-4a11-9db5-e23b03dcc608",
+   "apiVersion": "101051 101052",
+   "author": "APH0NlC",
+   "dependsOn": "LibAPH>=26100607",
+   "downloads": 2,
+   "folder": "APH-Search",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
+   "title": "APH Search",
+   "updatedAt": 1792264336,
+   "version": "2026.10.18.01.41"
   },
   "3c805ef7-47fe-43a7-b480-52342549e9f4/CustomCompassPins": {
    "addOnVersion": "137",
@@ -3002,13 +3016,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 119,
+   "downloads": 141,
    "folder": "PBsConsoleHudCustomizer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ResourceAndSkillBarCustomizer",
-   "updatedAt": 1791060502,
-   "version": "1.27.16"
+   "updatedAt": 1792313801,
+   "version": "1.27.17"
   },
   "529cf85a-e597-4945-86c4-654d2a32a7bc/LycanMeter": {
    "addOnVersion": "",
@@ -3674,13 +3688,27 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 32,
+   "downloads": 34,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
-   "optionalDependsOn": "LibCombat LibCombat2",
+   "optionalDependsOn": "LibCombat",
    "title": "testo",
-   "updatedAt": 1792086083,
-   "version": "2.0.1"
+   "updatedAt": 1792337775,
+   "version": "2.2.5"
+  },
+  "656edbf4-6ad8-4faf-8bd8-25f06199c990/PBsFurnitureEditor": {
+   "addOnVersion": "",
+   "addonId": "656edbf4-6ad8-4faf-8bd8-25f06199c990",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "PBsFurnitureEditor",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's FurnitureEditor",
+   "updatedAt": 1792298971,
+   "version": "1.0.6"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
    "addOnVersion": "201",
@@ -3702,13 +3730,13 @@
    "apiVersion": "101051",
    "author": "LeonShu",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 1,
+   "downloads": 9,
    "folder": "Leo_stats_panel",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Leo_stat_panel_beta",
-   "updatedAt": 1792260368,
-   "version": "0.1.0"
+   "updatedAt": 1792319491,
+   "version": "0.2.7"
   },
   "66400ef3-3d78-4737-a158-c48633706a83/AA_Profiler": {
    "addOnVersion": "100",
@@ -4423,6 +4451,20 @@
    "title": "ArchdruidTracker",
    "updatedAt": 1762720946,
    "version": "1.1.0"
+  },
+  "7b833469-41d6-4060-b6df-547ae3ca188c/APH-OnManager": {
+   "addOnVersion": "26101514",
+   "addonId": "7b833469-41d6-4060-b6df-547ae3ca188c",
+   "apiVersion": "101051 101052",
+   "author": "APH0NlC",
+   "dependsOn": "LibAPH>=26100607",
+   "downloads": 2,
+   "folder": "APH-OnManager",
+   "isLibrary": "",
+   "optionalDependsOn": "AddonSelector PerfectPixel",
+   "title": "APH-On Manager",
+   "updatedAt": 1792263159,
+   "version": "2026.10.18.01.41"
   },
   "7b940de0-c594-4695-8235-c75c98259513/BulkBuy": {
    "addOnVersion": "",
@@ -5614,6 +5656,20 @@
    "updatedAt": 1767201726,
    "version": "1.0.13"
   },
+  "9e3a7462-c06e-4ee2-a7da-ac5279f979c8/SetTracker": {
+   "addOnVersion": "",
+   "addonId": "9e3a7462-c06e-4ee2-a7da-ac5279f979c8",
+   "apiVersion": "101051",
+   "author": "SugaComa",
+   "dependsOn": "",
+   "downloads": 9,
+   "folder": "SetTracker",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings-1.0",
+   "title": "Set Perk Tracker",
+   "updatedAt": 1792329761,
+   "version": "0.2.7"
+  },
   "9e55edc2-32f8-4c75-b87c-e921fd53e9cf/AlternateDeathRecap": {
    "addOnVersion": "30200",
    "addonId": "9e55edc2-32f8-4c75-b87c-e921fd53e9cf",
@@ -5657,18 +5713,18 @@
    "version": "v1.3.2"
   },
   "a0257a7b-725f-4051-91ee-a686c0c70fc2/LazyCrown": {
-   "addOnVersion": "6",
+   "addOnVersion": "13",
    "addonId": "a0257a7b-725f-4051-91ee-a686c0c70fc2",
    "apiVersion": "101050 101051",
    "author": "absolventR3M",
    "dependsOn": "LibRadialMenu>=9",
-   "downloads": 9,
+   "downloads": 12,
    "folder": "LazyCrown",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibGroupCombatStats",
    "title": "Lazy Crown",
-   "updatedAt": 1792213450,
-   "version": "0.2.2"
+   "updatedAt": 1792273795,
+   "version": "0.3.1"
   },
   "a095f0da-9f45-4dde-a150-2c9b09ba7317/TrueExploration": {
    "addOnVersion": "203",
@@ -6558,13 +6614,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 178,
+   "downloads": 199,
    "folder": "LibTrack",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1792258872,
-   "version": "2.9.2"
+   "updatedAt": 1792338561,
+   "version": "3.1.2"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
    "addOnVersion": "8",
@@ -6621,6 +6677,20 @@
    "title": "LibGamepadTooltipFilters",
    "updatedAt": 1756948285,
    "version": "1.0.2"
+  },
+  "c0145498-9c60-472f-9776-bed94e9fba11/Leo_AbilityInspector": {
+   "addOnVersion": "",
+   "addonId": "c0145498-9c60-472f-9776-bed94e9fba11",
+   "apiVersion": "101051",
+   "author": "LeonShu",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 2,
+   "folder": "Leo_AbilityInspector",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Leo_abilityInspector_beta",
+   "updatedAt": 1792315238,
+   "version": "0.1.1"
   },
   "c0ae2cd5-69de-4e29-8be3-1607be88e54a/LibSlashCommander": {
    "addOnVersion": "45",
@@ -6733,6 +6803,20 @@
    "title": "Antiquities Tracker",
    "updatedAt": 1783028178,
    "version": "2.3.6"
+  },
+  "c2c3621e-0b20-4fae-9195-05862d266eef/PBsFurnitureEditor": {
+   "addOnVersion": "",
+   "addonId": "c2c3621e-0b20-4fae-9195-05862d266eef",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 12,
+   "folder": "PBsFurnitureEditor",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's FurnitureEditor(Beta)",
+   "updatedAt": 1792298871,
+   "version": "1.0.6"
   },
   "c3b0724d-c60e-44de-9244-7cdc9f20c868/PBsScreenshotModeShortcut": {
    "addOnVersion": "",
@@ -6889,18 +6973,18 @@
    "version": "2026-01-11-fix"
   },
   "c75df85c-f9c0-4e54-a0f3-d5173e44a850/CasualClean": {
-   "addOnVersion": "10",
+   "addOnVersion": "11",
    "addonId": "c75df85c-f9c0-4e54-a0f3-d5173e44a850",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 46,
+   "downloads": 56,
    "folder": "CasualClean",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "CasualClean",
-   "updatedAt": 1792262078,
-   "version": "1.7.4"
+   "updatedAt": 1792285504,
+   "version": "1.7.5"
   },
   "c7f082bc-03e0-4e0c-b82b-d7903e5101ad/PBsCraftMaterialAssistant": {
    "addOnVersion": "",
@@ -6973,18 +7057,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000088",
+   "addOnVersion": "01000089",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 12689,
+   "downloads": 12927,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792209613,
-   "version": "1.0.88"
+   "updatedAt": 1792296013,
+   "version": "1.0.89"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -7020,13 +7104,13 @@
    "apiVersion": "101051",
    "author": "LeonShu",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 1,
+   "downloads": 4,
    "folder": "Leo_status_panel",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Leo_status_panel_beta",
-   "updatedAt": 1792260552,
-   "version": "0.1.0"
+   "updatedAt": 1792308657,
+   "version": "0.1.2"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
@@ -7251,6 +7335,20 @@
    "title": "ShowApiVersion",
    "updatedAt": 1775693269,
    "version": "3.0.0"
+  },
+  "cfca5ccd-3799-4e8b-9607-99f4f175a2df/GuildNameTicker": {
+   "addOnVersion": "",
+   "addonId": "cfca5ccd-3799-4e8b-9607-99f4f175a2df",
+   "apiVersion": "101050",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "GuildNameTicker",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Guild Name Ticker",
+   "updatedAt": 1792275615,
+   "version": "GuildNameTicker-0.5.0-2026-10-17T152007"
   },
   "d0219382-bec1-477e-bcc2-d2b0c7138a79/PBsMiniMap": {
    "addOnVersion": "",
@@ -8140,13 +8238,13 @@
    "apiVersion": "101051",
    "author": "LeonShu",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 9,
+   "downloads": 12,
    "folder": "Leo_sust_beta",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "leo_sust_beta",
-   "updatedAt": 1792260192,
-   "version": "0.1.8"
+   "updatedAt": 1792308669,
+   "version": "0.1.9"
   },
   "e6627cb6-5e78-4443-86bc-4340210a5684/PatronsLedger": {
    "addOnVersion": "100",
@@ -8217,6 +8315,20 @@
    "title": "ZoomInFurther",
    "updatedAt": 1789822193,
    "version": "1.4.5"
+  },
+  "e77534ef-ba1c-4ce2-becb-c7c534a86ebe/SlayansBossTimer": {
+   "addOnVersion": "2",
+   "addonId": "e77534ef-ba1c-4ce2-becb-c7c534a86ebe",
+   "apiVersion": "101051",
+   "author": "xSuperSlayan",
+   "dependsOn": "LibHarvensAddonSettings LibQRCode",
+   "downloads": 3,
+   "folder": "SlayansBossTimer",
+   "isLibrary": "",
+   "optionalDependsOn": "LibChatMessage",
+   "title": "Slayan's Boss Timer",
+   "updatedAt": 1792311880,
+   "version": "1.0.0"
   },
   "e8b21bff-aae1-4a24-b91b-8c49cd6acfd6/PBsTetris": {
    "addOnVersion": "11600",
@@ -8431,16 +8543,16 @@
   "eeff2a8e-c911-4984-a07f-784c7155ddad/DolgubonsLazyWritCreator": {
    "addOnVersion": "4057",
    "addonId": "eeff2a8e-c911-4984-a07f-784c7155ddad",
-   "apiVersion": "101051 101050",
+   "apiVersion": "101051",
    "author": "Dolgubon",
    "dependsOn": "LibLazyCrafting>=4035",
-   "downloads": 1297602,
+   "downloads": 1337525,
    "folder": "DolgubonsLazyWritCreator",
    "isLibrary": "",
    "optionalDependsOn": "pChat LibStub LibFeedback LibCustomMenu  LibHistoire ArkadiusTradeToolsSales  LibRadialMenu",
    "title": "Dolgubon's Lazy Writ Crafter",
-   "updatedAt": 1790615560,
-   "version": "4.0.5.7.8"
+   "updatedAt": 1792287818,
+   "version": "4.0.5.7.9"
   },
   "ef8601c8-c03d-43a8-9d73-d291ea37c868/BonkSimulator": {
    "addOnVersion": "",
@@ -8835,18 +8947,18 @@
    "version": "1.5"
   },
   "f7fc3e7c-b17d-47bd-915b-40c09291efb0/LibHistoire": {
-   "addOnVersion": "1103",
+   "addOnVersion": "1105",
    "addonId": "f7fc3e7c-b17d-47bd-915b-40c09291efb0",
-   "apiVersion": "101050",
+   "apiVersion": "101050 101051",
    "author": "sirinsidiator",
    "dependsOn": "LibDebugLogger LibAsync LibAddonMenu-2.0",
-   "downloads": 220101,
+   "downloads": 234598,
    "folder": "LibHistoire",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibHistoire",
-   "updatedAt": 1780944081,
-   "version": "2.7.1"
+   "updatedAt": 1792342268,
+   "version": "2.7.2"
   },
   "f82fbe8f-39a8-4cad-b1ba-8e3a586c41a0/NGear": {
    "addOnVersion": "36",
@@ -9129,18 +9241,18 @@
    "version": "1.1.3"
   },
   "fef0db78-bc0e-4c89-b77e-f03d570d10a9/HodorReflexes": {
-   "addOnVersion": "20260517",
+   "addOnVersion": "20261018",
    "addonId": "fef0db78-bc0e-4c89-b77e-f03d570d10a9",
    "apiVersion": "101049 101050",
    "author": "m00nyONE",
    "dependsOn": "LibGroupCombatStats>=20250816 LibGroupBroadcast>=91 LibDebugLogger>=268",
-   "downloads": 107208,
+   "downloads": 111302,
    "folder": "HodorReflexes",
    "isLibrary": "",
    "optionalDependsOn": "LibCombat2>=8 LibCustomNames>=1 LibCustomIcons>=1 LibRadialMenu>=1",
    "title": "HodorReflexes",
-   "updatedAt": 1779009338,
-   "version": "2026-05-17"
+   "updatedAt": 1792320048,
+   "version": "2026-10-18"
   },
   "ff4bafd1-1006-4f21-8d38-7a45f4527518/PBsKillLog": {
    "addOnVersion": "",
@@ -9767,7 +9879,7 @@
    "folders": [
     "PBsConsoleHudCustomizer"
    ],
-   "version": "1.27.16"
+   "version": "1.27.17"
   },
   "242aa937-0c55-4d1f-b667-0716e81eb4e7": {
    "folders": [
@@ -9934,7 +10046,7 @@
    "folders": [
     "MyUI"
    ],
-   "version": "v2.8"
+   "version": "v2.9.4"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa": {
    "folders": [
@@ -10074,7 +10186,7 @@
    "folders": [
     "Leo_tracker_beta"
    ],
-   "version": "0.3.3"
+   "version": "0.3.4"
   },
   "35d616b7-f96d-4181-8d13-c75bf9c5617d": {
    "folders": [
@@ -10139,7 +10251,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.548"
+   "version": "0.0.557"
   },
   "389fdfeb-6af9-48ad-8121-39ce405b4267": {
    "folders": [
@@ -10181,7 +10293,7 @@
    "folders": [
     "DevSandbox3"
    ],
-   "version": "DevSandbox3-4.19.1-2026-10-08T015849"
+   "version": "DevSandbox3-4.19.2-2026-10-17T150333"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d": {
    "folders": [
@@ -10200,6 +10312,12 @@
     "BuffoverhaulByJH"
    ],
    "version": "v3"
+  },
+  "3b4ab551-7e9e-4a11-9db5-e23b03dcc608": {
+   "folders": [
+    "APH-Search"
+   ],
+   "version": "2026.10.18.01.41"
   },
   "3c805ef7-47fe-43a7-b480-52342549e9f4": {
    "folders": [
@@ -10530,7 +10648,7 @@
    "folders": [
     "PBsConsoleHudCustomizer"
    ],
-   "version": "1.27.16"
+   "version": "1.27.17"
   },
   "52520d7f-b02f-4dd5-a337-d24e924354c9": {
    "folders": [],
@@ -10829,7 +10947,13 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "2.0.1"
+   "version": "2.2.5"
+  },
+  "656edbf4-6ad8-4faf-8bd8-25f06199c990": {
+   "folders": [
+    "PBsFurnitureEditor"
+   ],
+   "version": "1.0.6"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
    "folders": [
@@ -10841,7 +10965,7 @@
    "folders": [
     "Leo_stats_panel"
    ],
-   "version": "0.1.0"
+   "version": "0.2.7"
   },
   "66400ef3-3d78-4737-a158-c48633706a83": {
    "folders": [
@@ -11164,6 +11288,12 @@
     "ArchdruidTracker"
    ],
    "version": "1.1.0"
+  },
+  "7b833469-41d6-4060-b6df-547ae3ca188c": {
+   "folders": [
+    "APH-OnManager"
+   ],
+   "version": "2026.10.18.01.41"
   },
   "7b940de0-c594-4695-8235-c75c98259513": {
    "folders": [
@@ -11693,6 +11823,12 @@
    ],
    "version": "1.0.13"
   },
+  "9e3a7462-c06e-4ee2-a7da-ac5279f979c8": {
+   "folders": [
+    "SetTracker"
+   ],
+   "version": "0.2.7"
+  },
   "9e55edc2-32f8-4c75-b87c-e921fd53e9cf": {
    "folders": [
     "AlternateDeathRecap"
@@ -11715,7 +11851,7 @@
    "folders": [
     "LazyCrown"
    ],
-   "version": "0.2.2"
+   "version": "0.3.1"
   },
   "a095f0da-9f45-4dde-a150-2c9b09ba7317": {
    "folders": [
@@ -12118,7 +12254,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "2.9.2"
+   "version": "3.1.2"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
    "folders": [
@@ -12143,6 +12279,12 @@
     "LibGamepadTooltipFilters"
    ],
    "version": "1.0.2"
+  },
+  "c0145498-9c60-472f-9776-bed94e9fba11": {
+   "folders": [
+    "Leo_AbilityInspector"
+   ],
+   "version": "0.1.1"
   },
   "c0ae2cd5-69de-4e29-8be3-1607be88e54a": {
    "folders": [
@@ -12196,6 +12338,12 @@
   "c2664980-589b-4f81-a99e-02204268cab3": {
    "folders": [],
    "version": "1"
+  },
+  "c2c3621e-0b20-4fae-9195-05862d266eef": {
+   "folders": [
+    "PBsFurnitureEditor"
+   ],
+   "version": "1.0.6"
   },
   "c370eaba-64de-4a9b-9d9a-d6bd0c3db0aa": {
    "folders": [],
@@ -12271,7 +12419,7 @@
    "folders": [
     "CasualClean"
    ],
-   "version": "1.7.4"
+   "version": "1.7.5"
   },
   "c786f4ab-0ae9-4067-bfd7-5d9ec9b2705b": {
    "folders": [],
@@ -12315,7 +12463,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.88"
+   "version": "1.0.89"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -12333,7 +12481,7 @@
    "folders": [
     "Leo_status_panel"
    ],
-   "version": "0.1.0"
+   "version": "0.1.2"
   },
   "cc94a283-12a5-4e75-8e54-727d2ab6977c": {
    "folders": [
@@ -12434,6 +12582,12 @@
     "ShowAPIVersion"
    ],
    "version": "3.0.0"
+  },
+  "cfca5ccd-3799-4e8b-9607-99f4f175a2df": {
+   "folders": [
+    "GuildNameTicker"
+   ],
+   "version": "GuildNameTicker-0.5.0-2026-10-17T152007"
   },
   "d0219382-bec1-477e-bcc2-d2b0c7138a79": {
    "folders": [
@@ -12851,7 +13005,7 @@
    "folders": [
     "Leo_sust_beta"
    ],
-   "version": "0.1.8"
+   "version": "0.1.9"
   },
   "e6627cb6-5e78-4443-86bc-4340210a5684": {
    "folders": [
@@ -12882,6 +13036,12 @@
     "ZoomInFurther"
    ],
    "version": "1.4.5"
+  },
+  "e77534ef-ba1c-4ce2-becb-c7c534a86ebe": {
+   "folders": [
+    "SlayansBossTimer"
+   ],
+   "version": "1.0.0"
   },
   "e816c8fb-9db6-4e60-a241-6bee24b8f1b0": {
    "folders": [],
@@ -12990,7 +13150,7 @@
    "folders": [
     "DolgubonsLazyWritCreator"
    ],
-   "version": "4.0.5.7.8"
+   "version": "4.0.5.7.9"
   },
   "ef8601c8-c03d-43a8-9d73-d291ea37c868": {
    "folders": [
@@ -13170,7 +13330,7 @@
    "folders": [
     "LibHistoire"
    ],
-   "version": "2.7.1"
+   "version": "2.7.2"
   },
   "f82fbe8f-39a8-4cad-b1ba-8e3a586c41a0": {
    "folders": [
@@ -13302,7 +13462,7 @@
    "folders": [
     "HodorReflexes"
    ],
-   "version": "2026-05-17"
+   "version": "2026-10-18"
   },
   "ff4bafd1-1006-4f21-8d38-7a45f4527518": {
    "folders": [
