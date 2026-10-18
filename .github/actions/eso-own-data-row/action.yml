@@ -1,0 +1,42 @@
+name: 'ESO Own Data Row'
+description: "Writes an add-on's own manifest Version, AddOnVersion and APIVersion into its PC and console data tables."
+author: 'MPHONlC'
+branding:
+  icon: 'database'
+  color: 'blue'
+
+inputs:
+  manifest_file:
+    description: 'Path to the add-on manifest'
+    required: true
+  folder:
+    description: 'Add-on folder name, the table key'
+    required: true
+  title:
+    description: 'Title used when the console row has to be created'
+    required: true
+  author:
+    description: 'Author used when the console row has to be created'
+    required: true
+  pc_file:
+    description: 'PC versions table (DATA/KnownAddonVersions.lua); blank to skip'
+    required: false
+    default: ''
+  console_file:
+    description: 'Console add-ons table (DATA/KnownConsoleAddons.lua); blank to skip'
+    required: false
+    default: ''
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Write the own rows
+      shell: bash
+      run: |
+        python3 "${{ github.action_path }}/own_data_row.py" \
+          --manifest "${{ inputs.manifest_file }}" \
+          --folder "${{ inputs.folder }}" \
+          --title "${{ inputs.title }}" \
+          --author "${{ inputs.author }}" \
+          --pc-file "${{ inputs.pc_file }}" \
+          --console-file "${{ inputs.console_file }}"
