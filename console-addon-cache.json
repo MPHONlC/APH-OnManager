@@ -1616,13 +1616,13 @@
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "",
-   "downloads": 30,
+   "downloads": 31,
    "folder": "MyUI",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibStub",
    "title": "ttest",
-   "updatedAt": 1792283198,
-   "version": "v2.9.4"
+   "updatedAt": 1792439258,
+   "version": "v3.0"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa/ValknarrUIE": {
    "addOnVersion": "43",
@@ -4421,8 +4421,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's KillLog(Beta)",
-   "updatedAt": 1791539524,
-   "version": "1.3.0"
+   "updatedAt": 1792441075,
+   "version": "1.4.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a/BetterEffectViewer": {
    "addOnVersion": "",
@@ -4928,20 +4928,6 @@
    "updatedAt": 1782578592,
    "version": "1.0.0"
   },
-  "8cd10e06-846e-4b81-9858-f1a6943f0b32/QcellDreadsailReefHelper": {
-   "addOnVersion": "",
-   "addonId": "8cd10e06-846e-4b81-9858-f1a6943f0b32",
-   "apiVersion": "101049",
-   "author": "FiNk3F13",
-   "dependsOn": "",
-   "downloads": 5,
-   "folder": "QcellDreadsailReefHelper",
-   "isLibrary": "",
-   "optionalDependsOn": "CombatAlerts LibAddonMenu-2.0 OdySupportIcons M0RMarkers",
-   "title": "Testing",
-   "updatedAt": 1785260791,
-   "version": "1.2"
-  },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216/RareFishTracker": {
    "addOnVersion": "",
    "addonId": "8dc100fb-6c43-4ea7-ba01-1a23d306e216",
@@ -5153,18 +5139,18 @@
    "version": "2.0.1"
   },
   "910cac85-d8d4-4788-949b-2954e8ee9215/RodZillaTraderStats": {
-   "addOnVersion": "7",
+   "addOnVersion": "10",
    "addonId": "910cac85-d8d4-4788-949b-2954e8ee9215",
    "apiVersion": "101050",
    "author": "TeamRodZillaLLC",
    "dependsOn": "LibHistoire LibAddonMenu-2.0",
-   "downloads": 67,
+   "downloads": 135,
    "folder": "RodZillaTraderStats",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "RodZilla's Trader Stats",
-   "updatedAt": 1792089830,
-   "version": "0.1.7"
+   "updatedAt": 1792438625,
+   "version": "0.1.10"
   },
   "91330ebe-27c8-46b9-ad71-42991b96789d/RezBot": {
    "addOnVersion": "",
@@ -6628,13 +6614,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 202,
+   "downloads": 206,
    "folder": "LibTrack",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1792358173,
-   "version": "3.1.7"
+   "updatedAt": 1792439051,
+   "version": "3.2.1"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
    "addOnVersion": "8",
@@ -7895,6 +7881,20 @@
    "title": "Ev",
    "updatedAt": 1756916262,
    "version": "1.1"
+  },
+  "dda5dca2-4511-4e45-9dd2-769c7eb40feb/SimpleGroupDPS": {
+   "addOnVersion": "",
+   "addonId": "dda5dca2-4511-4e45-9dd2-769c7eb40feb",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
+   "downloads": 0,
+   "folder": "SimpleGroupDPS",
+   "isLibrary": "",
+   "optionalDependsOn": "BattleScrolls",
+   "title": "Testin",
+   "updatedAt": 1792434223,
+   "version": "1.0.1"
   },
   "ddf1a1e2-b627-4cb5-a40a-a3ece40c609c/AutoInteract": {
    "addOnVersion": "185",
@@ -9279,8 +9279,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's KillLog",
-   "updatedAt": 1791539559,
-   "version": "1.3.0"
+   "updatedAt": 1792441110,
+   "version": "1.4.0"
   },
   "ff73a91e-28b3-476c-be2b-ac5e47d079eb/LibHarvensAddonSettings": {
    "addOnVersion": "20200",
@@ -10060,7 +10060,7 @@
    "folders": [
     "MyUI"
    ],
-   "version": "v2.9.4"
+   "version": "v3.0"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa": {
    "folders": [
@@ -11289,7 +11289,7 @@
    "folders": [
     "PBsKillLog"
    ],
-   "version": "1.3.0"
+   "version": "1.4.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a": {
    "folders": [
@@ -11518,12 +11518,6 @@
    ],
    "version": "1.0.0"
   },
-  "8cd10e06-846e-4b81-9858-f1a6943f0b32": {
-   "folders": [
-    "QcellDreadsailReefHelper"
-   ],
-   "version": "1.2"
-  },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216": {
    "folders": [
     "RareFishTracker"
@@ -11622,7 +11616,7 @@
    "folders": [
     "RodZillaTraderStats"
    ],
-   "version": "0.1.7"
+   "version": "0.1.10"
   },
   "91330ebe-27c8-46b9-ad71-42991b96789d": {
    "folders": [
@@ -12275,7 +12269,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "3.1.7"
+   "version": "3.2.1"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
    "folders": [
@@ -12852,6 +12846,12 @@
   "dda2c060-41fd-485e-b1f1-39c1b6f7ca6f": {
    "folders": [],
    "version": "1.1.0"
+  },
+  "dda5dca2-4511-4e45-9dd2-769c7eb40feb": {
+   "folders": [
+    "SimpleGroupDPS"
+   ],
+   "version": "1.0.1"
   },
   "ddf1a1e2-b627-4cb5-a40a-a3ece40c609c": {
    "folders": [
@@ -13489,7 +13489,7 @@
    "folders": [
     "PBsKillLog"
    ],
-   "version": "1.3.0"
+   "version": "1.4.0"
   },
   "ff73a91e-28b3-476c-be2b-ac5e47d079eb": {
    "folders": [

@@ -199,6 +199,7 @@ SetTracker	LibHarvensAddonSettings-1.0
 ShogrinUI	LibAddonMenu-2.0	LibSlashCommander
 ShowEquipped	LibHarvensAddonSettings
 SiegeReminder	LibHarvensAddonSettings
+SimpleGroupDPS	BattleScrolls
 SimpleOffBalanceTracker	LibHarvensAddonSettings
 SkyShards	DebugLogViewer	LibDebugLogger
 SlayansBossTimer	LibChatMessage
