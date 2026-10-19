@@ -85,9 +85,9 @@ LibCovetousCountess	103	1.03	3266	101049 101050	LibCovetousCountess	LibCovetousC
 LibCPieMenu	10503	1.5.3	3088	101041 101042	CShortcutPieMenu	LibCPieMenu
 LibCrypto	2	1.1	4010	101044	LibCrypto	LibCrypto
 LibCSA	210	2.30	1355	101040 101041	RaidNotifier Updated	LibCSA
-LibCustomIcons	20261012	2026-10-12	4161	101049 101050	LibCustomIcons	LCI
+LibCustomIcons	20261019	2026-10-19	4161	101049 101050	LibCustomIcons	LCI
 LibCustomMenu	730	7.3.0	1146	101044 101045	LibCustomMenu	LCM
-LibCustomNames	20261012	2026-10-12	4155	101049 101050	LibCustomNames	LCN
+LibCustomNames	20261019	2026-10-19	4155	101049 101050	LibCustomNames	LCN
 LibDailyReset	20	2.0	4424	101051	LibDailyReset	LibDailyReset
 LibDataEncode	2	2	3980	101044 101045	LibDataEncode	LibDataEncode
 LibDataPacker	1005000	v5	4082	101050	LibDataPacker	LibDataPacker
