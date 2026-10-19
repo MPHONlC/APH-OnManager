@@ -3431,18 +3431,18 @@
    "version": "0.3.0"
   },
   "5eaa0d91-47f8-4c5e-8673-db3ab518a752/LibCustomNames": {
-   "addOnVersion": "20261012",
+   "addOnVersion": "20261019",
    "addonId": "5eaa0d91-47f8-4c5e-8673-db3ab518a752",
    "apiVersion": "101049 101050",
    "author": "m00nyONE",
    "dependsOn": "",
-   "downloads": 303611,
+   "downloads": 305511,
    "folder": "LibCustomNames",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibCustomNames",
-   "updatedAt": 1791767961,
-   "version": "2026-10-12"
+   "updatedAt": 1792368721,
+   "version": "2026-10-19"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78/Puma": {
    "addOnVersion": "1",
@@ -10251,7 +10251,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.558"
+   "version": "0.0.559"
   },
   "389fdfeb-6af9-48ad-8121-39ce405b4267": {
    "folders": [
@@ -10834,7 +10834,7 @@
    "folders": [
     "LibCustomNames"
    ],
-   "version": "2026-10-12"
+   "version": "2026-10-19"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78": {
    "folders": [
