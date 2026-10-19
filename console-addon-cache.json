@@ -983,16 +983,16 @@
   "1e7d3c7d-1680-4f93-b82c-8c4601d3b449/ConsoleMetrics": {
    "addOnVersion": "",
    "addonId": "1e7d3c7d-1680-4f93-b82c-8c4601d3b449",
-   "apiVersion": "101046",
+   "apiVersion": "101051",
    "author": "Vixen_Hunny",
    "dependsOn": "",
-   "downloads": 986,
+   "downloads": 1168,
    "folder": "ConsoleMetrics",
    "isLibrary": "",
-   "optionalDependsOn": "PvPCooldownTracker LibConsoleDialogs LibHarvensAddonSettings LibAddonMenu-2.0",
+   "optionalDependsOn": "PvPCooldownTracker LibConsoleDialogs LibHarvensAddonSettings LibAddonMenu-2.0 LMB",
    "title": "Console Metrics",
-   "updatedAt": 1774378058,
-   "version": "CM 4.0.1 0 bug fix"
+   "updatedAt": 1792384136,
+   "version": "CM 5.0.0"
   },
   "1f42735d-8e9b-47ab-a1a7-f70de8bef493/BeyondTheMap": {
    "addOnVersion": "15100",
@@ -5908,6 +5908,20 @@
    "updatedAt": 1791716397,
    "version": "1.1.3"
   },
+  "a73b49be-3025-4010-b2de-104c419bec54/PBsFMEGA": {
+   "addOnVersion": "200",
+   "addonId": "a73b49be-3025-4010-b2de-104c419bec54",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsFMEGA",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "PinkB's F-MEGA(Beta)",
+   "updatedAt": 1792385035,
+   "version": "0.2.0"
+  },
   "a77b6722-e51b-4b17-9543-632248774cf3/StyleNewCleaner": {
    "addOnVersion": "000100000",
    "addonId": "a77b6722-e51b-4b17-9543-632248774cf3",
@@ -6880,13 +6894,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 270,
+   "downloads": 405,
    "folder": "PBsTranslate",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's Translator",
-   "updatedAt": 1789977219,
-   "version": "1.2.2dev"
+   "updatedAt": 1792385191,
+   "version": "1.4.0-dev"
   },
   "c49eb98c-6821-47de-9cb2-10b972d1a55f/FurnishingTracker": {
    "addOnVersion": "",
@@ -7057,18 +7071,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000089",
+   "addOnVersion": "01000090",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 12927,
+   "downloads": 13015,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792296013,
-   "version": "1.0.89"
+   "updatedAt": 1792382413,
+   "version": "1.0.90"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -7314,13 +7328,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 131,
+   "downloads": 148,
    "folder": "PBsTranslate",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's Translator(Beta)",
-   "updatedAt": 1790025237,
-   "version": "1.3.2dev"
+   "updatedAt": 1792385150,
+   "version": "1.4.0-dev"
   },
   "cf379dee-3395-4310-ab3f-433677ac7201/ShowAPIVersion": {
    "addOnVersion": "",
@@ -8177,18 +8191,18 @@
    "version": "1.0.8"
   },
   "e4b71317-9236-4462-a9a2-889700f950bb/LibAbilityLogger": {
-   "addOnVersion": "1",
+   "addOnVersion": "3.0.0",
    "addonId": "e4b71317-9236-4462-a9a2-889700f950bb",
    "apiVersion": "101046",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 1655,
+   "downloads": 1763,
    "folder": "LibAbilityLogger",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibAbilityLogger",
-   "updatedAt": 1775600116,
-   "version": "LAB 6,9,1"
+   "updatedAt": 1792384981,
+   "version": "LAB 7.0.0"
   },
   "e4f41108-4101-452e-8607-b469bc8eb4b0/VersesAndVisions": {
    "addOnVersion": "",
@@ -9770,7 +9784,7 @@
    "folders": [
     "ConsoleMetrics"
    ],
-   "version": "CM 4.0.1 0 bug fix"
+   "version": "CM 5.0.0"
   },
   "1f42735d-8e9b-47ab-a1a7-f70de8bef493": {
    "folders": [
@@ -11932,6 +11946,13 @@
    ],
    "version": "1.1.3"
   },
+  "a73b49be-3025-4010-b2de-104c419bec54": {
+   "folders": [
+    "PBsFMEGA",
+    "PBsFMEGA"
+   ],
+   "version": "0.2.0"
+  },
   "a77b6722-e51b-4b17-9543-632248774cf3": {
    "folders": [
     "StyleNewCleaner"
@@ -12377,7 +12398,7 @@
    "folders": [
     "PBsTranslate"
    ],
-   "version": "1.2.2dev"
+   "version": "1.4.0-dev"
   },
   "c49eb98c-6821-47de-9cb2-10b972d1a55f": {
    "folders": [
@@ -12463,7 +12484,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.89"
+   "version": "1.0.90"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -12575,7 +12596,7 @@
    "folders": [
     "PBsTranslate"
    ],
-   "version": "1.3.2dev"
+   "version": "1.4.0-dev"
   },
   "cf379dee-3395-4310-ab3f-433677ac7201": {
    "folders": [
@@ -12977,7 +12998,7 @@
    "folders": [
     "LibAbilityLogger"
    ],
-   "version": "LAB 6,9,1"
+   "version": "LAB 7.0.0"
   },
   "e4f41108-4101-452e-8607-b469bc8eb4b0": {
    "folders": [

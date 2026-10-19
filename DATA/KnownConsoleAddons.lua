@@ -134,7 +134,7 @@ CompanionRapport	221	3.0.0	101050	Companion Rapport	ParanoidGaming	1d8faf08-ce78
 ConsistentColours		0.0.2a	101048	Consistent Colours	Scribe_Rob	b0d2b98f-5e22-4809-a765-0398f6344350
 ConsoleCPQoL		100	101041	ConsoleCPQoL	thewizadt	751c7402-5cb7-4469-afc8-469584372b40
 ConsoleHideUI	100000	1.0.0	101049	Console Hide UI	code65536	89f44de6-a710-4680-8553-b1fc04735bbd
-ConsoleMetrics		CM 4.0.1 0 bug fix	101046	Console Metrics	Vixen_Hunny	1e7d3c7d-1680-4f93-b82c-8c4601d3b449
+ConsoleMetrics		CM 5.0.0	101051	Console Metrics	Vixen_Hunny	1e7d3c7d-1680-4f93-b82c-8c4601d3b449
 ContainerHighlighter	651	14.12.651	101048	Adventures toolkit (Dev)	Tekatsu	e42700aa-3021-495e-9ff4-9e83377c9f99
 ContainerVisitHide	10000	1.0	101051 101050	Usable Containers	dicen9	9237369e-344f-4e5c-8966-b0f04b0be2c9
 CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker	clubwratt	4700c5de-fb02-411e-b563-1f326352b4ed
@@ -283,7 +283,7 @@ Leo_stats_panel		0.2.7	101051	Leo_stat_panel_beta	LeonShu	66108dc4-7941-473d-8b4
 Leo_status_panel		0.1.2	101051	Leo_status_panel_beta	LeonShu	cbe4d714-54cb-4495-a852-fdbd74443b5a
 Leo_sust_beta		0.1.9	101051	leo_sust_beta	LeonShu	e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76
 Leo_tracker_beta		0.3.4	101051	Leo_tracker_beta	LeonShu	35b41333-fe07-42d9-b8f7-aa2f6b7c83cc
-LibAbilityLogger	1	LAB 6,9,1	101046	LibAbilityLogger	Vixen_Hunny	e4b71317-9236-4462-a9a2-889700f950bb
+LibAbilityLogger	3.0.0	LAB 7.0.0	101046	LibAbilityLogger	Vixen_Hunny	e4b71317-9236-4462-a9a2-889700f950bb
 LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9c-4b14-aa0e-d841090d128c
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
 LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
@@ -348,7 +348,7 @@ LiveBuffUptime		2.2.5	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 Loadout	10000	1.0.0	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000089	1.0.89	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000090	1.0.90	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -433,6 +433,7 @@ PBsConsoleHudCustomizer		1.27.17	101050 101051	PinkB's ResourceAndSkillBarCustom
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
 PBsCyrodiilAlert		2.7.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
+PBsFMEGA	200	0.2.0	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.6	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
 PBsHudManager		1.3.0	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
@@ -446,7 +447,7 @@ PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	
 PBsScreenshotModeShortcut		1.0.6	101050 101051	PinkB's ScreenshotModeShortcut	PinkBanther	f092f755-7f1e-43bf-b184-f2a9871a86ea
 PBsTetris	11600	1.16.0	101050 101051	PinkB's Tamriel de Tetris	PinkBanther	e8b21bff-aae1-4a24-b91b-8c49cd6acfd6
 PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanther	a213bf5d-d4a4-4bfb-bd6b-e10a127ea56e
-PBsTranslate		1.3.2dev	101050 101051	PinkB's Translator(Beta)	PinkBanther	cf0aea14-ea0e-49d3-89c4-1987b725c79e
+PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
 PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f00e5b13-5452-4284-98f7-2bdbe3caff63
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
