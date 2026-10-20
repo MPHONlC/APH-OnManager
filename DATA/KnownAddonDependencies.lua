@@ -11,6 +11,7 @@ assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.KnownAddonDependencies = {
 	["AAQ"] = { "pChat", "tom" },
+	["AbilityIconsFramework"] = { "FancyActionBar", "FancyActionBar+", "LibSkillBlocker" },
 	["ActionDurationReminder"] = { "ScootworksCombat" },
 	["ActivityFinderPlus"] = { "LibSets" },
 	["ADawgsFlipWorthy"] = { "AwesomeGuildStore", "TamrielTradeCentreCompanion" },

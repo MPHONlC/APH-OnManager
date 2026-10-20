@@ -13,7 +13,7 @@ AoM.KnownAddonVersions = AoM.CreateKnownTable([==[
 !AntiquityTooltipFix	1	1	4792	101050
 !SlashFinder	100	1.0.0	4714	101050
 AAQ		1.28	1994	101045 101046
-AbilityIconsFramework	160	1.6.0	4061	101049
+AbilityIconsFramework	201	2.0.1	4061	101051
 AcceptDeclineGroupInvites		1.1	4371	101048
 AccountSettings		2026.09.28	3418	101051
 AccurateWorldMap	2310	2.3.1	4471	101050
@@ -496,7 +496,7 @@ EnchantPlus		1.1	4800	101051
 EndeavorAssistant		1.2	3936	101042
 EndeavorChatTracker		1.1.4	3274	101048
 EndeavorTracker		2.3.1	3154	101042 101043
-ESO_UA_GoA	107	46.99.77	4702	101049 101050
+ESO_UA_GoA	107	46.99.89	4702	101049 101050
 ESOAdventurerSuite	3725	0.29.790	4779	101050 101051
 EsoAR		2.3.7	4927	101050 101051
 EsoBR_Reforged		1.3.1	2256	101051
@@ -854,7 +854,7 @@ Killz	118	1.10.7	3572	101050
 KillZaeler	16	1.7.0	4543	101042
 KindlerBeggarLiarThief		1.2	4321	101048 101048
 KozyEsoBuildPort	1002	0.10.2	4938	101051 101052
-KwibusRandomThings		1.3.3	4450	101050 101051
+KwibusRandomThings		1.4.6	4450	101051
 KwibusReset	110101	1.11.0	4281	101047
 KyzderpsDerps	1550	1.55.0	2427	101051
 Labyrinthe		0.8.2	3841	101045
