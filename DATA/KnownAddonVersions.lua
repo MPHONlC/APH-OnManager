@@ -25,7 +25,7 @@ AchievementInfo		4.17	350	101044
 AchievementPeek		1.0.0	4930	101051
 ActionBarLabels	1	1.0	4348	101048
 ActionBarSkillStyles	4	0.0.4	3928	101044
-ActionDurationReminder	31670	3.167	1536	101051 101052
+ActionDurationReminder	31680	3.168	1536	101051 101052
 ActivityFinderPlus		1.0.2	4676	101050
 ADawgsFlipWorthy	40	1.1.0	4563	101049 101050
 ADawgsGroupManager	137	1.1.1	4561	101049 101050
