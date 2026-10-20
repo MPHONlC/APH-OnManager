@@ -1568,6 +1568,20 @@
    "updatedAt": 1789141773,
    "version": "1"
   },
+  "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc/PBsTargetPlayer": {
+   "addOnVersion": "",
+   "addonId": "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "PBsTargetPlayer",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's TargetPlayer for AD-Stalkers",
+   "updatedAt": 1792505560,
+   "version": "1.4.1"
+  },
   "2c07f374-57bc-4f20-814f-d40e4d93285b/MyMapPos": {
    "addOnVersion": "",
    "addonId": "2c07f374-57bc-4f20-814f-d40e4d93285b",
@@ -5824,20 +5838,6 @@
    "updatedAt": 1792470870,
    "version": "5.2"
   },
-  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
-   "addOnVersion": "102",
-   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
-   "apiVersion": "101050",
-   "author": "Bucketmore",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 155,
-   "folder": "PvPTargetInfo",
-   "isLibrary": "false",
-   "optionalDependsOn": "",
-   "title": "PvP Target Info",
-   "updatedAt": 1792153137,
-   "version": "v2.0.3"
-  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
    "addonId": "a6c22156-8b52-467d-ab02-287e5731a1fb",
@@ -6600,13 +6600,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 215,
+   "downloads": 224,
    "folder": "LibTrack",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1792464245,
-   "version": "3.4.0"
+   "updatedAt": 1792500041,
+   "version": "3.4.8"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
    "addOnVersion": "8",
@@ -10024,6 +10024,12 @@
    ],
    "version": "1"
   },
+  "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc": {
+   "folders": [
+    "PBsTargetPlayer"
+   ],
+   "version": "1.4.1"
+  },
   "2c07f374-57bc-4f20-814f-d40e4d93285b": {
    "folders": [
     "MyMapPos"
@@ -11896,12 +11902,6 @@
    ],
    "version": "5.2"
   },
-  "a5490d07-2b02-4714-bf07-a18820977a3c": {
-   "folders": [
-    "PvPTargetInfo"
-   ],
-   "version": "v2.0.3"
-  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
     "SynergyCooldown"
@@ -12249,7 +12249,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "3.4.0"
+   "version": "3.4.8"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
    "folders": [
