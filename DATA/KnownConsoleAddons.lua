@@ -337,7 +337,7 @@ LibSideQuestPins		v4	101048	Side Quests	0mniX	1ac2188b-1200-476b-a90c-6561a7d3b5
 LibSlashCommander	45	1.2.0	101045 101046	LibSlashCommander	sirinsidiator	c0ae2cd5-69de-4e29-8be3-1607be88e54a
 LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-408e-9617-05161b5c9650
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
-LibTrack		3.4.8	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
+LibTrack		2.5.4	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
 LibUser562	1	1	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5

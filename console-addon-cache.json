@@ -6600,13 +6600,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 224,
+   "downloads": 230,
    "folder": "LibTrack",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1792500041,
-   "version": "3.4.8"
+   "updatedAt": 1792513421,
+   "version": "2.5.4"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
    "addOnVersion": "8",
@@ -12249,7 +12249,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "3.4.8"
+   "version": "2.5.4"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
    "folders": [
