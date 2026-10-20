@@ -36,24 +36,24 @@ DsRPlayerDBData	100	2026.04.29	3776	101048 101049	DsR GuildRoster (Loot-/ Invent
 esoa_datastore	110	2.00.10	2070	100030 100031	ElderScrollsOfAlts	esoa_datastore
 FCOAccessibility	20300	2.3	3586	101050 101051	FCO Accessibility	FCOAccessibility
 GankProbability		1.0.0	3890	101041 101042	Gank Probability	GankProbability
-GS00Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS00Data
-GS01Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS01Data
-GS02Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS02Data
-GS03Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS03Data
-GS04Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS04Data
-GS05Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS05Data
-GS06Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS06Data
-GS07Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS07Data
-GS08Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS08Data
-GS09Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS09Data
-GS10Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS10Data
-GS11Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS11Data
-GS12Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS12Data
-GS13Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS13Data
-GS14Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS14Data
-GS15Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS15Data
-GS16Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS16Data
-GS17Data	100	3.8.33	2753	101049 101050	Master Merchant 3.0	GS17Data
+GS00Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS00Data
+GS01Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS01Data
+GS02Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS02Data
+GS03Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS03Data
+GS04Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS04Data
+GS05Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS05Data
+GS06Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS06Data
+GS07Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS07Data
+GS08Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS08Data
+GS09Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS09Data
+GS10Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS10Data
+GS11Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS11Data
+GS12Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS12Data
+GS13Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS13Data
+GS14Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS14Data
+GS15Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS15Data
+GS16Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS16Data
+GS17Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS17Data
 Lib3D	312	2.2.2	2475	100029 100030	RdK Group Tool	Lib3D
 LibAchievementsArchive	102041	1.2.4.1	3321	101050 101051	LibAchievementsArchive	LibAchievementsArchive
 libAddonKeybinds	6	6	1253	101048 101049	libAddonKeybinds	libAddonKeybinds
@@ -103,7 +103,7 @@ LibEmote	1013	1.13	3715	101049	LibEmote	LibEmote
 LibEnchantingStation	234	2.3.5	2437	100033 100034	LibEnchantingStation	LibEnchantingStation
 LibEsoHubPrices	20	2026.10.19.02.53	4095	101051	LibEsoHubPrices	LibEsoHubPrices
 LibEventHandler	1314	1.3.14	1452	101050 101051	LorePlay Forever	LibEventHandler
-LibExecutionQueue	202	3.8.33	2753	101049 101050	Master Merchant 3.0	LibExecutionQueue
+LibExecutionQueue	202	3.8.34	2753	101049 101050	Master Merchant 3.0	LibExecutionQueue
 LibExoYsUtilities	9	9	3363	101049	LibExoYsUtilities	LibExoYsUtilities
 LibExtendedJournal	205031	2.5.3.1	4031	101050 101051	LibExtendedJournal	LibExtendedJournal
 LibExtendedSavedVars	107	107	4755	101050 101051	LibExtendedSavedVars	LibExtendedSavedVars
@@ -127,7 +127,7 @@ LibGroupResources	95	2.0.0	4402	101048 101049	LibGroupResources	LibGroupResource
 LibGroupUIReload	95	2.0.0	4403	101048 101049	LibGroupUIReload	LibGroupUIReload
 LibGuardArrow	100	1.0.1	3553	100036	LibGuardArrow	LibGuardArrow
 LibGuildRoster	104	1.0.4	2784	101049 101050	LibGuildRoster	LibGuildRoster
-LibGuildStore	105	3.8.33	2753	101049 101050	Master Merchant 3.0	LibGuildStore
+LibGuildStore	105	3.8.34	2753	101049 101050	Master Merchant 3.0	LibGuildStore
 LibHandler	3	0.0.3	3156	101033 101034	LibHandler	LibHandler
 LibHarvensAddonSettings	20200	2.2.0	584	101050 101051	LibHarvensAddonSettings	LHAS
 LibHistoire	1105	2.7.2	2817	101050 101051	LibHistoire	LibHistoire
