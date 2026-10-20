@@ -64,7 +64,7 @@ atronachTracker		1.1.3	101051	Storm Atronach Tracker	codeWarrior82	a70e4425-99f9
 AutoClaimGoldenPursuits	200010	2.0.1	101050	Auto-Claim or Hide Golden Pursuits	code65536	48b63611-befb-44e1-b87a-1bac567ee234
 AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenges	code65536	910446ca-4e83-47c8-8c9b-a5d99bcec73e
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
-AutoConsume		3.4	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
+AutoConsume		t	101048 101049 101050 101051	tt	user562x	4bf37bea-4e94-4dde-b7d6-f96c556a04c8
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
@@ -338,9 +338,10 @@ LibSideQuestPins		v4	101048	Side Quests	0mniX	1ac2188b-1200-476b-a90c-6561a7d3b5
 LibSlashCommander	45	1.2.0	101045 101046	LibSlashCommander	sirinsidiator	c0ae2cd5-69de-4e29-8be3-1607be88e54a
 LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-408e-9617-05161b5c9650
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
-LibTrack		3.2.1	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
+LibTrack		3.4.0	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
+LibUser562	1	1	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
 LibVotansAddonList	11000	1.10.0	101045 101046	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
@@ -398,13 +399,13 @@ MyAutoMarker		2.2	101050	MyAutoMarker	Unfounded_Puppy3	097cf265-8ddc-4970-9836-9
 MyCombatText		2.0.0 Performance and bug fix updates	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyCrystalFragmentsProcUI		0.1	101050	MyCrystalFragmentsProcUI	Unfounded_Puppy3	d706fcf0-71fd-47e6-911a-fdacc426303a
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
-MyExtras		1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
+MyExtras		1.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
 MyGridHelper		1.0	101049	MyGridHelper	Unfounded_Puppy3	36ae3d1e-dbb6-45d2-b0a4-30934a0634f8
 MyMapPos		1.0	101049	MyMapPos	Unfounded_Puppy3	2c07f374-57bc-4f20-814f-d40e4d93285b
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTankBars	2	1.0	101048 101049	MyTankBars	Unfounded_Puppy3	fe2be9f7-6b33-44e1-8b54-7a7afcc9b63d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
-MyUI		v3.0	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
+MyUI		v3.1.1	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
 necroTracker		1.3.5	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
 NedsGroupManager		1.5	101046	Ned's Group Manager	Ned919x	4f86b7c8-8fb6-432c-a1b9-2004263244ab
 Nemesis	100	1.0.0	101050	Nemesis	Rogue0rbit	88739d40-c764-4276-9157-ba0eb1d47805
@@ -607,7 +608,7 @@ ValknarrUIE	43	1.0.8	101049 101050	Valknarr UI	valknarr	2d43e3ed-9017-4e93-95f0-
 VaultTracker	2	VT 1.3.0	101046	Vixy's Testing Grounds	Vixen_Hunny	ac8a5471-5c72-448f-86f0-1d33a74c88ae
 VCAP2	2204  ; Test build 5 - do not publish as stable	2.2.5	101049 101050	VCAP2	SugaComa	8c18ca98-8921-4bf3-b455-1d63b2f761e3
 VersesAndVisions		2025.05.28	101046	VersesAndVisions	Masteroshi430	e4f41108-4101-452e-8607-b469bc8eb4b0
-VerticalBuffsDebuffs		1.6	101048 101049 101050 101051	VerticalBuffsDebuffs	user562x	73d5304a-565a-4a9d-bd38-aa245219f955
+VerticalBuffsDebuffs		t	101048 101049 101050 101051	tttt	user562x	c2140536-34e2-43be-a2cf-d3e5ddc8c4ea
 VestigeMirror		v1.0.1	101049	Vestige Mirror	Wrynch	76fce7e2-297a-472f-bdf6-3e80756e7e8c
 VotansFisherman		1.16.3c	101048 101049	Votan's Fisherman	votan73	033f7a4a-8918-4753-be5b-2874afa50230
 VotansMiniMap		2.2.2	101049 101050	Votan's Minimap	votan73	afe5bbbc-a2e0-48de-965a-29eff222393f

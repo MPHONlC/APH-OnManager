@@ -142,6 +142,7 @@ LibTextFilter	Libraries
 LibTextFormat	Libraries
 LibTraitResearch	Libraries
 LibUndauntedPledges	Libraries
+LibUser562	Libraries
 LibVotansAddonList	Utility Mods
 LibZone	Libraries
 LiveAchiever	Character Advancement
