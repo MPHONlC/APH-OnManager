@@ -38,6 +38,7 @@ AoM.KnownAddonDependencies = {
 	["APH-Search"] = { "LibAddonMenu-2.0", "LibHarvensAddonSettings" },
 	["APH-Target"] = { "LibAddonMenu-2.0", "LibGroupBroadcast", "LibHarvensAddonSettings", "LibImplex" },
 	["ArabChat"] = { "EsoAR", "LibAddonMenu-2.0" },
+	["ARC_ZoneExplorer"] = { "LibSets" },
 	["ArcanistMasteryTracker"] = { "LibAddonMenu-2.0" },
 	["ArchiveHelper"] = { "LibChatMessage", "LibDataShare", "LykeionsFabledMarker" },
 	["ArdysOBTracker"] = { "LibAddonMenu-2.0" },
