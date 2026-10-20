@@ -1574,13 +1574,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 8,
    "folder": "PBsTargetPlayer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
-   "title": "PinkB's TargetPlayer for AD-Stalkers",
-   "updatedAt": 1792505560,
-   "version": "1.4.1"
+   "title": "PinkB's TargetPlayer for AD Stalkers",
+   "updatedAt": 1792527592,
+   "version": "1.4.2"
   },
   "2c07f374-57bc-4f20-814f-d40e4d93285b/MyMapPos": {
    "addOnVersion": "",
@@ -6600,13 +6600,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 230,
+   "downloads": 234,
    "folder": "LibTrack",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1792513421,
-   "version": "2.5.4"
+   "updatedAt": 1792535591,
+   "version": "3.6.0"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
    "addOnVersion": "8",
@@ -10028,7 +10028,7 @@
    "folders": [
     "PBsTargetPlayer"
    ],
-   "version": "1.4.1"
+   "version": "1.4.2"
   },
   "2c07f374-57bc-4f20-814f-d40e4d93285b": {
    "folders": [
@@ -12249,7 +12249,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "2.5.4"
+   "version": "3.6.0"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
    "folders": [
