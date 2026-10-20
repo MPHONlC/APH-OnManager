@@ -677,14 +677,14 @@
    "addonId": "126f9ed8-95dd-46e4-b365-18e7f56bb804",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
-   "dependsOn": "LibConsoleMenu LibCombatAlerts AAAConsoleUIShim",
-   "downloads": 3844,
+   "dependsOn": "LibUser562",
+   "downloads": 4115,
    "folder": "AutoConsume",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "AutoConsume",
-   "updatedAt": 1788297561,
-   "version": "3.4"
+   "updatedAt": 1792470658,
+   "version": "3.5"
   },
   "1314f50c-ef2d-47b1-a8e8-18bf28416980/AldrensWorldEvents": {
    "addOnVersion": "",
@@ -1890,20 +1890,6 @@
    "updatedAt": 1787769840,
    "version": "V2"
   },
-  "35468315-d34f-4779-b62b-ccb35919ce0f/AAAConsoleUIShim": {
-   "addOnVersion": "",
-   "addonId": "35468315-d34f-4779-b62b-ccb35919ce0f",
-   "apiVersion": "101050 101051",
-   "author": "user562x",
-   "dependsOn": "",
-   "downloads": 4914,
-   "folder": "AAAConsoleUIShim",
-   "isLibrary": "true",
-   "optionalDependsOn": "",
-   "title": "ACUS",
-   "updatedAt": 1788298614,
-   "version": "1"
-  },
   "35674482-a2ce-4dfb-86f8-519b941a350a/LibLoreLibraryCesarska": {
    "addOnVersion": "",
    "addonId": "35674482-a2ce-4dfb-86f8-519b941a350a",
@@ -2567,14 +2553,14 @@
    "addonId": "45d919f9-f85b-4930-9348-94fe2e245f98",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
-   "dependsOn": "LibConsoleMenu AAAConsoleUIShim",
-   "downloads": 2611,
+   "dependsOn": "LibUser562",
+   "downloads": 3040,
    "folder": "WhereIsIt",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Where Is It?",
-   "updatedAt": 1789158885,
-   "version": "1.3"
+   "updatedAt": 1792470594,
+   "version": "1.4"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed/CooldownTracker": {
    "addOnVersion": "",
@@ -2842,20 +2828,6 @@
    "updatedAt": 1760737550,
    "version": "1.0.0"
   },
-  "4bf37bea-4e94-4dde-b7d6-f96c556a04c8/AutoConsume": {
-   "addOnVersion": "",
-   "addonId": "4bf37bea-4e94-4dde-b7d6-f96c556a04c8",
-   "apiVersion": "101048 101049 101050 101051",
-   "author": "user562x",
-   "dependsOn": "LibUser562",
-   "downloads": 0,
-   "folder": "AutoConsume",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "tt",
-   "updatedAt": 1792460877,
-   "version": "t"
-  },
   "4c1cca0d-7e48-40ed-bd8f-1c87ac158341/TrueFlagCaptureMover": {
    "addOnVersion": "",
    "addonId": "4c1cca0d-7e48-40ed-bd8f-1c87ac158341",
@@ -3065,20 +3037,6 @@
    "title": "Ar2",
    "updatedAt": 1789095009,
    "version": "1"
-  },
-  "52dd9df5-7395-4ce8-99c7-2ca4c6b41df6/PvPUA": {
-   "addOnVersion": "",
-   "addonId": "52dd9df5-7395-4ce8-99c7-2ca4c6b41df6",
-   "apiVersion": "101048 101049 101050 101051",
-   "author": "user562x",
-   "dependsOn": "AAAConsoleUIShim",
-   "downloads": 0,
-   "folder": "PvPUA",
-   "isLibrary": "",
-   "optionalDependsOn": "LibGroupBroadcast",
-   "title": "t",
-   "updatedAt": 1792017460,
-   "version": "t"
   },
   "52e26019-7e65-4ad8-9af6-bfdf51ef2bce/esoReport": {
    "addOnVersion": "",
@@ -4205,14 +4163,14 @@
    "addonId": "73d5304a-565a-4a9d-bd38-aa245219f955",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
-   "dependsOn": "LibConsoleMenu LibCombatAlerts AAAConsoleUIShim",
-   "downloads": 1852,
+   "dependsOn": "LibUser562",
+   "downloads": 2007,
    "folder": "VerticalBuffsDebuffs",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "VerticalBuffsDebuffs",
-   "updatedAt": 1788296742,
-   "version": "1.6"
+   "updatedAt": 1792470713,
+   "version": "1.7"
   },
   "747e5279-71c7-4d0b-8db8-5c7552b2ed65/DryzlerElderGeekNetLore": {
    "addOnVersion": "",
@@ -4430,13 +4388,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 6,
    "folder": "PBsKillLog",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's KillLog(Beta)",
-   "updatedAt": 1792441075,
-   "version": "1.4.0"
+   "updatedAt": 1792486048,
+   "version": "1.5.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a/BetterEffectViewer": {
    "addOnVersion": "",
@@ -5662,13 +5620,13 @@
    "apiVersion": "101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 9,
+   "downloads": 15,
    "folder": "SetTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings-1.0",
    "title": "Set Perk Tracker",
-   "updatedAt": 1792329761,
-   "version": "0.2.7"
+   "updatedAt": 1792483752,
+   "version": "0.2.10a"
   },
   "9e55edc2-32f8-4c75-b87c-e921fd53e9cf/AlternateDeathRecap": {
    "addOnVersion": "30200",
@@ -5841,30 +5799,30 @@
   "a3bda6e6-a854-4387-825a-dccb05d706d8/Persona": {
    "addOnVersion": "",
    "addonId": "a3bda6e6-a854-4387-825a-dccb05d706d8",
-   "apiVersion": "101049 101050",
+   "apiVersion": "101051",
    "author": "SugaComa",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 544,
+   "downloads": 716,
    "folder": "Persona",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Persona",
-   "updatedAt": 1784489324,
-   "version": "1.0.0a"
+   "updatedAt": 1792480494,
+   "version": "1.1.0"
   },
   "a453b6d3-5eb9-42cb-812d-605c297e8e87/PvPUA": {
    "addOnVersion": "",
    "addonId": "a453b6d3-5eb9-42cb-812d-605c297e8e87",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
-   "dependsOn": "LibConsoleMenu AAAConsoleUIShim",
-   "downloads": 29185,
+   "dependsOn": "LibUser562",
+   "downloads": 29702,
    "folder": "PvPUA",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast",
    "title": "PvP UA!",
-   "updatedAt": 1791404618,
-   "version": "5.1"
+   "updatedAt": 1792470870,
+   "version": "5.2"
   },
   "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
    "addOnVersion": "102",
@@ -5909,7 +5867,7 @@
    "version": "1.1.3"
   },
   "a73b49be-3025-4010-b2de-104c419bec54/PBsFMEGA": {
-   "addOnVersion": "200",
+   "addOnVersion": "401",
    "addonId": "a73b49be-3025-4010-b2de-104c419bec54",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
@@ -5919,8 +5877,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's F-MEGA(Beta)",
-   "updatedAt": 1792385035,
-   "version": "0.2.0"
+   "updatedAt": 1792487865,
+   "version": "0.4.1"
   },
   "a76fc220-27fb-4174-8821-27351c50fea5/LibUser562": {
    "addOnVersion": "1",
@@ -6818,20 +6776,6 @@
    "updatedAt": 1791285671,
    "version": "1.9.9"
   },
-  "c2140536-34e2-43be-a2cf-d3e5ddc8c4ea/VerticalBuffsDebuffs": {
-   "addOnVersion": "",
-   "addonId": "c2140536-34e2-43be-a2cf-d3e5ddc8c4ea",
-   "apiVersion": "101048 101049 101050 101051",
-   "author": "user562x",
-   "dependsOn": "LibUser562",
-   "downloads": 0,
-   "folder": "VerticalBuffsDebuffs",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "tttt",
-   "updatedAt": 1792463737,
-   "version": "t"
-  },
   "c26064b6-d685-492c-b750-3bc59f315109/AntiquityTracker": {
    "addOnVersion": "",
    "addonId": "c26064b6-d685-492c-b750-3bc59f315109",
@@ -7099,18 +7043,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000090",
+   "addOnVersion": "01000091",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 13015,
+   "downloads": 13250,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792382413,
-   "version": "1.0.90"
+   "updatedAt": 1792468813,
+   "version": "1.0.91"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -9316,13 +9260,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 5,
    "folder": "PBsKillLog",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's KillLog",
-   "updatedAt": 1792441110,
-   "version": "1.4.0"
+   "updatedAt": 1792486017,
+   "version": "1.5.0"
   },
   "ff73a91e-28b3-476c-be2b-ac5e47d079eb/LibHarvensAddonSettings": {
    "addOnVersion": "20200",
@@ -9684,7 +9628,7 @@
    "folders": [
     "AutoConsume"
    ],
-   "version": "3.4"
+   "version": "3.5"
   },
   "1314f50c-ef2d-47b1-a8e8-18bf28416980": {
    "folders": [
@@ -10220,12 +10164,6 @@
    ],
    "version": "V2"
   },
-  "35468315-d34f-4779-b62b-ccb35919ce0f": {
-   "folders": [
-    "AAAConsoleUIShim"
-   ],
-   "version": "1"
-  },
   "35674482-a2ce-4dfb-86f8-519b941a350a": {
    "folders": [
     "LibLoreLibraryCesarska"
@@ -10505,7 +10443,7 @@
    "folders": [
     "WhereIsIt"
    ],
-   "version": "1.3"
+   "version": "1.4"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed": {
    "folders": [
@@ -10620,12 +10558,6 @@
    ],
    "version": "1.0.0"
   },
-  "4bf37bea-4e94-4dde-b7d6-f96c556a04c8": {
-   "folders": [
-    "AutoConsume"
-   ],
-   "version": "t"
-  },
   "4c1cca0d-7e48-40ed-bd8f-1c87ac158341": {
    "folders": [
     "TrueFlagCaptureMover"
@@ -10727,12 +10659,6 @@
     "EsoAR"
    ],
    "version": "1"
-  },
-  "52dd9df5-7395-4ce8-99c7-2ca4c6b41df6": {
-   "folders": [
-    "PvPUA"
-   ],
-   "version": "t"
   },
   "52e26019-7e65-4ad8-9af6-bfdf51ef2bce": {
    "folders": [
@@ -11227,7 +11153,7 @@
    "folders": [
     "VerticalBuffsDebuffs"
    ],
-   "version": "1.6"
+   "version": "1.7"
   },
   "747e5279-71c7-4d0b-8db8-5c7552b2ed65": {
    "folders": [
@@ -11337,7 +11263,7 @@
    "folders": [
     "PBsKillLog"
    ],
-   "version": "1.4.0"
+   "version": "1.5.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a": {
    "folders": [
@@ -11883,7 +11809,7 @@
    "folders": [
     "SetTracker"
    ],
-   "version": "0.2.7"
+   "version": "0.2.10a"
   },
   "9e55edc2-32f8-4c75-b87c-e921fd53e9cf": {
    "folders": [
@@ -11962,13 +11888,13 @@
    "folders": [
     "Persona"
    ],
-   "version": "1.0.0a"
+   "version": "1.1.0"
   },
   "a453b6d3-5eb9-42cb-812d-605c297e8e87": {
    "folders": [
     "PvPUA"
    ],
-   "version": "5.1"
+   "version": "5.2"
   },
   "a5490d07-2b02-4714-bf07-a18820977a3c": {
    "folders": [
@@ -11993,7 +11919,7 @@
     "PBsFMEGA",
     "PBsFMEGA"
    ],
-   "version": "0.2.0"
+   "version": "0.4.1"
   },
   "a76fc220-27fb-4174-8821-27351c50fea5": {
    "folders": [
@@ -12397,12 +12323,6 @@
    ],
    "version": "1.9.9"
   },
-  "c2140536-34e2-43be-a2cf-d3e5ddc8c4ea": {
-   "folders": [
-    "VerticalBuffsDebuffs"
-   ],
-   "version": "t"
-  },
   "c26064b6-d685-492c-b750-3bc59f315109": {
    "folders": [
     "AntiquityTracker",
@@ -12538,7 +12458,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.90"
+   "version": "1.0.91"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13549,7 +13469,7 @@
    "folders": [
     "PBsKillLog"
    ],
-   "version": "1.4.0"
+   "version": "1.5.0"
   },
   "ff73a91e-28b3-476c-be2b-ac5e47d079eb": {
    "folders": [

@@ -10,7 +10,6 @@
 assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.KnownConsoleLibraries = AoM.CreateConsoleTable([==[
-AAAConsoleUIShim		1	101050 101051	ACUS	user562x	35468315-d34f-4779-b62b-ccb35919ce0f
 CustomCompassPins	137	1.37	101045 101046	CustomCompassPins	Sharlikran	3c805ef7-47fe-43a7-b480-52342549e9f4
 LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9c-4b14-aa0e-d841090d128c
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6

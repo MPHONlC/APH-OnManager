@@ -12,7 +12,6 @@ local AoM = APHOnManagerCore
 AoM.KnownConsoleAddons = AoM.CreateConsoleTable([==[
 702sCraftCompletionistList		Version 2.4.3.4	101048 101049	702's Craft Completionist List	The702Guy	b3b32522-0ed3-419e-b20d-ef4b651bc013
 AA_Profiler	100	0.09	101043	AA_Profiler	spoqster	66400ef3-3d78-4737-a158-c48633706a83
-AAAConsoleUIShim		1	101050 101051	ACUS	user562x	35468315-d34f-4779-b62b-ccb35919ce0f
 AbahsAppraiser	15106	1.51.06	101051	Auto Sell Junk - Abah's Appraiser	xbutch	2d6ff530-edbc-4425-be68-daadbc3c0afa
 AbilityIDToolkit		v0.0.05	101050	TEST 03	BMGxSancho	ccd8ba3a-f81c-4f99-98fd-84f9ce3c76f0
 AboveMe	771	v0.0.02	101050	Above Me Icon Browser	BMGxSancho	c1746be9-5c6a-4516-aa21-e54bd8e5a25e
@@ -64,7 +63,7 @@ atronachTracker		1.1.3	101051	Storm Atronach Tracker	codeWarrior82	a70e4425-99f9
 AutoClaimGoldenPursuits	200010	2.0.1	101050	Auto-Claim or Hide Golden Pursuits	code65536	48b63611-befb-44e1-b87a-1bac567ee234
 AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenges	code65536	910446ca-4e83-47c8-8c9b-a5d99bcec73e
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
-AutoConsume		t	101048 101049 101050 101051	tt	user562x	4bf37bea-4e94-4dde-b7d6-f96c556a04c8
+AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
@@ -349,7 +348,7 @@ LiveBuffUptime		2.2.5	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 Loadout	10000	1.0.0	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000090	1.0.90	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000091	1.0.91	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -434,12 +433,12 @@ PBsConsoleHudCustomizer		1.27.17	101050 101051	PinkB's ResourceAndSkillBarCustom
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
 PBsCyrodiilAlert		2.7.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
-PBsFMEGA	200	0.2.0	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
+PBsFMEGA	401	0.4.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.6	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
 PBsHudManager		1.3.0	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
 PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25bb-1103-4636-a4f6-5c6a280ff8e2
-PBsKillLog		1.4.0	101050 101051	PinkB's KillLog	PinkBanther	ff4bafd1-1006-4f21-8d38-7a45f4527518
+PBsKillLog		1.5.0	101050 101051	PinkB's KillLog(Beta)	PinkBanther	79dd6cfe-4b31-471a-96b6-061bf53f35f6
 PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4878125-abb0-49bd-b8d3-ca06c9ad746a
 PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371fcd02-ae32-4937-a1d4-de4f33b01870
 PBsMiniMap		2.2.17	101050 101051	PinkB's MiniMap(Beta)	PinkBanther	d0219382-bec1-477e-bcc2-d2b0c7138a79
@@ -454,7 +453,7 @@ PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f212
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
 PermMemento	26101801	2026.10.18.01.41	101051 101052	Permanent Memento	APH0NlC	2aa223e9-ba88-45f7-90d3-0a47002c720c
-Persona		1.0.0a	101049 101050	Persona	SugaComa	a3bda6e6-a854-4387-825a-dccb05d706d8
+Persona		1.1.0	101051	Persona	SugaComa	a3bda6e6-a854-4387-825a-dccb05d706d8
 PersonalDpsTracker	21007	2.1.7	101050 101051	Personal Dps Tracker	Shienar	c9b85989-bab6-4000-a3fc-80ed49e25e87
 PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a86588cd787
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
@@ -475,7 +474,7 @@ PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
 PvPTargetInfo	102	v2.0.3	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
-PvPUA		t	101048 101049 101050 101051	t	user562x	52dd9df5-7395-4ce8-99c7-2ca4c6b41df6
+PvPUA		5.2	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
 PvPUAPatch		PvPUAPatch-5.3.1-2026-10-15T200136	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
@@ -511,7 +510,7 @@ ScoreboardFixXbox	201	0.2.1	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46
 ScreenshotModeEnhanced	10104	1.1.4	101051	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
 ScryMaster		1.0.1	101051	Scry Master	TheGreyWolf98	899e2487-496c-40d0-9a7e-dad95a1807fc
 Seamstress		1.5.0b	101049 101050	Seamstress	SugaComa	8bc4c7c2-ee0d-488d-a3b5-ecab07912f95
-SetTracker		0.2.7	101051	Set Perk Tracker	SugaComa	9e3a7462-c06e-4ee2-a7da-ac5279f979c8
+SetTracker		0.2.10a	101051	Set Perk Tracker	SugaComa	9e3a7462-c06e-4ee2-a7da-ac5279f979c8
 ShogrinUI	10106	1.1.51	101045 101046	ShogrinUI	sshogrin	8e6dc008-7b2f-4d55-8a1b-3ee825b1de0f
 ShouldIUlt		9	101050	buffybeta	YFNatey	086be98f-893e-4cea-a222-aad748e474c9
 ShowAPIVersion		3.0.0	101049	ShowApiVersion	FIG_BOT	cf379dee-3395-4310-ab3f-433677ac7201
@@ -608,7 +607,7 @@ ValknarrUIE	43	1.0.8	101049 101050	Valknarr UI	valknarr	2d43e3ed-9017-4e93-95f0-
 VaultTracker	2	VT 1.3.0	101046	Vixy's Testing Grounds	Vixen_Hunny	ac8a5471-5c72-448f-86f0-1d33a74c88ae
 VCAP2	2204  ; Test build 5 - do not publish as stable	2.2.5	101049 101050	VCAP2	SugaComa	8c18ca98-8921-4bf3-b455-1d63b2f761e3
 VersesAndVisions		2025.05.28	101046	VersesAndVisions	Masteroshi430	e4f41108-4101-452e-8607-b469bc8eb4b0
-VerticalBuffsDebuffs		t	101048 101049 101050 101051	tttt	user562x	c2140536-34e2-43be-a2cf-d3e5ddc8c4ea
+VerticalBuffsDebuffs		1.7	101048 101049 101050 101051	VerticalBuffsDebuffs	user562x	73d5304a-565a-4a9d-bd38-aa245219f955
 VestigeMirror		v1.0.1	101049	Vestige Mirror	Wrynch	76fce7e2-297a-472f-bdf6-3e80756e7e8c
 VotansFisherman		1.16.3c	101048 101049	Votan's Fisherman	votan73	033f7a4a-8918-4753-be5b-2874afa50230
 VotansMiniMap		2.2.2	101049 101050	Votan's Minimap	votan73	afe5bbbc-a2e0-48de-965a-29eff222393f
@@ -621,7 +620,7 @@ WeavingMetronome	101059	1.9.9	101051	Weaving Metronome	FiNk3F13	c1b4f7e7-7899-4d
 WhatsMissing	15107	1.51.07	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
 WhatsMyBuildAgain	005005004	5.0.5	101050	What's My Build Again	Eldibabalo	61ffae27-7976-4d4b-a9fa-0fafb387434a
 WheeWheel		0.0.5	101050 101051	Wheewheel	murphyx	6b001219-cfeb-4b80-b418-e3c7da481d73
-WhereIsIt		1.3	101048 101049 101050 101051	Where Is It?	user562x	45d919f9-f85b-4930-9348-94fe2e245f98
+WhereIsIt		1.4	101048 101049 101050 101051	Where Is It?	user562x	45d919f9-f85b-4930-9348-94fe2e245f98
 WhispersBeyond		1.0.6	101046	Whispers Beyond	Volcano_Beetle	5aa01879-0f7a-42e6-a52d-979261f97cf1
 WizardsWardrobe	402	0.4.2	101048	Wizard's Wardrobe	STUDLETON	645213de-645d-4170-a4d0-0ee977090114
 WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	RagePhoenix96	f6c4019b-59cf-4a0b-8550-0e83c807df18

@@ -10,7 +10,6 @@
 assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.ConsoleSuggestedCategories = AoM.CreateConsoleValueTable([==[
-AAAConsoleUIShim	Libraries
 ALCBenchmark	Plug-Ins & Patches
 AllAP	PvP
 AltBossBar	Unit Mods
