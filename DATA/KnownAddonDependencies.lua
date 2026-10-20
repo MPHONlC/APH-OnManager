@@ -419,6 +419,7 @@ AoM.KnownAddonDependencies = {
 	["PriceTooltipGamepad"] = { "ArkadiusTradeTools", "MasterMerchant", "PriceTooltipNote", "TamrielTradeCentre", "uespLogSalesPrices" },
 	["Provinatus"] = { "DungeonChampions", "HarvensCustomMapPins", "HarvestMap", "LoreBooks", "LostTreasure", "MapPins" },
 	["PTSAssistant"] = { "LibDebugLogger" },
+	["PurgeRadar"] = { "LibAddonMenu-2.0", "LibFloatingIcons" },
 	["PvpAlerts"] = { "pChat", "tom" },
 	["QcellDreadsailReefHelper"] = { "OdySupportIcons" },
 	["QcellRockgroveHelper"] = { "OdySupportIcons" },

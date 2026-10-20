@@ -1391,6 +1391,7 @@ AoM.SuggestedCategories = {
 	["PTSAssistant"] = "Bags, Bank, Inventory",
 	["PugBlacklist"] = "Chat Mods",
 	["PullCard"] = "Raid Mods",
+	["PurgeRadar"] = "Raid Mods",
 	["PvP-erformance"] = "Character Advancement",
 	["PvpAlerts"] = "PvP",
 	["PvPMeter"] = "PvP",
