@@ -920,7 +920,7 @@ LvxJournal	20445	5.1	4596	101049 101046
 LvxJournal_PersonalNotesBackup	111	5.1	4596	101049 101046
 LWTLootTracker		1.0.0	4486	101050
 LycanMeter		2026.09.28	3839	101050
-LykeionsAwareWolf		2.1	4628	101051
+LykeionsAwareWolf		2.2	4628	101051
 LykeionsEndeavorReminder		1.0.7	3514	101045
 LykeionsFabledMarker		1.1.0	3766	101040
 LykeionsGroupBanisher		1.3	3967	101043
@@ -976,7 +976,7 @@ MountTrainingOverview	304	3.0.4	4422	101050
 Mousoboros	1	2026.08.07	4742	101050
 MrPancakesBiteSites	1	1.1	3753	101041
 MSPAINTUI	150	1.5.0	4337	101049 101050
-MuchSmarterAutoLoot	80309	8.3.9	3367	101051
+MuchSmarterAutoLoot	80310	8.3.10	3367	101051
 Mudballed		1.0.2	3218	101045
 MudcrabCounter		1.1	4383	101048
 MudcrabTracker		0.1.4	4312	101049
@@ -1411,7 +1411,7 @@ TamrielBooks		0.1 BETA	4167	101046
 TamrielCalendar	20400	2.4.0	4357	101050 101051
 TamrielProgressMap	20706	2.7.5	4799	101050 101051
 TamrielSkyDial	1	1.1	4860	101050 101051
-TamrielTomes_MapPins	62	1.2.2	4591	101050 101051
+TamrielTomes_MapPins	64	1.2.3	4591	101050 101051
 TamrielTradeCentre		4.27.281.39281	1245	101049
 TamrielTradeCentre-KR-Minion	10000	1.0.0	4505	101049
 TamrielTradeCentreBR		2.0.1	3506	101041
