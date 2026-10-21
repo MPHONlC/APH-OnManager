@@ -309,11 +309,11 @@ CloudrestMiniHelper		1.1	3015	100034
 CloudrestPortalSafe		1.0.5	3784	101046 101047
 cmpqt		1.0.2	4695	101050
 CogsAssistants	5	0.1.5	4687	101050 101051
-CollectiblesTracker	306021	3.6.2.1	2588	101051
+CollectiblesTracker	306030	3.6.3	2588	101051
 CollectiblesTrackerAllTheThings	2	2.2	4638	101051 101052
 ColorBlindMode		1.0.12	2981	101042
 ColorfulMapAreas		1.2.0	3393	101037
-CombatAlerts	206071	2.6.7.1	1855	101051
+CombatAlerts	206080	2.6.8	1855	101051
 CombatAlertsExtended		1.0.5	3439	101038 101039
 CombatAlertsZHPatch	200081	2.0.8.1	3911	101042
 CombatInsights	10202	1.2.2	3730	101046
@@ -903,7 +903,7 @@ LootSanitizer	20	0.20.0	4189	101047
 LootTrackerSolution	1	1.0.40	3810	101040
 LoreBooks	108	108	288	101050 101051
 LorebooksColoredLibrary	1	4.1	3168	101040 101041
-LoreLibrary	1000090	1.0.90	4756	101051 101050
+LoreLibrary	1000092	1.0.92	4756	101051 101050
 LorePlay	10698	1.6.98-3	2523
 LoreTooltips		1.0.1	4460	101049
 LostTreasure	34	34	561	101049

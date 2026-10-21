@@ -78,7 +78,7 @@ LibChatMenuButton	1006	1.6	3805	101042	LibChatMenuButton	LibChatMenuButton
 LibChatMessage	120	1.2.3	2382	101050	LibChatMessage	LCMsg
 LibCInteraction	10100	2.2.9	3276	101041 101042	CQuestTracker	LibCInteraction
 LibCombat	89	89	2528	101049 101050	LibCombat	LibCombat
-LibCombatAlerts	8052	0.8.5.2	4225	101051	LibCombatAlerts	LCA
+LibCombatAlerts	8060	0.8.6	4225	101051	LibCombatAlerts	LCA
 LibConsoleDialogs	10004	1.0.4.2	4106	101047 101048	LibConsoleDialogs	LibConsoleDialogs
 LibCopyWindow	4	0.0.4	2853	100035 101031	LibCopyWindow	LibCopyWindow
 LibCovetousCountess	103	1.03	3266	101049 101050	LibCovetousCountess	LibCovetousCountess
