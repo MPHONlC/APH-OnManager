@@ -352,7 +352,7 @@ LoreLibrary	01000092	1.0.92	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
-LuiExtended	7274	7.2.7.4	101051 101052	LuiExtended	Dack.Janiels	198814e6-46ba-4bb3-b368-ba1a2af67c52
+LuiExtended	7276	7.2.7.6	101051 101052	LuiExtended	Dack.Janiels	198814e6-46ba-4bb3-b368-ba1a2af67c52
 LuiMedia	7134	7.1.3.4	101051 101052	LuiMedia	Dack.Janiels	0b695623-5ffb-4700-835c-fa628fdcb1ba
 LuXhrysLibExtendedInventory	008	0.8a	101050	LibExtendedInventory	Xhrysanth	28dff940-503c-4c6c-8921-044ad6e35a86
 LuXhrysLibItemLinkPreview	001	0.1a	101050	LibItemLinkPreview	Xhrysanth	075222fe-7845-484e-a060-69ddb8d571d8
@@ -521,7 +521,7 @@ ShowEquipped	10601	1.6.3	101048 101049	Show Equips	Shienar	7d3a20ff-160a-4988-b8
 SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26b16bd23b8d
 SiegeReminder	110	2.0.31	101049 101050	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
-SimpleGroupDPS		1.3.3	101051	Testin	FiNk3F13	dda5dca2-4511-4e45-9dd2-769c7eb40feb
+SimpleGroupDPS		1.4.5	101051	Testin	FiNk3F13	dda5dca2-4511-4e45-9dd2-769c7eb40feb
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb
