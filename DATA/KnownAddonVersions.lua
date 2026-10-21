@@ -657,7 +657,7 @@ GroupBuffs	30	1.5.22	1823	101042
 GroupBuffTracker		2.8	4120	101048
 GroupDeathNotifier		2.1.0	2603	101049 101050
 GroupFinderInChat		2026.07.09	4542	101050
-GroupFinderPlus		6.7	4338	101051
+GroupFinderPlus		6.8	4338	101051
 GroupKeys	1	1.0	4580	101049
 GroupKillFeed		1.3.5	4285	101046
 GroupLog		2.2	4316	101051
