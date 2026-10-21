@@ -309,7 +309,7 @@ CloudrestMiniHelper		1.1	3015	100034
 CloudrestPortalSafe		1.0.5	3784	101046 101047
 cmpqt		1.0.2	4695	101050
 CogsAssistants	5	0.1.5	4687	101050 101051
-CollectiblesTracker	306030	3.6.3	2588	101051
+CollectiblesTracker	306040	3.6.4	2588	101051
 CollectiblesTrackerAllTheThings	2	2.2	4638	101051 101052
 ColorBlindMode		1.0.12	2981	101042
 ColorfulMapAreas		1.2.0	3393	101037
@@ -914,7 +914,7 @@ LRSA	20250401	1.2.2	3767	101040
 LSAchievTracker	2	0.1	4069	100033
 LucentCitadel		1.4.3	3879	101041 101042
 LucentCitadelHelper		0.7.0	3897	101046 101047
-LuiExtended	7275	7.2.7.5	818	101051 101052
+LuiExtended	7276	7.2.7.6	818	101051 101052
 Lumberjack		1.0.7	2792	101046
 LvxJournal	20445	5.1	4596	101049 101046
 LvxJournal_PersonalNotesBackup	111	5.1	4596	101049 101046
@@ -1036,7 +1036,7 @@ NoResearchDuplicate	1100	1.1.0	4874	101050
 NORGuildTools		5.00	4121	101051
 NoSpinContinued		1.4.1	4618	101049
 Notebook2018		5.00	1991	101050
-NoThankYou	1210	12.1.0	4903	101051
+NoThankYou	1211	12.1.1	4903	101051
 NothingWastedTracker	6	2.0	4642	101051
 NowhereKeys		1.1	4906	101051
 NowhereVaultSecretSeeker	1	1.0.2	4875	101050 101051
