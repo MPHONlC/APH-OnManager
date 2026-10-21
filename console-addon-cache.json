@@ -1243,8 +1243,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ResourceAndSkillBarCustomizer(Beta)",
-   "updatedAt": 1792313839,
-   "version": "1.27.17"
+   "updatedAt": 1792568731,
+   "version": "1.27.18"
   },
   "242aa937-0c55-4d1f-b667-0716e81eb4e7/BattleScrolls": {
    "addOnVersion": "10000",
@@ -1767,16 +1767,16 @@
   "2fe8e45f-ebf9-4507-b981-91023b441f3e/CPSlotsConsole": {
    "addOnVersion": "",
    "addonId": "2fe8e45f-ebf9-4507-b981-91023b441f3e",
-   "apiVersion": "101048",
+   "apiVersion": "101051",
    "author": "thewizadt",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 134,
+   "downloads": 137,
    "folder": "CPSlotsConsole",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "CPSlotsConsole",
-   "updatedAt": 1772749196,
-   "version": "1.2"
+   "updatedAt": 1792560250,
+   "version": "1.3"
   },
   "30102403-93a7-4fd2-a08a-4b249f03e4d4/OhNoMyMenu": {
    "addOnVersion": "",
@@ -2987,14 +2987,14 @@
    "addonId": "5079d9ce-7098-43fd-8b50-42b172512fd7",
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
-   "dependsOn": "LibConsoleMenu AAAConsoleUIShim",
-   "downloads": 152,
+   "dependsOn": "",
+   "downloads": 277,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast",
    "title": "PvP UA (Patch)",
-   "updatedAt": 1792119705,
-   "version": "PvPUAPatch-5.3.1-2026-10-15T200136"
+   "updatedAt": 1792562633,
+   "version": "PvPUAPatch-5.4.1-2026-10-20T230344"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9/Update47Tweaker": {
    "addOnVersion": "",
@@ -3016,13 +3016,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 141,
+   "downloads": 145,
    "folder": "PBsConsoleHudCustomizer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ResourceAndSkillBarCustomizer",
-   "updatedAt": 1792313801,
-   "version": "1.27.17"
+   "updatedAt": 1792568776,
+   "version": "1.27.18"
   },
   "529cf85a-e597-4945-86c4-654d2a32a7bc/LycanMeter": {
    "addOnVersion": "",
@@ -4217,16 +4217,16 @@
   "751c7402-5cb7-4469-afc8-469584372b40/ConsoleCPQoL": {
    "addOnVersion": "",
    "addonId": "751c7402-5cb7-4469-afc8-469584372b40",
-   "apiVersion": "101041",
+   "apiVersion": "101051",
    "author": "thewizadt",
    "dependsOn": "",
-   "downloads": 6,
+   "downloads": 11,
    "folder": "ConsoleCPQoL",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "ConsoleCPQoL",
-   "updatedAt": 1789065655,
-   "version": "100"
+   "updatedAt": 1792560108,
+   "version": "1.01"
   },
   "754151c2-90b5-4c5f-ba25-ab2b38c18284/GamepadMiniChatTabs": {
    "addOnVersion": "106",
@@ -4243,18 +4243,18 @@
    "version": "1.0.6"
   },
   "756d3118-70ee-4ed7-a49e-5217da36e5fe/LibCombatAlerts": {
-   "addOnVersion": "8052",
+   "addOnVersion": "8060",
    "addonId": "756d3118-70ee-4ed7-a49e-5217da36e5fe",
    "apiVersion": "101051",
    "author": "code65536",
    "dependsOn": "",
-   "downloads": 598336,
+   "downloads": 622413,
    "folder": "LibCombatAlerts",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibCombatAlerts",
-   "updatedAt": 1791259189,
-   "version": "0.8.5.2"
+   "updatedAt": 1792573040,
+   "version": "0.8.6"
   },
   "75746296-2f24-4d95-8fb5-1954d00fc1d6/DungeonTrialTracker": {
    "addOnVersion": "",
@@ -4763,16 +4763,16 @@
   "863227c7-d9fe-4803-b842-d9fb1aa79f16/ChampionXPBar": {
    "addOnVersion": "",
    "addonId": "863227c7-d9fe-4803-b842-d9fb1aa79f16",
-   "apiVersion": "101047",
+   "apiVersion": "101051",
    "author": "thewizadt",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 3879,
+   "downloads": 4170,
    "folder": "ChampionXPBar",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "ChampionXPBar",
-   "updatedAt": 1772749270,
-   "version": "1.7"
+   "updatedAt": 1792560374,
+   "version": "1.8"
   },
   "869cd684-8dba-4750-bdf3-9b3be03ecdc6/IFG": {
    "addOnVersion": "",
@@ -5571,6 +5571,20 @@
    "title": "CollectablesTesting",
    "updatedAt": 1756834240,
    "version": "1.0.8"
+  },
+  "9cf7a466-7ad1-4e05-b1d9-093450347229/PBsCompass": {
+   "addOnVersion": "100",
+   "addonId": "9cf7a466-7ad1-4e05-b1d9-093450347229",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "PBsCompass",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's Compass for AD Stalkers",
+   "updatedAt": 1792567532,
+   "version": "1.0.0"
   },
   "9d131435-84c4-4c6d-9d73-5e2ec6fa61b7/CrowdednESO": {
    "addOnVersion": "",
@@ -7043,18 +7057,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000091",
+   "addOnVersion": "01000092",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 13250,
+   "downloads": 13490,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792468813,
-   "version": "1.0.91"
+   "updatedAt": 1792555213,
+   "version": "1.0.92"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8935,16 +8949,16 @@
   "f7a31693-2690-4ce0-973f-0af5e5ce92f8/MasterThief": {
    "addOnVersion": "",
    "addonId": "f7a31693-2690-4ce0-973f-0af5e5ce92f8",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "thewizadt",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 128,
+   "downloads": 145,
    "folder": "MasterThief",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "MasterThief",
-   "updatedAt": 1792011089,
-   "version": "1.5"
+   "updatedAt": 1792560189,
+   "version": "1.6"
   },
   "f7fc3e7c-b17d-47bd-915b-40c09291efb0/LibHistoire": {
    "addOnVersion": "1105",
@@ -9019,16 +9033,16 @@
   "fa5da270-ccfe-454b-ba19-4599992e272a/GearTracker": {
    "addOnVersion": "204",
    "addonId": "fa5da270-ccfe-454b-ba19-4599992e272a",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "thewizadt",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 8673,
+   "downloads": 9426,
    "folder": "GearTracker",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "GearTracker",
-   "updatedAt": 1788414088,
-   "version": "1.07"
+   "updatedAt": 1792566330,
+   "version": "1.10"
   },
   "fb88de81-c67e-4170-b8d8-39ac322f0664/MoveBuffDebuff": {
    "addOnVersion": "",
@@ -9157,18 +9171,18 @@
    "version": "1.2.51"
   },
   "fe065445-3217-4a76-8932-23a0a1c9c16c/CombatAlerts": {
-   "addOnVersion": "206070",
+   "addOnVersion": "206080",
    "addonId": "fe065445-3217-4a76-8932-23a0a1c9c16c",
    "apiVersion": "101051",
    "author": "code65536",
-   "dependsOn": "LibCombatAlerts>=8050",
-   "downloads": 383710,
+   "dependsOn": "LibCombatAlerts>=8060",
+   "downloads": 395152,
    "folder": "CombatAlerts",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Code's Combat Alerts",
-   "updatedAt": 1790744346,
-   "version": "2.6.7"
+   "updatedAt": 1792573129,
+   "version": "2.6.8"
   },
   "fe11caef-4426-405c-bb46-3c3ca893703b/LibMapPins-1.0": {
    "addOnVersion": "10047",
@@ -9879,7 +9893,7 @@
    "folders": [
     "PBsConsoleHudCustomizer"
    ],
-   "version": "1.27.17"
+   "version": "1.27.18"
   },
   "242aa937-0c55-4d1f-b667-0716e81eb4e7": {
    "folders": [
@@ -10113,7 +10127,7 @@
    "folders": [
     "CPSlotsConsole"
    ],
-   "version": "1.2"
+   "version": "1.3"
   },
   "30102403-93a7-4fd2-a08a-4b249f03e4d4": {
    "folders": [
@@ -10636,7 +10650,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.3.1-2026-10-15T200136"
+   "version": "PvPUAPatch-5.4.1-2026-10-20T230344"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9": {
    "folders": [
@@ -10648,7 +10662,7 @@
    "folders": [
     "PBsConsoleHudCustomizer"
    ],
-   "version": "1.27.17"
+   "version": "1.27.18"
   },
   "52520d7f-b02f-4dd5-a337-d24e924354c9": {
    "folders": [],
@@ -11177,7 +11191,7 @@
    "folders": [
     "ConsoleCPQoL"
    ],
-   "version": "100"
+   "version": "1.01"
   },
   "754151c2-90b5-4c5f-ba25-ab2b38c18284": {
    "folders": [
@@ -11189,7 +11203,7 @@
    "folders": [
     "LibCombatAlerts"
    ],
-   "version": "0.8.5.2"
+   "version": "0.8.6"
   },
   "75746296-2f24-4d95-8fb5-1954d00fc1d6": {
    "folders": [
@@ -11425,7 +11439,7 @@
    "folders": [
     "ChampionXPBar"
    ],
-   "version": "1.7"
+   "version": "1.8"
   },
   "869cd684-8dba-4750-bdf3-9b3be03ecdc6": {
    "folders": [
@@ -11786,6 +11800,12 @@
     "CollectablesTesting"
    ],
    "version": "1.0.8"
+  },
+  "9cf7a466-7ad1-4e05-b1d9-093450347229": {
+   "folders": [
+    "PBsCompass"
+   ],
+   "version": "1.0.0"
   },
   "9d131435-84c4-4c6d-9d73-5e2ec6fa61b7": {
    "folders": [
@@ -12458,7 +12478,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.91"
+   "version": "1.0.92"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13325,7 +13345,7 @@
    "folders": [
     "MasterThief"
    ],
-   "version": "1.5"
+   "version": "1.6"
   },
   "f7fc3e7c-b17d-47bd-915b-40c09291efb0": {
    "folders": [
@@ -13361,7 +13381,7 @@
    "folders": [
     "GearTracker"
    ],
-   "version": "1.07"
+   "version": "1.10"
   },
   "fb88de81-c67e-4170-b8d8-39ac322f0664": {
    "folders": [
@@ -13426,7 +13446,7 @@
    "folders": [
     "CombatAlerts"
    ],
-   "version": "2.6.7"
+   "version": "2.6.8"
   },
   "fe11caef-4426-405c-bb46-3c3ca893703b": {
    "folders": [

@@ -110,7 +110,7 @@ CBStampOfManufacture	1	1.2	101050	CB's stamp of manufacture	dicen9	4e562dc4-090e
 cChat	2	2.2	101050	cChat	svammy	93511248-c8d1-4b19-9167-08bbeb5d10ac
 CCSentinel	1	2.1 Stable Revised	101046	CCSentinel	Synkronist	070110ba-7a49-4a58-8a9a-a164977f2835
 CCTracker	010006	3.1 Stable	101046	CCTracker	Synkronist	154706f1-4dcc-478b-a08e-42bd6f7caeff
-ChampionXPBar		1.7	101047	ChampionXPBar	thewizadt	863227c7-d9fe-4803-b842-d9fb1aa79f16
+ChampionXPBar		1.8	101051	ChampionXPBar	thewizadt	863227c7-d9fe-4803-b842-d9fb1aa79f16
 CharacterBoundItemHider	26101801	2026.10.18.01.41	101051 101052	Character Bound Item Hider	APH0NlC	49e5c9da-dc0d-4bf5-b60c-6e6e53784107
 ChatBeGone	10143	1.1.4.3	101050 101049 101048	Chat Be Gone	xPricee	85e2f419-414a-48a9-ad3b-4b713c098ca2
 ChatKeeper	12	1.0.1	101050 101051	Chat keeper	TheGreyWolf98	47608f50-4be4-46b1-833f-575274a7dbf2
@@ -122,7 +122,7 @@ CleanLeadsUI		1.0.0	101040	CleanLeadsUI	akbosser	2150f7ed-d4e8-426c-b6e0-2df807f
 ClearSight		1.0.5a	101050	ClearSight	SugaComa	c720ddc7-a982-4027-ac83-204540d2b013
 CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f0c-9c9c-48e1a355c970
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
-CombatAlerts	206070	2.6.7	101051	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
+CombatAlerts	206080	2.6.8	101051	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
 CombatRecap	8	1.0.1	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
@@ -131,13 +131,13 @@ CompanionHelper		0.0.4a	101048	Companion Helper	Scribe_Rob	ac31de38-34d3-4d5d-b0
 CompanionPerkTracker		1	101042	CompanionPerkTracker	thewizadt	2ba17e7a-2f45-4f82-a82a-681663f5063e
 CompanionRapport	221	3.0.0	101050	Companion Rapport	ParanoidGaming	1d8faf08-ce78-4d71-8e33-81d704e62fc5
 ConsistentColours		0.0.2a	101048	Consistent Colours	Scribe_Rob	b0d2b98f-5e22-4809-a765-0398f6344350
-ConsoleCPQoL		100	101041	ConsoleCPQoL	thewizadt	751c7402-5cb7-4469-afc8-469584372b40
+ConsoleCPQoL		1.01	101051	ConsoleCPQoL	thewizadt	751c7402-5cb7-4469-afc8-469584372b40
 ConsoleHideUI	100000	1.0.0	101049	Console Hide UI	code65536	89f44de6-a710-4680-8553-b1fc04735bbd
 ConsoleMetrics		CM 5.0.0	101051	Console Metrics	Vixen_Hunny	1e7d3c7d-1680-4f93-b82c-8c4601d3b449
 ContainerHighlighter	651	14.12.651	101048	Adventures toolkit (Dev)	Tekatsu	e42700aa-3021-495e-9ff4-9e83377c9f99
 ContainerVisitHide	10000	1.0	101051 101050	Usable Containers	dicen9	9237369e-344f-4e5c-8966-b0f04b0be2c9
 CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker	clubwratt	4700c5de-fb02-411e-b563-1f326352b4ed
-CPSlotsConsole		1.2	101048	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
+CPSlotsConsole		1.3	101051	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
 CPVeterancy		CPVeterancy-0.0.2-2026-07-30T204833	101050	CP Veterancy	clubwratt	7f8752f5-11f4-4e26-a26b-fc0ee813d8e1
 CraftMaster		1.0.11	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
 CraftMaterialAssistant		0.0.16	101051	CraftMaterialAssistant (Beta)	lesse83	96d1c172-661c-4739-960f-fcf660401298
@@ -217,7 +217,7 @@ GamepadMiniChatTabs	106	1.0.6	101051 101052	Gamepad Mini Chat Tabs	Dack.Janiels	
 GamepadStayMounted	10101	1.1.1	101045 101046	Stay Mounted	SirNightstorm	38c45fe7-8274-43a2-9eaa-570253d23fdb
 GamepadUITweaks	107	1.0.7	101049	Gamepad UI Tweaks	YeOldeDragon	3a49967e-c0fb-4b54-b2f0-f681b2a23b7d
 GCDMonitor	20001	2.01	101049 101050	Global Cooldown Monitor Revised	CaffeinatedMayhem	2fd5ce0c-10fd-49de-9d22-2de4052785b3
-GearTracker	204	1.07	101050	GearTracker	thewizadt	fa5da270-ccfe-454b-ba19-4599992e272a
+GearTracker	204	1.10	101051	GearTracker	thewizadt	fa5da270-ccfe-454b-ba19-4599992e272a
 GildedUI		0.2.46	101050 101051	Gilded UI	Fluazinam	5dce8bc1-61a1-4273-a23e-f74372f36b40
 GoldLedger	8	1.5.1	101050	Gold Ledger	Eldibabalo	53c19565-2bb9-4872-a40f-90825e736a2f
 gorethiefTracker		1.1.3	101051	Gorethief Tracker	codeWarrior82	6077d87d-fafc-431b-9380-f25348d7b430
@@ -291,7 +291,7 @@ LibCharacterKnowledge	301020	3.1.2	101050 101051	LibCharacterKnowledge	code65536
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
 LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8b84-097b6d7ee558
 LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df04d0
-LibCombatAlerts	8052	0.8.5.2	101051	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
+LibCombatAlerts	8060	0.8.6	101051	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibCombatSkills	1	1.0.13	101049 101050	LibCombatSkills	SugaComa	4500daea-ed3f-4071-822c-24329a5831e3
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
 LibConsoleLogger	300	LibConsoleLogger-0.3.0-2026-10-05T235159	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
@@ -348,7 +348,7 @@ LiveBuffUptime		2.2.5	101051	testo	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
 Loadout	10000	1.0.0	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000091	1.0.91	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000092	1.0.92	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -370,7 +370,7 @@ MapPins		50.25	101050	Map Pins	art1ink	d9a6dba3-bff5-4696-ac94-a914acd957c2
 MapPinsTextureFix		3	101050	Map Pins Texture Fix	Gamer_sa22	d081d271-bda5-4b78-a18c-251878246156
 MARA	6	6	101050	Mara: M0R's Assorted Radial Actions	M0R	76d8e5e1-619c-48d4-b331-b3895b578dc6
 MasterBaiter	13	1.0.1	101050 101051	Master Baiter	TheGreyWolf98	fcf311fe-14ad-4eff-ae72-cee32d7b5943
-MasterThief		1.5	101050	MasterThief	thewizadt	f7a31693-2690-4ce0-973f-0af5e5ce92f8
+MasterThief		1.6	101051	MasterThief	thewizadt	f7a31693-2690-4ce0-973f-0af5e5ce92f8
 mechAcuityTracker		1.3.6	101051	Mechanical Acuity Tracker	codeWarrior82	254690df-a05a-4c44-9c95-9a898dea8d92
 Medic	185	2.2.0	101048	Medic - UI Fixes	sirinsidiator	b0c7d3d5-b3e6-4a61-b509-5d05a12c2130
 MemoryUsage	100	1.0	101045 101046	MemoryUsage	Shinni42	ebe3290d-93b5-49b9-8113-71ecf6bf6c52
@@ -429,7 +429,8 @@ PatronsLedger	100	2.2	101050	Patron's Ledger	svammy	e6627cb6-5e78-4443-86bc-4340
 PBsChatAssistant		1.30.1	101050 101051	PinkB's ChatAssistant	PinkBanther	416eb892-aa32-4a10-8d1a-7ba7cf27cedf
 PBsChatWindowCustomizer		1.3.2	101050 101051	PinkB's ChatWindowCustomizer	PinkBanther	095b24d1-d035-4472-ae1d-9da85c61cb99
 PBsClock		1.3.1	101050 101051	PinkB's Clock(Beta)	PinkBanther	61641950-b365-49c6-bb98-dff4fa7bcc01
-PBsConsoleHudCustomizer		1.27.17	101050 101051	PinkB's ResourceAndSkillBarCustomizer(Beta)	PinkBanther	23fd4e21-b28d-4af9-badd-3e009f4cb75b
+PBsCompass	100	1.0.0	101050 101051	PinkB's Compass for AD Stalkers	PinkBanther	9cf7a466-7ad1-4e05-b1d9-093450347229
+PBsConsoleHudCustomizer		1.27.18	101050 101051	PinkB's ResourceAndSkillBarCustomizer	PinkBanther	51bd8b59-40b0-4e2f-b31d-527bb63f0bfc
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
 PBsCyrodiilAlert		2.7.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
@@ -475,7 +476,7 @@ PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
 PvPUA		5.2	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
-PvPUAPatch		PvPUAPatch-5.3.1-2026-10-15T200136	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
+PvPUAPatch		PvPUAPatch-5.4.1-2026-10-20T230344	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b

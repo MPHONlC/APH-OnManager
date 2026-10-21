@@ -158,6 +158,7 @@ OneMorRockgrove	Breadcrumbs
 PacketByteExporter	LibAddonMenu-2.0
 PBsChatWindowCustomizer	LibHarvensAddonSettings
 PBsClock	LibHarvensAddonSettings
+PBsCompass	LibHarvensAddonSettings
 PBsConsoleHudCustomizer	LibHarvensAddonSettings
 PBsCraftMaterialAssistant	LibHarvensAddonSettings
 PBsCyrodiilAlert	LibHarvensAddonSettings
