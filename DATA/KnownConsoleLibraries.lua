@@ -21,6 +21,7 @@ LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8
 LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df04d0
 LibCombatAlerts	8060	0.8.6	101051	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
+LibConsoleLogger	300	LibConsoleLogger-0.3.0-2026-10-05T235159	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea

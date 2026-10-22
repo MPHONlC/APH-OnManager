@@ -59,6 +59,7 @@ darkConvergenceTracker	LibNotify
 DeadMarker2	LibAddonMenu-2.0	LibAddonMenu2	LibStub
 DeadMarker_Holodeck	LibAddonMenu-2.0	LibAddonMenu2	LibStub
 Destinations	DebugLogViewer	LibDebugLogger
+DevSandbox3	LibConsoleLogger	LibHarvensAddonSettings
 DM2_ParseFightStats	LibAddonMenu-2.0	LibAddonMenu2	LibStub
 DM2SimpleDPS	LibAddonMenu-2.0	LibAddonMenu2	LibStub
 DoesThisThingGoAnyFaster	LibHarvensAddonSettings
@@ -97,6 +98,7 @@ HousingForge	LibAddonMenu-2.0
 IAHelper	LibDataShare
 InsatiableHungerBlocker	LibAddonMenu-2.0
 IsItTaunted	LibAddonMenu-2.0
+JumpToSearch	LibConsoleLogger
 KDRTracker	LibHarvensAddonSettings
 KhajiitFengShui	LuiExtended
 LazyCrown	LibGroupCombatStats	LibHarvensAddonSettings
@@ -106,6 +108,7 @@ LibAsync	LibDebugLogger	Taneth
 LibCharacterKnowledge	LibAddonMenu-2.0	LibHarvensAddonSettings
 LibCInteraction	LibDebugLogger
 LibCombat2	LibCombat	LibDebugLogger
+LibConsoleLogger	LibHarvensAddonSettings
 LibDateTime	Taneth
 LibGamepad	LibAddonMenu-2.0
 LibGroupBroadcast	Taneth
@@ -177,16 +180,20 @@ PermMemento	LibAddonMenu-2.0	LibGroupBroadcast	LibHarvensAddonSettings
 PersonalDpsTracker	LibHarvensAddonSettings
 PetHealth	LibAddonMenu-2.0	LibAddonMenuOrderListBox	LibHarvensAddonSettings	LibSlashCommander
 PinAutoResizer	LibGPS
+PreviewAnywhere	LibConsoleLogger
 PVPBuddy	LibAddonMenu-2.0
 PvPUA	LibGroupBroadcast
+PvPUAPatch	LibGroupBroadcast
 QcellDreadsailReefHelper	CombatAlerts	LibAddonMenu-2.0	M0RMarkers	OdySupportIcons
 RagsToRiches	LibHarvensAddonSettings
 RainbowAOE	LibAddonMenu-2.0
 rallyingCryTracker	LibNotify
+RideAlong	LibConsoleLogger
 riposteTracker	LibNotify
 Rolodex	LibAddonMenu-2.0
 RotationHelper	LibAddonMenu-2.0
 rushOfAgonyTracker	LibNotify
+SatchelExchange	LibConsoleLogger
 SatuveRotationTrainer	LibGamepad
 SatuveXboxUI	LibDebugLogger	LibStub
 SavedChatMessages	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
@@ -199,6 +206,8 @@ SimpleGroupDPS	BattleScrolls
 SimpleOffBalanceTracker	LibHarvensAddonSettings
 SkyShards	DebugLogViewer	LibDebugLogger
 SlayansBossTimer	LibChatMessage
+SmartTrader	LibConsoleLogger
+SnipersFriend	LibHarvensAddonSettings
 SpaulderNotifier	LibHarvensAddonSettings
 STARS	LibHarvensAddonSettings
 StonehulkDominationTracker	LibAddonMenu-2.0
