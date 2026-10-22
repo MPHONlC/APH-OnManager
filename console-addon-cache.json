@@ -1,18 +1,18 @@
 {
  "addons": {
   "008cd443-6347-421a-bfcf-ddc830e8cfef/CanCraftMasterWrit": {
-   "addOnVersion": "10100",
+   "addOnVersion": "10200",
    "addonId": "008cd443-6347-421a-bfcf-ddc830e8cfef",
    "apiVersion": "101051",
    "author": "xSuperSlayan",
    "dependsOn": "LibCharacterKnowledge>=301020 LibLazyCrafting>=4041 LibQRCode",
-   "downloads": 154091,
+   "downloads": 158031,
    "folder": "CanCraftMasterWrit",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Can Craft Master Writ",
-   "updatedAt": 1792110749,
-   "version": "1.1.0"
+   "updatedAt": 1792630182,
+   "version": "1.2.0"
   },
   "03172246-c90c-4b8b-9821-06a74a01ce96/ZoneMountSwitcher": {
    "addOnVersion": "110",
@@ -4626,13 +4626,13 @@
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "",
-   "downloads": 110,
+   "downloads": 122,
    "folder": "DoesThisThingGoAnyFaster",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20200",
    "title": "DoesThisThingGoAnyFaster",
-   "updatedAt": 1791320635,
-   "version": "0.7"
+   "updatedAt": 1792632772,
+   "version": "0.8"
   },
   "8394c641-1cb2-45f3-8b73-b6f424d6c630/TeaAndToast": {
    "addOnVersion": "",
@@ -9330,7 +9330,7 @@
    "folders": [
     "CanCraftMasterWrit"
    ],
-   "version": "1.1.0"
+   "version": "1.2.0"
   },
   "03172246-c90c-4b8b-9821-06a74a01ce96": {
    "folders": [
@@ -10265,7 +10265,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.562"
+   "version": "0.0.563"
   },
   "389fdfeb-6af9-48ad-8121-39ce405b4267": {
    "folders": [
@@ -11378,7 +11378,7 @@
    "folders": [
     "DoesThisThingGoAnyFaster"
    ],
-   "version": "0.7"
+   "version": "0.8"
   },
   "8394c641-1cb2-45f3-8b73-b6f424d6c630": {
    "folders": [
