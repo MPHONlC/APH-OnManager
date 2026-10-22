@@ -345,7 +345,7 @@ ContentHelper	2	2.2.0	3944	101041 101042
 ControllerTweaks		7	2517	101042
 Cooldowns	20501	2.5.1	4603
 CoralAerieHelper		1.0.2	3554	101040
-CorpseTracker	306	0.3.6	4941	101051
+CorpseTracker	403	0.4.3	4941	101051
 COTUGuildhall		1.12	3463	101050
 CountessTravel	4	1.1.0	2623	100030
 CourteousDungeoneer	52	0.52	4160	101046
