@@ -618,6 +618,7 @@ GamePadHelper_TooltipPrice		1.03	4253	101047
 GamePadHelper_TooltipTrait		1.03	4253	101047
 GamepadInventoryTweaks	40	0.4.0	4453	101049
 GamepadStayMounted	10100	1.1.0	3951	101045 101046
+GamepadToggle		1	4977	101048 101049
 GamepadUITweaks	107	1.0.6	4442	101049
 GammaScry		1.0.2	3991	101044
 GatherBuddy		1.3	4791	101050 101051
@@ -921,7 +922,7 @@ LvxJournal	20445	5.1	4596	101049 101046
 LvxJournal_PersonalNotesBackup	111	5.1	4596	101049 101046
 LWTLootTracker		1.0.0	4486	101050
 LycanMeter		2026.09.28	3839	101050
-LykeionsAwareWolf		2.2	4628	101051
+LykeionsAwareWolf		2.3	4628	101051
 LykeionsEndeavorReminder		1.0.7	3514	101045
 LykeionsFabledMarker		1.1.0	3766	101040
 LykeionsGroupBanisher		1.3	3967	101043

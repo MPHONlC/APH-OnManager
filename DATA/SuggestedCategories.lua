@@ -644,6 +644,7 @@ AoM.SuggestedCategories = {
 	["GamePadHelper_TooltipTrait"] = "Plug-Ins & Patches",
 	["GamepadInventoryTweaks"] = "Bags, Bank, Inventory",
 	["GamepadStayMounted"] = "Game Controller",
+	["GamepadToggle"] = "Game Controller",
 	["GamepadUITweaks"] = "Game Controller",
 	["GammaScry"] = "Utility Mods",
 	["GankProbability"] = "Libraries",
