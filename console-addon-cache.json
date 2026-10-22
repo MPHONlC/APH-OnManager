@@ -1093,18 +1093,18 @@
    "version": "1.0.0"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
-   "addOnVersion": "22700",
+   "addOnVersion": "22800",
    "addonId": "21f0cc83-5ba3-4776-ac75-a5a266fde574",
-   "apiVersion": "101050 101051",
+   "apiVersion": "101051",
    "author": "Kyzeragon",
    "dependsOn": "",
-   "downloads": 697953,
+   "downloads": 718552,
    "folder": "CrutchAlerts",
    "isLibrary": "",
    "optionalDependsOn": "OdySupportIcons LibFilteredChatPanel LibGroupBroadcast>=91 LibCustomIcons",
    "title": "CrutchAlerts",
-   "updatedAt": 1790558211,
-   "version": "2.27.0"
+   "updatedAt": 1792653170,
+   "version": "2.28.0"
   },
   "21f64968-c492-4b43-82ff-b7b1f25c7500/AltGroupFrames": {
    "addOnVersion": "30",
@@ -6824,13 +6824,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 8,
+   "downloads": 10,
    "folder": "PBsScreenshotModeShortcut",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ScreenshotModeShortcut(Beta)",
-   "updatedAt": 1792237202,
-   "version": "1.0.6"
+   "updatedAt": 1792650275,
+   "version": "1.1.1"
   },
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e/TrueDebuffsBars": {
    "addOnVersion": "",
@@ -7057,18 +7057,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000092",
+   "addOnVersion": "01000093",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 13490,
+   "downloads": 13762,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792555213,
-   "version": "1.0.92"
+   "updatedAt": 1792641614,
+   "version": "1.0.93"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8672,13 +8672,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 27,
+   "downloads": 35,
    "folder": "PBsScreenshotModeShortcut",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ScreenshotModeShortcut",
-   "updatedAt": 1792237239,
-   "version": "1.0.6"
+   "updatedAt": 1792650238,
+   "version": "1.1.1"
   },
   "f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d/MyROCooldownBar": {
    "addOnVersion": "",
@@ -9832,7 +9832,7 @@
    "folders": [
     "CrutchAlerts"
    ],
-   "version": "2.27.0"
+   "version": "2.28.0"
   },
   "21f64968-c492-4b43-82ff-b7b1f25c7500": {
    "folders": [
@@ -12368,7 +12368,7 @@
    "folders": [
     "PBsScreenshotModeShortcut"
    ],
-   "version": "1.0.6"
+   "version": "1.1.1"
   },
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e": {
    "folders": [
@@ -12478,7 +12478,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.92"
+   "version": "1.0.93"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -12936,7 +12936,7 @@
   },
   "e17d8325-5ee4-4349-bae0-f777d0d9633b": {
    "folders": [],
-   "version": "1.2.0"
+   "version": "1.2.1"
   },
   "e1b107d5-082e-4ed1-9cfc-81b9a42e0528": {
    "folders": [
@@ -13221,7 +13221,7 @@
    "folders": [
     "PBsScreenshotModeShortcut"
    ],
-   "version": "1.0.6"
+   "version": "1.1.1"
   },
   "f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d": {
    "folders": [
