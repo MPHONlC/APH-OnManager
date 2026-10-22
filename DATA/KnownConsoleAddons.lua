@@ -114,7 +114,6 @@ ChampionXPBar		1.8	101051	ChampionXPBar	thewizadt	863227c7-d9fe-4803-b842-d9fb1a
 CharacterBoundItemHider	26101801	2026.10.18.01.41	101051 101052	Character Bound Item Hider	APH0NlC	49e5c9da-dc0d-4bf5-b60c-6e6e53784107
 ChatBeGone	10143	1.1.4.3	101050 101049 101048	Chat Be Gone	xPricee	85e2f419-414a-48a9-ad3b-4b713c098ca2
 ChatKeeper	12	1.0.1	101050 101051	Chat keeper	TheGreyWolf98	47608f50-4be4-46b1-833f-575274a7dbf2
-ChatLogPreserver		ChatLogPreserver-0.0.2-2026-07-26T220304	101048	Chat Log Preserver	clubwratt	cebfe41b-3168-432c-a3cf-795bbe56e54e
 ChatPalette	2	1.0.0	101050 101051	Chat Palette	TheGreyWolf98	3ecd8aa0-ce2c-4b41-b059-214dad8bac4f
 ChatSkipper	100	1.0.1	101048 101049	Chat Skipper	mYoda01	5e1a067b-7af6-4752-bbb0-3de588e8587e
 CircularMinimap		2.0.1	101048 101049	Circular Votan's Mini Map	votan73	f5b8ee78-0ef3-4ee5-803c-79785f34173d
@@ -138,7 +137,6 @@ ContainerHighlighter	651	14.12.651	101048	Adventures toolkit (Dev)	Tekatsu	e4270
 ContainerVisitHide	10000	1.0	101051 101050	Usable Containers	dicen9	9237369e-344f-4e5c-8966-b0f04b0be2c9
 CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker	clubwratt	4700c5de-fb02-411e-b563-1f326352b4ed
 CPSlotsConsole		1.3	101051	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
-CPVeterancy		CPVeterancy-0.0.2-2026-07-30T204833	101050	CP Veterancy	clubwratt	7f8752f5-11f4-4e26-a26b-fc0ee813d8e1
 CraftMaster		1.0.11	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
 CraftMaterialAssistant		0.0.16	101051	CraftMaterialAssistant (Beta)	lesse83	96d1c172-661c-4739-960f-fcf660401298
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
@@ -157,7 +155,6 @@ DeadMarker2	10203	1.2.3	101048 101047	DeadMarker2	Fredgu3	6f38e877-6d9e-464c-a1c
 DeadMarker_Holodeck	58	0.0.58	101048 101047	DeadMarker Holodeck	Fredgu3	87237de2-d657-4844-8498-ed9136ff45cc
 DeskUI	6	0.6.0	101050 101051	Xbox-PCUI	ItsCraniBaby1	8e0c89af-87a5-4154-b9cd-1d1e5ed943a5
 Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b-bd58-5dcec8942b9d
-DevSandbox3	41902	DevSandbox3-4.19.2-2026-10-17T150333	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
 DM2_ParseFightStats	31803	3.18.3	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
@@ -234,8 +231,7 @@ GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9
 GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
-GuildMarketScannerDev	115	v0.9.15	101050	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
-GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
+GuildMarketScannerDev	111	v0.9.16	101050	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
 GuildStoreTimeSort		1.5.7	101050 101051	Guild Store Time Sort	murphyx	a3a0c6d0-3d0a-4e8c-a79a-1e4d3ca82d10
@@ -267,7 +263,6 @@ IsItTaunted		1.9.10	101046	IsItTaunted	RipleyZepher	6b4f359b-e17e-46f6-b2c9-9a1e
 ItalianScrollsOnline		1.75	101046	ItalianScrollsOnline	dusty82	5d612b95-1149-48f4-b359-2aaee406bd86
 ItemHound	10	0.8.1	101050 101051	ItemHound	TheGreyWolf98	70b691c1-ae82-42c5-ad2d-4dad6bd53b36
 ItemStackSplitter		1.0.1	101050	Item Stack Splitter	Eldibabalo	fd260c09-574e-4494-9d13-dad835b05662
-JumpToSearch	201	JumpToSearch-0.2.1-2026-10-08T192243	101050	Jump to Search	clubwratt	65eefa37-d12c-4876-bdb9-aa547f7a070a
 KDRTracker		1	101050 101051	DaveeKDR	DaveeMafiaa	84fad8c0-9712-446a-9fff-e8bf44ad6d40
 KhajiitFengShui	137	1.3.7	101050 101051	Khajiit Feng Shui	Dack.Janiels	cae51d07-5b11-4feb-ab79-11e17ca47dca
 KhajiitVoice		4.2	101049	Speak Like Khajiit	YFNatey	8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2
@@ -286,7 +281,7 @@ LibAbilityLogger	3.0.0	LAB 7.0.0	101046	LibAbilityLogger	Vixen_Hunny	e4b71317-92
 LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9c-4b14-aa0e-d841090d128c
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
 LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
-LibAsync	30106	LibAsync-3.1.6-2026-10-04T142628	101049 101050	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
+LibAsync	30105	3.1.5	101049 101050	LibAsync	votan73	72c475de-1f9e-433f-8047-57f7fb4ff786
 LibCharacterKnowledge	301020	3.1.2	101050 101051	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
 LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8b84-097b6d7ee558
@@ -294,7 +289,6 @@ LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df0
 LibCombatAlerts	8060	0.8.6	101051	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibCombatSkills	1	1.0.13	101049 101050	LibCombatSkills	SugaComa	4500daea-ed3f-4071-822c-24329a5831e3
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
-LibConsoleLogger	300	LibConsoleLogger-0.3.0-2026-10-05T235159	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea
@@ -352,7 +346,7 @@ LoreLibrary	01000093	1.0.93	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
-LuiExtended	7276	7.2.7.6	101051 101052	LuiExtended	Dack.Janiels	198814e6-46ba-4bb3-b368-ba1a2af67c52
+LuiExtended	7277	7.2.7.7	101051 101052	LuiExtended	Dack.Janiels	198814e6-46ba-4bb3-b368-ba1a2af67c52
 LuiMedia	7134	7.1.3.4	101051 101052	LuiMedia	Dack.Janiels	0b695623-5ffb-4700-835c-fa628fdcb1ba
 LuXhrysLibExtendedInventory	008	0.8a	101050	LibExtendedInventory	Xhrysanth	28dff940-503c-4c6c-8921-044ad6e35a86
 LuXhrysLibItemLinkPreview	001	0.1a	101050	LibItemLinkPreview	Xhrysanth	075222fe-7845-484e-a060-69ddb8d571d8
@@ -446,7 +440,7 @@ PBsMiniMap		2.2.17	101050 101051	PinkB's MiniMap(Beta)	PinkBanther	d0219382-bec1
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsScreenshotModeShortcut		1.1.1	101050 101051	PinkB's ScreenshotModeShortcut(Beta)	PinkBanther	c3b0724d-c60e-44de-9244-7cdc9f20c868
-PBsTargetPlayer		1.6.0	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
+PBsTargetPlayer		1.6.1	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
 PBsTetris	11600	1.16.0	101050 101051	PinkB's Tamriel de Tetris	PinkBanther	e8b21bff-aae1-4a24-b91b-8c49cd6acfd6
 PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanther	a213bf5d-d4a4-4bfb-bd6b-e10a127ea56e
 PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
@@ -463,7 +457,6 @@ PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-472
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
-PreviewAnywhere		PreviewAnywhere-0.1.1-2026-09-23T053413	101050	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 PriorityBunny	400	0.4.0	101050	Priority Bunny	Jokergrrrrl	fa4ee6fb-c601-4163-998f-801078e1eac0
 ProcReminder	1.0.0	1.0.2	101049	Proc Reminder	Vixen_Hunny	541ab871-9386-4990-a3c7-32563ded9243
 ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-43cd-84b3-63ed659b9248
@@ -476,7 +469,6 @@ PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
 PvPUA		5.2	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
-PvPUAPatch		PvPUAPatch-5.4.1-2026-10-20T230344	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
@@ -493,7 +485,6 @@ ResearchTracker		1.2.1	101050	Research Tracker	Eldibabalo	54cf96b5-2fa3-481c-8c8
 ReticleRainbow		1.3	101049	Reticle Rainbow	FiNk3F13	30b30033-06cc-48b7-a0c6-7be8d27487cf
 RezAlert		1.0.13	101044	RezAlert	RipleyZepher	9d977c03-cdc6-45ef-99da-5dcd825ccfa1
 RezBot		1.9.5	101046 101047	RezBot	goron_spice	91330ebe-27c8-46b9-ad71-42991b96789d
-RideAlong		RideAlong-0.1.0-2026-08-15T123050	101050	Ride Along	clubwratt	e6c08a97-e33e-4716-83c6-a46ad3c43fbb
 riposteTracker		1.0.6	101051	Riposte Tracker	codeWarrior82	491c3ac5-72b5-4579-80fa-36d9e97a7f5b
 RoaringOpportunist	020500	2.5.0	101047 101048	RoaringOpportunist	tmbrinks	f8e59501-116b-422a-90e9-f57cf2dc7b9d
 RockGroveAlkoshTimer		1.0.3	101048	RockGrove Alkosh Timer	Phamo1000	d8edb913-8af4-455a-939f-5bbd598eeff7
@@ -502,7 +493,6 @@ Rolodex	1	1.0	101050	Rolodex	dicen9	fba4016e-4c55-48b5-9f38-f169d2190581
 Roomba		2026.08.15	101050 101051	Roomba	Masteroshi430	80e548e3-0d72-47fa-9ef8-f6966b42ee75
 RotationHelper		1.0.52	101046 101047	Rotation Helper	RipleyZepher	183094f4-334c-48ea-abb9-14add7fbbbd7
 rushOfAgonyTracker		1.0.9	101051	Rush of Agony Tracker	codeWarrior82	03e3b721-0ccb-4e27-9f1c-ae0e6bf96be5
-SatchelExchange		SatchelExchange-0.9.3-2026-07-26T194551	101050	Satchel Exchange	clubwratt	979371c6-2e58-4b2f-84af-cc9276c86b94
 SatiatedHunger	1	1.0.0	101050	Satiated Hunger	Kyzeragon	fba77669-8221-43e5-b44d-31ced9546f8b
 SatuveRotationTrainer		1.2.6	101050	Rotation Trainer v1	satuve	dc853c4f-c4b9-4948-9774-c0093a25d836
 SatuveXboxUI		2.0.4	101050 101051	Bandit Xbox UI	satuve	63900961-28c3-49d2-8576-476e5906e80b
@@ -528,8 +518,6 @@ SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-
 SkyShards	1059	10.59	101045 101046	Skyshards	Sharlikran	e0335eb7-8445-4bde-9db4-1a4ace8ee8b1
 SlayansBossTimer	2	1.0.0	101051	Slayan's Boss Timer	xSuperSlayan	e77534ef-ba1c-4ce2-becb-c7c534a86ebe
 SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d04c0cbee9c4
-SmartTrader		SmartTrader-2.1.91-2026-07-28T215530	101043	Smart Trader	clubwratt	d9742ac5-f315-4712-8383-b1a170801ba9
-SnipersFriend		SnipersFriend-0.8.0-2026-10-03T042857	101049 101050	Snipers Friend	clubwratt	18d399f0-14ef-40a3-8f08-1aaa8cd0a5de
 SNR		v1.0.9	101049 101050	Smart Node Radar	rockintrumpet	923318b4-3671-40d4-93f3-49d2f9203093
 SpaulderNotifier	10302	1.3.4	101048 101049	Spaulder Notifier	Shienar	13e3ca65-dc26-4831-a1f1-e950fd465df9
 SPFLib		1.0.0	101048 101049 101050	SPFLib	Springpeace2575	9d474e3f-7d1b-46fc-9b81-3949ad0f70e5

@@ -97,7 +97,6 @@ LibCInteraction	Libraries
 LibCombat2	Libraries
 LibCombatAlerts	Libraries
 LibConsoleDialogs	Libraries
-LibConsoleLogger	Libraries
 LibConsoleMenu	Libraries
 LibCovetousCountess	Libraries
 LibCustomMenu	Libraries

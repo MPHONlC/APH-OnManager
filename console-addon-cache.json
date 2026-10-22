@@ -840,20 +840,6 @@
    "updatedAt": 1773709224,
    "version": "1.0.52"
   },
-  "18d399f0-14ef-40a3-8f08-1aaa8cd0a5de/SnipersFriend": {
-   "addOnVersion": "",
-   "addonId": "18d399f0-14ef-40a3-8f08-1aaa8cd0a5de",
-   "apiVersion": "101049 101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 17,
-   "folder": "SnipersFriend",
-   "isLibrary": "",
-   "optionalDependsOn": "LibHarvensAddonSettings",
-   "title": "Snipers Friend",
-   "updatedAt": 1791026945,
-   "version": "SnipersFriend-0.8.0-2026-10-03T042857"
-  },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773/YeOldeInfos": {
    "addOnVersion": "202",
    "addonId": "1987390f-3dbd-407c-996d-aa3ef3ad9773",
@@ -869,18 +855,18 @@
    "version": "2.0.2"
   },
   "198814e6-46ba-4bb3-b368-ba1a2af67c52/LuiExtended": {
-   "addOnVersion": "7276",
+   "addOnVersion": "7277",
    "addonId": "198814e6-46ba-4bb3-b368-ba1a2af67c52",
    "apiVersion": "101051 101052",
    "author": "Dack.Janiels",
    "dependsOn": "LuiMedia>=7134 LuiData>=7231",
-   "downloads": 24736,
+   "downloads": 24917,
    "folder": "LuiExtended",
    "isLibrary": "",
    "optionalDependsOn": "LootLog>=408040 Taneth LibCombat LibCombat2 LibSlashCommander HarvestMap LibMapPins-1.0 Pre101046UI",
    "title": "LuiExtended",
-   "updatedAt": 1792610949,
-   "version": "7.2.7.6"
+   "updatedAt": 1792693206,
+   "version": "7.2.7.7"
   },
   "1a29fcf8-992f-4334-bf0a-088cc4ac73a7/GamepadInventoryTweaks": {
    "addOnVersion": "041",
@@ -1574,13 +1560,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 10,
+   "downloads": 12,
    "folder": "PBsTargetPlayer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's TargetPlayer for AD Stalkers",
-   "updatedAt": 1792550168,
-   "version": "1.6.0"
+   "updatedAt": 1792694555,
+   "version": "1.6.1"
   },
   "2c07f374-57bc-4f20-814f-d40e4d93285b/MyMapPos": {
    "addOnVersion": "",
@@ -2170,20 +2156,6 @@
    "updatedAt": 1784916603,
    "version": "1.2.0"
   },
-  "3a4024fc-1465-4e5e-a96f-6d6b6a781497/DevSandbox3": {
-   "addOnVersion": "41902",
-   "addonId": "3a4024fc-1465-4e5e-a96f-6d6b6a781497",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 77,
-   "folder": "DevSandbox3",
-   "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger LibHarvensAddonSettings",
-   "title": "dev sandbox 3",
-   "updatedAt": 1792274623,
-   "version": "DevSandbox3-4.19.2-2026-10-17T150333"
-  },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d/GamepadUITweaks": {
    "addOnVersion": "107",
    "addonId": "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d",
@@ -2407,62 +2379,6 @@
    "title": "CanThisBeCraftedAtHome",
    "updatedAt": 1748531112,
    "version": "2025.05.29"
-  },
-  "436f6695-4798-423f-b276-d8c46cbd938e/BetterCharacterOverview": {
-   "addOnVersion": "11000",
-   "addonId": "436f6695-4798-423f-b276-d8c46cbd938e",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 226,
-   "folder": "BetterCharacterOverview",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "dev sandbox",
-   "updatedAt": 1791091356,
-   "version": "BetterCharacterOverview-1.10.0-2026-10-03T222228"
-  },
-  "436f6695-4798-423f-b276-d8c46cbd938e/LibAsync": {
-   "addOnVersion": "30106",
-   "addonId": "436f6695-4798-423f-b276-d8c46cbd938e",
-   "apiVersion": "101049 101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 229,
-   "folder": "LibAsync",
-   "isLibrary": "true",
-   "optionalDependsOn": "LibDebugLogger",
-   "title": "dev sandbox",
-   "updatedAt": 1791149196,
-   "version": "LibAsync-3.1.6-2026-10-04T142628"
-  },
-  "436f6695-4798-423f-b276-d8c46cbd938e/PreviewAnywhere": {
-   "addOnVersion": "",
-   "addonId": "436f6695-4798-423f-b276-d8c46cbd938e",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 210,
-   "folder": "PreviewAnywhere",
-   "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger",
-   "title": "dev sandbox",
-   "updatedAt": 1790166861,
-   "version": "PreviewAnywhere-0.1.1-2026-09-23T053413"
-  },
-  "436f6695-4798-423f-b276-d8c46cbd938e/PvPUAPatch": {
-   "addOnVersion": "",
-   "addonId": "436f6695-4798-423f-b276-d8c46cbd938e",
-   "apiVersion": "101048 101049 101050 101051",
-   "author": "clubwratt",
-   "dependsOn": "LibConsoleMenu AAAConsoleUIShim",
-   "downloads": 238,
-   "folder": "PvPUAPatch",
-   "isLibrary": "",
-   "optionalDependsOn": "LibGroupBroadcast",
-   "title": "dev sandbox",
-   "updatedAt": 1792105246,
-   "version": "PvPUAPatch-5.3.0-2026-10-15T160037"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -2981,20 +2897,6 @@
    "title": "Goron Dev",
    "updatedAt": 1760336434,
    "version": "0.0.2"
-  },
-  "5079d9ce-7098-43fd-8b50-42b172512fd7/PvPUAPatch": {
-   "addOnVersion": "",
-   "addonId": "5079d9ce-7098-43fd-8b50-42b172512fd7",
-   "apiVersion": "101048 101049 101050 101051",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 277,
-   "folder": "PvPUAPatch",
-   "isLibrary": "",
-   "optionalDependsOn": "LibGroupBroadcast",
-   "title": "PvP UA (Patch)",
-   "updatedAt": 1792562633,
-   "version": "PvPUAPatch-5.4.1-2026-10-20T230344"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9/Update47Tweaker": {
    "addOnVersion": "",
@@ -3696,20 +3598,6 @@
    "updatedAt": 1792298971,
    "version": "1.0.6"
   },
-  "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
-   "addOnVersion": "201",
-   "addonId": "65eefa37-d12c-4876-bdb9-aa547f7a070a",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 4,
-   "folder": "JumpToSearch",
-   "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger",
-   "title": "Jump to Search",
-   "updatedAt": 1791512571,
-   "version": "JumpToSearch-0.2.1-2026-10-08T192243"
-  },
   "66108dc4-7941-473d-8b4a-f129da12e33c/Leo_stats_panel": {
    "addOnVersion": "",
    "addonId": "66108dc4-7941-473d-8b4a-f129da12e33c",
@@ -3989,20 +3877,6 @@
    "title": "IsItTaunted",
    "updatedAt": 1767201530,
    "version": "1.9.10"
-  },
-  "6bd5f4ac-b518-489a-b1b8-31811650b446/LibConsoleLogger": {
-   "addOnVersion": "300",
-   "addonId": "6bd5f4ac-b518-489a-b1b8-31811650b446",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 63,
-   "folder": "LibConsoleLogger",
-   "isLibrary": "true",
-   "optionalDependsOn": "LibHarvensAddonSettings",
-   "title": "LibConsoleLogger",
-   "updatedAt": 1791269527,
-   "version": "LibConsoleLogger-0.3.0-2026-10-05T235159"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665/StaggerTracker": {
    "addOnVersion": "",
@@ -4563,20 +4437,6 @@
    "title": "NumbersOnDummyOnly",
    "updatedAt": 1748530459,
    "version": "2025.05.29"
-  },
-  "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1/CPVeterancy": {
-   "addOnVersion": "",
-   "addonId": "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 99,
-   "folder": "CPVeterancy",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "CP Veterancy",
-   "updatedAt": 1785469725,
-   "version": "CPVeterancy-0.0.2-2026-07-30T204833"
   },
   "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82/HelloGoodbye": {
    "addOnVersion": "",
@@ -5417,20 +5277,6 @@
    "title": "Guild Items Stacker",
    "updatedAt": 1771707282,
    "version": "1.0.6"
-  },
-  "979371c6-2e58-4b2f-84af-cc9276c86b94/SatchelExchange": {
-   "addOnVersion": "",
-   "addonId": "979371c6-2e58-4b2f-84af-cc9276c86b94",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 103,
-   "folder": "SatchelExchange",
-   "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger",
-   "title": "Satchel Exchange",
-   "updatedAt": 1785120364,
-   "version": "SatchelExchange-0.9.3-2026-07-26T194551"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
    "addOnVersion": "8",
@@ -6580,20 +6426,6 @@
    "updatedAt": 1790967162,
    "version": "1.1.3"
   },
-  "bc6b3b76-f701-4533-9492-c50acb1783bc/PreviewAnywhere": {
-   "addOnVersion": "",
-   "addonId": "bc6b3b76-f701-4533-9492-c50acb1783bc",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 251,
-   "folder": "PreviewAnywhere",
-   "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger",
-   "title": "dev sandbox 2",
-   "updatedAt": 1786840262,
-   "version": "PreviewAnywhere-0.1.1-2026-08-15T173053"
-  },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8/CritTracker": {
    "addOnVersion": "",
    "addonId": "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8",
@@ -7252,20 +7084,6 @@
    "updatedAt": 1783127955,
    "version": "50.07"
   },
-  "cebfe41b-3168-432c-a3cf-795bbe56e54e/ChatLogPreserver": {
-   "addOnVersion": "",
-   "addonId": "cebfe41b-3168-432c-a3cf-795bbe56e54e",
-   "apiVersion": "101048",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 1504,
-   "folder": "ChatLogPreserver",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Chat Log Preserver",
-   "updatedAt": 1785128597,
-   "version": "ChatLogPreserver-0.0.2-2026-07-26T220304"
-  },
   "cec19621-d3f2-4b43-b391-5d028918cfb4/rallyingCryTracker": {
    "addOnVersion": "",
    "addonId": "cec19621-d3f2-4b43-b391-5d028918cfb4",
@@ -7335,20 +7153,6 @@
    "title": "ShowApiVersion",
    "updatedAt": 1775693269,
    "version": "3.0.0"
-  },
-  "cfca5ccd-3799-4e8b-9607-99f4f175a2df/GuildNameTicker": {
-   "addOnVersion": "",
-   "addonId": "cfca5ccd-3799-4e8b-9607-99f4f175a2df",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 2,
-   "folder": "GuildNameTicker",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Guild Name Ticker",
-   "updatedAt": 1792275615,
-   "version": "GuildNameTicker-0.5.0-2026-10-17T152007"
   },
   "d0219382-bec1-477e-bcc2-d2b0c7138a79/PBsMiniMap": {
    "addOnVersion": "",
@@ -7657,20 +7461,6 @@
    "title": "RockGrove Alkosh Timer",
    "updatedAt": 1765047668,
    "version": "1.0.3"
-  },
-  "d9742ac5-f315-4712-8383-b1a170801ba9/SmartTrader": {
-   "addOnVersion": "",
-   "addonId": "d9742ac5-f315-4712-8383-b1a170801ba9",
-   "apiVersion": "101043",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 9438,
-   "folder": "SmartTrader",
-   "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger",
-   "title": "Smart Trader",
-   "updatedAt": 1785300943,
-   "version": "SmartTrader-2.1.91-2026-07-28T215530"
   },
   "d978b81f-b679-4aa8-b9a2-6d1b0511c3b3/warHornTracker": {
    "addOnVersion": "",
@@ -8302,20 +8092,6 @@
    "updatedAt": 1786379641,
    "version": "v0.0.04"
   },
-  "e6c08a97-e33e-4716-83c6-a46ad3c43fbb/RideAlong": {
-   "addOnVersion": "",
-   "addonId": "e6c08a97-e33e-4716-83c6-a46ad3c43fbb",
-   "apiVersion": "101050",
-   "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 184,
-   "folder": "RideAlong",
-   "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger",
-   "title": "Ride Along",
-   "updatedAt": 1786822264,
-   "version": "RideAlong-0.1.0-2026-08-15T123050"
-  },
   "e748a1af-bca6-470d-be77-d5e7ab432006/ZoomInFurther": {
    "addOnVersion": "",
    "addonId": "e748a1af-bca6-470d-be77-d5e7ab432006",
@@ -8779,18 +8555,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "115",
+   "addOnVersion": "111",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101050",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 95,
+   "downloads": 108,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1792680260,
-   "version": "v0.9.15"
+   "updatedAt": 1792680841,
+   "version": "v0.9.16"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -9715,12 +9491,6 @@
    ],
    "version": "1.0.52"
   },
-  "18d399f0-14ef-40a3-8f08-1aaa8cd0a5de": {
-   "folders": [
-    "SnipersFriend"
-   ],
-   "version": "SnipersFriend-0.8.0-2026-10-03T042857"
-  },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773": {
    "folders": [
     "YeOldeInfos"
@@ -9731,7 +9501,7 @@
    "folders": [
     "LuiExtended"
    ],
-   "version": "7.2.7.6"
+   "version": "7.2.7.7"
   },
   "19ce6fa1-98c2-458e-b92b-c47fc6f55b55": {
    "folders": [],
@@ -10042,7 +9812,7 @@
    "folders": [
     "PBsTargetPlayer"
    ],
-   "version": "1.6.0"
+   "version": "1.6.1"
   },
   "2c07f374-57bc-4f20-814f-d40e4d93285b": {
    "folders": [
@@ -10303,12 +10073,6 @@
    ],
    "version": "1.2.0"
   },
-  "3a4024fc-1465-4e5e-a96f-6d6b6a781497": {
-   "folders": [
-    "DevSandbox3"
-   ],
-   "version": "DevSandbox3-4.19.2-2026-10-17T150333"
-  },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d": {
    "folders": [
     "GamepadUITweaks"
@@ -10404,12 +10168,6 @@
     "CanThisBeCraftedAtHome"
    ],
    "version": "2025.05.29"
-  },
-  "436f6695-4798-423f-b276-d8c46cbd938e": {
-   "folders": [
-    "PvPUAPatch"
-   ],
-   "version": "PvPUAPatch-5.3.0-2026-10-15T160037"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -10645,12 +10403,6 @@
     "GoronDev"
    ],
    "version": "0.0.2"
-  },
-  "5079d9ce-7098-43fd-8b50-42b172512fd7": {
-   "folders": [
-    "PvPUAPatch"
-   ],
-   "version": "PvPUAPatch-5.4.1-2026-10-20T230344"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9": {
    "folders": [
@@ -10963,12 +10715,6 @@
    ],
    "version": "1.0.6"
   },
-  "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
-   "folders": [
-    "JumpToSearch"
-   ],
-   "version": "JumpToSearch-0.2.1-2026-10-08T192243"
-  },
   "66108dc4-7941-473d-8b4a-f129da12e33c": {
    "folders": [
     "Leo_stats_panel"
@@ -11088,12 +10834,6 @@
     "IsItTaunted"
    ],
    "version": "1.9.10"
-  },
-  "6bd5f4ac-b518-489a-b1b8-31811650b446": {
-   "folders": [
-    "LibConsoleLogger"
-   ],
-   "version": "LibConsoleLogger-0.3.0-2026-10-05T235159"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665": {
    "folders": [
@@ -11345,12 +11085,6 @@
     "NumbersOnDummyOnly"
    ],
    "version": "2025.05.29"
-  },
-  "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1": {
-   "folders": [
-    "CPVeterancy"
-   ],
-   "version": "CPVeterancy-0.0.2-2026-07-30T204833"
   },
   "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82": {
    "folders": [
@@ -11734,12 +11468,6 @@
     "GuildStacker"
    ],
    "version": "1.0.6"
-  },
-  "979371c6-2e58-4b2f-84af-cc9276c86b94": {
-   "folders": [
-    "SatchelExchange"
-   ],
-   "version": "SatchelExchange-0.9.3-2026-07-26T194551"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214": {
    "folders": [
@@ -12253,12 +11981,6 @@
    ],
    "version": "1.1.3"
   },
-  "bc6b3b76-f701-4533-9492-c50acb1783bc": {
-   "folders": [
-    "PreviewAnywhere"
-   ],
-   "version": "PreviewAnywhere-0.1.1-2026-08-15T173053"
-  },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
     "CritTracker"
@@ -12562,12 +12284,6 @@
    ],
    "version": "50.07"
   },
-  "cebfe41b-3168-432c-a3cf-795bbe56e54e": {
-   "folders": [
-    "ChatLogPreserver"
-   ],
-   "version": "ChatLogPreserver-0.0.2-2026-07-26T220304"
-  },
   "cec19621-d3f2-4b43-b391-5d028918cfb4": {
    "folders": [
     "rallyingCryTracker"
@@ -12597,12 +12313,6 @@
     "ShowAPIVersion"
    ],
    "version": "3.0.0"
-  },
-  "cfca5ccd-3799-4e8b-9607-99f4f175a2df": {
-   "folders": [
-    "GuildNameTicker"
-   ],
-   "version": "GuildNameTicker-0.5.0-2026-10-17T152007"
   },
   "d0219382-bec1-477e-bcc2-d2b0c7138a79": {
    "folders": [
@@ -12745,12 +12455,6 @@
     "RockGroveAlkoshTimer"
    ],
    "version": "1.0.3"
-  },
-  "d9742ac5-f315-4712-8383-b1a170801ba9": {
-   "folders": [
-    "SmartTrader"
-   ],
-   "version": "SmartTrader-2.1.91-2026-07-28T215530"
   },
   "d978b81f-b679-4aa8-b9a2-6d1b0511c3b3": {
    "folders": [
@@ -13046,12 +12750,6 @@
    ],
    "version": "v0.0.04"
   },
-  "e6c08a97-e33e-4716-83c6-a46ad3c43fbb": {
-   "folders": [
-    "RideAlong"
-   ],
-   "version": "RideAlong-0.1.0-2026-08-15T123050"
-  },
   "e748a1af-bca6-470d-be77-d5e7ab432006": {
    "folders": [
     "ZoomInFurther"
@@ -13273,7 +12971,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v0.9.15"
+   "version": "v0.9.16"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [
