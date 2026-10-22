@@ -14,6 +14,7 @@ AoM.KnownAddonVersions = AoM.CreateKnownTable([==[
 !SlashFinder	100	1.0.0	4714	101050
 AAQ		1.28	1994	101045 101046
 AbilityIconsFramework	201	2.0.1	4061	101051
+AbyssUI		22/10/2026	4958	101050 101051
 AcceptDeclineGroupInvites		1.1	4371	101048
 AccountSettings		2026.09.28	3418	101051
 AccurateWorldMap	2310	2.3.1	4471	101050
@@ -369,7 +370,7 @@ CritMeter	1	1.3.0	3231	101040
 CrosshairInfo		1.2	2989	101044
 CrowdednESO		2026.07.09	3296	101050
 CroZone	100	1.1.0	4641	101049 101050
-CrutchAlerts	22700	2.27.0	3137	101050 101051
+CrutchAlerts	22800	2.28.0	3137	101051
 CrutchAlerts-KR-Minion	10000	1.0.0	4517	101049
 CrutchAlertsExtensions	30	0.3.0	4693	101050
 CruxCounter	10200	1.3.0	3639	101044 101045
@@ -861,7 +862,7 @@ Labyrinthe		0.8.2	3841	101045
 Lagerblick	202	2.0.2	4844	101050 101051
 LanguageManager		1.0.0	4466	101049
 LarvalTear	1503	1.5.0.3	4485	101051 101050
-LazyAlchemyLearner	114	1.1.4	2586	101051
+LazyAlchemyLearner	115	1.1.5	2586	101051
 LazyCraftingCertification		1.0.0	3787	101040
 LazyDecon		0.6.1	3449	101050
 LazyEnchantingRestockQueue	12	1.2	4392	101048

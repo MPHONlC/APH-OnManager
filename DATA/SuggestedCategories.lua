@@ -14,6 +14,7 @@ AoM.SuggestedCategories = {
 	["!SlashFinder"] = "Utility Mods",
 	["AAQ"] = "Character Advancement",
 	["AbilityIconsFramework"] = "Graphic UI Mods",
+	["AbyssUI"] = "Utility Mods",
 	["AcceptDeclineGroupInvites"] = "Utility Mods",
 	["AccountSettings"] = "Utility Mods",
 	["AccurateWorldMap"] = "Plug-Ins & Patches",
