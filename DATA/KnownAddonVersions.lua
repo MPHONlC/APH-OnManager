@@ -78,7 +78,7 @@ AlwaysLogging		v3.1.12.1.0	4081	101051 101050
 AM0RAutoInv	100	1.0.0 - Console	4170	101046
 AmIBlockingPlus		3.14	3929	101051
 Andy		1.1.1	4293	101048
-AnimatedActionBarPlus	2	2.0	4598	101050 101051
+AnimatedActionBarPlus	3	2.0	4598	101050 101051
 AntiAllCaps		1.1	3779	101045 101046
 AntiDismount	1	1.0.1	4570	101049
 AntiquitiesTracker	1	1.0	4172	101041
@@ -915,7 +915,7 @@ LRSA	20250401	1.2.2	3767	101040
 LSAchievTracker	2	0.1	4069	100033
 LucentCitadel		1.4.3	3879	101041 101042
 LucentCitadelHelper		0.7.0	3897	101046 101047
-LuiExtended	7276	7.2.7.6	818	101051 101052
+LuiExtended	7277	7.2.7.7	818	101051 101052
 Lumberjack		1.0.7	2792	101046
 LvxJournal	20445	5.1	4596	101049 101046
 LvxJournal_PersonalNotesBackup	111	5.1	4596	101049 101046
@@ -1027,7 +1027,7 @@ NoAutoPinnedGoldenPursuits		1.0	4033	101044
 NoFastTravel		1.0	3793	101041
 NoGrass		1.0.2	3853	101040 101041
 NoHostileDots	1	1.1	4966	101046
-NoireJinsReticle		1.7.1	4955	101048 101049
+NoireJinsReticle		1.7.2	4955	101051
 NoJumpToLeader		1.0.6	3675	101049 101050
 NoLogoutConfirmation		1.0	3551	101036
 NoMailDeletionConfirmation	102000	1.2.0	2986	101050
