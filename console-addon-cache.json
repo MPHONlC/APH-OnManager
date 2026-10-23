@@ -3861,8 +3861,8 @@
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "tt",
-   "updatedAt": 1792724193,
-   "version": "tt"
+   "updatedAt": 1792725686,
+   "version": "t"
   },
   "6987c48d-827e-4583-a5a7-6cb748174190/NQOL": {
    "addOnVersion": "367",
@@ -7043,18 +7043,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000093",
+   "addOnVersion": "01000094",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 13762,
+   "downloads": 14032,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792641614,
-   "version": "1.0.93"
+   "updatedAt": 1792728013,
+   "version": "1.0.94"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8765,18 +8765,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "121",
+   "addOnVersion": "132",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101050",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 117,
+   "downloads": 127,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1792707838,
-   "version": "v0.9.22"
+   "updatedAt": 1792744710,
+   "version": "v0.9.32"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -11037,7 +11037,7 @@
    "folders": [
     "LibUser562"
    ],
-   "version": "tt"
+   "version": "t"
   },
   "6987c48d-827e-4583-a5a7-6cb748174190": {
    "folders": [
@@ -12476,7 +12476,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.93"
+   "version": "1.0.94"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13271,7 +13271,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v0.9.22"
+   "version": "v0.9.32"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [
