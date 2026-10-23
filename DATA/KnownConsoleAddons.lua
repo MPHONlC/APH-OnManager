@@ -73,7 +73,7 @@ AutoResearch		3.1.2	101046	Auto Research	Dolgubon	6694e6d4-7ae0-4eb8-9a61-e1c53a
 AutoRoll	1.0.0	AR 1.0.0 LAM UPDATE	101046	bugfixxxxx	Vixen_Hunny	b057d22b-1ffd-455c-834a-af582e3e270a
 AwesomeGuildStore	3282	1.7.8	101050	AwesomeGuildStore	sirinsidiator	28cfc719-5113-4b1f-aab6-570be159ab81
 BaasWritCrafter	4057	v1.1	101049 101050	Baas-Writ-Crafter	D5rkSh5dow	173a593f-d0c6-473b-a865-5c8961942c06
-BackBarTimer		2.0-rc2	101049 101050 101051	BackBarTimer	SugaComa	ae6c1833-5a02-4baf-8bf6-d18c7c8d33d8
+BackBarTimer		2.0.0 RC - test3	101049 101050 101051	BackBarTimer	SugaComa	ae6c1833-5a02-4baf-8bf6-d18c7c8d33d8
 BagSpaceIndicator		3.49.0	101048 101049	Bag Space Indicator	lordrichter	5af6522d-980d-4335-9328-4e5077cee058
 BAHelp		3.0.0	101045 101046	Bound Armaments Help	dacu	6681b779-77ba-4212-ba6d-2d20e6e08ee7
 BannerStatus		1.0.6	101047	Banner Status	Phamo1000	608b7ab5-db64-423a-af5c-2438027f0eed
@@ -193,7 +193,7 @@ ExoYsCruxTracker		v1.3	101050	Crux Tracker	j.hhh	7c2543a8-c08b-4c48-b4bf-47d2463
 EyeOnKeep		1.2.0	101051	EyeOnKeep	SugaComa	4c644add-5991-49a0-ad77-6b91a5ffee42
 EyesOfTheUndaunted	101051	1.51.01	101051	Eyes of the Undaunted	xbutch	b22ade94-a817-47da-bc4f-cfa7e1dd25ff
 FancyActionBarPlus	21908	2.19.8	101050	Fancy Action Bar+	acastanza	922792c1-1d90-4415-ada5-c356757e857f
-FashionMount		1.0.21	101049 101050	Fashion Mount	SugaComa	91a5e014-74ee-4d3b-a612-b2b05dd223d8
+FashionMount		1.2.0	101049 101050 101051	Fashion Mount	SugaComa	91a5e014-74ee-4d3b-a612-b2b05dd223d8
 FavOptions		1.2.5	101050 101051	FavOptions	murphyx	d13d8dac-6694-4ebe-8685-ce038ec06a1e
 FavoriteHomeTeleports		1.5	101049	Favorite Home Teleporter	codeman1734	fc9f4f62-3d31-41cd-b9ee-e1a0ea0f6ecb
 FCOLockpicker	003100	0.31	101050 101051	FCO Lockpicker	Baertram_ESOUI	f141edd7-7b4f-4b3e-b32e-9e6df1ec228b
@@ -234,7 +234,7 @@ GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9
 GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
-GuildMarketScannerDev	132	v0.9.32	101050	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildMarketScannerDev	148	v0.9.48	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
@@ -358,7 +358,7 @@ LuXhrysLibExtendedInventory	008	0.8a	101050	LibExtendedInventory	Xhrysanth	28dff
 LuXhrysLibItemLinkPreview	001	0.1a	101050	LibItemLinkPreview	Xhrysanth	075222fe-7845-484e-a060-69ddb8d571d8
 LuXhrysVaultAndCoffer	005	0.5a	101050	Vault and Coffer	Xhrysanth	d5a2661e-4b51-4601-aa8f-84e97fc445ab
 LycanMeter		2025.05.29	101046	LycanMeter	Masteroshi430	529cf85a-e597-4945-86c4-654d2a32a7bc
-LykeionsAwareWolf		2.3	101051	Lykeion's Aware Wolf	Lykeion+	42a55498-b21a-4657-86ba-bdb954f7a09d
+LykeionsAwareWolf		2.4	101051	Lykeion's Aware Wolf	Lykeion+	42a55498-b21a-4657-86ba-bdb954f7a09d
 LykeionsHomeSweetHome		1.0.2	101048	Lykeion's Home Sweet Home - Dedicated Slash Command & Keybinding jumping to Sugar Bowl Suite	Lykeion+	339e95fd-5cd9-46ec-b4b1-3512364698e0
 M0RCameraSensitivity	101	1.1	101047	More Camera Sensitivity	M0R	c12b4c6f-c657-4d0b-ac4e-77374335877c
 M0RMarkers	222	2.2.2	101050	More Markers	M0R	c41f5a50-974f-45e6-a218-e99590da3841
@@ -386,7 +386,7 @@ MoveBuffDebuff		51.00	101051	Move Buff & Debuff Bar	Gamer_sa22	fb88de81-c67e-417
 MSI	2789	2.7.89	101051 101052	Metu's SpareIdler	MetuLiber_Ger	227876bb-e9b1-439f-81fe-8f458ae351a8
 MSPAINTUI	150	1.5.0	101049 101050	MSPAINTUI	Kyzeragon	9653b3d8-c1bf-4328-9b31-5e18a4ea643d
 MTS_WRITS_HUD		1.3.1		MTS WRITS HUD – Daily Crafting Tracker (PS5).	Something_Spec90	ce9458a5-0897-4765-9ec1-5cf8e8345462
-MuchSmarterAutoLoot	80309	8.3.9	101051	Lykeion's AutoLoot+	Lykeion+	1156c297-4c51-44e7-8267-9f934307f36e
+MuchSmarterAutoLoot	80311	8.3.11	101051	Lykeion's AutoLoot+	Lykeion+	1156c297-4c51-44e7-8267-9f934307f36e
 MultiMark	1	1.3	101050	Many Markers	dicen9	59768602-717c-425b-a4ce-7ffc14887bc0
 MurfKnickknacks		0.4.5	101051	Murf's Knickknacks	murphyx	d38d1fe9-e738-4036-9d0d-baeaa4ebbe2e
 MurfLorebooks		1.3.9	101050 101051	Murf's Lorebooks	murphyx	f10225ef-7745-4a1b-b0c3-5b45cc8655a6
@@ -455,7 +455,7 @@ PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f212
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
 PermMemento	26101801	2026.10.18.01.41	101051 101052	Permanent Memento	APH0NlC	2aa223e9-ba88-45f7-90d3-0a47002c720c
-Persona		1.1.0	101051	Persona	SugaComa	a3bda6e6-a854-4387-825a-dccb05d706d8
+Persona		1.2.0	101051	Persona	SugaComa	a3bda6e6-a854-4387-825a-dccb05d706d8
 PersonalDpsTracker	21007	2.1.7	101050 101051	Personal Dps Tracker	Shienar	c9b85989-bab6-4000-a3fc-80ed49e25e87
 PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a86588cd787
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
@@ -480,7 +480,7 @@ PvPUAPatch		PvPUAPatch-5.5.3-2026-10-22T173414	101048 101049 101050 101051	dev s
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
-RagsToRiches		1.4.4	101050	Rags To Riches	SugaComa	67c87375-bbf1-4841-933b-9beec7f88155
+RagsToRiches		1.5.0	101050 101051	Rags To Riches	SugaComa	67c87375-bbf1-4841-933b-9beec7f88155
 RainbowAOE		0.1.3	101050	Rainbow AOE	Alpha-AC	f74afae1-50fc-4e7f-8883-573992187a63
 rallyingCryTracker		1.1.0	101051	Rallying Cry Tracker	codeWarrior82	cec19621-d3f2-4b43-b391-5d028918cfb4
 RanckorsBaggage	3.1.2	3.1.1	101050	Ranckor's Baggage	Ranckor90	a17836b4-17ec-478f-91a6-f0c59e123e2a

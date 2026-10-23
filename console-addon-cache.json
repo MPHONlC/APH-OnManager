@@ -631,18 +631,18 @@
    "version": "1.0.10"
   },
   "1156c297-4c51-44e7-8267-9f934307f36e/MuchSmarterAutoLoot": {
-   "addOnVersion": "80309",
+   "addOnVersion": "80311",
    "addonId": "1156c297-4c51-44e7-8267-9f934307f36e",
    "apiVersion": "101051",
    "author": "Lykeion+",
    "dependsOn": "",
-   "downloads": 182311,
+   "downloads": 183577,
    "folder": "MuchSmarterAutoLoot",
    "isLibrary": "",
    "optionalDependsOn": "LibCharacterKnowledge>=201030 TamrielTradeCentre MasterMerchant ArkadiusTradeTools LibSavedVars LibRadialMenu PerfectPixel TSCPriceFetcher2 LibCustomMenu",
    "title": "Lykeion's AutoLoot+",
-   "updatedAt": 1791650227,
-   "version": "8.3.9"
+   "updatedAt": 1792761994,
+   "version": "8.3.11"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a/AreYouSlow": {
    "addOnVersion": "2",
@@ -2400,13 +2400,13 @@
    "apiVersion": "101051",
    "author": "Lykeion+",
    "dependsOn": "LibAddonMenu-2.0>=43",
-   "downloads": 1529,
+   "downloads": 1592,
    "folder": "LykeionsAwareWolf",
    "isLibrary": "",
    "optionalDependsOn": "LibCombatAlerts",
    "title": "Lykeion's Aware Wolf",
-   "updatedAt": 1792700999,
-   "version": "2.3"
+   "updatedAt": 1792761148,
+   "version": "2.4"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25/CanThisBeCraftedAtHome": {
    "addOnVersion": "",
@@ -3811,16 +3811,16 @@
   "67c87375-bbf1-4841-933b-9beec7f88155/RagsToRiches": {
    "addOnVersion": "",
    "addonId": "67c87375-bbf1-4841-933b-9beec7f88155",
-   "apiVersion": "101050",
+   "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 2299,
+   "downloads": 2554,
    "folder": "RagsToRiches",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Rags To Riches",
-   "updatedAt": 1785072602,
-   "version": "1.4.4"
+   "updatedAt": 1792759751,
+   "version": "1.5.0"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374/LibNotification": {
    "addOnVersion": "15",
@@ -5155,16 +5155,16 @@
   "91a5e014-74ee-4d3b-a612-b2b05dd223d8/FashionMount": {
    "addOnVersion": "",
    "addonId": "91a5e014-74ee-4d3b-a612-b2b05dd223d8",
-   "apiVersion": "101049 101050",
+   "apiVersion": "101049 101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 1446,
+   "downloads": 1607,
    "folder": "FashionMount",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Fashion Mount",
-   "updatedAt": 1781386823,
-   "version": "1.0.21"
+   "updatedAt": 1792758134,
+   "version": "1.2.0"
   },
   "91c0799a-d1f2-46e3-9ef6-2c470d6869f6/NoM0RErrors": {
    "addOnVersion": "101",
@@ -5816,13 +5816,13 @@
    "apiVersion": "101051",
    "author": "SugaComa",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 716,
+   "downloads": 812,
    "folder": "Persona",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Persona",
-   "updatedAt": 1792480494,
-   "version": "1.1.0"
+   "updatedAt": 1792758631,
+   "version": "1.2.0"
   },
   "a453b6d3-5eb9-42cb-812d-605c297e8e87/PvPUA": {
    "addOnVersion": "",
@@ -6124,13 +6124,13 @@
    "apiVersion": "101049 101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 2494,
+   "downloads": 2885,
    "folder": "BackBarTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "BackBarTimer",
-   "updatedAt": 1790690762,
-   "version": "2.0-rc2"
+   "updatedAt": 1792757960,
+   "version": "2.0.0 RC - test3"
   },
   "aef7e9f0-ed11-4b67-99f7-c500cdc0b343/CruxTracker-2.0": {
    "addOnVersion": "",
@@ -8765,18 +8765,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "132",
+   "addOnVersion": "148",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 127,
+   "downloads": 143,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1792744710,
-   "version": "v0.9.32"
+   "updatedAt": 1792765983,
+   "version": "v0.9.48 "
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -9609,7 +9609,7 @@
    "folders": [
     "MuchSmarterAutoLoot"
    ],
-   "version": "8.3.9"
+   "version": "8.3.11"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a": {
    "folders": [
@@ -10389,7 +10389,7 @@
    "folders": [
     "LykeionsAwareWolf"
    ],
-   "version": "2.3"
+   "version": "2.4"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25": {
    "folders": [
@@ -11019,7 +11019,7 @@
    "folders": [
     "RagsToRiches"
    ],
-   "version": "1.4.4"
+   "version": "1.5.0"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374": {
    "folders": [
@@ -11626,7 +11626,7 @@
    "folders": [
     "FashionMount"
    ],
-   "version": "1.0.21"
+   "version": "1.2.0"
   },
   "91c0799a-d1f2-46e3-9ef6-2c470d6869f6": {
    "folders": [
@@ -11912,7 +11912,7 @@
    "folders": [
     "Persona"
    ],
-   "version": "1.1.0"
+   "version": "1.2.0"
   },
   "a453b6d3-5eb9-42cb-812d-605c297e8e87": {
    "folders": [
@@ -12051,7 +12051,7 @@
    "folders": [
     "BackBarTimer"
    ],
-   "version": "2.0-rc2"
+   "version": "2.0.0 RC - test3"
   },
   "aef7e9f0-ed11-4b67-99f7-c500cdc0b343": {
    "folders": [
@@ -13271,7 +13271,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v0.9.32"
+   "version": "v0.9.48 "
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [
