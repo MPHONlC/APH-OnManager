@@ -3907,18 +3907,18 @@
    "version": "1"
   },
   "6a2d5726-84d1-4db6-adba-e378e2005067/SurveyResetMarker": {
-   "addOnVersion": "020208",
+   "addOnVersion": "020209",
    "addonId": "6a2d5726-84d1-4db6-adba-e378e2005067",
    "apiVersion": "101051",
    "author": "tmbrinks",
    "dependsOn": "LibCombatAlerts>=7000",
-   "downloads": 129096,
+   "downloads": 134678,
    "folder": "SurveyResetMarker",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibMapPins-1.0 CustomCompassPins",
    "title": "Reset Markers (Survey & Treasure Map)",
-   "updatedAt": 1791121784,
-   "version": "2.2.8"
+   "updatedAt": 1792776653,
+   "version": "2.2.9"
   },
   "6aa72f53-f802-446b-9be4-55671bec2726/Esoar": {
    "addOnVersion": "",
@@ -8765,18 +8765,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "148",
+   "addOnVersion": "163",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 143,
+   "downloads": 160,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1792765983,
-   "version": "v0.9.48 "
+   "updatedAt": 1792780922,
+   "version": "v1.0.3"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -11061,7 +11061,7 @@
    "folders": [
     "SurveyResetMarker"
    ],
-   "version": "2.2.8"
+   "version": "2.2.9"
   },
   "6aa72f53-f802-446b-9be4-55671bec2726": {
    "folders": [
@@ -13271,7 +13271,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v0.9.48 "
+   "version": "v1.0.3"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [

@@ -234,7 +234,7 @@ GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9
 GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
-GuildMarketScannerDev	148	v0.9.48	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildMarketScannerDev	163	v1.0.3	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
@@ -544,7 +544,7 @@ StyleNewCleaner	000100000	1.0.3	101050	Style New Cleaner	Eldibabalo	a77b6722-e51
 Sugas-Test-Zone		1.0- BBT V2 Beta 0.0.9	101049 101050 101051	Sugas-Test-Zone	SugaComa	75cafaa0-706c-4f77-a94a-9a8b0e2868f2
 SulXan		1.5	101048	Sul-Xan's Soul Catcher	Lykeion+	aa271fb4-3ce5-4584-ac5c-338617e92f62
 SupressErrors	1	0	101046	Test	wh0c4r35ab0utth15	43eacadc-428c-4ca4-b0da-e2777148a4fb
-SurveyResetMarker	020208	2.2.8	101051	Reset Markers (Survey & Treasure Map)	tmbrinks	6a2d5726-84d1-4db6-adba-e378e2005067
+SurveyResetMarker	020209	2.2.9	101051	Reset Markers (Survey & Treasure Map)	tmbrinks	6a2d5726-84d1-4db6-adba-e378e2005067
 SurveySentinel		0.1.2	101047	Survey Sentinel	ReliktKoala	d9ba289c-0a0a-4233-80ab-25f3be9c35eb
 SurvivalMode		1.8	101050	SurvivalMode	TankiestTank	79d39b6d-3f2c-48e3-a08f-b6c2c69751fd
 SXUIBeaconPet	705	0.5.1	101050 101051	pet	satuve	25a0aeff-e8df-4458-bc72-f5a8319dbade
