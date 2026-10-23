@@ -167,6 +167,7 @@ AwesomeLeadFilter		0.0.3	4950	101050
 AyleidWells		1.0.6	3287	101049 101050
 Azurah		1.0.1	4501	101043 101044
 Babel		2.0.1	3506	100034
+BackpackDeconSelectAll		1.3.0	4979	101050 101051
 BadWordFilter	12	1.2	4431	101041
 BagBalancer		1.4	4567	101045
 BagSpaceIndicator		3.49	1181	101048 101049
@@ -496,7 +497,7 @@ EnchantPlus		1.1	4800	101051
 EndeavorAssistant		1.2	3936	101042
 EndeavorChatTracker		1.1.4	3274	101048
 EndeavorTracker		2.3.1	3154	101042 101043
-ESO_UA_GoA	107	46.99.90	4702	101049 101050 101051 101052
+ESO_UA_GoA	107	46.99.91	4702	101049 101050 101051 101052
 ESOAdventurerSuite	3725	0.29.790	4779	101050 101051
 EsoAR		2.3.7	4927	101050 101051
 EsoBR_Reforged		1.3.1	2256	101051
@@ -635,6 +636,7 @@ GoA_DolgubonsLazyWritCreatorUAPatch	110	1.7	4703	101049 101050
 GoA_HarvestMapUAPatch		1.1	4707	101049 101050
 GoA_TamrielTradeCentreUAPatch	141	1.2	4705	101050 101051
 GoldenPursuitsTracker		1.8	4276	101051
+GoldenSkullTracker	10100	1.1.0	4978	101050 101051
 GoldHouseFinder	18	1.9.1	4751	101049 101050
 GoldLedger		2.3.1	3566	101050 101051
 GoldRush		2.7	4685	101051
@@ -658,7 +660,7 @@ GroupBuffs	30	1.5.22	1823	101042
 GroupBuffTracker		2.8	4120	101048
 GroupDeathNotifier		2.1.0	2603	101049 101050
 GroupFinderInChat		2026.07.09	4542	101050
-GroupFinderPlus		6.8	4338	101051
+GroupFinderPlus		6.9	4338	101051
 GroupKeys	1	1.0	4580	101049
 GroupKillFeed		1.3.5	4285	101046
 GroupLog		2.2	4316	101051
@@ -921,7 +923,7 @@ LvxJournal	20445	5.1	4596	101049 101046
 LvxJournal_PersonalNotesBackup	111	5.1	4596	101049 101046
 LWTLootTracker		1.0.0	4486	101050
 LycanMeter		2026.09.28	3839	101050
-LykeionsAwareWolf		2.3	4628	101051
+LykeionsAwareWolf		2.4	4628	101051
 LykeionsEndeavorReminder		1.0.7	3514	101045
 LykeionsFabledMarker		1.1.0	3766	101040
 LykeionsGroupBanisher		1.3	3967	101043
@@ -977,7 +979,7 @@ MountTrainingOverview	304	3.0.4	4422	101050
 Mousoboros	1	2026.08.07	4742	101050
 MrPancakesBiteSites	1	1.1	3753	101041
 MSPAINTUI	150	1.5.0	4337	101049 101050
-MuchSmarterAutoLoot	80310	8.3.10	3367	101051
+MuchSmarterAutoLoot	80311	8.3.11	3367	101051
 Mudballed		1.0.2	3218	101045
 MudcrabCounter		1.1	4383	101048
 MudcrabTracker		0.1.4	4312	101049
