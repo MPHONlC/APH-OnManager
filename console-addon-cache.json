@@ -1,18 +1,18 @@
 {
  "addons": {
   "008cd443-6347-421a-bfcf-ddc830e8cfef/CanCraftMasterWrit": {
-   "addOnVersion": "10200",
+   "addOnVersion": "10201",
    "addonId": "008cd443-6347-421a-bfcf-ddc830e8cfef",
    "apiVersion": "101051",
    "author": "xSuperSlayan",
    "dependsOn": "LibCharacterKnowledge>=301020 LibLazyCrafting>=4041 LibQRCode",
-   "downloads": 158031,
+   "downloads": 164028,
    "folder": "CanCraftMasterWrit",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Can Craft Master Writ",
-   "updatedAt": 1792630182,
-   "version": "1.2.0"
+   "updatedAt": 1792822637,
+   "version": "1.2.1"
   },
   "03172246-c90c-4b8b-9821-06a74a01ce96/ZoneMountSwitcher": {
    "addOnVersion": "110",
@@ -2526,13 +2526,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 3040,
+   "downloads": 3286,
    "folder": "WhereIsIt",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "TSCPriceFetcher2",
    "title": "Where Is It?",
-   "updatedAt": 1792470594,
-   "version": "1.4"
+   "updatedAt": 1792812122,
+   "version": "1.5"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed/CooldownTracker": {
    "addOnVersion": "",
@@ -2946,13 +2946,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 298,
+   "downloads": 304,
    "folder": "PvPUAPatch",
    "isLibrary": "",
-   "optionalDependsOn": "LibGroupBroadcast",
+   "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "PvP UA (Patch)",
-   "updatedAt": 1792562633,
-   "version": "PvPUAPatch-5.4.1-2026-10-20T230344"
+   "updatedAt": 1792824157,
+   "version": "PvPUAPatch-5.6.1-2026-10-23T234227"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9/Update47Tweaker": {
    "addOnVersion": "",
@@ -4311,6 +4311,20 @@
    "title": "Better Bars",
    "updatedAt": 1787961265,
    "version": "v0.0.03"
+  },
+  "79482b3e-9063-4aa7-a50f-81fedd155fc5/PBsWeaveBlockTrainer": {
+   "addOnVersion": "",
+   "addonId": "79482b3e-9063-4aa7-a50f-81fedd155fc5",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsWeaveBlockTrainer",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's WeaveBlockTrainer",
+   "updatedAt": 1792831523,
+   "version": "1.4.0"
   },
   "79b6b597-9e33-4cd7-b076-44e9a153a44c/OpenAll": {
    "addOnVersion": "1312",
@@ -5853,18 +5867,18 @@
    "version": "0.5.1"
   },
   "a76fc220-27fb-4174-8821-27351c50fea5/LibUser562": {
-   "addOnVersion": "2",
+   "addOnVersion": "3",
    "addonId": "a76fc220-27fb-4174-8821-27351c50fea5",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "",
-   "downloads": 1493,
+   "downloads": 1847,
    "folder": "LibUser562",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibUser562",
-   "updatedAt": 1792810143,
-   "version": "1.1"
+   "updatedAt": 1792812077,
+   "version": "1.2"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3/StyleNewCleaner": {
    "addOnVersion": "000100000",
@@ -7015,18 +7029,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000094",
+   "addOnVersion": "01000095",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 14032,
+   "downloads": 14289,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792728013,
-   "version": "1.0.94"
+   "updatedAt": 1792814413,
+   "version": "1.0.95"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -7812,6 +7826,20 @@
    "updatedAt": 1787155352,
    "version": "1.2.6"
   },
+  "dca11eb6-a817-43a1-93f5-132e473a10b9/PBsWeaveBlockTrainer": {
+   "addOnVersion": "",
+   "addonId": "dca11eb6-a817-43a1-93f5-132e473a10b9",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "PBsWeaveBlockTrainer",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's WeaveBlockTrainer(Beta)",
+   "updatedAt": 1792831386,
+   "version": "1.4.0"
+  },
   "dd337340-e6c9-4835-8e50-ba68c7e949e4/LazyHorseFeed": {
    "addOnVersion": "",
    "addonId": "dd337340-e6c9-4835-8e50-ba68c7e949e4",
@@ -8289,18 +8317,18 @@
    "version": "1.4.5"
   },
   "e77534ef-ba1c-4ce2-becb-c7c534a86ebe/SlayansBossTimer": {
-   "addOnVersion": "2",
+   "addOnVersion": "3",
    "addonId": "e77534ef-ba1c-4ce2-becb-c7c534a86ebe",
    "apiVersion": "101051",
    "author": "xSuperSlayan",
    "dependsOn": "LibHarvensAddonSettings LibQRCode",
-   "downloads": 3,
+   "downloads": 9,
    "folder": "SlayansBossTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibChatMessage",
    "title": "Slayan's Boss Timer",
-   "updatedAt": 1792311880,
-   "version": "1.0.0"
+   "updatedAt": 1792812008,
+   "version": "1.0.1"
   },
   "e8b21bff-aae1-4a24-b91b-8c49cd6acfd6/PBsTetris": {
    "addOnVersion": "11600",
@@ -9288,7 +9316,7 @@
    "folders": [
     "CanCraftMasterWrit"
    ],
-   "version": "1.2.0"
+   "version": "1.2.1"
   },
   "03172246-c90c-4b8b-9821-06a74a01ce96": {
    "folders": [
@@ -10421,7 +10449,7 @@
    "folders": [
     "WhereIsIt"
    ],
-   "version": "1.4"
+   "version": "1.5"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed": {
    "folders": [
@@ -10608,7 +10636,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.4.1-2026-10-20T230344"
+   "version": "PvPUAPatch-5.6.1-2026-10-23T234227"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9": {
    "folders": [
@@ -11214,6 +11242,12 @@
     "BetterBars"
    ],
    "version": "v0.0.03"
+  },
+  "79482b3e-9063-4aa7-a50f-81fedd155fc5": {
+   "folders": [
+    "PBsWeaveBlockTrainer"
+   ],
+   "version": "1.4.0"
   },
   "798e2650-33dc-48bb-80c5-8c09cabc36b5": {
    "folders": [],
@@ -11903,7 +11937,7 @@
    "folders": [
     "LibUser562"
    ],
-   "version": "1.1"
+   "version": "1.2"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3": {
    "folders": [
@@ -12436,7 +12470,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.94"
+   "version": "1.0.95"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -12789,6 +12823,12 @@
    ],
    "version": "1.2.6"
   },
+  "dca11eb6-a817-43a1-93f5-132e473a10b9": {
+   "folders": [
+    "PBsWeaveBlockTrainer"
+   ],
+   "version": "1.4.0"
+  },
   "dd337340-e6c9-4835-8e50-ba68c7e949e4": {
    "folders": [
     "LazyHorseFeed"
@@ -13020,7 +13060,7 @@
    "folders": [
     "SlayansBossTimer"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "e816c8fb-9db6-4e60-a241-6bee24b8f1b0": {
    "folders": [],

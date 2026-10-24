@@ -175,6 +175,7 @@ PBsTargetPlayer	LibHarvensAddonSettings
 PBsTetris	LibGroupBroadcast
 PBsTranslate	LibGroupBroadcast	LibHarvensAddonSettings
 PBsWarTable	LibGroupBroadcast
+PBsWeaveBlockTrainer	LibHarvensAddonSettings
 PerCharacterMounts	LibAddonMenu-2.0	LibHarvensAddonSettings
 PermMemento	LibAddonMenu-2.0	LibGroupBroadcast	LibHarvensAddonSettings
 PersonalDpsTracker	LibHarvensAddonSettings
@@ -240,6 +241,7 @@ warmaskTracker	LibNotify
 WarmasktrackerByJH	LibAddonMenu-2.0
 WeavingMetronome	LibAddonMenu-2.0
 WhatsMissing	LibRadialMenu
+WhereIsIt	TSCPriceFetcher2
 wretchedVitalityTracker	LibNotify
 WritReady	LibAddonMenu-2.0
 ]==])
