@@ -294,7 +294,7 @@ LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df0
 LibCombatAlerts	8060	0.8.6	101051	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibCombatSkills	1	1.0.13	101049 101050	LibCombatSkills	SugaComa	4500daea-ed3f-4071-822c-24329a5831e3
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
-LibConsoleLogger	300	LibConsoleLogger-0.3.0-2026-10-05T235159	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
+LibConsoleLogger	400	LibConsoleLogger-0.4.0-2026-10-23T160515	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea
@@ -340,7 +340,7 @@ LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0
 LibTrack		3.6.3	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
-LibUser562	2	t	101048 101049 101050 101051	tt	user562x	693a122d-7654-47b6-b686-abe24dddd74c
+LibUser562	2	1.1	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
 LibVotansAddonList	11000	1.10.0	101045 101046	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
@@ -475,8 +475,8 @@ Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
-PvPUA		t	101048 101049 101050 101051	t	user562x	300093b5-4d2a-4f85-ba08-ef0db551c0b4
-PvPUAPatch		PvPUAPatch-5.5.3-2026-10-22T173414	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
+PvPUA		5.3	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
+PvPUAPatch		PvPUAPatch-5.6.0-2026-10-23T160527	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
