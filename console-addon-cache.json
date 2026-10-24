@@ -5824,20 +5824,6 @@
    "updatedAt": 1792810182,
    "version": "5.3"
   },
-  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
-   "addOnVersion": "106",
-   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
-   "apiVersion": "101050",
-   "author": "Bucketmore",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 159,
-   "folder": "PvPTargetInfo",
-   "isLibrary": "false",
-   "optionalDependsOn": "",
-   "title": "PvP Target Info",
-   "updatedAt": 1792846718,
-   "version": "V2.0.7"
-  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
    "addonId": "a6c22156-8b52-467d-ab02-287e5731a1fb",
@@ -6273,18 +6259,18 @@
    "version": "Final version"
   },
   "b22ade94-a817-47da-bc4f-cfa7e1dd25ff/EyesOfTheUndaunted": {
-   "addOnVersion": "101051",
+   "addOnVersion": "15102",
    "addonId": "b22ade94-a817-47da-bc4f-cfa7e1dd25ff",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 409866,
+   "downloads": 427926,
    "folder": "EyesOfTheUndaunted",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Eyes of the Undaunted",
-   "updatedAt": 1791150196,
-   "version": "1.51.01"
+   "updatedAt": 1792862507,
+   "version": "1.51.02"
   },
   "b2507553-0888-4fae-9f69-5b1f89f1b266/MoreTargetInformation": {
    "addOnVersion": "",
@@ -8401,18 +8387,18 @@
    "version": "1.0.3"
   },
   "ea5313bb-c034-4b91-8816-546e4d37a355/WhatsMissing": {
-   "addOnVersion": "15107",
+   "addOnVersion": "15108",
    "addonId": "ea5313bb-c034-4b91-8816-546e4d37a355",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 7733,
+   "downloads": 8194,
    "folder": "WhatsMissing",
    "isLibrary": "false",
    "optionalDependsOn": "LibRadialMenu",
    "title": "What's Missing? - Skill Point Tracker",
-   "updatedAt": 1791742124,
-   "version": "1.51.07"
+   "updatedAt": 1792861720,
+   "version": "1.51.08"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0/LibPromises": {
    "addOnVersion": "37",
@@ -11928,12 +11914,6 @@
    ],
    "version": "5.3"
   },
-  "a5490d07-2b02-4714-bf07-a18820977a3c": {
-   "folders": [
-    "PvPTargetInfo"
-   ],
-   "version": "V2.0.7"
-  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
     "SynergyCooldown"
@@ -12131,7 +12111,7 @@
    "folders": [
     "EyesOfTheUndaunted"
    ],
-   "version": "1.51.01"
+   "version": "1.51.02"
   },
   "b2507553-0888-4fae-9f69-5b1f89f1b266": {
    "folders": [
@@ -13115,7 +13095,7 @@
    "folders": [
     "WhatsMissing"
    ],
-   "version": "1.51.07"
+   "version": "1.51.08"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0": {
    "folders": [
