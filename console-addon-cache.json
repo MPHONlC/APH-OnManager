@@ -5824,6 +5824,20 @@
    "updatedAt": 1792810182,
    "version": "5.3"
   },
+  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
+   "addOnVersion": "106",
+   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
+   "apiVersion": "101050",
+   "author": "Bucketmore",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 159,
+   "folder": "PvPTargetInfo",
+   "isLibrary": "false",
+   "optionalDependsOn": "",
+   "title": "PvP Target Info",
+   "updatedAt": 1792846718,
+   "version": "V2.0.7"
+  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
    "addonId": "a6c22156-8b52-467d-ab02-287e5731a1fb",
@@ -10251,7 +10265,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.564"
+   "version": "0.0.566"
   },
   "389fdfeb-6af9-48ad-8121-39ce405b4267": {
    "folders": [
@@ -11913,6 +11927,12 @@
     "PvPUA"
    ],
    "version": "5.3"
+  },
+  "a5490d07-2b02-4714-bf07-a18820977a3c": {
+   "folders": [
+    "PvPTargetInfo"
+   ],
+   "version": "V2.0.7"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
