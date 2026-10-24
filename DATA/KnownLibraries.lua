@@ -157,6 +157,7 @@ LibMediaProvider	39	1.1 r39	56	101051	LibMediaProvider	LibMedia
 LibMediaProvider-1.0	34	1.1 r39	56	101046	LibMediaProvider-1.0	LibMediaProvider-1.0
 LibMousePointer	10000	1.0.0	4518	101048 101049	LibMousePointer	LibMousePointer
 LibMsgWin-1.0	11	1.0 r11	802	100031 100032	LibMsgWin-1.0	LibMsgWin-1.0
+LibMuffinsMarketManagerData	1	1.0	4980	101050 101051	Muffin's Market Manager	LibMuffinsMarketManagerData
 LibMultiAccountAchievements	101041	1.1.4.1	3925	101050 101051	LibMultiAccountAchievements	LibMultiAccountAchievements
 LibMultiAccountCollectibles	102051	1.2.5.1	3320	101050 101051	LibMultiAccountCollectibles	LibMultiAccountCollectibles
 LibMultiAccountSets	400031	4.0.3.1	2843	101050 101051	LibMultiAccountSets	LibMultiAccountSets

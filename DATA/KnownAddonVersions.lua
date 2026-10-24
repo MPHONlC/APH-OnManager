@@ -983,6 +983,7 @@ MuchSmarterAutoLoot	80311	8.3.11	3367	101051
 Mudballed		1.0.2	3218	101045
 MudcrabCounter		1.1	4383	101048
 MudcrabTracker		0.1.4	4312	101049
+MuffinsMarketManager		1.0	4980	101050 101051
 MuffinsSetRecipeTracker		1.6.1	4090	101049 101050
 MuffinsUtilityTree		1.2	4797	101050 101051
 MultiClassAbilityTracker		0.1.1	4831	101050

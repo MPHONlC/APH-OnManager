@@ -372,6 +372,7 @@ AoM.KnownAddonDependencies = {
 	["MSPAINTUI"] = { "AbilityIconsFramework" },
 	["MuchSmarterAutoLoot"] = { "ArkadiusTradeTools", "LibCharacterKnowledge", "LibCustomMenu", "LibRadialMenu", "LibSavedVars", "MasterMerchant", "PerfectPixel", "TSCPriceFetcher2", "TamrielTradeCentre" },
 	["MudcrabTracker"] = { "LibPrice" },
+	["MuffinsMarketManager"] = { "MasterMerchant", "TamrielTradeCentre" },
 	["MyDung"] = { "LibQuestData" },
 	["NameLanguageNinja"] = { "ItemBrowser" },
 	["Navigator"] = { "FasterTravel", "LibDebugLogger", "LibSlashCommander", "LibTreasure", "LibWorldMapInfoTab", "PerfectPixel", "pChat" },
