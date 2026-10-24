@@ -365,7 +365,7 @@ M0RMarkers	222	2.2.2	101050	More Markers	M0R	c41f5a50-974f-45e6-a218-e99590da384
 MailHistoryConsole	1	1.0	101050	MailHistoryConsole	svammy	68d33b7d-c5e1-4b2e-a1f2-52275806fc62
 MaliBuuLanternKeeper	100	1.0	101046	MaliBuu Lantern Keeper	MaliBuuGaming	555cab61-7b0a-41ba-8fe9-4c8df0f82ed3
 MapFilterTestCase		50.12	101050	Map Filter Test Case	Gamer_sa22	e0a62e77-93d4-43e7-9639-fb2737b3e00a
-MapOfManyRiches	25101	2.51.01	101051	Map of Many Riches	xbutch	918caf2a-e100-4088-ae58-92d9240520a5
+MapOfManyRiches	25102	2.51.02	101051	Map of Many Riches	xbutch	918caf2a-e100-4088-ae58-92d9240520a5
 MapPins		50.25	101050	Map Pins	art1ink	d9a6dba3-bff5-4696-ac94-a914acd957c2
 MapPinsTextureFix		3	101050	Map Pins Texture Fix	Gamer_sa22	d081d271-bda5-4b78-a18c-251878246156
 MARA	6	6	101050	Mara: M0R's Assorted Radial Actions	M0R	76d8e5e1-619c-48d4-b331-b3895b578dc6
@@ -416,6 +416,7 @@ NoTargetFrame	110	Final version	101050	Hide Targetframe by JH	j.hhh	b1bf0d35-ce2
 NQOL	367	367	101050 101051	NQOL	unacntble	6987c48d-827e-4583-a5a7-6cb748174190
 NQOL-dev	366	366	101050 101051	NQOL-dev	unacntble	475ce77b-6d09-4c75-8c28-95fff8f907c9
 NumbersOnDummyOnly		2025.05.29	101046	NumbersOnDummyOnly	Masteroshi430	7dd87315-5f9a-4644-887f-a38632d7f70e
+ObsidianHUD	400	0.4.0	101051	Trest	FiNk3F13	74e3cf1b-47f3-44c7-ac72-290efc19e8f3
 OffBalanceTracker	0005	20260914-0005	101050	Off Balance Tracker - incl. Smart Tracking Mode	DuesentriebESO	ee431f44-2522-4944-ad58-8916644ec121
 OhNoMyMenu		1.0.1	101050	Oh No My Menu	BLKx777	30102403-93a7-4fd2-a08a-4b249f03e4d4
 Olorime	020300	2.3.0	101047 101048	Olorime	tmbrinks	2abdc7a0-d15d-42ae-aad7-bccf995da180
@@ -619,7 +620,7 @@ warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-81
 WarmasktrackerByJH		1.5	101051 101050	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
 WeaveDelays	105	1.0.5	101050	WeaveDelays	ThePsiioniic	1428d8ab-7f1f-4741-833a-93180287dd09
 WeavingMetronome	101059	1.9.9	101051	Weaving Metronome	FiNk3F13	c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5
-WhatsMissing	15108	1.51.08	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
+WhatsMissing	15109	1.51.09	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
 WhatsMyBuildAgain	005005004	5.0.5	101050	What's My Build Again	Eldibabalo	61ffae27-7976-4d4b-a9fa-0fafb387434a
 WheeWheel		0.0.5	101050 101051	Wheewheel	murphyx	6b001219-cfeb-4b80-b418-e3c7da481d73
 WhereIsIt		1.5	101048 101049 101050 101051	Where Is It?	user562x	45d919f9-f85b-4930-9348-94fe2e245f98

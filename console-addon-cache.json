@@ -4158,6 +4158,20 @@
    "updatedAt": 1762308051,
    "version": "1.15"
   },
+  "74e3cf1b-47f3-44c7-ac72-290efc19e8f3/ObsidianHUD": {
+   "addOnVersion": "400",
+   "addonId": "74e3cf1b-47f3-44c7-ac72-290efc19e8f3",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings>=20200",
+   "downloads": 0,
+   "folder": "ObsidianHUD",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Trest",
+   "updatedAt": 1792871324,
+   "version": "0.4.0"
+  },
   "75167780-fb8c-479c-86be-c0a208443b97/CollectThemAll": {
    "addOnVersion": "",
    "addonId": "75167780-fb8c-479c-86be-c0a208443b97",
@@ -5125,18 +5139,18 @@
    "version": "1.9.5"
   },
   "918caf2a-e100-4088-ae58-92d9240520a5/MapOfManyRiches": {
-   "addOnVersion": "25101",
+   "addOnVersion": "25102",
    "addonId": "918caf2a-e100-4088-ae58-92d9240520a5",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 454633,
+   "downloads": 470839,
    "folder": "MapOfManyRiches",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "Map of Many Riches",
-   "updatedAt": 1791149103,
-   "version": "2.51.01"
+   "updatedAt": 1792871708,
+   "version": "2.51.02"
   },
   "91a5e014-74ee-4d3b-a612-b2b05dd223d8/FashionMount": {
    "addOnVersion": "",
@@ -8387,18 +8401,18 @@
    "version": "1.0.3"
   },
   "ea5313bb-c034-4b91-8816-546e4d37a355/WhatsMissing": {
-   "addOnVersion": "15108",
+   "addOnVersion": "15109",
    "addonId": "ea5313bb-c034-4b91-8816-546e4d37a355",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 8194,
+   "downloads": 8374,
    "folder": "WhatsMissing",
    "isLibrary": "false",
    "optionalDependsOn": "LibRadialMenu",
    "title": "What's Missing? - Skill Point Tracker",
-   "updatedAt": 1792861720,
-   "version": "1.51.08"
+   "updatedAt": 1792864707,
+   "version": "1.51.09"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0/LibPromises": {
    "addOnVersion": "37",
@@ -11167,6 +11181,12 @@
    ],
    "version": "1.15"
   },
+  "74e3cf1b-47f3-44c7-ac72-290efc19e8f3": {
+   "folders": [
+    "ObsidianHUD"
+   ],
+   "version": "0.4.0"
+  },
   "75167780-fb8c-479c-86be-c0a208443b97": {
    "folders": [
     "CollectThemAll"
@@ -11614,7 +11634,7 @@
    "folders": [
     "MapOfManyRiches"
    ],
-   "version": "2.51.01"
+   "version": "2.51.02"
   },
   "91a5e014-74ee-4d3b-a612-b2b05dd223d8": {
    "folders": [
@@ -13095,7 +13115,7 @@
    "folders": [
     "WhatsMissing"
    ],
-   "version": "1.51.08"
+   "version": "1.51.09"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0": {
    "folders": [
