@@ -616,6 +616,7 @@ GamePadHelper_TooltipFont		1.03	4253	101047
 GamePadHelper_TooltipPoison		1.03	4253	101047
 GamePadHelper_TooltipPrice		1.03	4253	101047
 GamePadHelper_TooltipTrait		1.03	4253	101047
+GamepadInstantDestroy	3	1.2	4982	101050 101051
 GamepadInventoryTweaks	40	0.4.0	4453	101049
 GamepadStayMounted	10100	1.1.0	3951	101045 101046
 GamepadToggle	2	1.1	4977	101050 101051

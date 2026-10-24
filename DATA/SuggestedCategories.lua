@@ -643,6 +643,7 @@ AoM.SuggestedCategories = {
 	["GamePadHelper_TooltipPoison"] = "Plug-Ins & Patches",
 	["GamePadHelper_TooltipPrice"] = "Plug-Ins & Patches",
 	["GamePadHelper_TooltipTrait"] = "Plug-Ins & Patches",
+	["GamepadInstantDestroy"] = "Bags, Bank, Inventory",
 	["GamepadInventoryTweaks"] = "Bags, Bank, Inventory",
 	["GamepadStayMounted"] = "Game Controller",
 	["GamepadToggle"] = "Game Controller",
