@@ -1577,6 +1577,7 @@ AoM.SuggestedCategories = {
 	["SimpleDPS"] = "DPS",
 	["SimpleEventTracker"] = "Discontinued & Outdated",
 	["SimpleGoliathWeave"] = "Casting Bars, Cooldowns",
+	["SimplePlayerFrames"] = "Graphic UI Mods",
 	["SimplePlayTime"] = "Utility Mods",
 	["SimpleSkyshards"] = "Map, Coords, Compasses",
 	["SimpleUltimateTracker"] = "Action Bar Mods",
