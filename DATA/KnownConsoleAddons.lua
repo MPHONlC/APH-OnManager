@@ -161,7 +161,7 @@ Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b
 DevSandbox3	41902	DevSandbox3-4.19.2-2026-10-17T150333	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
-DM2_ParseFightStats	31803	3.18.3	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
+DM2_ParseFightStats	31804	3.18.4	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
 DM2SimpleDPS	10014	1.0.14	101048 101047	DM2 Simple DPS	Fredgu3	324ffb56-dc57-4b03-a4b0-2c43de605ef1
 DoesThisThingGoAnyFaster	13	0.8	101051	DoesThisThingGoAnyFaster	Th3rtythr33	838c4ba0-f7d2-4d29-ab28-7bd838a4973b
 DolgubonsLazySetCrafter		3.0.7.9	101049 101050	Dolgubon's Lazy Set Crafter (XBPA ONLY)	Dolgubon	e1b979e5-1c57-4da0-8980-5477f9d3b689
@@ -235,7 +235,7 @@ GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9
 GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
-GuildMarketScannerDev	189	v1.0.5u	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildMarketScannerDev	200	v1.0.6f	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
@@ -249,7 +249,7 @@ HelloWorld		0.0.6	101047	HelloWorld	ReliktKoala	d3514a63-e01b-4267-ab25-f1b8e79a
 HerosCompass		1.4.2	101050 101051	Hero's Compass	murphyx	282169ec-5b28-4744-bed7-c866d07adb4a
 HideAntiquariansEyePrompt	100000	1.0.0	101051	Hide Antiquarian's Eye Prompt	code65536	9d18decc-c49a-447c-afad-03a243ddfc6a
 HideGroupNecro		1.4.0	101046	HideGroupNecro	B7TxSpeed	8e7b0d7b-4c3c-4dfc-896e-6c413074928b
-HodorReflexes	20261018	2026-10-18	101049 101050	HodorReflexes	m00nyONE	fef0db78-bc0e-4c89-b77e-f03d570d10a9
+HodorReflexes	20261025	2026-10-25	101049 101050	HodorReflexes	m00nyONE	fef0db78-bc0e-4c89-b77e-f03d570d10a9
 HomeTourHistory		Beta	101035	House ID	Trunxrdm	1a4c7280-2bf3-4373-b9b5-6f872886f724
 HouseDirectory	4	1.0.0	101050 101051	House Directory	TheGreyWolf98	c42c61b1-af71-4aaf-9667-240aabc831e8
 HouseHotkey	182	1.8.2	101050 101051	House Hotkey	saranicole1980	256dc81e-d505-4eb6-9a51-1d7ffc360c69

@@ -7477,18 +7477,18 @@
    "version": "4.0.5.031"
   },
   "d2f38194-bd78-47b6-817f-71932b3a5c42/DM2_ParseFightStats": {
-   "addOnVersion": "31803",
+   "addOnVersion": "31804",
    "addonId": "d2f38194-bd78-47b6-817f-71932b3a5c42",
    "apiVersion": "101048 101047",
    "author": "Fredgu3",
    "dependsOn": "",
-   "downloads": 14775,
+   "downloads": 15316,
    "folder": "DM2_ParseFightStats",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibAddonMenu2 LibStub",
    "title": "DM2 Parse & Fight Stats",
-   "updatedAt": 1788796955,
-   "version": "3.18.3"
+   "updatedAt": 1792933868,
+   "version": "3.18.4"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557/LoreBooks": {
    "addOnVersion": "96",
@@ -8807,18 +8807,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "189",
+   "addOnVersion": "200",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 195,
+   "downloads": 217,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1792919825,
-   "version": "v1.0.5u"
+   "updatedAt": 1792928320,
+   "version": "v1.0.6f"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -9283,18 +9283,18 @@
    "version": "1.1.3"
   },
   "fef0db78-bc0e-4c89-b77e-f03d570d10a9/HodorReflexes": {
-   "addOnVersion": "20261018",
+   "addOnVersion": "20261025",
    "addonId": "fef0db78-bc0e-4c89-b77e-f03d570d10a9",
    "apiVersion": "101049 101050",
    "author": "m00nyONE",
    "dependsOn": "LibGroupCombatStats>=20250816 LibGroupBroadcast>=91 LibDebugLogger>=268",
-   "downloads": 111302,
+   "downloads": 114284,
    "folder": "HodorReflexes",
    "isLibrary": "",
    "optionalDependsOn": "LibCombat2>=8 LibCustomNames>=1 LibCustomIcons>=1 LibRadialMenu>=1",
    "title": "HodorReflexes",
-   "updatedAt": 1792320048,
-   "version": "2026-10-18"
+   "updatedAt": 1792935408,
+   "version": "2026-10-25"
   },
   "ff4bafd1-1006-4f21-8d38-7a45f4527518/PBsKillLog": {
    "addOnVersion": "",
@@ -10293,7 +10293,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.568"
+   "version": "0.0.569"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12714,7 +12714,7 @@
     "DM2_ParseFightStats",
     "DM2_ParseFightStats"
    ],
-   "version": "3.18.3"
+   "version": "3.18.4"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557": {
    "folders": [
@@ -13331,7 +13331,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.5u"
+   "version": "v1.0.6f"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [
@@ -13541,7 +13541,7 @@
    "folders": [
     "HodorReflexes"
    ],
-   "version": "2026-10-18"
+   "version": "2026-10-25"
   },
   "ff4bafd1-1006-4f21-8d38-7a45f4527518": {
    "folders": [
