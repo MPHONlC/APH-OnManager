@@ -12,6 +12,7 @@ local AoM = APHOnManagerCore
 AoM.KnownConsoleAddons = AoM.CreateConsoleTable([==[
 702sCraftCompletionistList		Version 2.4.3.4	101048 101049	702's Craft Completionist List	The702Guy	b3b32522-0ed3-419e-b20d-ef4b651bc013
 AA_Profiler	100	0.09	101043	AA_Profiler	spoqster	66400ef3-3d78-4737-a158-c48633706a83
+AAA_RuntimeWatch	1	0.1.0	101050 101051	Runtime Watch	TheGreyWolf98	4fda2eee-1b8d-4a0b-94c2-e748543364b9
 AbahsAppraiser	15106	1.51.06	101051	Auto Sell Junk - Abah's Appraiser	xbutch	2d6ff530-edbc-4425-be68-daadbc3c0afa
 AbilityIDToolkit		v0.0.05	101050	TEST 03	BMGxSancho	ccd8ba3a-f81c-4f99-98fd-84f9ce3c76f0
 AboveMe	771	v0.0.02	101050	Above Me Icon Browser	BMGxSancho	c1746be9-5c6a-4516-aa21-e54bd8e5a25e
@@ -57,8 +58,8 @@ AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
 ArtaeumGroupTool	613	6.1.3	101048	Artaeum Group Tool	M0R	dc653131-c684-4f94-b875-35a29506436b
 AsylumTimers	10303	1.3.5	101048 101049	Asylum Timers	Shienar	b95c419b-3f27-4214-aaae-c39bc4cbbeab
-Atlas	10006	1.0.6	101051	Atlas	TheGreyWolf98	f01417b0-7ff1-43e7-9d6e-9ff9e62279b3
-AtlasMiniMap	8	1.0.5	101050 101051	Atlas Mini Map	TheGreyWolf98	56cfaf14-f344-4808-bed0-fa69138769fd
+Atlas	10007	1.0.7	101051	Atlas	TheGreyWolf98	f01417b0-7ff1-43e7-9d6e-9ff9e62279b3
+AtlasMiniMap	9	1.0.6	101050 101051	Atlas Mini Map	TheGreyWolf98	56cfaf14-f344-4808-bed0-fa69138769fd
 atronachTracker		1.1.3	101051	Storm Atronach Tracker	codeWarrior82	a70e4425-99f9-4fdb-85da-dc21b578e10f
 AutoClaimGoldenPursuits	200010	2.0.1	101050	Auto-Claim or Hide Golden Pursuits	code65536	48b63611-befb-44e1-b87a-1bac567ee234
 AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenges	code65536	910446ca-4e83-47c8-8c9b-a5d99bcec73e
@@ -67,7 +68,7 @@ AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
-AutoMasterWrits	15101	1.51.01	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
+AutoMasterWrits	15102	1.51.02	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
 AutoReadyCheck	241	v2.4.1	101049 101048	AutoReadyCheck	L_cky	be99bdeb-a9e3-4b63-abe8-9aa886190e8e
 AutoRechargeAndRepair	10503	1.5.5	101048 101049	Auto Repair and Recharge	Shienar	560a465f-d7b4-49ae-af7a-0558e1683ada
 AutoResearch		3.1.2	101046	Auto Research	Dolgubon	6694e6d4-7ae0-4eb8-9a61-e1c53ac5c187
@@ -418,7 +419,7 @@ NoTargetFrame	110	Final version	101050	Hide Targetframe by JH	j.hhh	b1bf0d35-ce2
 NQOL	367	367	101050 101051	NQOL	unacntble	6987c48d-827e-4583-a5a7-6cb748174190
 NQOL-dev	366	366	101050 101051	NQOL-dev	unacntble	475ce77b-6d09-4c75-8c28-95fff8f907c9
 NumbersOnDummyOnly		2025.05.29	101046	NumbersOnDummyOnly	Masteroshi430	7dd87315-5f9a-4644-887f-a38632d7f70e
-ObsidianHUD	614	0.7.0	101051	Trest	FiNk3F13	74e3cf1b-47f3-44c7-ac72-290efc19e8f3
+ObsidianHUD	702	0.7.3	101051	Trest	FiNk3F13	74e3cf1b-47f3-44c7-ac72-290efc19e8f3
 OffBalanceTracker	0005	20260914-0005	101050	Off Balance Tracker - incl. Smart Tracking Mode	DuesentriebESO	ee431f44-2522-4944-ad58-8916644ec121
 OhNoMyMenu		1.0.1	101050	Oh No My Menu	BLKx777	30102403-93a7-4fd2-a08a-4b249f03e4d4
 Olorime	020300	2.3.0	101047 101048	Olorime	tmbrinks	2abdc7a0-d15d-42ae-aad7-bccf995da180

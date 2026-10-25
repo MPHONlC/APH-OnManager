@@ -28,7 +28,7 @@ AsylumTimers	LibHarvensAddonSettings
 atronachTracker	LibNotify
 AutoComplete	pChat
 AutoLuaMemoryCleaner	LibAddonMenu-2.0	LibHarvensAddonSettings
-AutoMasterWrits	LibConsoleDialogs	LibHarvensAddonSettings	LibRadialMenu
+AutoMasterWrits	LibHarvensAddonSettings	LibRadialMenu
 AutoRechargeAndRepair	LibHarvensAddonSettings
 AutoResearch	DolgubonsLazyWritCreator	FCOItemSaver	LibLazyCrafting	LibSets
 AwesomeGuildStore	CraftedPotions	LibFilters-3.0

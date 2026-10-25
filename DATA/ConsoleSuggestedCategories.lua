@@ -181,6 +181,7 @@ PetHealth	Unit Mods
 PinAutoResizer	Map, Coords, Compasses
 PinKiller	Map, Coords, Compasses
 PointsofColor	Map, Coords, Compasses
+PreviewAnywhere	Graphic UI Mods
 ProvisioningWatcher	Buff, Debuff, Spell
 PullCard	Raid Mods
 QAutoConfirm	Discontinued & Outdated

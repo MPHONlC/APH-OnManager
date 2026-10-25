@@ -2954,6 +2954,20 @@
    "updatedAt": 1772496261,
    "version": "1.5"
   },
+  "4fda2eee-1b8d-4a0b-94c2-e748543364b9/AAA_RuntimeWatch": {
+   "addOnVersion": "1",
+   "addonId": "4fda2eee-1b8d-4a0b-94c2-e748543364b9",
+   "apiVersion": "101050 101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "AAA_RuntimeWatch",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Runtime Watch",
+   "updatedAt": 1792957519,
+   "version": "0.1.0"
+  },
   "4ff8232a-3b96-4a66-8401-dad48e8b5301/GoronDev": {
    "addOnVersion": "",
    "addonId": "4ff8232a-3b96-4a66-8401-dad48e8b5301",
@@ -3207,18 +3221,18 @@
    "version": "Rahaad1.0.6a"
   },
   "56cfaf14-f344-4808-bed0-fa69138769fd/AtlasMiniMap": {
-   "addOnVersion": "8",
+   "addOnVersion": "9",
    "addonId": "56cfaf14-f344-4808-bed0-fa69138769fd",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 98,
+   "downloads": 117,
    "folder": "AtlasMiniMap",
    "isLibrary": "False",
    "optionalDependsOn": "",
    "title": "Atlas Mini Map",
-   "updatedAt": 1792942725,
-   "version": "1.0.5"
+   "updatedAt": 1792956335,
+   "version": "1.0.6"
   },
   "588eb388-ead2-4649-82cc-13838f638b1f/TheSynapticRegistry": {
    "addOnVersion": "9",
@@ -4187,7 +4201,7 @@
    "version": "1.15"
   },
   "74e3cf1b-47f3-44c7-ac72-290efc19e8f3/ObsidianHUD": {
-   "addOnVersion": "614",
+   "addOnVersion": "702",
    "addonId": "74e3cf1b-47f3-44c7-ac72-290efc19e8f3",
    "apiVersion": "101051",
    "author": "FiNk3F13",
@@ -4197,8 +4211,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Trest",
-   "updatedAt": 1792949871,
-   "version": "0.7.0"
+   "updatedAt": 1792954629,
+   "version": "0.7.3"
   },
   "75167780-fb8c-479c-86be-c0a208443b97/CollectThemAll": {
    "addOnVersion": "",
@@ -4873,18 +4887,18 @@
    "version": "1.0.0"
   },
   "8ac74138-bfc3-481a-9baf-7e2cdbca36a0/AutoMasterWrits": {
-   "addOnVersion": "15101",
+   "addOnVersion": "15102",
    "addonId": "8ac74138-bfc3-481a-9baf-7e2cdbca36a0",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "DolgubonsLazyWritCreator LibLazyCrafting",
-   "downloads": 3,
+   "downloads": 6,
    "folder": "AutoMasterWrits",
    "isLibrary": "",
-   "optionalDependsOn": "LibRadialMenu LibHarvensAddonSettings LibConsoleDialogs",
+   "optionalDependsOn": "LibRadialMenu LibHarvensAddonSettings",
    "title": "Auto Master Writs",
-   "updatedAt": 1792897479,
-   "version": "1.51.01"
+   "updatedAt": 1792957830,
+   "version": "1.51.02"
   },
   "8ba040d8-fba0-4a01-aa63-4ee74dd2d1d6/AdventurersToolkit": {
    "addOnVersion": "652",
@@ -8667,18 +8681,18 @@
    "version": "0.3.2"
   },
   "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3/Atlas": {
-   "addOnVersion": "10006",
+   "addOnVersion": "10007",
    "addonId": "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3",
    "apiVersion": "101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 230,
+   "downloads": 259,
    "folder": "Atlas",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Atlas",
-   "updatedAt": 1792942677,
-   "version": "1.0.6"
+   "updatedAt": 1792955054,
+   "version": "1.0.7"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e/DVDScreenSaver": {
    "addOnVersion": "",
@@ -10697,6 +10711,12 @@
    ],
    "version": "1.5"
   },
+  "4fda2eee-1b8d-4a0b-94c2-e748543364b9": {
+   "folders": [
+    "AAA_RuntimeWatch"
+   ],
+   "version": "0.1.0"
+  },
   "4ff3bda0-2c6e-4838-b13e-8062d7d81ddc": {
    "folders": [],
    "version": "2.3"
@@ -10818,7 +10838,7 @@
    "folders": [
     "AtlasMiniMap"
    ],
-   "version": "1.0.5"
+   "version": "1.0.6"
   },
   "588eb388-ead2-4649-82cc-13838f638b1f": {
    "folders": [
@@ -11246,7 +11266,7 @@
    "folders": [
     "ObsidianHUD"
    ],
-   "version": "0.7.0"
+   "version": "0.7.3"
   },
   "75167780-fb8c-479c-86be-c0a208443b97": {
    "folders": [
@@ -11559,7 +11579,7 @@
    "folders": [
     "AutoMasterWrits"
    ],
-   "version": "1.51.01"
+   "version": "1.51.02"
   },
   "8ba040d8-fba0-4a01-aa63-4ee74dd2d1d6": {
    "folders": [
@@ -13287,7 +13307,7 @@
    "folders": [
     "Atlas"
    ],
-   "version": "1.0.6"
+   "version": "1.0.7"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e": {
    "folders": [
