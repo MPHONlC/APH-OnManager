@@ -71,7 +71,7 @@ AltBuffs		1.0.3	3875	101041
 AlternateDeathRecap	30200	3.3	4454	101049 101050
 AltGroupFrames	15	1.5.39	3053	101051
 AltGroupFramesBuffTracker	13	1.5.39	3053	101050
-ALTHI	903	0.9.3	4984	101051
+ALTHI	904	0.9.4	4984	101051
 AlwaysCompass		0.0.2	4107	101045
 AlwaysExpandedAttributeBars		4.0	2979	101051
 AlwaysLogging		v3.1.12.1.0	4081	101051 101050
@@ -158,7 +158,7 @@ AutoMessage		1.4.12	2859	101042
 AutoNomNom		2026-09-30	4897	101050 101051
 AutoRanks	34	3.4.3	2635	101049 101050
 AutoReadyCheck	241	2.4.1	3688	101049 101048
-AutoRecruit		3.3.2	2571	101049 101050
+AutoRecruit		3.4.0	2571	101051
 AutoResearch		3.1.0	1652	101046
 AutoSeller		0.2	4345	101044
 AwesomeEvents	22	1.7 build-22	1739	101040
@@ -182,7 +182,7 @@ BanditsGuildhall		1.7	3176	101040
 BanditsUserInterface		4.440	1643	101051
 BanditsUserInterfaceZHPatch		4.413	3909	101042
 BankDataExporter		1.0.3.1	3825	101046 101047
-Bankir		2.6	4535	101051
+Bankir		2.7.1	4535	101051
 BankManagerRevived		15.13	2333	101051 101050
 BankManagerTESO	1	1	4072	101041
 BannerTracker	1	1.0.5	4003	101044
@@ -424,6 +424,7 @@ DecoTrack		2.7	2100	101047
 DecraftAll	10001	1.0.0	4774	101049 101050
 DefaultGuildBank	24	1.23	2929	101052 101051
 DeltaScry		1.0.0	4679	101050 101050
+DelugeBlame		1.0.0	4988	101051
 DescendantsDisplayBar		1.5.0	3528	101049
 DescendantsSupportSetTracker		1.1.0	3326	101049
 Destinations	3006	30.06	667	101047 101048
@@ -606,6 +607,7 @@ FurnishingRecipeCollector		1.4.9	3862	101050
 FurnitureCatalogue	8000001	8.0.1	1617	101051 101052
 FurnitureCatalogue_DevUtility		8.0.1	1617	101050 101051
 FurnitureCatalogue_Export		8.0.1	1617	101050 101051
+FurnitureFilter	1	1	4986	101051
 GamePadHelper	10618	1.06.18	3268	101049 101050
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -1140,6 +1142,7 @@ PowerScry		1.0.1	3769	101040
 Pre101046UI	4	4.0.1	4130	101048 101049
 PreventAttackingGuards		1.0.1	3762	101036
 PreventCrimeActions		1.1	4663	101049
+PreviewAnywhere	1	1	4987	101051
 PreviousQuest		2026.07.09	3801	101050
 PriceTooltip		1.7.2	2221	101043
 PriceTooltipGamepad		1.4	4439	101049 101050
@@ -1226,7 +1229,7 @@ RewardPopupsReworked	10008	1.8	4694	101050 101051
 RewardsTracker	84	0.8.4	2864	101048
 RhalyfsKeybindings		1.1	1147	101049 101050
 Rhythmos		1.0	4586	101046
-RidinDirty		2026.10.10	3560	101051
+RidinDirty		2026.10.25	3560	101051 101052
 RidingSchool	26	1.4.22	2491	101052 101051
 RipFilter	75	0.75	1844	101040
 RiptideTracker		1.3	3663	101039 101040
@@ -1392,6 +1395,7 @@ StaticsLetterOpener	1	1.1.0	4368	101049
 StaticsRecruiter	3	3.0.3	3836	101049
 StaticsSocialFeatures	2	2.0.1	4239	101049
 STG_EventBoxTimer		2023.11.23-1.1a	3755	101040
+StickerbookDropPools	10000	1	4985	101050 101051
 StickerbookPlus	10001	1.0.1	4692	101050 101051
 StickyHoTs		2.0.1	4440	101049 101050
 StickyWeapons	111	1.1.1	3673	101040
