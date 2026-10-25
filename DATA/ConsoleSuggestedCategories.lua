@@ -87,6 +87,7 @@ InstaQ	Discontinued & Outdated
 ItalianScrollsOnline	Unofficial game translations
 KillCount	PvP
 LazyHorseFeed	Character Advancement
+LazyOverlandChallenger	Utility Mods
 LibAddonMenu-2.0	Libraries
 LibAlchemy	Libraries
 LibAPH	Libraries

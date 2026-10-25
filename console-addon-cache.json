@@ -132,13 +132,13 @@
    "apiVersion": "101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 30,
+   "downloads": 80,
    "folder": "CraftMaster",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Craft Master",
-   "updatedAt": 1791919438,
-   "version": "1.0.11"
+   "updatedAt": 1792946464,
+   "version": "1.0.12"
   },
   "0633023c-b987-4b33-ba10-4437f11b6efd/EnemyNegateWarning": {
    "addOnVersion": "",
@@ -1205,18 +1205,18 @@
    "version": "0.3.0"
   },
   "23c652bc-541e-443a-8f1f-e2f7c0bfef13/TGWBindAndInvite": {
-   "addOnVersion": "4",
+   "addOnVersion": "6",
    "addonId": "23c652bc-541e-443a-8f1f-e2f7c0bfef13",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 13,
    "folder": "TGWBindAndInvite",
    "isLibrary": "",
    "optionalDependsOn": "",
-   "title": "TGW Bind & Invite",
-   "updatedAt": 1791394162,
-   "version": "1.0.0"
+   "title": "Bind & Invite",
+   "updatedAt": 1792942618,
+   "version": "1.0.2"
   },
   "23ee5193-1c27-4b42-b005-05c3f28ad835/CTest": {
    "addOnVersion": "2606272",
@@ -2325,18 +2325,18 @@
    "version": "v4.0.1"
   },
   "3ecd8aa0-ce2c-4b41-b059-214dad8bac4f/ChatPalette": {
-   "addOnVersion": "2",
+   "addOnVersion": "3",
    "addonId": "3ecd8aa0-ce2c-4b41-b059-214dad8bac4f",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 6,
+   "downloads": 20,
    "folder": "ChatPalette",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Chat Palette",
-   "updatedAt": 1791565084,
-   "version": "1.0.0"
+   "updatedAt": 1792944284,
+   "version": "1.0.1"
   },
   "3f511a24-33c0-4c94-979a-97e0982dbb6b/SynergyPriority": {
    "addOnVersion": "2.0",
@@ -2365,6 +2365,20 @@
    "title": "PinkB's ChatAssistant",
    "updatedAt": 1792237356,
    "version": "1.30.1"
+  },
+  "427000e9-72c4-4fc9-b9b6-3cca4f863607/ScryMaster": {
+   "addOnVersion": "",
+   "addonId": "427000e9-72c4-4fc9-b9b6-3cca4f863607",
+   "apiVersion": "101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "",
+   "downloads": 50,
+   "folder": "ScryMaster",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Skill Point Finder",
+   "updatedAt": 1792946965,
+   "version": "1.0.1"
   },
   "427000e9-72c4-4fc9-b9b6-3cca4f863607/TGWSkillSeeker": {
    "addOnVersion": "6",
@@ -2465,18 +2479,18 @@
    "version": "0"
   },
   "442cb9b3-e5a9-4cf0-a01f-df3af415e92a/ZoneSweep": {
-   "addOnVersion": "9",
+   "addOnVersion": "10",
    "addonId": "442cb9b3-e5a9-4cf0-a01f-df3af415e92a",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 21,
+   "downloads": 41,
    "folder": "ZoneSweep",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "ZoneSweep",
-   "updatedAt": 1791736947,
-   "version": "0.5.1"
+   "updatedAt": 1792947042,
+   "version": "0.5.2"
   },
   "443e6038-7baa-4e81-84fb-afe6cd3f92d6/TauntAssist": {
    "addOnVersion": "6",
@@ -2591,18 +2605,18 @@
    "version": "366"
   },
   "47608f50-4be4-46b1-833f-575274a7dbf2/ChatKeeper": {
-   "addOnVersion": "12",
+   "addOnVersion": "13",
    "addonId": "47608f50-4be4-46b1-833f-575274a7dbf2",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 19,
+   "downloads": 29,
    "folder": "ChatKeeper",
    "isLibrary": "False",
    "optionalDependsOn": "",
    "title": "Chat keeper",
-   "updatedAt": 1791735619,
-   "version": "1.0.1"
+   "updatedAt": 1792944217,
+   "version": "1.0.2"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -3193,18 +3207,18 @@
    "version": "Rahaad1.0.6a"
   },
   "56cfaf14-f344-4808-bed0-fa69138769fd/AtlasMiniMap": {
-   "addOnVersion": "6",
+   "addOnVersion": "8",
    "addonId": "56cfaf14-f344-4808-bed0-fa69138769fd",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 34,
+   "downloads": 98,
    "folder": "AtlasMiniMap",
    "isLibrary": "False",
    "optionalDependsOn": "",
    "title": "Atlas Mini Map",
-   "updatedAt": 1791824356,
-   "version": "1.0.3"
+   "updatedAt": 1792942725,
+   "version": "1.0.5"
   },
   "588eb388-ead2-4649-82cc-13838f638b1f/TheSynapticRegistry": {
    "addOnVersion": "9",
@@ -4038,13 +4052,13 @@
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 32,
+   "downloads": 72,
    "folder": "ItemHound",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "ItemHound",
-   "updatedAt": 1791921354,
-   "version": "0.8.1"
+   "updatedAt": 1792946675,
+   "version": "0.8.2"
   },
   "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0/QcellDreadsailReefHelper": {
    "addOnVersion": "",
@@ -4173,18 +4187,18 @@
    "version": "1.15"
   },
   "74e3cf1b-47f3-44c7-ac72-290efc19e8f3/ObsidianHUD": {
-   "addOnVersion": "400",
+   "addOnVersion": "614",
    "addonId": "74e3cf1b-47f3-44c7-ac72-290efc19e8f3",
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 0,
+   "downloads": 4,
    "folder": "ObsidianHUD",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Trest",
-   "updatedAt": 1792871324,
-   "version": "0.4.0"
+   "updatedAt": 1792949871,
+   "version": "0.7.0"
   },
   "75167780-fb8c-479c-86be-c0a208443b97/CollectThemAll": {
    "addOnVersion": "",
@@ -5447,18 +5461,18 @@
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
-   "addOnVersion": "8",
+   "addOnVersion": "9",
    "addonId": "989b1df5-3c15-479c-b13d-a42ed8b45214",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 18,
+   "downloads": 36,
    "folder": "CombatRecap",
    "isLibrary": "False",
    "optionalDependsOn": "",
    "title": "Combat Recap",
-   "updatedAt": 1791624096,
-   "version": "1.0.1"
+   "updatedAt": 1792944346,
+   "version": "1.0.2"
   },
   "9926b8d4-d4ca-4215-8790-013c0b1630c0/AutoLuaMemoryCleaner": {
    "addOnVersion": "26101801",
@@ -6329,18 +6343,18 @@
    "version": "3.49.0"
   },
   "b25439ca-4262-4d71-940e-8b5db7507286/Loadout": {
-   "addOnVersion": "10000",
+   "addOnVersion": "10001",
    "addonId": "b25439ca-4262-4d71-940e-8b5db7507286",
    "apiVersion": "101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 9,
+   "downloads": 31,
    "folder": "Loadout",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Loadout",
-   "updatedAt": 1791482390,
-   "version": "1.0.0"
+   "updatedAt": 1792946734,
+   "version": "1.0.1"
   },
   "b288ca12-6f96-416d-8cc1-13397e5f997a/ShowBagSpace": {
    "addOnVersion": "",
@@ -6875,18 +6889,18 @@
    "version": "2.2.2"
   },
   "c42c61b1-af71-4aaf-9667-240aabc831e8/HouseDirectory": {
-   "addOnVersion": "4",
+   "addOnVersion": "5",
    "addonId": "c42c61b1-af71-4aaf-9667-240aabc831e8",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 16,
+   "downloads": 44,
    "folder": "HouseDirectory",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "House Directory",
-   "updatedAt": 1791562751,
-   "version": "1.0.0"
+   "updatedAt": 1792946546,
+   "version": "1.0.1"
   },
   "c49e3df6-7e8e-4a29-8866-1afb08cca3a8/PBsTranslate": {
    "addOnVersion": "",
@@ -7755,6 +7769,20 @@
    "title": "Diablo Frames Action Bar Console",
    "updatedAt": 1791338495,
    "version": "0.1.3"
+  },
+  "da61ba59-9a71-4945-9af6-c39f6b8fa393/LazyOverlandChallenger": {
+   "addOnVersion": "",
+   "addonId": "da61ba59-9a71-4945-9af6-c39f6b8fa393",
+   "apiVersion": "101051",
+   "author": "Lykeion+",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "LazyOverlandChallenger",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Lazy Overland Challenger",
+   "updatedAt": 1792944147,
+   "version": "1.0"
   },
   "da882875-d281-47d4-b525-aa19f4f40875/GroupBuffPanels": {
    "addOnVersion": "203030",
@@ -8639,18 +8667,18 @@
    "version": "0.3.2"
   },
   "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3/Atlas": {
-   "addOnVersion": "10002",
+   "addOnVersion": "10006",
    "addonId": "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3",
    "apiVersion": "101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 127,
+   "downloads": 230,
    "folder": "Atlas",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Atlas",
-   "updatedAt": 1791920505,
-   "version": "1.02"
+   "updatedAt": 1792942677,
+   "version": "1.0.6"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e/DVDScreenSaver": {
    "addOnVersion": "",
@@ -9143,18 +9171,18 @@
    "version": "1.5"
   },
   "fcf311fe-14ad-4eff-ae72-cee32d7b5943/MasterBaiter": {
-   "addOnVersion": "13",
+   "addOnVersion": "14",
    "addonId": "fcf311fe-14ad-4eff-ae72-cee32d7b5943",
    "apiVersion": "101050 101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 53,
+   "downloads": 99,
    "folder": "MasterBaiter",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Master Baiter",
-   "updatedAt": 1791387561,
-   "version": "1.0.1"
+   "updatedAt": 1792946786,
+   "version": "1.0.2"
   },
   "fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8/IAHelper": {
    "addOnVersion": "",
@@ -9416,7 +9444,7 @@
    "folders": [
     "CraftMaster"
    ],
-   "version": "1.0.11"
+   "version": "1.0.12"
   },
   "0604268b-f390-4fac-aebe-67b9148c94f4": {
    "folders": [],
@@ -9909,7 +9937,7 @@
     "TGWBindAndInvite",
     "TGWBindAndInvite"
    ],
-   "version": "1.0.0"
+   "version": "1.0.2"
   },
   "23ee5193-1c27-4b42-b005-05c3f28ad835": {
    "folders": [
@@ -10293,7 +10321,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.569"
+   "version": "0.0.570"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -10406,7 +10434,7 @@
    "folders": [
     "ChatPalette"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "3f511a24-33c0-4c94-979a-97e0982dbb6b": {
    "folders": [
@@ -10422,10 +10450,9 @@
   },
   "427000e9-72c4-4fc9-b9b6-3cca4f863607": {
    "folders": [
-    "TGWSkillSeeker",
-    "TGWSkillSeeker"
+    "ScryMaster"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "42a55498-b21a-4657-86ba-bdb954f7a09d": {
    "folders": [
@@ -10466,7 +10493,7 @@
     "ZoneSweep",
     "ZoneSweep"
    ],
-   "version": "0.5.1"
+   "version": "0.5.2"
   },
   "443e6038-7baa-4e81-84fb-afe6cd3f92d6": {
    "folders": [
@@ -10521,7 +10548,7 @@
    "folders": [
     "ChatKeeper"
    ],
-   "version": "1.0.1"
+   "version": "1.0.2"
   },
   "47bd1882-3ae4-414d-929c-aad937946be0": {
    "folders": [],
@@ -10791,7 +10818,7 @@
    "folders": [
     "AtlasMiniMap"
    ],
-   "version": "1.0.3"
+   "version": "1.0.5"
   },
   "588eb388-ead2-4649-82cc-13838f638b1f": {
    "folders": [
@@ -11159,7 +11186,7 @@
     "ItemHound",
     "ItemHound"
    ],
-   "version": "0.8.1"
+   "version": "0.8.2"
   },
   "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0": {
    "folders": [
@@ -11219,7 +11246,7 @@
    "folders": [
     "ObsidianHUD"
    ],
-   "version": "0.4.0"
+   "version": "0.7.0"
   },
   "75167780-fb8c-479c-86be-c0a208443b97": {
    "folders": [
@@ -11797,7 +11824,7 @@
    "folders": [
     "CombatRecap"
    ],
-   "version": "1.0.1"
+   "version": "1.0.2"
   },
   "9926b8d4-d4ca-4215-8790-013c0b1630c0": {
    "folders": [
@@ -12183,7 +12210,7 @@
    "folders": [
     "Loadout"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "b288ca12-6f96-416d-8cc1-13397e5f997a": {
    "folders": [
@@ -12438,7 +12465,7 @@
    "folders": [
     "HouseDirectory"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "c49e3df6-7e8e-4a29-8866-1afb08cca3a8": {
    "folders": [
@@ -12833,6 +12860,12 @@
     "DiabloFramesConsole"
    ],
    "version": "0.1.3"
+  },
+  "da61ba59-9a71-4945-9af6-c39f6b8fa393": {
+   "folders": [
+    "LazyOverlandChallenger"
+   ],
+   "version": "1.0"
   },
   "da882875-d281-47d4-b525-aa19f4f40875": {
    "folders": [
@@ -13254,7 +13287,7 @@
    "folders": [
     "Atlas"
    ],
-   "version": "1.02"
+   "version": "1.0.6"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e": {
    "folders": [
@@ -13476,7 +13509,7 @@
     "MasterBaiter",
     "MasterBaiter"
    ],
-   "version": "1.0.1"
+   "version": "1.0.2"
   },
   "fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8": {
    "folders": [
