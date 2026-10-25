@@ -1836,6 +1836,7 @@ AoM.SuggestedCategories = {
 	["WeaveDelays"] = "Action Bar Mods",
 	["Wegesruhe"] = "Map, Coords, Compasses",
 	["WerewolfHelper"] = "Unit Mods",
+	["WerewolfRave"] = "RolePlay",
 	["WerewolfTimerBar"] = "Utility Mods",
 	["WerewolfTrackersAndQOL"] = "Casting Bars, Cooldowns",
 	["WerrasGuildAddons"] = "Group, Guild & Friends",
