@@ -29,6 +29,7 @@ AoM.KnownAddonDependencies = {
 	["AlphaGear"] = { "AutoCategory", "CSPS", "ChampionPointsSlots", "DynamicCP", "FCOItemSaver", "LibRadialMenu", "LibZone" },
 	["AlternateDeathRecap"] = { "LibHarvensAddonSettings" },
 	["AltGroupFrames"] = { "OdySupportIcons", "PlayerRoleIndicator" },
+	["ALTHI"] = { "ArkadiusTradeTools", "AwesomeGuildStore", "LibAddonMenu-2.0", "MasterMerchant", "TamrielTradeCentre" },
 	["AnimatedActionBarPlus"] = { "AlphaGear", "Azurah", "FancyActionBar+", "LuiExtended" },
 	["AntiquityDealIntel"] = { "LibLeadDrop" },
 	["AntiquityLeadsExpiryWarnings"] = { "LibSlashCommander" },

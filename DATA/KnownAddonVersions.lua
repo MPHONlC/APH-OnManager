@@ -71,6 +71,7 @@ AltBuffs		1.0.3	3875	101041
 AlternateDeathRecap	30200	3.3	4454	101049 101050
 AltGroupFrames	15	1.5.39	3053	101051
 AltGroupFramesBuffTracker	13	1.5.39	3053	101050
+ALTHI	903	0.9.3	4984	101051
 AlwaysCompass		0.0.2	4107	101045
 AlwaysExpandedAttributeBars		4.0	2979	101051
 AlwaysLogging		v3.1.12.1.0	4081	101051 101050
@@ -458,7 +459,7 @@ DryzlerElderGeekNetReticle		1.022	1759	101040 101041
 DryzlerElderGeekNetTaunt		1.022	1755	101040 101041
 DsRGuildHall	20260429	2026.04.29	3776	101048 101049
 DungeonChampions		1.0.16	2023	101034 101035
-DungeonFinderPlus		1.4.3	4298	101051
+DungeonFinderPlus	104040	1.4.4	4298	101051
 DungeonGear	1	0.16.1	4514	101049 101050
 DungeonHistory	112	1.1.2	3872	101042
 DungeonMechsCodex	816	0.8.16	4737	101050
@@ -871,6 +872,7 @@ LazyDecon		0.6.1	3449	101050
 LazyEnchantingRestockQueue	12	1.2	4392	101048
 LazyHorseFeed		1.0.5	2495	101045 101046
 LazyMailReply		1.1	3778	101040
+LazyOverlandChallenger		1.0	4983	101051
 Le_Guide_de_L_Antiquaire		2.6	4420	101049
 LeadDigger	10000	1.0.0	4905	101051
 Leaderboard2Chat	20082025	20.08.2025	4153	101047
