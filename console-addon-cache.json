@@ -1168,13 +1168,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 25,
+   "downloads": 27,
    "folder": "PBsCyrodiilAlert",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CyrodiilAlert(Beta)",
-   "updatedAt": 1791059080,
-   "version": "2.7.1"
+   "updatedAt": 1792891462,
+   "version": "2.8.0"
   },
   "23989a49-5901-4ccb-9b71-6e848d4bceee/BetterCharacterOverview": {
    "addOnVersion": "11000",
@@ -2085,6 +2085,20 @@
    "title": "Screenshot Mode Enhanced",
    "updatedAt": 1790929231,
    "version": "1.1.4"
+  },
+  "3880ed7f-304b-4af0-a403-83a982df9091/StealthIconOnly": {
+   "addOnVersion": "",
+   "addonId": "3880ed7f-304b-4af0-a403-83a982df9091",
+   "apiVersion": "101051",
+   "author": "Buhpa",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "StealthIconOnly",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Stealth Icon Only",
+   "updatedAt": 1792895488,
+   "version": "1.2"
   },
   "389fdfeb-6af9-48ad-8121-39ce405b4267/STARS": {
    "addOnVersion": "",
@@ -7342,13 +7356,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 77,
+   "downloads": 87,
    "folder": "PBsMiniMap",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's MiniMap(Beta)",
-   "updatedAt": 1790025123,
-   "version": "2.2.17"
+   "updatedAt": 1792894358,
+   "version": "2.3.4"
   },
   "d081d271-bda5-4b78-a18c-251878246156/MapPinsTextureFix": {
    "addOnVersion": "",
@@ -7552,13 +7566,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 1403,
+   "downloads": 1649,
    "folder": "PBsMiniMap",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's MiniMap",
-   "updatedAt": 1790025086,
-   "version": "2.2.17"
+   "updatedAt": 1792894762,
+   "version": "2.3.4"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616/SiegeReminder": {
    "addOnVersion": "110",
@@ -7748,13 +7762,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 89,
+   "downloads": 100,
    "folder": "PBsCyrodiilAlert",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CyrodiilAlert",
-   "updatedAt": 1791059746,
-   "version": "2.7.1"
+   "updatedAt": 1792892512,
+   "version": "2.8.0"
   },
   "da93c9ce-04e0-4acf-a62a-16e23c1e8d06/LibQRCode": {
    "addOnVersion": "046",
@@ -9862,7 +9876,7 @@
    "folders": [
     "PBsCyrodiilAlert"
    ],
-   "version": "2.7.1"
+   "version": "2.8.0"
   },
   "23989a49-5901-4ccb-9b71-6e848d4bceee": {
    "folders": [
@@ -10265,7 +10279,13 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.566"
+   "version": "0.0.568"
+  },
+  "3880ed7f-304b-4af0-a403-83a982df9091": {
+   "folders": [
+    "StealthIconOnly"
+   ],
+   "version": "1.2"
   },
   "389fdfeb-6af9-48ad-8121-39ce405b4267": {
    "folders": [
@@ -12620,7 +12640,7 @@
    "folders": [
     "PBsMiniMap"
    ],
-   "version": "2.2.17"
+   "version": "2.3.4"
   },
   "d081d271-bda5-4b78-a18c-251878246156": {
    "folders": [
@@ -12720,7 +12740,7 @@
    "folders": [
     "PBsMiniMap"
    ],
-   "version": "2.2.17"
+   "version": "2.3.4"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616": {
    "folders": [
@@ -12804,7 +12824,7 @@
    "folders": [
     "PBsCyrodiilAlert"
    ],
-   "version": "2.7.1"
+   "version": "2.8.0"
   },
   "da93c9ce-04e0-4acf-a62a-16e23c1e8d06": {
    "folders": [

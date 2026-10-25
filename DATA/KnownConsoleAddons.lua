@@ -433,7 +433,7 @@ PBsClock		1.3.1	101050 101051	PinkB's Clock(Beta)	PinkBanther	61641950-b365-49c6
 PBsCompass	100	1.0.0	101050 101051	PinkB's Compass for AD Stalkers	PinkBanther	9cf7a466-7ad1-4e05-b1d9-093450347229
 PBsConsoleHudCustomizer		1.27.18	101050 101051	PinkB's ResourceAndSkillBarCustomizer	PinkBanther	51bd8b59-40b0-4e2f-b31d-527bb63f0bfc
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
-PBsCyrodiilAlert		2.7.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
+PBsCyrodiilAlert		2.8.0	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.6	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
@@ -443,7 +443,7 @@ PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25
 PBsKillLog		1.5.0	101050 101051	PinkB's KillLog(Beta)	PinkBanther	79dd6cfe-4b31-471a-96b6-061bf53f35f6
 PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4878125-abb0-49bd-b8d3-ca06c9ad746a
 PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371fcd02-ae32-4937-a1d4-de4f33b01870
-PBsMiniMap		2.2.17	101050 101051	PinkB's MiniMap(Beta)	PinkBanther	d0219382-bec1-477e-bcc2-d2b0c7138a79
+PBsMiniMap		2.3.4	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsScreenshotModeShortcut		1.1.1	101050 101051	PinkB's ScreenshotModeShortcut(Beta)	PinkBanther	c3b0724d-c60e-44de-9244-7cdc9f20c868
@@ -540,6 +540,7 @@ StaggerTracker		1.5	101050	andy.s's Heat Shocker Tracker	Lykeion+	6c2f0adf-9ca4-
 STARS		0.6.21	101051	S.T.A.R.S	SugaComa	389fdfeb-6af9-48ad-8121-39ce405b4267
 StatColours		1.0.3	101046	Volcano's Stat Colours	Volcano_Beetle	f53af274-25ac-4c9f-8785-ad598d053a11
 StatsForNerds		1.0.0 BETA	101050	StatsForNerds	Vixen_Hunny	b9de0194-bc49-4ea7-9c65-b2db1caecca7
+StealthIconOnly		1.2	101051	Stealth Icon Only	Buhpa	3880ed7f-304b-4af0-a403-83a982df9091
 StonehulkDominationTracker		1.5.0	101049	StonehulkDominationTracker	FiNk3F13	230ed4c2-9e8f-43c0-a778-abad31557b72
 StoneTalker	010100	1.1.0	101047 101048	StoneTalker	tmbrinks	b9e43d9e-2e7b-4530-941b-01e90bd15f5a
 StyleNewCleaner	000100000	1.0.3	101050	Style New Cleaner	Eldibabalo	a77b6722-e51b-4b17-9543-632248774cf3
