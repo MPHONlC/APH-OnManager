@@ -182,7 +182,6 @@ PermMemento	LibAddonMenu-2.0	LibGroupBroadcast	LibHarvensAddonSettings
 PersonalDpsTracker	LibHarvensAddonSettings
 PetHealth	LibAddonMenu-2.0	LibAddonMenuOrderListBox	LibHarvensAddonSettings	LibSlashCommander
 PinAutoResizer	LibGPS
-PreviewAnywhere	LibConsoleLogger
 PVPBuddy	LibAddonMenu-2.0
 PvPUA	LibGroupBroadcast
 PvPUAPatch	LibConsoleLogger	LibGroupBroadcast

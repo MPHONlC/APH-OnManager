@@ -3417,18 +3417,18 @@
    "version": "0.3.0"
   },
   "5eaa0d91-47f8-4c5e-8673-db3ab518a752/LibCustomNames": {
-   "addOnVersion": "20261019",
+   "addOnVersion": "20261026",
    "addonId": "5eaa0d91-47f8-4c5e-8673-db3ab518a752",
    "apiVersion": "101049 101050",
    "author": "m00nyONE",
    "dependsOn": "",
-   "downloads": 305511,
+   "downloads": 311034,
    "folder": "LibCustomNames",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibCustomNames",
-   "updatedAt": 1792368721,
-   "version": "2026-10-19"
+   "updatedAt": 1792974096,
+   "version": "2026-10-26"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78/Puma": {
    "addOnVersion": "1",
@@ -6623,18 +6623,18 @@
    "version": "1.1.3"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/PreviewAnywhere": {
-   "addOnVersion": "",
+   "addOnVersion": "300",
    "addonId": "bc6b3b76-f701-4533-9492-c50acb1783bc",
-   "apiVersion": "101050",
+   "apiVersion": "101050 101051",
    "author": "clubwratt",
-   "dependsOn": "",
-   "downloads": 269,
+   "dependsOn": "LibConsoleLogger",
+   "downloads": 280,
    "folder": "PreviewAnywhere",
    "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger",
+   "optionalDependsOn": "",
    "title": "dev sandbox 2",
-   "updatedAt": 1786840262,
-   "version": "PreviewAnywhere-0.1.1-2026-08-15T173053"
+   "updatedAt": 1792983050,
+   "version": "PreviewAnywhere-0.3.0-2026-10-25T195041"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8/CritTracker": {
    "addOnVersion": "",
@@ -8849,18 +8849,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "200",
+   "addOnVersion": "209",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 217,
+   "downloads": 244,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1792928320,
-   "version": "v1.0.6f"
+   "updatedAt": 1792981189,
+   "version": "v1.0.6p"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -10335,7 +10335,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.570"
+   "version": "0.0.571"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -10923,7 +10923,7 @@
    "folders": [
     "LibCustomNames"
    ],
-   "version": "2026-10-19"
+   "version": "2026-10-26"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78": {
    "folders": [
@@ -12356,7 +12356,7 @@
    "folders": [
     "PreviewAnywhere"
    ],
-   "version": "PreviewAnywhere-0.1.1-2026-08-15T173053"
+   "version": "PreviewAnywhere-0.3.0-2026-10-25T195041"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
@@ -13384,7 +13384,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.6f"
+   "version": "v1.0.6p"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [

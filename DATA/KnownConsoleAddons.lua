@@ -236,7 +236,7 @@ GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9
 GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
-GuildMarketScannerDev	200	v1.0.6f	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildMarketScannerDev	209	v1.0.6p	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
@@ -301,7 +301,7 @@ LibConsoleLogger	400	LibConsoleLogger-0.4.0-2026-10-23T160515	101050	LibConsoleL
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea
-LibCustomNames	20261019	2026-10-19	101049 101050	LibCustomNames	m00nyONE	5eaa0d91-47f8-4c5e-8673-db3ab518a752
+LibCustomNames	20261026	2026-10-26	101049 101050	LibCustomNames	m00nyONE	5eaa0d91-47f8-4c5e-8673-db3ab518a752
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	307	2.6.2	101050	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
@@ -468,7 +468,7 @@ PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-472
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
-PreviewAnywhere		PreviewAnywhere-0.1.1-2026-08-15T173053	101050	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
+PreviewAnywhere	300	PreviewAnywhere-0.3.0-2026-10-25T195041	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
 PriorityBunny	400	0.4.0	101050	Priority Bunny	Jokergrrrrl	fa4ee6fb-c601-4163-998f-801078e1eac0
 ProcReminder	1.0.0	1.0.2	101049	Proc Reminder	Vixen_Hunny	541ab871-9386-4990-a3c7-32563ded9243
 ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-43cd-84b3-63ed659b9248

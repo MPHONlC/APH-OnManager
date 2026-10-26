@@ -25,7 +25,7 @@ LibConsoleLogger	400	LibConsoleLogger-0.4.0-2026-10-23T160515	101050	LibConsoleL
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea
-LibCustomNames	20261019	2026-10-19	101049 101050	LibCustomNames	m00nyONE	5eaa0d91-47f8-4c5e-8673-db3ab518a752
+LibCustomNames	20261026	2026-10-26	101049 101050	LibCustomNames	m00nyONE	5eaa0d91-47f8-4c5e-8673-db3ab518a752
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	307	2.6.2	101050	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
