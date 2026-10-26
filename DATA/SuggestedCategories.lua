@@ -863,6 +863,7 @@ AoM.SuggestedCategories = {
 	["InstantSwap"] = "Action Bar Mods",
 	["InstaQ"] = "Discontinued & Outdated",
 	["InventoryAssistant"] = "Bags, Bank, Inventory",
+	["InventoryCompanion"] = "Bags, Bank, Inventory",
 	["InventoryManagerTESO"] = "Bags, Bank, Inventory",
 	["InventoryUpkeep"] = "Bags, Bank, Inventory",
 	["IsJustaBmuGamepadPlugin"] = "Discontinued & Outdated",

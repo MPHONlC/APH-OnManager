@@ -137,7 +137,7 @@ AsylumTracker_jpFix		2.0.5.5	2969	101040
 aTim99_Tbar	1	19.7	3187	101051
 Atlas	210	2.1.0	4845	101050 101051
 AuctionHouse		2.5	4394	101044
-AureoleRange		6.5.2	4529	101049 101050
+AureoleRange		6.5.3	4529	101049 101050
 AutoAbandonContracts		1.1	4481	101041
 AutoBanishPets		0.8.0	3099	101041
 Autobanker		2.5	2199	101049 101050
@@ -607,7 +607,7 @@ FurnishingRecipeCollector		1.4.9	3862	101050
 FurnitureCatalogue	8000001	8.0.1	1617	101051 101052
 FurnitureCatalogue_DevUtility		8.0.1	1617	101050 101051
 FurnitureCatalogue_Export		8.0.1	1617	101050 101051
-FurnitureFilter	1	1	4986	101051
+FurnitureFilter	2	1.0.1	4986	101051
 GamePadHelper	10618	1.06.18	3268	101049 101050
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -809,6 +809,7 @@ InstanceLeaver	2	0.2	4867	101050
 InstantSwap		1.2	2987	100034
 InstaQ	1	1.2 Stable	4164	101046
 InventoryAssistant		1.21.261002-beta	2015	101051
+InventoryCompanion		1.1.0	4997	101051
 InventoryManagerTESO		1.0.2	4071	101041
 InventoryUpkeep	1700	1.8.0.0	1045	101050 101051
 IsJustaBmuGamepadPlugin		1.4.2	3624	101042 101041
@@ -1222,7 +1223,7 @@ ResistOMeter		1.2.0	3537	101035
 ResourceRadar	10009	1.0.9	2368	101047
 ResParse	302	0.3.2	4826	101050
 RestockBankMaterials	2	1.0.1	3545	101041
-RestyleHelper	12000	1.2	4914	101050 101051
+RestyleHelper	15000	1.5	4914	101050 101051
 Reveries		0.9	2726	101041
 RevivingBarrier	2	1.2	4819	101050 101051
 RewardPopupsReworked	10008	1.8	4694	101050 101051
@@ -1328,7 +1329,7 @@ SimpleCastbar	10304	1.3.4	3702	101044
 SimpleDailyCraft	20251117	0.93	3844	101047 101048
 SimpleDPS		4.1.101042	2849	101042 101041 101040 101039 101038 101037 101036 101035 101034 101033 101032 101031 100035 100034 100033
 SimpleEventTracker	3103	3.1.3	4932	101050 101051
-SimpleGoliathWeave	100	1.0.0	4975	101051 101052
+SimpleGoliathWeave	101	1.0.1	4975	101051 101052
 SimplePlayerFrames		1.0.1	4981	101044 101045
 SimplePlayTime		1.1.3	4452	101050
 SimpleSkyshards	106	1.06	3501	101040
@@ -1446,7 +1447,7 @@ TelvarSaver		1.9	3664	101050
 TemplarMastery	11	1.7	4827	101050 101051
 Tetris	17	1.7	3314	101040
 TextTrialsGuide		1.2.8	2461	101031
-TextureIt	2026092800	2026092800 - 101051	970	101051
+TextureIt	2026092800	2026102600 - 101052	970	101052
 ThagmarsCrystalFragmentsProc		1.0.2	4070	101046
 ThankYou		1.1	3822	101041
 TheElderSporesOnline		2.2.1	4386	101050
@@ -1620,7 +1621,7 @@ YANP		1.13	3837	101051
 YeOldeInfos		2.0.1	3122	101049
 YetAnotherCompass	15	1.5.21	1763	101042
 YsgramorCompanions		v1.0.12	3943	101044
-YudosInventoryProcessor		1.12.1	4324	101051
+YudosInventoryProcessor		1.13.1	4324	101051
 YudosKillFeed		1.3.5	4390	101051
 YudosPowerStats		1.6.2	4323	101051
 ZaiDFTools	7122025	07.12.2025	4151	101048 101047
