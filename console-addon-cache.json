@@ -1177,18 +1177,18 @@
    "version": "2.8.0"
   },
   "23989a49-5901-4ccb-9b71-6e848d4bceee/BetterCharacterOverview": {
-   "addOnVersion": "11000",
+   "addOnVersion": "11100",
    "addonId": "23989a49-5901-4ccb-9b71-6e848d4bceee",
-   "apiVersion": "101050",
+   "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 70,
+   "downloads": 84,
    "folder": "BetterCharacterOverview",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "BetterCharacterOverview (Patch)",
-   "updatedAt": 1791148663,
-   "version": "BetterCharacterOverview-1.10.0-2026-10-04T141730"
+   "updatedAt": 1793042188,
+   "version": "BetterCharacterOverview-1.11.0-2026-10-26T121613"
   },
   "23c4dbd3-8273-4fc3-8416-f6c79eeb76ab/ESOBuildTracker": {
    "addOnVersion": "4",
@@ -4215,18 +4215,18 @@
    "version": "1.15"
   },
   "74e3cf1b-47f3-44c7-ac72-290efc19e8f3/ObsidianHUD": {
-   "addOnVersion": "702",
+   "addOnVersion": "719",
    "addonId": "74e3cf1b-47f3-44c7-ac72-290efc19e8f3",
    "apiVersion": "101051",
    "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 4,
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 9,
    "folder": "ObsidianHUD",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Trest",
-   "updatedAt": 1792954629,
-   "version": "0.7.3"
+   "updatedAt": 1793037733,
+   "version": "0.7.5"
   },
   "75167780-fb8c-479c-86be-c0a208443b97/CollectThemAll": {
    "addOnVersion": "",
@@ -4626,13 +4626,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 6,
+   "downloads": 8,
    "folder": "PBsHpsChecker",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's HpsChecker for AD Stalkers",
-   "updatedAt": 1792996288,
-   "version": "0.5.0"
+   "updatedAt": 1793022629,
+   "version": "0.6.0"
   },
   "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82/HelloGoodbye": {
    "addOnVersion": "",
@@ -4845,18 +4845,18 @@
    "version": "1.1.15"
   },
   "87237de2-d657-4844-8498-ed9136ff45cc/DeadMarker_Holodeck": {
-   "addOnVersion": "58",
+   "addOnVersion": "59",
    "addonId": "87237de2-d657-4844-8498-ed9136ff45cc",
    "apiVersion": "101048 101047",
    "author": "Fredgu3",
    "dependsOn": "",
-   "downloads": 132,
+   "downloads": 141,
    "folder": "DeadMarker_Holodeck",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibAddonMenu2 LibStub",
    "title": "DeadMarker Holodeck",
-   "updatedAt": 1789505109,
-   "version": "0.0.58"
+   "updatedAt": 1793039912,
+   "version": "0.0.59"
   },
   "88739d40-c764-4276-9157-ba0eb1d47805/Nemesis": {
    "addOnVersion": "100",
@@ -6665,18 +6665,18 @@
    "version": "1.1.3"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/PreviewAnywhere": {
-   "addOnVersion": "300",
+   "addOnVersion": "10200",
    "addonId": "bc6b3b76-f701-4533-9492-c50acb1783bc",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
-   "dependsOn": "LibConsoleLogger",
-   "downloads": 280,
+   "dependsOn": "",
+   "downloads": 287,
    "folder": "PreviewAnywhere",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibConsoleLogger",
    "title": "dev sandbox 2",
-   "updatedAt": 1792983050,
-   "version": "PreviewAnywhere-0.3.0-2026-10-25T195041"
+   "updatedAt": 1793042282,
+   "version": "PreviewAnywhere-1.2.0-2026-10-26T121754"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/VaultCategories": {
    "addOnVersion": "100",
@@ -6875,18 +6875,18 @@
    "version": "v0.0.02"
   },
   "c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5/WeavingMetronome": {
-   "addOnVersion": "101059",
+   "addOnVersion": "101061",
    "addonId": "c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5",
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "",
-   "downloads": 5420,
+   "downloads": 7092,
    "folder": "WeavingMetronome",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Weaving Metronome",
-   "updatedAt": 1791285671,
-   "version": "1.9.9"
+   "updatedAt": 1793022530,
+   "version": "2.0.0"
   },
   "c26064b6-d685-492c-b750-3bc59f315109/AntiquityTracker": {
    "addOnVersion": "",
@@ -7561,18 +7561,18 @@
    "version": "4.0.5.031"
   },
   "d2f38194-bd78-47b6-817f-71932b3a5c42/DM2_ParseFightStats": {
-   "addOnVersion": "31804",
+   "addOnVersion": "31805",
    "addonId": "d2f38194-bd78-47b6-817f-71932b3a5c42",
    "apiVersion": "101048 101047",
    "author": "Fredgu3",
    "dependsOn": "",
-   "downloads": 15316,
+   "downloads": 15655,
    "folder": "DM2_ParseFightStats",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibAddonMenu2 LibStub",
    "title": "DM2 Parse & Fight Stats",
-   "updatedAt": 1792933868,
-   "version": "3.18.4"
+   "updatedAt": 1793023360,
+   "version": "3.18.5"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557/LoreBooks": {
    "addOnVersion": "96",
@@ -8905,18 +8905,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "212",
+   "addOnVersion": "214",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 256,
+   "downloads": 275,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1793010751,
-   "version": "v1.0.6x"
+   "updatedAt": 1793014454,
+   "version": "v1.0.7a"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -9994,7 +9994,7 @@
    "folders": [
     "BetterCharacterOverview"
    ],
-   "version": "BetterCharacterOverview-1.10.0-2026-10-04T141730"
+   "version": "BetterCharacterOverview-1.11.0-2026-10-26T121613"
   },
   "23c4dbd3-8273-4fc3-8416-f6c79eeb76ab": {
    "folders": [
@@ -11322,7 +11322,7 @@
    "folders": [
     "ObsidianHUD"
    ],
-   "version": "0.7.3"
+   "version": "0.7.5"
   },
   "75167780-fb8c-479c-86be-c0a208443b97": {
    "folders": [
@@ -11505,7 +11505,7 @@
    "folders": [
     "PBsHpsChecker"
    ],
-   "version": "0.5.0"
+   "version": "0.6.0"
   },
   "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82": {
    "folders": [
@@ -11611,7 +11611,7 @@
     "DeadMarker_Holodeck",
     "DeadMarker_Holodeck"
    ],
-   "version": "0.0.58"
+   "version": "0.0.59"
   },
   "88739d40-c764-4276-9157-ba0eb1d47805": {
    "folders": [
@@ -12422,9 +12422,9 @@
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc": {
    "folders": [
-    "VaultCategories"
+    "PreviewAnywhere"
    ],
-   "version": "VaultCategories-0.1.0-2026-10-25T203333"
+   "version": "PreviewAnywhere-1.2.0-2026-10-26T121754"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
@@ -12508,7 +12508,7 @@
    "folders": [
     "WeavingMetronome"
    ],
-   "version": "1.9.9"
+   "version": "2.0.0"
   },
   "c26064b6-d685-492c-b750-3bc59f315109": {
    "folders": [
@@ -12829,7 +12829,7 @@
     "DM2_ParseFightStats",
     "DM2_ParseFightStats"
    ],
-   "version": "3.18.4"
+   "version": "3.18.5"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557": {
    "folders": [
@@ -13452,7 +13452,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.6x"
+   "version": "v1.0.7a"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [
