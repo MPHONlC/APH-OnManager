@@ -165,6 +165,7 @@ PBsCraftMaterialAssistant	LibHarvensAddonSettings
 PBsCyrodiilAlert	LibHarvensAddonSettings
 PBsDiceExtension	LibHarvensAddonSettings
 PBsFurnitureEditor	LibHarvensAddonSettings
+PBsHpsChecker	LibHarvensAddonSettings
 PBsHudManager	LibHarvensAddonSettings	PBsChatWindowCustomizer	PBsClock	PBsConsoleHudCustomizer	PBsCyrodiilAlert	PBsMiniMap	PBsNamePlateChanger	PBsQuestTrackerFontChanger
 PBsJanken	LibGroupBroadcast
 PBsKillLog	LibHarvensAddonSettings
@@ -182,6 +183,7 @@ PermMemento	LibAddonMenu-2.0	LibGroupBroadcast	LibHarvensAddonSettings
 PersonalDpsTracker	LibHarvensAddonSettings
 PetHealth	LibAddonMenu-2.0	LibAddonMenuOrderListBox	LibHarvensAddonSettings	LibSlashCommander
 PinAutoResizer	LibGPS
+PreviewAnywhere	LibConsoleLogger
 PVPBuddy	LibAddonMenu-2.0
 PvPUA	LibGroupBroadcast
 PvPUAPatch	LibConsoleLogger	LibGroupBroadcast
@@ -233,6 +235,7 @@ UnchainedHelper	LibAddonMenu-2.0
 UniversalEffectTracker	LibHarvensAddonSettings	LibRadialMenu
 ValknarrTheme	LibAddonMenu-2.0	ValknarrUIE
 ValknarrUIE	LibHarvensAddonSettings	LibRadialMenu
+VaultCategories	LibConsoleLogger
 VCAP2	LibHarvensAddonSettings
 VotansFisherman	MiniMap	RareFishTracker	WaypointIt
 VotansMiniMap	LibDebugLogger	LibGPS	TrueExploration	TweakIt

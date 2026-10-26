@@ -132,13 +132,13 @@
    "apiVersion": "101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 80,
+   "downloads": 98,
    "folder": "CraftMaster",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Craft Master",
-   "updatedAt": 1792946464,
-   "version": "1.0.12"
+   "updatedAt": 1792989054,
+   "version": "1.0.13"
   },
   "0633023c-b987-4b33-ba10-4437f11b6efd/EnemyNegateWarning": {
    "addOnVersion": "",
@@ -1574,13 +1574,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 12,
+   "downloads": 17,
    "folder": "PBsTargetPlayer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's TargetPlayer for AD Stalkers",
-   "updatedAt": 1792694555,
-   "version": "1.6.1"
+   "updatedAt": 1792987403,
+   "version": "1.6.2"
   },
   "2c07f374-57bc-4f20-814f-d40e4d93285b/MyMapPos": {
    "addOnVersion": "",
@@ -2435,6 +2435,20 @@
    "title": "CanThisBeCraftedAtHome",
    "updatedAt": 1748531112,
    "version": "2025.05.29"
+  },
+  "436f6695-4798-423f-b276-d8c46cbd938e/BetterCharacterOverview": {
+   "addOnVersion": "11100",
+   "addonId": "436f6695-4798-423f-b276-d8c46cbd938e",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 245,
+   "folder": "BetterCharacterOverview",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "dev sandbox",
+   "updatedAt": 1792986441,
+   "version": "BetterCharacterOverview-1.11.0-2026-10-25T204711"
   },
   "436f6695-4798-423f-b276-d8c46cbd938e/PvPUAPatch": {
    "addOnVersion": "",
@@ -4606,6 +4620,20 @@
    "updatedAt": 1785469725,
    "version": "CPVeterancy-0.0.2-2026-07-30T204833"
   },
+  "8012442a-7f50-4f29-b7aa-04dad2dc9e8b/PBsHpsChecker": {
+   "addOnVersion": "",
+   "addonId": "8012442a-7f50-4f29-b7aa-04dad2dc9e8b",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 6,
+   "folder": "PBsHpsChecker",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's HpsChecker for AD Stalkers",
+   "updatedAt": 1792996288,
+   "version": "0.5.0"
+  },
   "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82/HelloGoodbye": {
    "addOnVersion": "",
    "addonId": "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82",
@@ -6440,6 +6468,20 @@
    "updatedAt": 1789856915,
    "version": "0.2.9"
   },
+  "b5cc1fef-6afb-46ca-a772-f1b71c39530c/PreviewAnywhere": {
+   "addOnVersion": "10100",
+   "addonId": "b5cc1fef-6afb-46ca-a772-f1b71c39530c",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "PreviewAnywhere",
+   "isLibrary": "",
+   "optionalDependsOn": "LibConsoleLogger",
+   "title": "Preview Anywhere",
+   "updatedAt": 1792986641,
+   "version": "PreviewAnywhere-1.1.0-2026-10-25T205027"
+  },
   "b630804a-0ccd-4828-8c9e-945790ec3774/AccountHold": {
    "addOnVersion": "26101700",
    "addonId": "b630804a-0ccd-4828-8c9e-945790ec3774",
@@ -6635,6 +6677,20 @@
    "title": "dev sandbox 2",
    "updatedAt": 1792983050,
    "version": "PreviewAnywhere-0.3.0-2026-10-25T195041"
+  },
+  "bc6b3b76-f701-4533-9492-c50acb1783bc/VaultCategories": {
+   "addOnVersion": "100",
+   "addonId": "bc6b3b76-f701-4533-9492-c50acb1783bc",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 285,
+   "folder": "VaultCategories",
+   "isLibrary": "",
+   "optionalDependsOn": "LibConsoleLogger",
+   "title": "dev sandbox 2",
+   "updatedAt": 1792985621,
+   "version": "VaultCategories-0.1.0-2026-10-25T203333"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8/CritTracker": {
    "addOnVersion": "",
@@ -7099,18 +7155,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000096",
+   "addOnVersion": "01000097",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 14588,
+   "downloads": 14874,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1792900812,
-   "version": "1.0.96"
+   "updatedAt": 1792987212,
+   "version": "1.0.97"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -7795,8 +7851,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Lazy Overland Challenger",
-   "updatedAt": 1792944147,
-   "version": "1.0"
+   "updatedAt": 1792998864,
+   "version": "1.1"
   },
   "da882875-d281-47d4-b525-aa19f4f40875/GroupBuffPanels": {
    "addOnVersion": "203030",
@@ -8849,18 +8905,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "209",
+   "addOnVersion": "212",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 244,
+   "downloads": 256,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1792981189,
-   "version": "v1.0.6p"
+   "updatedAt": 1793010751,
+   "version": "v1.0.6x"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -9458,7 +9514,7 @@
    "folders": [
     "CraftMaster"
    ],
-   "version": "1.0.12"
+   "version": "1.0.13"
   },
   "0604268b-f390-4fac-aebe-67b9148c94f4": {
    "folders": [],
@@ -10112,7 +10168,7 @@
    "folders": [
     "PBsTargetPlayer"
    ],
-   "version": "1.6.1"
+   "version": "1.6.2"
   },
   "2c07f374-57bc-4f20-814f-d40e4d93285b": {
    "folders": [
@@ -10482,9 +10538,9 @@
   },
   "436f6695-4798-423f-b276-d8c46cbd938e": {
    "folders": [
-    "PvPUAPatch"
+    "BetterCharacterOverview"
    ],
-   "version": "PvPUAPatch-5.6.0-2026-10-23T160527"
+   "version": "BetterCharacterOverview-1.11.0-2026-10-25T204711"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -11445,6 +11501,12 @@
    ],
    "version": "CPVeterancy-0.0.2-2026-07-30T204833"
   },
+  "8012442a-7f50-4f29-b7aa-04dad2dc9e8b": {
+   "folders": [
+    "PBsHpsChecker"
+   ],
+   "version": "0.5.0"
+  },
   "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82": {
    "folders": [
     "HelloGoodbye"
@@ -12266,6 +12328,12 @@
    ],
    "version": "0.2.9"
   },
+  "b5cc1fef-6afb-46ca-a772-f1b71c39530c": {
+   "folders": [
+    "PreviewAnywhere"
+   ],
+   "version": "PreviewAnywhere-1.1.0-2026-10-25T205027"
+  },
   "b5df6547-9de1-4e95-b67c-61a4cdd504e7": {
    "folders": [],
    "version": "2.4"
@@ -12354,9 +12422,9 @@
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc": {
    "folders": [
-    "PreviewAnywhere"
+    "VaultCategories"
    ],
-   "version": "PreviewAnywhere-0.3.0-2026-10-25T195041"
+   "version": "VaultCategories-0.1.0-2026-10-25T203333"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
@@ -12577,7 +12645,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.96"
+   "version": "1.0.97"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -12885,7 +12953,7 @@
    "folders": [
     "LazyOverlandChallenger"
    ],
-   "version": "1.0"
+   "version": "1.1"
   },
   "da882875-d281-47d4-b525-aa19f4f40875": {
    "folders": [
@@ -13384,7 +13452,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.6p"
+   "version": "v1.0.6x"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [

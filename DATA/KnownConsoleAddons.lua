@@ -86,7 +86,7 @@ BeamMeUp	405031	4.0.5.031	101049 101050	BeamMeUp	beammeupbot	d2c9bb50-7161-423e-
 BETABars	1001	1.0.1	101050 101051	BetaBars	Tetsurion	1f95515e-9df4-487e-9e56-ab184190fd95
 BetterBars	2	v0.0.03	101050	Better Bars	BMGxSancho	784b8f46-2797-426a-ab85-f1e5b4776b01
 BetterBuffs	317	v0.3.17	101050	Better Buffs	BMGxSancho	ecd02472-565e-4f7f-83ce-812e8a5b0bde
-BetterCharacterOverview	11000	BetterCharacterOverview-1.10.0-2026-10-04T141730	101050	BetterCharacterOverview (Patch)	clubwratt	23989a49-5901-4ccb-9b71-6e848d4bceee
+BetterCharacterOverview	11100	BetterCharacterOverview-1.11.0-2026-10-25T204711	101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 BetterEffectViewer		4.0.0	101048	Vixen's Effect Viewer	Vixen_Hunny	7a48fb7e-4903-4ff4-8d74-c6050c85363a
 BetterScoreboard	50	5.0	101046	Better Scoreboard	M0R	bb565e61-5481-49e2-9550-7c8aa18aa17a
 BetterTwins	6	v0.0.01-dev6	101048 101049 101050	Test01 Better Twins	BMGxSancho	4dd951d1-312d-470c-b02c-f1961618b998
@@ -141,7 +141,7 @@ ContainerVisitHide	10000	1.0	101051 101050	Usable Containers	dicen9	9237369e-344
 CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker	clubwratt	4700c5de-fb02-411e-b563-1f326352b4ed
 CPSlotsConsole		1.3	101051	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
 CPVeterancy		CPVeterancy-0.0.2-2026-07-30T204833	101050	CP Veterancy	clubwratt	7f8752f5-11f4-4e26-a26b-fc0ee813d8e1
-CraftMaster		1.0.12	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
+CraftMaster		1.0.13	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
 CraftMaterialAssistant		0.0.16	101051	CraftMaterialAssistant (Beta)	lesse83	96d1c172-661c-4739-960f-fcf660401298
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
 CrowdednESO		2026.07.09	101050	CrowdednESO	Masteroshi430	9d131435-84c4-4c6d-9d73-5e2ec6fa61b7
@@ -236,7 +236,7 @@ GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9
 GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
-GuildMarketScannerDev	209	v1.0.6p	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildMarketScannerDev	212	v1.0.6x	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
@@ -277,7 +277,7 @@ KillCount	3100	new	101049 101050	Kill Count	Dreadazar	29b689fc-d75c-432c-adfa-69
 LazyConfirm		1.0.4	101045 101046	Lazy Confirm (and delete)	Dolgubon	8fbbe7ae-8178-4e35-9755-3cafefd42095
 LazyCrown	14	0.4.0	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
 LazyHorseFeed		1.0.5	101045 101046	Lazy Horse Trainer	Dolgubon	dd337340-e6c9-4835-8e50-ba68c7e949e4
-LazyOverlandChallenger		1.0	101051	Lazy Overland Challenger	Lykeion+	da61ba59-9a71-4945-9af6-c39f6b8fa393
+LazyOverlandChallenger		1.1	101051	Lazy Overland Challenger	Lykeion+	da61ba59-9a71-4945-9af6-c39f6b8fa393
 LCMDemo		1.1.7	101050 101051	LCM Demo	Fluazinam	e27e2f85-110a-4725-ab46-5f878649b8a3
 LeadReminder	002	1.0.2	101045 101046	LeadReminder	aronsini	a10a8862-6862-4916-a685-c75f5a098637
 Leo_AbilityInspector		0.1.1	101051	Leo_abilityInspector_beta	LeonShu	c0145498-9c60-472f-9776-bed94e9fba11
@@ -351,7 +351,7 @@ LiveBuffUptime		2.2.7	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000096	1.0.96	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000097	1.0.97	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -441,6 +441,7 @@ PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.6	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
+PBsHpsChecker		0.5.0	101050 101051	PinkB's HpsChecker for AD Stalkers	PinkBanther	8012442a-7f50-4f29-b7aa-04dad2dc9e8b
 PBsHudManager		1.3.0	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
 PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25bb-1103-4636-a4f6-5c6a280ff8e2
 PBsKillLog		1.5.0	101050 101051	PinkB's KillLog(Beta)	PinkBanther	79dd6cfe-4b31-471a-96b6-061bf53f35f6
@@ -450,7 +451,7 @@ PBsMiniMap		2.3.4	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsScreenshotModeShortcut		1.1.1	101050 101051	PinkB's ScreenshotModeShortcut(Beta)	PinkBanther	c3b0724d-c60e-44de-9244-7cdc9f20c868
-PBsTargetPlayer		1.6.1	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
+PBsTargetPlayer		1.6.2	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
 PBsTetris	11600	1.16.0	101050 101051	PinkB's Tamriel de Tetris	PinkBanther	e8b21bff-aae1-4a24-b91b-8c49cd6acfd6
 PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanther	a213bf5d-d4a4-4bfb-bd6b-e10a127ea56e
 PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
@@ -468,7 +469,7 @@ PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-472
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
-PreviewAnywhere	300	PreviewAnywhere-0.3.0-2026-10-25T195041	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
+PreviewAnywhere	10100	PreviewAnywhere-1.1.0-2026-10-25T205027	101050 101051	Preview Anywhere	clubwratt	b5cc1fef-6afb-46ca-a772-f1b71c39530c
 PriorityBunny	400	0.4.0	101050	Priority Bunny	Jokergrrrrl	fa4ee6fb-c601-4163-998f-801078e1eac0
 ProcReminder	1.0.0	1.0.2	101049	Proc Reminder	Vixen_Hunny	541ab871-9386-4990-a3c7-32563ded9243
 ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-43cd-84b3-63ed659b9248
@@ -611,6 +612,7 @@ UnknownFilter	302	0.3.2	101050	UnknownFilter	Xarador	670babe5-297e-4cb3-88d6-cda
 Update47Tweaker		1.2.6	101050 101051	Update 47 Tweaker	murphyx	50a4c919-aff0-4475-8614-eb2576d6b6d9
 ValknarrTheme	35	0.1.34	101049 101050	Valknarr Theme	valknarr	08a203b9-7317-4950-aefa-26260d7908f8
 ValknarrUIE	43	1.0.8	101049 101050	Valknarr UI	valknarr	2d43e3ed-9017-4e93-95f0-125ddf2d99fa
+VaultCategories	100	VaultCategories-0.1.0-2026-10-25T203333	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
 VaultTracker	2	VT 1.3.0	101046	Vixy's Testing Grounds	Vixen_Hunny	ac8a5471-5c72-448f-86f0-1d33a74c88ae
 VCAP2	2204  ; Test build 5 - do not publish as stable	2.2.5	101049 101050	VCAP2	SugaComa	8c18ca98-8921-4bf3-b455-1d63b2f761e3
 VersesAndVisions		2025.05.28	101046	VersesAndVisions	Masteroshi430	e4f41108-4101-452e-8607-b469bc8eb4b0
