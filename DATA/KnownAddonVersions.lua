@@ -56,7 +56,7 @@ AF_TreasureMapFilters		1.0.7	3627	101042
 AffectionMaxxing	10004	1.0.4	4834	101050 101051
 AGS_UnknownGearFilter		1.4	3846	101049
 AGS_UnknownOnAltsFilter		42.0	3593	100037
-AIResearchGrid	110504	11.5.04	4302	101048
+AIResearchGrid	110505	11.5.05	4996	101051
 AlabuzyaUI	10009	1.0.9	4881	101050
 ALCBenchmark	26101514	2026.10.18.01.41	4960	101051 101052
 Alchemiewerk	102	1.0.2	4912	101051 101050
@@ -988,7 +988,7 @@ MuchSmarterAutoLoot	80311	8.3.11	3367	101051
 Mudballed		1.0.2	3218	101045
 MudcrabCounter		1.1	4383	101048
 MudcrabTracker		0.1.4	4312	101049
-MuffinsMarketManager		1.0	4980	101050 101051
+MuffinsMarketManager		1.1	4980	101050 101051
 MuffinsSetRecipeTracker		1.6.1	4090	101049 101050
 MuffinsUtilityTree		1.2	4797	101050 101051
 MultiClassAbilityTracker		0.1.1	4831	101050
