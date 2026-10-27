@@ -99,7 +99,7 @@ LibDataPacker	1005000	v5	4082	101050	LibDataPacker	LibDataPacker
 LibDataShare	20250314	2025.03.14	3297	101044 101045	LibDataShare (deprecated)	LibDataShare
 LibDataStructures	20241206	2024.12.06	4001	101044	LibDataStructures	LibDataStructures
 LibDateTime	32	1.2.0	2277	101045 101046	LibDateTime	LDT
-LibDebugLogger	307	2.6.2	2275	101050	LibDebugLogger	LDL
+LibDebugLogger	309	2.6.3	2275	101051 101052	LibDebugLogger	LDL
 LibDelayedHandler	2	0.0.2	2807	100033 100034	LibDelayedHandler	LibDelayedHandler
 LibDialog	127	1.27	1931	101039 101040	LibDialog	LibDialog
 LibDungeonFinder	120	1.2.0	4600	101049 101050	LibDungeonFinder	LibDungeonFinder

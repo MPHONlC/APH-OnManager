@@ -396,6 +396,7 @@ AoM.KnownAddonDependencies = {
 	["NTakLootSteal"] = { "AdvancedFilters", "LibFilters-3.0" },
 	["OdySupportIcons"] = { "LibCustomIcons" },
 	["OffBalanceTracker"] = { "LibAddonMenu-2.0" },
+	["OmniAura"] = { "LibAddonMenu-2.0" },
 	["OneAPHaTime"] = { "LibAPH", "LibAddonMenu-2.0", "LibHarvensAddonSettings" },
 	["OneFrame"] = { "HodorReflexes", "LibGroupCombatStats" },
 	["OneMorRockgrove"] = { "Breadcrumbs" },
