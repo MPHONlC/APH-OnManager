@@ -216,6 +216,7 @@ STARS	LibHarvensAddonSettings
 StonehulkDominationTracker	LibAddonMenu-2.0
 Sugas-Test-Zone	LibCombatSkills	LibHarvensAddonSettings
 SurveyResetMarker	CustomCompassPins	LibAddonMenu-2.0	LibMapPins-1.0
+SurveyResetter	LibRadialMenu
 SurvivalMode	LibHarvensAddonSettings
 SXUIBeaconPet	LibAddonMenu-2.0
 TamrielMasterLedger	LibHistoire	LibMainMenu-2.0
