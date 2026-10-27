@@ -1093,18 +1093,18 @@
    "version": "1.0.0"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
-   "addOnVersion": "22800",
+   "addOnVersion": "22801",
    "addonId": "21f0cc83-5ba3-4776-ac75-a5a266fde574",
-   "apiVersion": "101051",
+   "apiVersion": "101051 101052",
    "author": "Kyzeragon",
    "dependsOn": "",
-   "downloads": 718552,
+   "downloads": 737098,
    "folder": "CrutchAlerts",
    "isLibrary": "",
    "optionalDependsOn": "OdySupportIcons LibFilteredChatPanel LibGroupBroadcast>=91 LibCustomIcons",
    "title": "CrutchAlerts",
-   "updatedAt": 1792653170,
-   "version": "2.28.0"
+   "updatedAt": 1793063530,
+   "version": "2.28.1"
   },
   "21f64968-c492-4b43-82ff-b7b1f25c7500/AltGroupFrames": {
    "addOnVersion": "30",
@@ -2411,16 +2411,16 @@
   "42a55498-b21a-4657-86ba-bdb954f7a09d/LykeionsAwareWolf": {
    "addOnVersion": "",
    "addonId": "42a55498-b21a-4657-86ba-bdb954f7a09d",
-   "apiVersion": "101051",
+   "apiVersion": "101051 101052",
    "author": "Lykeion+",
    "dependsOn": "LibAddonMenu-2.0>=43",
-   "downloads": 1592,
+   "downloads": 1805,
    "folder": "LykeionsAwareWolf",
    "isLibrary": "",
    "optionalDependsOn": "LibCombatAlerts",
    "title": "Lykeion's Aware Wolf",
-   "updatedAt": 1792761148,
-   "version": "2.4"
+   "updatedAt": 1793051785,
+   "version": "2.5"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25/CanThisBeCraftedAtHome": {
    "addOnVersion": "",
@@ -6469,18 +6469,18 @@
    "version": "0.2.9"
   },
   "b5cc1fef-6afb-46ca-a772-f1b71c39530c/PreviewAnywhere": {
-   "addOnVersion": "10100",
+   "addOnVersion": "10300",
    "addonId": "b5cc1fef-6afb-46ca-a772-f1b71c39530c",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 4,
    "folder": "PreviewAnywhere",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger",
    "title": "Preview Anywhere",
-   "updatedAt": 1792986641,
-   "version": "PreviewAnywhere-1.1.0-2026-10-25T205027"
+   "updatedAt": 1793059493,
+   "version": "PreviewAnywhere-1.3.0-2026-10-26T170437"
   },
   "b630804a-0ccd-4828-8c9e-945790ec3774/AccountHold": {
    "addOnVersion": "26101700",
@@ -6665,18 +6665,18 @@
    "version": "1.1.3"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/PreviewAnywhere": {
-   "addOnVersion": "10200",
+   "addOnVersion": "10300",
    "addonId": "bc6b3b76-f701-4533-9492-c50acb1783bc",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 287,
+   "downloads": 289,
    "folder": "PreviewAnywhere",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger",
    "title": "dev sandbox 2",
-   "updatedAt": 1793042282,
-   "version": "PreviewAnywhere-1.2.0-2026-10-26T121754"
+   "updatedAt": 1793057360,
+   "version": "PreviewAnywhere-1.3.0-2026-10-26T162909"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/VaultCategories": {
    "addOnVersion": "100",
@@ -6712,13 +6712,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 239,
+   "downloads": 241,
    "folder": "LibTrack",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1792539516,
-   "version": "3.6.3"
+   "updatedAt": 1793055859,
+   "version": "3.6.4"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c/An_Daghdha1233Inventory": {
    "addOnVersion": "8",
@@ -8905,18 +8905,18 @@
    "version": "9"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "214",
+   "addOnVersion": "216",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 275,
+   "downloads": 283,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1793014454,
-   "version": "v1.0.7a"
+   "updatedAt": 1793063072,
+   "version": "v1.0.8c"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -9958,7 +9958,7 @@
    "folders": [
     "CrutchAlerts"
    ],
-   "version": "2.28.0"
+   "version": "2.28.1"
   },
   "21f64968-c492-4b43-82ff-b7b1f25c7500": {
    "folders": [
@@ -10391,7 +10391,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.571"
+   "version": "0.0.573"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -10528,7 +10528,7 @@
    "folders": [
     "LykeionsAwareWolf"
    ],
-   "version": "2.4"
+   "version": "2.5"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25": {
    "folders": [
@@ -12332,7 +12332,7 @@
    "folders": [
     "PreviewAnywhere"
    ],
-   "version": "PreviewAnywhere-1.1.0-2026-10-25T205027"
+   "version": "PreviewAnywhere-1.3.0-2026-10-26T170437"
   },
   "b5df6547-9de1-4e95-b67c-61a4cdd504e7": {
    "folders": [],
@@ -12424,7 +12424,7 @@
    "folders": [
     "PreviewAnywhere"
    ],
-   "version": "PreviewAnywhere-1.2.0-2026-10-26T121754"
+   "version": "PreviewAnywhere-1.3.0-2026-10-26T162909"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
@@ -12436,7 +12436,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "3.6.3"
+   "version": "3.6.4"
   },
   "be795295-0a8b-40e3-9fc6-f3086e0f202c": {
    "folders": [
@@ -13452,7 +13452,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.7a"
+   "version": "v1.0.8c"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [
