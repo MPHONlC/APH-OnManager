@@ -1527,18 +1527,18 @@
    "version": "2.3.0"
   },
   "2b591c30-b518-46da-978a-c1a788963735/FurnitureFinder": {
-   "addOnVersion": "1",
+   "addOnVersion": "3",
    "addonId": "2b591c30-b518-46da-978a-c1a788963735",
-   "apiVersion": "101050",
+   "apiVersion": "101051 101052",
    "author": "killerkev77",
-   "dependsOn": "",
-   "downloads": 378,
+   "dependsOn": "LibFurnitureCatalogue",
+   "downloads": 997,
    "folder": "FurnitureFinder",
    "isLibrary": "false",
    "optionalDependsOn": "LibCharacterKnowledge",
    "title": "Furniture Finder",
-   "updatedAt": 1787944035,
-   "version": "V2.2.1"
+   "updatedAt": 1793128892,
+   "version": "V0.3.1"
   },
   "2b95c809-f14b-4c3c-9c0c-945a3e8547c4/AutoGuildWelcome": {
    "addOnVersion": "10002",
@@ -1891,18 +1891,18 @@
    "version": "1.0.2"
   },
   "33acf830-6318-4dc0-8458-4a061eca1ad3/FurnitureBuilder": {
-   "addOnVersion": "1",
+   "addOnVersion": "6",
    "addonId": "33acf830-6318-4dc0-8458-4a061eca1ad3",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "killerkev77",
-   "dependsOn": "",
-   "downloads": 178,
+   "dependsOn": "LibConsoleDialogs LibHarvensAddonSettings",
+   "downloads": 341,
    "folder": "FurnitureBuilder",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "Furniture Placer",
-   "updatedAt": 1787769840,
-   "version": "V2"
+   "updatedAt": 1793130156,
+   "version": "V0.4.1"
   },
   "35674482-a2ce-4dfb-86f8-519b941a350a/LibLoreLibraryCesarska": {
    "addOnVersion": "",
@@ -3669,18 +3669,18 @@
    "version": "v1.1"
   },
   "655e721d-2e85-48fd-83f9-bcbb1e9c7392/FurnitureLocator": {
-   "addOnVersion": "",
+   "addOnVersion": "13",
    "addonId": "655e721d-2e85-48fd-83f9-bcbb1e9c7392",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "killerkev77",
    "dependsOn": "LibConsoleDialogs LibHarvensAddonSettings",
-   "downloads": 68,
+   "downloads": 216,
    "folder": "FurnitureLocator",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Furniture Tracker",
-   "updatedAt": 1788108318,
-   "version": "V2.0"
+   "updatedAt": 1793128934,
+   "version": "V13"
   },
   "656a56dd-1f9a-428e-a52e-dc72a77de425/LiveBuffUptime": {
    "addOnVersion": "",
@@ -6012,13 +6012,13 @@
    "apiVersion": "101049 101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 1259,
+   "downloads": 1290,
    "folder": "TargetInfo",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "TargetInfo",
-   "updatedAt": 1793092798,
-   "version": "1.2.1"
+   "updatedAt": 1793095862,
+   "version": "1.2.3"
   },
   "a89e4472-1774-4182-bc32-05d04d19ca06/AddonLoadMonitor": {
    "addOnVersion": "",
@@ -7434,6 +7434,20 @@
    "updatedAt": 1792385150,
    "version": "1.4.0-dev"
   },
+  "cf1db8e3-57a8-40a1-b6ff-000333801e4c/Hazel": {
+   "addOnVersion": "4057",
+   "addonId": "cf1db8e3-57a8-40a1-b6ff-000333801e4c",
+   "apiVersion": "101051",
+   "author": "TheGreyWolf98",
+   "dependsOn": "LibLazyCrafting>=4035",
+   "downloads": 7,
+   "folder": "Hazel",
+   "isLibrary": "",
+   "optionalDependsOn": "pChat LibStub LibFeedback LibCustomMenu  LibHistoire ArkadiusTradeToolsSales  LibRadialMenu",
+   "title": "Hazel",
+   "updatedAt": 1793127265,
+   "version": "0.4.0"
+  },
   "cf379dee-3395-4310-ab3f-433677ac7201/ShowAPIVersion": {
    "addOnVersion": "",
    "addonId": "cf379dee-3395-4310-ab3f-433677ac7201",
@@ -8751,18 +8765,18 @@
    "version": "0.3.2"
   },
   "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3/Atlas": {
-   "addOnVersion": "10007",
+   "addOnVersion": "10008",
    "addonId": "f01417b0-7ff1-43e7-9d6e-9ff9e62279b3",
    "apiVersion": "101051",
    "author": "TheGreyWolf98",
    "dependsOn": "",
-   "downloads": 259,
+   "downloads": 343,
    "folder": "Atlas",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Atlas",
-   "updatedAt": 1792955054,
-   "version": "1.0.7"
+   "updatedAt": 1793122076,
+   "version": "1.0.8"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e/DVDScreenSaver": {
    "addOnVersion": "",
@@ -8918,19 +8932,33 @@
    "updatedAt": 1790556068,
    "version": "9"
   },
+  "f3fd583d-fcc3-4b4b-a454-8f3743390934/LibFurnitureCatalogue": {
+   "addOnVersion": "1002000",
+   "addonId": "f3fd583d-fcc3-4b4b-a454-8f3743390934",
+   "apiVersion": "101051 101052",
+   "author": "killerkev77",
+   "dependsOn": "",
+   "downloads": 23,
+   "folder": "LibFurnitureCatalogue",
+   "isLibrary": "true",
+   "optionalDependsOn": "",
+   "title": "LibFurnitureCatalogue",
+   "updatedAt": 1793127667,
+   "version": "v1.2.0"
+  },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "215",
+   "addOnVersion": "218",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 294,
+   "downloads": 311,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1793095446,
-   "version": "v1.0.7 backup"
+   "updatedAt": 1793097762,
+   "version": "v1.0.8l"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -10164,7 +10192,7 @@
    "folders": [
     "FurnitureFinder"
    ],
-   "version": "V2.2.1"
+   "version": "V0.3.1"
   },
   "2b95c809-f14b-4c3c-9c0c-945a3e8547c4": {
    "folders": [
@@ -10322,7 +10350,7 @@
    "folders": [
     "FurnitureBuilder"
    ],
-   "version": "V2"
+   "version": "V0.4.1"
   },
   "35674482-a2ce-4dfb-86f8-519b941a350a": {
    "folders": [
@@ -11100,7 +11128,7 @@
    "folders": [
     "FurnitureLocator"
    ],
-   "version": "V2.0"
+   "version": "V13"
   },
   "656a56dd-1f9a-428e-a52e-dc72a77de425": {
    "folders": [
@@ -12138,7 +12166,7 @@
    "folders": [
     "TargetInfo"
    ],
-   "version": "1.2.1"
+   "version": "1.2.3"
   },
   "a89e4472-1774-4182-bc32-05d04d19ca06": {
    "folders": [
@@ -12779,6 +12807,12 @@
    ],
    "version": "1.4.0-dev"
   },
+  "cf1db8e3-57a8-40a1-b6ff-000333801e4c": {
+   "folders": [
+    "Hazel"
+   ],
+   "version": "0.4.0"
+  },
   "cf379dee-3395-4310-ab3f-433677ac7201": {
    "folders": [
     "ShowAPIVersion"
@@ -13395,7 +13429,7 @@
    "folders": [
     "Atlas"
    ],
-   "version": "1.0.7"
+   "version": "1.0.8"
   },
   "f0561a3c-bea9-49e8-926e-53825934fb7e": {
    "folders": [
@@ -13468,11 +13502,17 @@
    ],
    "version": "9"
   },
+  "f3fd583d-fcc3-4b4b-a454-8f3743390934": {
+   "folders": [
+    "LibFurnitureCatalogue"
+   ],
+   "version": "v1.2.0"
+  },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b": {
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.7 backup"
+   "version": "v1.0.8l"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [

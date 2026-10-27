@@ -93,6 +93,7 @@ GamepadUITweaks	LibGamepad
 gorethiefTracker	LibNotify
 H8Ball	LibHarvensAddonSettings
 HarvestMapConsole	AUI	LibMapPins-1.0	MiniMap	VotansMiniMap
+Hazel	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
 HodorReflexes	LibCombat2	LibCustomIcons	LibCustomNames	LibRadialMenu
 HouseHotkey	LibRadialMenu
 HousingForge	LibAddonMenu-2.0

@@ -58,7 +58,7 @@ AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
 ArtaeumGroupTool	613	6.1.3	101048	Artaeum Group Tool	M0R	dc653131-c684-4f94-b875-35a29506436b
 AsylumTimers	10303	1.3.5	101048 101049	Asylum Timers	Shienar	b95c419b-3f27-4214-aaae-c39bc4cbbeab
-Atlas	10007	1.0.7	101051	Atlas	TheGreyWolf98	f01417b0-7ff1-43e7-9d6e-9ff9e62279b3
+Atlas	10008	1.0.8	101051	Atlas	TheGreyWolf98	f01417b0-7ff1-43e7-9d6e-9ff9e62279b3
 AtlasMiniMap	9	1.0.6	101050 101051	Atlas Mini Map	TheGreyWolf98	56cfaf14-f344-4808-bed0-fa69138769fd
 atronachTracker		1.1.3	101051	Storm Atronach Tracker	codeWarrior82	a70e4425-99f9-4fdb-85da-dc21b578e10f
 AutoClaimGoldenPursuits	200010	2.0.1	101050	Auto-Claim or Hide Golden Pursuits	code65536	48b63611-befb-44e1-b87a-1bac567ee234
@@ -208,9 +208,9 @@ Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6
 FrenziedMomentumTracker		1.2.0	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
 FunKillFeed		1.4.8	101049 101050	FunKillFeed	SugaComa	08954d6b-1604-4daf-9cf3-99b327dd7afd
 FurnishingTracker		1.0.18	101050	Furnishing Tracker	Eldibabalo	c49eb98c-6821-47de-9cb2-10b972d1a55f
-FurnitureBuilder	1	V2	101050	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
-FurnitureFinder	1	V2.2.1	101050	Furniture Finder	killerkev77	2b591c30-b518-46da-978a-c1a788963735
-FurnitureLocator		V2.0	101050	Furniture Tracker	killerkev77	655e721d-2e85-48fd-83f9-bcbb1e9c7392
+FurnitureBuilder	6	V0.4.1	101051	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
+FurnitureFinder	3	V0.3.1	101051 101052	Furniture Finder	killerkev77	2b591c30-b518-46da-978a-c1a788963735
+FurnitureLocator	13	V13	101051	Furniture Tracker	killerkev77	655e721d-2e85-48fd-83f9-bcbb1e9c7392
 FurniturePlanSearch		0.2.4	101051	Furniture Plan Search	SugaComa	5d0f8b9b-9537-4b51-b576-5ec13219cc73
 GamePadHelper	10618	1.06.18	101049 101050	GamePadHelper	Delte	71f99aa0-341b-44fb-8b98-0dbda2a5b136
 GamepadHUDCustomizer	304	0.3.4	101050 101051	GamepadHUDCustomizer	Wayzminn	9a1d3850-22ef-484a-baa5-b7c30d0f31a2
@@ -236,7 +236,7 @@ GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9
 GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
-GuildMarketScannerDev	215	v1.0.7 backup	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildMarketScannerDev	218	v1.0.8l	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
@@ -244,6 +244,7 @@ GuildStoreTimeSort		1.5.7	101050 101051	Guild Store Time Sort	murphyx	a3a0c6d0-3
 GuildTraderTracker		0.1.0	101047	Guild Trader Tracker	ReliktKoala	f2495833-84b0-4142-8a25-f2063d0f0a23
 H8Ball	23	1.1.0	101050 101051	H8 Ball	absolventR3M	615c0033-710a-411c-83a1-a3a45bf8d4cb
 HarvestMapConsole	316005	3.16.6	101048	HarvestMap	Shinni42	f552385a-cc51-4031-bf63-43abd2709e70
+Hazel	4057	0.4.0	101051	Hazel	TheGreyWolf98	cf1db8e3-57a8-40a1-b6ff-000333801e4c
 HealingBuffUptime		1.0.0	101050	Healing Buff Uptime	satuve	c68c0503-c262-44d6-97a9-d2e8ee77ee72
 HelloGoodbye		1.2.3	101050 101051	Hello, goodbye	murphyx	80a0dbcb-9e84-4f98-8d1d-d2fd78129f82
 HelloWorld		0.0.6	101047	HelloWorld	ReliktKoala	d3514a63-e01b-4267-ab25-f1b8e79aa586
@@ -305,6 +306,7 @@ LibCustomNames	20261026	2026-10-26	101049 101050	LibCustomNames	m00nyONE	5eaa0d9
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	307	2.6.2	101050	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
+LibFurnitureCatalogue	1002000	v1.2.0	101051 101052	LibFurnitureCatalogue	killerkev77	f3fd583d-fcc3-4b4b-a454-8f3743390934
 LibGamepad	107	1.0.8	101049	LibGamepad	YeOldeDragon	37661fa7-7702-4eeb-b3ed-7e840aa17647
 LibGamepadTooltipFilters	1000	1.0.2	101047	LibGamepadTooltipFilters	Gamer_sa22	bfb99a77-93cb-42e1-944b-d139b38724f4
 LibGetText	12	1.0.3	101045 101046	LibGetText	sirinsidiator	4dda84ba-7458-4a69-890d-1c7dd830474f
@@ -560,7 +562,7 @@ SynergyCooldown	20101	2.1.1	101050	Synergy Cooldown	Kyzeragon	a6c22156-8b52-467d
 SynergyImprover	120	v1.1	101050 101051	SynergyImprover	j.hhh	64ff6b45-1306-4375-8422-3ff52ef58d90
 SynergyPriority	2.0	Recovery Convergence update	101048	Synergy Priority	Vixen_Hunny	3f511a24-33c0-4c94-979a-97e0982dbb6b
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
-TargetInfo		1.2.1	101049 101050 101051	TargetInfo	SugaComa	a8908085-8223-4986-ac34-5932bc2c5172
+TargetInfo		1.2.3	101049 101050 101051	TargetInfo	SugaComa	a8908085-8223-4986-ac34-5932bc2c5172
 TauntAssist	6	0.1	101047	Taunt Assist	Cozy_Radish	443e6038-7baa-4e81-84fb-afe6cd3f92d6
 Tauntless	6	0.0.6	101050	Tauntless	hoellik	153e64a6-b621-4c91-b84a-c2ae48778142
 TeaAndToast		2.2.3	101049 101050	Tea and Toast	SugaComa	8394c641-1cb2-45f3-8b73-b6f424d6c630

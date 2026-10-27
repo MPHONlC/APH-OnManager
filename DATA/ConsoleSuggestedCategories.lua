@@ -106,6 +106,7 @@ LibCustomNames	Libraries
 LibDateTime	Libraries
 LibDebugLogger	Libraries
 LibDynamicMail	Libraries
+LibFurnitureCatalogue	Libraries
 LibGamepad	Libraries
 LibGamepadTooltipFilters	Libraries
 LibGetText	Libraries
@@ -201,6 +202,7 @@ STARS	Beta-version AddOns
 StoneTalker	Casting Bars, Cooldowns
 SulXan	Buff, Debuff, Spell
 SurveyResetMarker	Map, Coords, Compasses
+SurveyResetter	TradeSkill Mods
 SynergyCooldown	Combat Mods
 SynergyPriority	Combat Mods
 TorigaCam	Miscellaneous
