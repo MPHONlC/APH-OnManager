@@ -504,6 +504,20 @@
    "updatedAt": 1791111889,
    "version": "0.2.1"
   },
+  "0f2a1db4-049e-454b-96b8-52c65ff6cb85/DLCRoulette": {
+   "addOnVersion": "1",
+   "addonId": "0f2a1db4-049e-454b-96b8-52c65ff6cb85",
+   "apiVersion": "101051",
+   "author": "-Chin",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 1,
+   "folder": "DLCRoulette",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "DLC Roulette",
+   "updatedAt": 1793141011,
+   "version": "1.0.0"
+  },
   "0fa32336-8528-4747-9b01-ccba9408f654/LibMediaProvider": {
    "addOnVersion": "39",
    "addonId": "0fa32336-8528-4747-9b01-ccba9408f654",
@@ -1513,18 +1527,18 @@
    "version": "2026.10.18.01.41"
   },
   "2abdc7a0-d15d-42ae-aad7-bccf995da180/Olorime": {
-   "addOnVersion": "020300",
+   "addOnVersion": "020301",
    "addonId": "2abdc7a0-d15d-42ae-aad7-bccf995da180",
-   "apiVersion": "101047 101048",
+   "apiVersion": "101051",
    "author": "tmbrinks",
    "dependsOn": "LibAddonMenu-2.0>=41 LibCombatAlerts>=7010",
-   "downloads": 753,
+   "downloads": 871,
    "folder": "Olorime",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Olorime",
-   "updatedAt": 1762723868,
-   "version": "2.3.0"
+   "updatedAt": 1793136542,
+   "version": "2.3.1"
   },
   "2b591c30-b518-46da-978a-c1a788963735/FurnitureFinder": {
    "addOnVersion": "3",
@@ -1891,18 +1905,18 @@
    "version": "1.0.2"
   },
   "33acf830-6318-4dc0-8458-4a061eca1ad3/FurnitureBuilder": {
-   "addOnVersion": "6",
+   "addOnVersion": "12",
    "addonId": "33acf830-6318-4dc0-8458-4a061eca1ad3",
    "apiVersion": "101051",
    "author": "killerkev77",
-   "dependsOn": "LibConsoleDialogs LibHarvensAddonSettings",
-   "downloads": 341,
+   "dependsOn": "",
+   "downloads": 365,
    "folder": "FurnitureBuilder",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "Furniture Placer",
-   "updatedAt": 1793130156,
-   "version": "V0.4.1"
+   "updatedAt": 1793134363,
+   "version": "V0.5.5"
   },
   "35674482-a2ce-4dfb-86f8-519b941a350a/LibLoreLibraryCesarska": {
    "addOnVersion": "",
@@ -4467,18 +4481,18 @@
    "version": "4.0.0"
   },
   "7b383e7f-a85f-491d-b950-dffc87bcec10/ArchdruidTracker": {
-   "addOnVersion": "010100",
+   "addOnVersion": "010101",
    "addonId": "7b383e7f-a85f-491d-b950-dffc87bcec10",
-   "apiVersion": "101047 101048",
+   "apiVersion": "101051",
    "author": "tmbrinks",
    "dependsOn": "LibAddonMenu-2.0>=41 LibCombatAlerts>=7010",
-   "downloads": 2125,
+   "downloads": 2256,
    "folder": "ArchdruidTracker",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "ArchdruidTracker",
-   "updatedAt": 1762720946,
-   "version": "1.1.0"
+   "updatedAt": 1793136580,
+   "version": "1.1.1"
   },
   "7b833469-41d6-4060-b6df-547ae3ca188c/APH-OnManager": {
    "addOnVersion": "26101514",
@@ -4789,18 +4803,18 @@
    "version": "1"
   },
   "853b60aa-f47b-4f79-bd43-88c1f37e8a9a/TurningTide": {
-   "addOnVersion": "010100",
+   "addOnVersion": "010101",
    "addonId": "853b60aa-f47b-4f79-bd43-88c1f37e8a9a",
-   "apiVersion": "101047 101048",
+   "apiVersion": "101051",
    "author": "tmbrinks",
    "dependsOn": "LibAddonMenu-2.0>=34 LibCombatAlerts>=7010",
-   "downloads": 2935,
+   "downloads": 3191,
    "folder": "TurningTide",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "TurningTide",
-   "updatedAt": 1762720704,
-   "version": "1.1.0"
+   "updatedAt": 1793136668,
+   "version": "1.1.1"
   },
   "85e2f419-414a-48a9-ad3b-4b713c098ca2/ChatBeGone": {
    "addOnVersion": "10143",
@@ -6595,18 +6609,18 @@
    "version": "1.0.0 BETA"
   },
   "b9e43d9e-2e7b-4530-941b-01e90bd15f5a/StoneTalker": {
-   "addOnVersion": "010100",
+   "addOnVersion": "010101",
    "addonId": "b9e43d9e-2e7b-4530-941b-01e90bd15f5a",
-   "apiVersion": "101047 101048",
+   "apiVersion": "101051",
    "author": "tmbrinks",
    "dependsOn": "LibAddonMenu-2.0>=34 LibCombatAlerts>=7010",
-   "downloads": 193,
+   "downloads": 198,
    "folder": "StoneTalker",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "StoneTalker",
-   "updatedAt": 1762720809,
-   "version": "1.1.0"
+   "updatedAt": 1793136628,
+   "version": "1.1.1"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a/BetterScoreboard": {
    "addOnVersion": "50",
@@ -6717,8 +6731,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibTrack",
-   "updatedAt": 1793055859,
-   "version": "3.6.4"
+   "updatedAt": 1793143190,
+   "version": "3.6.5"
   },
   "be74c988-2267-4f01-a4e5-c54cbf6aba19/SurveyResetter": {
    "addOnVersion": "",
@@ -9157,18 +9171,18 @@
    "version": "36"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d/RoaringOpportunist": {
-   "addOnVersion": "020500",
+   "addOnVersion": "020501",
    "addonId": "f8e59501-116b-422a-90e9-f57cf2dc7b9d",
-   "apiVersion": "101047 101048",
+   "apiVersion": "101051",
    "author": "tmbrinks",
    "dependsOn": "LibAddonMenu-2.0>=41 LibCombatAlerts>=7010",
-   "downloads": 3344,
+   "downloads": 3743,
    "folder": "RoaringOpportunist",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "RoaringOpportunist",
-   "updatedAt": 1762720415,
-   "version": "2.5.0"
+   "updatedAt": 1793136712,
+   "version": "2.5.1"
   },
   "f9506e69-c90e-42e8-bef8-115490c59348/TrueReticle": {
    "addOnVersion": "",
@@ -9728,6 +9742,12 @@
    ],
    "version": "0.2.1"
   },
+  "0f2a1db4-049e-454b-96b8-52c65ff6cb85": {
+   "folders": [
+    "DLCRoulette"
+   ],
+   "version": "1.0.0"
+  },
   "0f87c2f6-55c7-4450-b93b-d6395ac2004d": {
    "folders": [],
    "version": "3.0.0"
@@ -10182,7 +10202,7 @@
    "folders": [
     "Olorime"
    ],
-   "version": "2.3.0"
+   "version": "2.3.1"
   },
   "2b323144-77d2-41bc-9e3e-d016c4dd0f30": {
    "folders": [],
@@ -10350,7 +10370,7 @@
    "folders": [
     "FurnitureBuilder"
    ],
-   "version": "V0.4.1"
+   "version": "V0.5.5"
   },
   "35674482-a2ce-4dfb-86f8-519b941a350a": {
    "folders": [
@@ -11486,7 +11506,7 @@
    "folders": [
     "ArchdruidTracker"
    ],
-   "version": "1.1.0"
+   "version": "1.1.1"
   },
   "7b833469-41d6-4060-b6df-547ae3ca188c": {
    "folders": [
@@ -11624,7 +11644,7 @@
    "folders": [
     "TurningTide"
    ],
-   "version": "1.1.0"
+   "version": "1.1.1"
   },
   "85e2f419-414a-48a9-ad3b-4b713c098ca2": {
    "folders": [
@@ -12432,7 +12452,7 @@
    "folders": [
     "StoneTalker"
    ],
-   "version": "1.1.0"
+   "version": "1.1.1"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a": {
    "folders": [
@@ -12478,7 +12498,7 @@
    "folders": [
     "LibTrack"
    ],
-   "version": "3.6.4"
+   "version": "3.6.5"
   },
   "be74c988-2267-4f01-a4e5-c54cbf6aba19": {
    "folders": [
@@ -13602,7 +13622,7 @@
    "folders": [
     "RoaringOpportunist"
    ],
-   "version": "2.5.0"
+   "version": "2.5.1"
   },
   "f9506e69-c90e-42e8-bef8-115490c59348": {
    "folders": [

@@ -53,7 +53,7 @@ APH-Profiler	26101514	2026.10.18.01.41	101051 101052	APH Profiler	APH0NlC	0bfede
 APH-Search	26101514	2026.10.18.01.41	101051 101052	APH Search	APH0NlC	3b4ab551-7e9e-4a11-9db5-e23b03dcc608
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
 archdruidTracker		2.5.4	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
-ArchdruidTracker	010100	1.1.0	101047 101048	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
+ArchdruidTracker	010101	1.1.1	101051	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
 AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5272a2a
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
 ArtaeumGroupTool	613	6.1.3	101048	Artaeum Group Tool	M0R	dc653131-c684-4f94-b875-35a29506436b
@@ -161,6 +161,7 @@ DeskUI	6	0.6.0	101050 101051	Xbox-PCUI	ItsCraniBaby1	8e0c89af-87a5-4154-b9cd-1d1
 Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b-bd58-5dcec8942b9d
 DevSandbox3	41902	DevSandbox3-4.19.2-2026-10-17T150333	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
+DLCRoulette	1	1.0.0	101051	DLC Roulette	-Chin	0f2a1db4-049e-454b-96b8-52c65ff6cb85
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
 DM2_ParseFightStats	31805	3.18.5	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
 DM2SimpleDPS	10014	1.0.14	101048 101047	DM2 Simple DPS	Fredgu3	324ffb56-dc57-4b03-a4b0-2c43de605ef1
@@ -208,7 +209,7 @@ Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6
 FrenziedMomentumTracker		1.2.0	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
 FunKillFeed		1.4.8	101049 101050	FunKillFeed	SugaComa	08954d6b-1604-4daf-9cf3-99b327dd7afd
 FurnishingTracker		1.0.18	101050	Furnishing Tracker	Eldibabalo	c49eb98c-6821-47de-9cb2-10b972d1a55f
-FurnitureBuilder	6	V0.4.1	101051	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
+FurnitureBuilder	12	V0.5.5	101051	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
 FurnitureFinder	3	V0.3.1	101051 101052	Furniture Finder	killerkev77	2b591c30-b518-46da-978a-c1a788963735
 FurnitureLocator	13	V13	101051	Furniture Tracker	killerkev77	655e721d-2e85-48fd-83f9-bcbb1e9c7392
 FurniturePlanSearch		0.2.4	101051	Furniture Plan Search	SugaComa	5d0f8b9b-9537-4b51-b576-5ec13219cc73
@@ -342,7 +343,7 @@ LibSideQuestPins		v4	101048	Side Quests	0mniX	1ac2188b-1200-476b-a90c-6561a7d3b5
 LibSlashCommander	45	1.2.0	101045 101046	LibSlashCommander	sirinsidiator	c0ae2cd5-69de-4e29-8be3-1607be88e54a
 LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-408e-9617-05161b5c9650
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
-LibTrack		3.6.4	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
+LibTrack		3.6.5	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
 LibUser562	3	1.2	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
@@ -424,7 +425,7 @@ NumbersOnDummyOnly		2025.05.29	101046	NumbersOnDummyOnly	Masteroshi430	7dd87315-
 ObsidianHUD	719	0.7.5	101051	Trest	FiNk3F13	74e3cf1b-47f3-44c7-ac72-290efc19e8f3
 OffBalanceTracker	0005	20260914-0005	101050	Off Balance Tracker - incl. Smart Tracking Mode	DuesentriebESO	ee431f44-2522-4944-ad58-8916644ec121
 OhNoMyMenu		1.0.1	101050	Oh No My Menu	BLKx777	30102403-93a7-4fd2-a08a-4b249f03e4d4
-Olorime	020300	2.3.0	101047 101048	Olorime	tmbrinks	2abdc7a0-d15d-42ae-aad7-bccf995da180
+Olorime	020301	2.3.1	101051	Olorime	tmbrinks	2abdc7a0-d15d-42ae-aad7-bccf995da180
 OneAPHaTime	26101801	2026.10.18.01.41	101051 101052	One APH a Time	APH0NlC	53c80097-33fd-4ef3-83f4-e78d6d9482ee
 OneMorRockgrove	140	1.4.0	101048	One More Rockgrove Helper	M0R	38f0df90-e793-4c9c-af2b-44a958ed38cf
 OpenAll	1312	1.3.2	101046	Auto Opener	Copper0	79b6b597-9e33-4cd7-b076-44e9a153a44c
@@ -503,7 +504,7 @@ RezAlert		1.0.13	101044	RezAlert	RipleyZepher	9d977c03-cdc6-45ef-99da-5dcd825ccf
 RezBot		1.9.5	101046 101047	RezBot	goron_spice	91330ebe-27c8-46b9-ad71-42991b96789d
 RideAlong		RideAlong-0.1.0-2026-08-15T123050	101050	Ride Along	clubwratt	e6c08a97-e33e-4716-83c6-a46ad3c43fbb
 riposteTracker		1.0.6	101051	Riposte Tracker	codeWarrior82	491c3ac5-72b5-4579-80fa-36d9e97a7f5b
-RoaringOpportunist	020500	2.5.0	101047 101048	RoaringOpportunist	tmbrinks	f8e59501-116b-422a-90e9-f57cf2dc7b9d
+RoaringOpportunist	020501	2.5.1	101051	RoaringOpportunist	tmbrinks	f8e59501-116b-422a-90e9-f57cf2dc7b9d
 RockGroveAlkoshTimer		1.0.3	101048	RockGrove Alkosh Timer	Phamo1000	d8edb913-8af4-455a-939f-5bbd598eeff7
 RodZillaTraderStats	10	0.1.10	101050	RodZilla's Trader Stats	TeamRodZillaLLC	910cac85-d8d4-4788-949b-2954e8ee9215
 Rolodex	1	1.0	101050	Rolodex	dicen9	fba4016e-4c55-48b5-9f38-f169d2190581
@@ -548,7 +549,7 @@ StatColours		1.0.3	101046	Volcano's Stat Colours	Volcano_Beetle	f53af274-25ac-4c
 StatsForNerds		1.0.0 BETA	101050	StatsForNerds	Vixen_Hunny	b9de0194-bc49-4ea7-9c65-b2db1caecca7
 StealthIconOnly		1.2	101051	Stealth Icon Only	Buhpa	3880ed7f-304b-4af0-a403-83a982df9091
 StonehulkDominationTracker		1.5.0	101049	StonehulkDominationTracker	FiNk3F13	230ed4c2-9e8f-43c0-a778-abad31557b72
-StoneTalker	010100	1.1.0	101047 101048	StoneTalker	tmbrinks	b9e43d9e-2e7b-4530-941b-01e90bd15f5a
+StoneTalker	010101	1.1.1	101051	StoneTalker	tmbrinks	b9e43d9e-2e7b-4530-941b-01e90bd15f5a
 StyleNewCleaner	000100000	1.0.3	101050	Style New Cleaner	Eldibabalo	a77b6722-e51b-4b17-9543-632248774cf3
 Sugas-Test-Zone		1.0- BBT V2 Beta 0.0.9	101049 101050 101051	Sugas-Test-Zone	SugaComa	75cafaa0-706c-4f77-a94a-9a8b0e2868f2
 SulXan		1.5	101048	Sul-Xan's Soul Catcher	Lykeion+	aa271fb4-3ce5-4584-ac5c-338617e92f62
@@ -605,7 +606,7 @@ TrueSynergiesMover		1.4	101051	True Synergies Mover	Toudidef	d16fe7aa-9938-433f-
 TrustButVerify		0.0.7	101047	Trust, but Verify	ReliktKoala	8421afb6-ec3a-4d66-a247-e161c5656103
 TSCDataHub	127	127	101050	TSC Data Hub	SavageTSC	df7e78bb-63a0-4221-a1f6-36c7ac0c29e8
 TSCPriceFetcher2	123	123	101051 101052	TSC Price Fetcher 2	SavageTSC	2a88cc14-8e8c-4b73-9605-2e1d7c764e23
-TurningTide	010100	1.1.0	101047 101048	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c1f37e8a9a
+TurningTide	010101	1.1.1	101051	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c1f37e8a9a
 turningTideTracker		1.3.4	101051	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
 UnchainedHelper		1.x.x.x	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
