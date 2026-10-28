@@ -426,6 +426,7 @@ AoM.KnownAddonDependencies = {
 	["PreviewAnywhere"] = { "IIfA" },
 	["PriceTooltip"] = { "ArkadiusTradeTools", "MasterMerchant", "PriceTooltipNote", "TamrielTradeCentre", "uespLogSalesPrices" },
 	["PriceTooltipGamepad"] = { "ArkadiusTradeTools", "MasterMerchant", "PriceTooltipNote", "TamrielTradeCentre", "uespLogSalesPrices" },
+	["PrismaticEmotes"] = { "pChat" },
 	["Provinatus"] = { "DungeonChampions", "HarvensCustomMapPins", "HarvestMap", "LoreBooks", "LostTreasure", "MapPins" },
 	["PTSAssistant"] = { "LibDebugLogger" },
 	["PurgeRadar"] = { "LibAddonMenu-2.0", "LibFloatingIcons" },

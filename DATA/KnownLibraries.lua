@@ -211,7 +211,7 @@ LibSkillsFactory	26	26	3649	101050	LibSkillsFactory	LibSkillsFactory
 LibSlashCommander	45	1.2.0	1508	101045 101046	LibSlashCommander	LibSlashCommander
 LibSort	200	2.r1	540	100027 100028	LibSort	LibSort
 LibSprint	20260522	2026.05.03	3827	101050	LibSprint	LibSprint
-LibStatic	2	2.0.0	4367	101049	LibStatic	LibStatic
+LibStatic	210	2.1.0	4367	101049	LibStatic	LibStatic
 LibStub	7	1.0 r7	44	100030 100031	LibStub	LibStub
 LibSubzones	1	v22	4112	101048	ImperialCartographer	LibSubzones
 LibSurfaceTools	8	8	4584	101049	LibSurfaceTools	LibSurfaceTools

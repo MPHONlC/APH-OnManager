@@ -1410,6 +1410,7 @@ AoM.SuggestedCategories = {
 	["PriceTooltipGamepad"] = "Plug-Ins & Patches",
 	["PriceTooltipNote"] = "Bags, Bank, Inventory",
 	["PriorityRecast"] = "Buff, Debuff, Spell",
+	["PrismaticEmotes"] = "Chat Mods",
 	["ProblemSolved"] = "Bags, Bank, Inventory",
 	["Provinatus"] = "Graphic UI Mods",
 	["ProvisioningWatcher"] = "Buff, Debuff, Spell",
