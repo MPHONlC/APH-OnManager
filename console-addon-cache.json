@@ -1470,6 +1470,20 @@
    "updatedAt": 1774836489,
    "version": "1.0.7"
   },
+  "29a889a4-0634-42a0-94dc-c57f06a3e4aa/GuildCompare": {
+   "addOnVersion": "10000",
+   "addonId": "29a889a4-0634-42a0-94dc-c57f06a3e4aa",
+   "apiVersion": "101050 101051",
+   "author": "Scribe_Rob",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "GuildCompare",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Roster Comparison",
+   "updatedAt": 1793180492,
+   "version": "0.0.1a"
+  },
   "29b689fc-d75c-432c-adfa-691d46ddf847/KillCount": {
    "addOnVersion": "3100",
    "addonId": "29b689fc-d75c-432c-adfa-691d46ddf847",
@@ -7183,18 +7197,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000098",
+   "addOnVersion": "01000099",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 15157,
+   "downloads": 15443,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793073614,
-   "version": "1.0.98"
+   "updatedAt": 1793160013,
+   "version": "1.0.99"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8961,18 +8975,18 @@
    "version": "v1.2.0"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "218",
+   "addOnVersion": "222",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 311,
+   "downloads": 319,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1793097762,
-   "version": "v1.0.8l"
+   "updatedAt": 1793184032,
+   "version": "v1.0.8p "
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -10173,6 +10187,12 @@
     "TheArtaeumAngler"
    ],
    "version": "1.0.7"
+  },
+  "29a889a4-0634-42a0-94dc-c57f06a3e4aa": {
+   "folders": [
+    "GuildCompare"
+   ],
+   "version": "0.0.1a"
   },
   "29b689fc-d75c-432c-adfa-691d46ddf847": {
    "folders": [
@@ -12713,7 +12733,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.98"
+   "version": "1.0.99"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13532,7 +13552,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.8l"
+   "version": "v1.0.8p "
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [

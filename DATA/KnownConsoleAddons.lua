@@ -237,7 +237,8 @@ GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9
 GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
-GuildMarketScannerDev	218	v1.0.8l	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildCompare	10000	0.0.1a	101050 101051	Roster Comparison	Scribe_Rob	29a889a4-0634-42a0-94dc-c57f06a3e4aa
+GuildMarketScannerDev	222	v1.0.8p	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
@@ -354,7 +355,7 @@ LiveBuffUptime		2.2.7	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000098	1.0.98	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000099	1.0.99	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
