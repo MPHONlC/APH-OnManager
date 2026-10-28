@@ -4696,13 +4696,13 @@
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "",
-   "downloads": 122,
+   "downloads": 143,
    "folder": "DoesThisThingGoAnyFaster",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20200",
    "title": "DoesThisThingGoAnyFaster",
-   "updatedAt": 1792632772,
-   "version": "0.8"
+   "updatedAt": 1793156951,
+   "version": "0.9"
   },
   "8394c641-1cb2-45f3-8b73-b6f424d6c630/TeaAndToast": {
    "addOnVersion": "",
@@ -11595,7 +11595,7 @@
    "folders": [
     "DoesThisThingGoAnyFaster"
    ],
-   "version": "0.8"
+   "version": "0.9"
   },
   "8394c641-1cb2-45f3-8b73-b6f424d6c630": {
    "folders": [

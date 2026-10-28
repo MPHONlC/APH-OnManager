@@ -165,7 +165,7 @@ DLCRoulette	1	1.0.0	101051	DLC Roulette	-Chin	0f2a1db4-049e-454b-96b8-52c65ff6cb
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
 DM2_ParseFightStats	31805	3.18.5	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
 DM2SimpleDPS	10014	1.0.14	101048 101047	DM2 Simple DPS	Fredgu3	324ffb56-dc57-4b03-a4b0-2c43de605ef1
-DoesThisThingGoAnyFaster	13	0.8	101051	DoesThisThingGoAnyFaster	Th3rtythr33	838c4ba0-f7d2-4d29-ab28-7bd838a4973b
+DoesThisThingGoAnyFaster	13	0.9	101051	DoesThisThingGoAnyFaster	Th3rtythr33	838c4ba0-f7d2-4d29-ab28-7bd838a4973b
 DolgubonsLazySetCrafter		3.0.7.9	101049 101050	Dolgubon's Lazy Set Crafter (XBPA ONLY)	Dolgubon	e1b979e5-1c57-4da0-8980-5477f9d3b689
 DolgubonsLazyWritCreator	4057	4.0.5.7.9	101051	Dolgubon's Lazy Writ Crafter	Dolgubon	eeff2a8e-c911-4984-a07f-784c7155ddad
 DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a513-d3f2a14921db
