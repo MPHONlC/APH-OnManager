@@ -444,6 +444,7 @@ AoM.SuggestedCategories = {
 	["DDPositions"] = "Utility Mods",
 	["DeadMansTally"] = "Combat Mods",
 	["DeathCounter"] = "Group, Guild & Friends",
+	["DeBluedIcons"] = "UI Media",
 	["DebuffTracker"] = "Casting Bars, Cooldowns",
 	["DebuggerConsole"] = "Data Mods",
 	["DeconOrSell"] = "Bags, Bank, Inventory",

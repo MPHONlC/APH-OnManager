@@ -10,11 +10,6 @@
 assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.KnownLibraries = AoM.CreateKnownTable([==[
-ALTHI_Language_es	1	0.9.4	4990	101051	ALTHI – Paquete de idioma español	ALTHI_Language_es
-ALTHI_Language_fr	1	0.9.4	4989	101051	ALTHI – Pack de langue française	ALTHI_Language_fr
-ALTHI_Language_jp	1	0.9.4	4993	101051	ALTHI – &#26085;&#26412;&#35486;&#35328;&#35486;&#12497;&#12483;&#12463;	ALTHI_Language_jp
-ALTHI_Language_ru	1	0.9.4	4991	101051	ALTHI – &#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; &#1103;&#1079;&#1099;&#1082;&#1086;&#1074;	ALTHI_Language_ru
-ALTHI_Language_zh	1	0.9.4	4992	101051	ALTHI – &#31616;&#20307;&#20013;&#25991;&#35821;&#35328;&#21253;	ALTHI_Language_zh
 ArkadiusTradeToolsSalesData01	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData01
 ArkadiusTradeToolsSalesData02	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData02
 ArkadiusTradeToolsSalesData03	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData03
