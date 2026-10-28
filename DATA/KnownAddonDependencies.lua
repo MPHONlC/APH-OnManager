@@ -153,6 +153,7 @@ AoM.KnownAddonDependencies = {
 	["DungeonGear"] = { "LibMapPins-1.0", "LibSets" },
 	["DungeonHistory"] = { "LibAddonMenu-2.0" },
 	["DungeonQueue4Stickerbook"] = { "pchat" },
+	["DungeonScores"] = { "DungeonScoresRecords" },
 	["DungeonSetTracker"] = { "LibAddonMenu-2.0", "LibSets" },
 	["DWAllianceRankProgress"] = { "LibHarvensAddonSettings" },
 	["DynamicCP"] = { "LibFilteredChatPanel" },
