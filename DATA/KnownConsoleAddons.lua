@@ -54,6 +54,7 @@ APH-Search	26101514	2026.10.18.01.41	101051 101052	APH Search	APH0NlC	3b4ab551-7
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
 archdruidTracker		2.5.4	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010101	1.1.1	101051	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
+ArcRobsFurnishingFinder		0.0.4a	101047 101048 101049 101050 101051	Arcanist Rob's Furnishing Finder	Scribe_Rob	17df3bbc-aace-41f6-b29e-9dc87cb84fdf
 AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5272a2a
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
 ArtaeumGroupTool	613	6.1.3	101048	Artaeum Group Tool	M0R	dc653131-c684-4f94-b875-35a29506436b
@@ -66,6 +67,7 @@ AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenge
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
 AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
+AutoImproveGear		1.0.2	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
 AutoMasterWrits	15102	1.51.02	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
@@ -106,7 +108,7 @@ CallToArm		1.1.6-T5c	101051	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175
 CanCraftMasterWrit	10300	1.3.0	101051	Can Craft Master Writ	xSuperSlayan	008cd443-6347-421a-bfcf-ddc830e8cfef
 CanITravelBack	1	0.3.6	101046	Can I Travel Back?	Xarador	8289722e-8e80-4a3d-ba1a-31ae1194ffce
 CanThisBeCraftedAtHome		2025.05.29	101046	CanThisBeCraftedAtHome	Masteroshi430	434ce5ca-211a-4a6b-8682-21f39dcb2d25
-CasualClean	11	1.7.5	101051	CasualClean	Th3rtythr33	c75df85c-f9c0-4e54-a0f3-d5173e44a850
+CasualClean	12	1.8.0	101051	CasualClean (Beta)	Th3rtythr33	c75df85c-f9c0-4e54-a0f3-d5173e44a850
 CBookFontStylist	50002	5.0.2	101050	Book Font Stylist	Calamath	54495f75-791c-4010-8120-4aae3fdc19a1
 CBStampOfManufacture	1	1.2	101050	CB's stamp of manufacture	dicen9	4e562dc4-090e-42a9-9a27-6c9ef5e1daee
 cChat	2	2.2	101050	cChat	svammy	93511248-c8d1-4b19-9167-08bbeb5d10ac
@@ -161,7 +163,7 @@ DeskUI	6	0.6.0	101050 101051	Xbox-PCUI	ItsCraniBaby1	8e0c89af-87a5-4154-b9cd-1d1
 Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b-bd58-5dcec8942b9d
 DevSandbox3	41902	DevSandbox3-4.19.2-2026-10-17T150333	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
-DLCRoulette	1	1.0.0	101051	DLC Roulette	-Chin	0f2a1db4-049e-454b-96b8-52c65ff6cb85
+DLCRoulette	5	1.1.3	101051	DLC Roulette	-Chin	0f2a1db4-049e-454b-96b8-52c65ff6cb85
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
 DM2_ParseFightStats	31805	3.18.5	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
 DM2SimpleDPS	10014	1.0.14	101048 101047	DM2 Simple DPS	Fredgu3	324ffb56-dc57-4b03-a4b0-2c43de605ef1
@@ -238,7 +240,7 @@ GrumpysLarcenistTracker		1.1.0	101050	Grumpy's Larcenist Tracker	ethilin	247c8a2
 GrumpysSimplePlayTimeConsole		1.0.4	101049 101050	Grumpy's Simple Playtime	ethilin	118c6c05-d955-4eff-b2de-a1e171ee1215
 GuildActivityTracker		4.2.2	101047	Guild Activity Tracker	Eldibabalo	f0873593-4222-438e-8d90-019fa403178b
 GuildCompare	10000	0.0.1a	101050 101051	Roster Comparison	Scribe_Rob	29a889a4-0634-42a0-94dc-c57f06a3e4aa
-GuildMarketScannerDev	222	v1.0.8p	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
+GuildMarketScannerDev	220	v1.0.9	101051	Tamriel Collections – Guild Market Scanner	MajesticMinxi	f419b0e2-e53c-4875-bcf2-5bf0e372218b
 GuildNameTicker		GuildNameTicker-0.5.0-2026-10-17T152007	101050	Guild Name Ticker	clubwratt	cfca5ccd-3799-4e8b-9607-99f4f175a2df
 GuildSalesJournal		0.2.26	101049 101050	GuildSalesJournal	SugaComa	13c6152d-1296-46e6-8b14-b42b77bb68df
 GuildStacker		1.0.6	101047	Guild Items Stacker	Eldibabalo	97602269-0c8d-4bb7-aa31-33cde23e39b7
@@ -344,7 +346,6 @@ LibSideQuestPins		v4	101048	Side Quests	0mniX	1ac2188b-1200-476b-a90c-6561a7d3b5
 LibSlashCommander	45	1.2.0	101045 101046	LibSlashCommander	sirinsidiator	c0ae2cd5-69de-4e29-8be3-1607be88e54a
 LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-408e-9617-05161b5c9650
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
-LibTrack		3.6.5	101051	LibTrack	codeWarrior82	bd83501c-9afa-4af7-b2da-d23bd3b627ed
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
 LibUser562	3	1.2	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
@@ -412,7 +413,7 @@ MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-
 MyTankBars	2	1.0	101048 101049	MyTankBars	Unfounded_Puppy3	fe2be9f7-6b33-44e1-8b54-7a7afcc9b63d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
 MyUI		v3.1.1	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
-necroTracker		1.3.5	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
+necroTracker		1.4.0	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
 NedsGroupManager		1.5	101046	Ned's Group Manager	Ned919x	4f86b7c8-8fb6-432c-a1b9-2004263244ab
 Nemesis	100	1.0.0	101050	Nemesis	Rogue0rbit	88739d40-c764-4276-9157-ba0eb1d47805
 NewQuestAssist	1	1	101050	NextQuest	dicen9	dfed21f9-988b-44b9-a054-89bfcce20639

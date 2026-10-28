@@ -505,18 +505,18 @@
    "version": "0.2.1"
   },
   "0f2a1db4-049e-454b-96b8-52c65ff6cb85/DLCRoulette": {
-   "addOnVersion": "1",
+   "addOnVersion": "5",
    "addonId": "0f2a1db4-049e-454b-96b8-52c65ff6cb85",
    "apiVersion": "101051",
    "author": "-Chin",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 1,
+   "downloads": 2,
    "folder": "DLCRoulette",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "DLC Roulette",
-   "updatedAt": 1793141011,
-   "version": "1.0.0"
+   "updatedAt": 1793190995,
+   "version": "1.1.3"
   },
   "0fa32336-8528-4747-9b01-ccba9408f654/LibMediaProvider": {
    "addOnVersion": "39",
@@ -839,6 +839,20 @@
    "title": "RandoMote",
    "updatedAt": 1779553117,
    "version": "1.6.3"
+  },
+  "17df3bbc-aace-41f6-b29e-9dc87cb84fdf/ArcRobsFurnishingFinder": {
+   "addOnVersion": "",
+   "addonId": "17df3bbc-aace-41f6-b29e-9dc87cb84fdf",
+   "apiVersion": "101047 101048 101049 101050 101051",
+   "author": "Scribe_Rob",
+   "dependsOn": "",
+   "downloads": 7,
+   "folder": "ArcRobsFurnishingFinder",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Arcanist Rob's Furnishing Finder",
+   "updatedAt": 1793201560,
+   "version": "0.0.4a"
   },
   "183094f4-334c-48ea-abb9-14add7fbbbd7/RotationHelper": {
    "addOnVersion": "",
@@ -2918,13 +2932,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 35,
+   "downloads": 44,
    "folder": "necroTracker",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Necro Tracker",
-   "updatedAt": 1791884577,
-   "version": "1.3.5"
+   "updatedAt": 1793194651,
+   "version": "1.4.0"
   },
   "4dd951d1-312d-470c-b02c-f1961618b998/BetterTwins": {
    "addOnVersion": "6",
@@ -6538,6 +6552,20 @@
    "updatedAt": 1783453618,
    "version": "1.2"
   },
+  "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3/AutoImproveGear": {
+   "addOnVersion": "",
+   "addonId": "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3",
+   "apiVersion": "101051",
+   "author": "codeWarrior82",
+   "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
+   "downloads": 3,
+   "folder": "AutoImproveGear",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Auto Improve Gear",
+   "updatedAt": 1793200038,
+   "version": "1.0.2"
+  },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
    "addonId": "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277",
@@ -6733,20 +6761,6 @@
    "title": "Critty: Live Crit Tracking",
    "updatedAt": 1783038691,
    "version": "3.1.3"
-  },
-  "bd83501c-9afa-4af7-b2da-d23bd3b627ed/LibTrack": {
-   "addOnVersion": "",
-   "addonId": "bd83501c-9afa-4af7-b2da-d23bd3b627ed",
-   "apiVersion": "101051",
-   "author": "codeWarrior82",
-   "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 241,
-   "folder": "LibTrack",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "LibTrack",
-   "updatedAt": 1793143190,
-   "version": "3.6.5"
   },
   "be74c988-2267-4f01-a4e5-c54cbf6aba19/SurveyResetter": {
    "addOnVersion": "",
@@ -7113,18 +7127,18 @@
    "version": "2026-01-11-fix"
   },
   "c75df85c-f9c0-4e54-a0f3-d5173e44a850/CasualClean": {
-   "addOnVersion": "11",
+   "addOnVersion": "12",
    "addonId": "c75df85c-f9c0-4e54-a0f3-d5173e44a850",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 56,
+   "downloads": 66,
    "folder": "CasualClean",
    "isLibrary": "",
    "optionalDependsOn": "",
-   "title": "CasualClean",
-   "updatedAt": 1792285504,
-   "version": "1.7.5"
+   "title": "CasualClean (Beta)",
+   "updatedAt": 1793206939,
+   "version": "1.8.0"
   },
   "c7f082bc-03e0-4e0c-b82b-d7903e5101ad/PBsCraftMaterialAssistant": {
    "addOnVersion": "",
@@ -8975,18 +8989,18 @@
    "version": "v1.2.0"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "222",
+   "addOnVersion": "220",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 319,
+   "downloads": 333,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1793184032,
-   "version": "v1.0.8p "
+   "updatedAt": 1793186630,
+   "version": "v1.0.9"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -9760,7 +9774,7 @@
    "folders": [
     "DLCRoulette"
    ],
-   "version": "1.0.0"
+   "version": "1.1.3"
   },
   "0f87c2f6-55c7-4450-b93b-d6395ac2004d": {
    "folders": [],
@@ -9910,6 +9924,13 @@
     "RandoMote"
    ],
    "version": "1.6.3"
+  },
+  "17df3bbc-aace-41f6-b29e-9dc87cb84fdf": {
+   "folders": [
+    "ArcRobsFurnishingFinder",
+    "ArcRobsFurnishingFinder"
+   ],
+   "version": "0.0.4a"
   },
   "183094f4-334c-48ea-abb9-14add7fbbbd7": {
    "folders": [
@@ -10813,7 +10834,7 @@
    "folders": [
     "necroTracker"
    ],
-   "version": "1.3.5"
+   "version": "1.4.0"
   },
   "4d619dbf-92df-4bda-aac1-b5dbec806fca": {
    "folders": [],
@@ -12432,6 +12453,12 @@
    ],
    "version": "1.2"
   },
+  "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3": {
+   "folders": [
+    "AutoImproveGear"
+   ],
+   "version": "1.0.2"
+  },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
     "SavedChatMessages"
@@ -12513,12 +12540,6 @@
     "CritTracker"
    ],
    "version": "3.1.3"
-  },
-  "bd83501c-9afa-4af7-b2da-d23bd3b627ed": {
-   "folders": [
-    "LibTrack"
-   ],
-   "version": "3.6.5"
   },
   "be74c988-2267-4f01-a4e5-c54cbf6aba19": {
    "folders": [
@@ -12689,7 +12710,7 @@
    "folders": [
     "CasualClean"
    ],
-   "version": "1.7.5"
+   "version": "1.8.0"
   },
   "c786f4ab-0ae9-4067-bfd7-5d9ec9b2705b": {
    "folders": [],
@@ -13291,10 +13312,6 @@
    ],
    "version": "3.3.3"
   },
-  "e5945fc9-cef6-468d-9335-b4657a89f1f1": {
-   "folders": [],
-   "version": "0.0.1a"
-  },
   "e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76": {
    "folders": [
     "Leo_sust_beta"
@@ -13552,7 +13569,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.8p "
+   "version": "v1.0.9"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [
