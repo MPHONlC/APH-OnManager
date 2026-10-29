@@ -1696,6 +1696,7 @@ AoM.SuggestedCategories = {
 	["TamrielProgressMap"] = "Map, Coords, Compasses",
 	["TamrielSkyDial"] = "Info, Plug-in Bars",
 	["TamrielTomes_MapPins"] = "Map, Coords, Compasses",
+	["TamrielTourist"] = "Map, Coords, Compasses",
 	["TamrielTradeCentre"] = "Auction House & Vendors",
 	["TamrielTradeCentre-KR-Minion"] = "Plug-Ins & Patches",
 	["TamrielTradeCentreBR"] = "Plug-Ins & Patches",
