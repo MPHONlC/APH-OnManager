@@ -1527,18 +1527,18 @@
    "version": "1.03"
   },
   "2a88cc14-8e8c-4b73-9605-2e1d7c764e23/TSCPriceFetcher2": {
-   "addOnVersion": "123",
+   "addOnVersion": "124",
    "addonId": "2a88cc14-8e8c-4b73-9605-2e1d7c764e23",
    "apiVersion": "101051 101052",
    "author": "SavageTSC",
    "dependsOn": "LibHarvensAddonSettings>=20000 LibAsync>=30002 LibNotification",
-   "downloads": 604601,
+   "downloads": 625195,
    "folder": "TSCPriceFetcher2",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "TSC Price Fetcher 2",
-   "updatedAt": 1791763650,
-   "version": "123"
+   "updatedAt": 1793229638,
+   "version": "124"
   },
   "2aa223e9-ba88-45f7-90d3-0a47002c720c/PermMemento": {
    "addOnVersion": "26101801",
@@ -4957,18 +4957,18 @@
    "version": "1.0.0"
   },
   "8ac74138-bfc3-481a-9baf-7e2cdbca36a0/AutoMasterWrits": {
-   "addOnVersion": "15102",
+   "addOnVersion": "15103",
    "addonId": "8ac74138-bfc3-481a-9baf-7e2cdbca36a0",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "DolgubonsLazyWritCreator LibLazyCrafting",
-   "downloads": 6,
+   "downloads": 17,
    "folder": "AutoMasterWrits",
    "isLibrary": "",
    "optionalDependsOn": "LibRadialMenu LibHarvensAddonSettings",
    "title": "Auto Master Writs",
-   "updatedAt": 1792957830,
-   "version": "1.51.02"
+   "updatedAt": 1793223549,
+   "version": "1.51.03"
   },
   "8ba040d8-fba0-4a01-aa63-4ee74dd2d1d6/AdventurersToolkit": {
    "addOnVersion": "652",
@@ -6558,13 +6558,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 3,
+   "downloads": 41,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793200038,
-   "version": "1.0.2"
+   "updatedAt": 1793239944,
+   "version": "1.4.0"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7132,13 +7132,13 @@
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 66,
+   "downloads": 77,
    "folder": "CasualClean",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "CasualClean (Beta)",
-   "updatedAt": 1793206939,
-   "version": "1.8.0"
+   "updatedAt": 1793241953,
+   "version": "1.8.03"
   },
   "c7f082bc-03e0-4e0c-b82b-d7903e5101ad/PBsCraftMaterialAssistant": {
    "addOnVersion": "",
@@ -7211,18 +7211,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000099",
+   "addOnVersion": "01000100",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 15443,
+   "downloads": 15633,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793160013,
-   "version": "1.0.99"
+   "updatedAt": 1793246412,
+   "version": "1.0.100"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8989,18 +8989,18 @@
    "version": "v1.2.0"
   },
   "f419b0e2-e53c-4875-bcf2-5bf0e372218b/GuildMarketScannerDev": {
-   "addOnVersion": "220",
+   "addOnVersion": "230",
    "addonId": "f419b0e2-e53c-4875-bcf2-5bf0e372218b",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 333,
+   "downloads": 359,
    "folder": "GuildMarketScannerDev",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections \u2013 Guild Market Scanner",
-   "updatedAt": 1793186630,
-   "version": "v1.0.9"
+   "updatedAt": 1793236726,
+   "version": "v1.2.4"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41/buffdebuffbarplus": {
    "addOnVersion": "125",
@@ -10231,7 +10231,7 @@
    "folders": [
     "TSCPriceFetcher2"
    ],
-   "version": "123"
+   "version": "124"
   },
   "2aa223e9-ba88-45f7-90d3-0a47002c720c": {
    "folders": [
@@ -11744,7 +11744,7 @@
    "folders": [
     "AutoMasterWrits"
    ],
-   "version": "1.51.02"
+   "version": "1.51.03"
   },
   "8ba040d8-fba0-4a01-aa63-4ee74dd2d1d6": {
    "folders": [
@@ -12457,7 +12457,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "1.0.2"
+   "version": "1.4.0"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12710,7 +12710,7 @@
    "folders": [
     "CasualClean"
    ],
-   "version": "1.8.0"
+   "version": "1.8.03"
   },
   "c786f4ab-0ae9-4067-bfd7-5d9ec9b2705b": {
    "folders": [],
@@ -12754,7 +12754,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.99"
+   "version": "1.0.100"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13569,7 +13569,7 @@
    "folders": [
     "GuildMarketScannerDev"
    ],
-   "version": "v1.0.9"
+   "version": "v1.2.4"
   },
   "f47025d4-d5d3-4863-b0b0-1d9f57dd6c41": {
    "folders": [
