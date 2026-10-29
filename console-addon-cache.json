@@ -8084,13 +8084,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 30,
+   "downloads": 39,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "Testin",
-   "updatedAt": 1792680183,
-   "version": "1.5.0"
+   "updatedAt": 1793271849,
+   "version": "1.5.1"
   },
   "ddf1a1e2-b627-4cb5-a40a-a3ece40c609c/AutoInteract": {
    "addOnVersion": "185",
@@ -13145,7 +13145,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "1.5.0"
+   "version": "1.5.1"
   },
   "ddf1a1e2-b627-4cb5-a40a-a3ece40c609c": {
    "folders": [

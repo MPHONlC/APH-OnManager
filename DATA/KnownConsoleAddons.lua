@@ -532,7 +532,7 @@ ShowEquipped	10601	1.6.3	101048 101049	Show Equips	Shienar	7d3a20ff-160a-4988-b8
 SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26b16bd23b8d
 SiegeReminder	110	2.0.31	101049 101050	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
-SimpleGroupDPS		1.5.0	101051	Testin	FiNk3F13	dda5dca2-4511-4e45-9dd2-769c7eb40feb
+SimpleGroupDPS		1.5.1	101051	Testin	FiNk3F13	dda5dca2-4511-4e45-9dd2-769c7eb40feb
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb
