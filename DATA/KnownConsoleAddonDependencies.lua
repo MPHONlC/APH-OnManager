@@ -81,6 +81,7 @@ essenceThiefTracker	LibNotify
 EyeOnKeep	LibHarvensAddonSettings
 FancyActionBarPlus	ActionBarSkillStyles	Untaunted
 FashionMount	LibHarvensAddonSettings
+FavoriteGuildCycler	LibHarvensAddonSettings
 feedingFrenzyTracker	LibNotify
 FlexibleBars	LibCombatAlerts
 Forpl-KDA-Bar	LibAddonMenu-2.0
@@ -247,6 +248,7 @@ WarmasktrackerByJH	LibAddonMenu-2.0
 WeavingMetronome	LibAddonMenu-2.0
 WhatsMissing	LibRadialMenu
 WhereIsIt	TSCPriceFetcher2
+WizardsHelper	LibRadialMenu
 wretchedVitalityTracker	LibNotify
 WritReady	LibAddonMenu-2.0
 ]==])
