@@ -603,18 +603,18 @@
    "version": "v30"
   },
   "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626/TamrielCollectionsMotifs": {
-   "addOnVersion": "211",
+   "addOnVersion": "224",
    "addonId": "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 41,
+   "downloads": 56,
    "folder": "TamrielCollectionsMotifs",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Motifs",
-   "updatedAt": 1793303832,
-   "version": "v0.2.11"
+   "updatedAt": 1793315841,
+   "version": "v0.2.24"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc/EsoPL": {
    "addOnVersion": "",
@@ -1649,8 +1649,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's TargetPlayer for AD Stalkers",
-   "updatedAt": 1792987403,
-   "version": "1.6.2"
+   "updatedAt": 1793330831,
+   "version": "1.7.0"
   },
   "2c07f374-57bc-4f20-814f-d40e4d93285b/MyMapPos": {
    "addOnVersion": "",
@@ -1700,13 +1700,13 @@
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "",
-   "downloads": 33,
+   "downloads": 34,
    "folder": "MyUI",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibStub",
    "title": "ttest",
-   "updatedAt": 1792442641,
-   "version": "v3.1.1"
+   "updatedAt": 1793306000,
+   "version": "v3.1.2"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa/ValknarrUIE": {
    "addOnVersion": "43",
@@ -6006,6 +6006,20 @@
    "updatedAt": 1792810182,
    "version": "5.3"
   },
+  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
+   "addOnVersion": "107",
+   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
+   "apiVersion": "101050",
+   "author": "Bucketmore",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 161,
+   "folder": "PvPTargetInfo",
+   "isLibrary": "false",
+   "optionalDependsOn": "",
+   "title": "PvP Target Info",
+   "updatedAt": 1793325992,
+   "version": "V2.0.8"
+  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
    "addonId": "a6c22156-8b52-467d-ab02-287e5731a1fb",
@@ -6075,6 +6089,20 @@
    "title": "Style New Cleaner",
    "updatedAt": 1783028539,
    "version": "1.0.3"
+  },
+  "a847021b-2ae6-4d43-81a4-9a8f3985f8b8/TamrielTextStudio": {
+   "addOnVersion": "",
+   "addonId": "a847021b-2ae6-4d43-81a4-9a8f3985f8b8",
+   "apiVersion": "101051",
+   "author": "Lucky38Tech",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 9,
+   "folder": "TamrielTextStudio",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Tamriel Text Studio",
+   "updatedAt": 1793307820,
+   "version": "2.3.6"
   },
   "a84f8a0c-210f-481a-b8a7-6dc95bff7664/DailyQuestTracker": {
    "addOnVersion": "",
@@ -6600,13 +6628,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 78,
+   "downloads": 108,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793303858,
-   "version": "1.7.9"
+   "updatedAt": 1793325000,
+   "version": "2.0.8"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7253,18 +7281,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000100",
+   "addOnVersion": "01000101",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 15633,
+   "downloads": 15908,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793246412,
-   "version": "1.0.100"
+   "updatedAt": 1793332813,
+   "version": "1.0.101"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -7281,18 +7309,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "16",
+   "addOnVersion": "17",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 475,
+   "downloads": 574,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1791654350,
-   "version": "0.4.2"
+   "updatedAt": 1793322515,
+   "version": "0.5.6"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
    "addOnVersion": "",
@@ -9862,7 +9890,7 @@
    "folders": [
     "TamrielCollectionsMotifs"
    ],
-   "version": "v0.2.11"
+   "version": "v0.2.24"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc": {
    "folders": [
@@ -10325,7 +10353,7 @@
    "folders": [
     "PBsTargetPlayer"
    ],
-   "version": "1.6.2"
+   "version": "1.7.0"
   },
   "2c07f374-57bc-4f20-814f-d40e4d93285b": {
    "folders": [
@@ -10349,7 +10377,7 @@
    "folders": [
     "MyUI"
    ],
-   "version": "v3.1.1"
+   "version": "v3.1.2"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa": {
    "folders": [
@@ -12246,6 +12274,12 @@
    ],
    "version": "5.3"
   },
+  "a5490d07-2b02-4714-bf07-a18820977a3c": {
+   "folders": [
+    "PvPTargetInfo"
+   ],
+   "version": "V2.0.8"
+  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
     "SynergyCooldown"
@@ -12276,6 +12310,12 @@
     "StyleNewCleaner"
    ],
    "version": "1.0.3"
+  },
+  "a847021b-2ae6-4d43-81a4-9a8f3985f8b8": {
+   "folders": [
+    "TamrielTextStudio"
+   ],
+   "version": "2.3.6"
   },
   "a84f8a0c-210f-481a-b8a7-6dc95bff7664": {
    "folders": [
@@ -12517,7 +12557,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "1.7.9"
+   "version": "2.0.8"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12814,7 +12854,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.100"
+   "version": "1.0.101"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -12826,7 +12866,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.4.2"
+   "version": "0.5.6"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
    "folders": [
