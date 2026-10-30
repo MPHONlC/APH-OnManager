@@ -109,6 +109,7 @@ AoM.SuggestedCategories = {
 	["ArchdruidTracker"] = "Casting Bars, Cooldowns",
 	["ArchiveAdvisor"] = "Character Advancement",
 	["ArchiveHelper"] = "Buff, Debuff, Spell",
+	["ArclightTaunt"] = "Combat Mods",
 	["ArdysOBTracker"] = "Combat Mods",
 	["AreWeMounted"] = "PvP",
 	["AriesLogsEncounter"] = "Raid Mods",
