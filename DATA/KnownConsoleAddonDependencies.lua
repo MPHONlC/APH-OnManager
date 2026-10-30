@@ -174,6 +174,7 @@ PBsKillLog	LibHarvensAddonSettings
 PBsLuaMemoryMonitor	LibHarvensAddonSettings
 PBsMailerExtension	LibHarvensAddonSettings
 PBsOmikuji	LibHarvensAddonSettings
+PBsProcSetTimer	LibHarvensAddonSettings
 PBsScreenshotModeShortcut	LibHarvensAddonSettings
 PBsTargetPlayer	LibHarvensAddonSettings
 PBsTetris	LibGroupBroadcast
