@@ -67,7 +67,7 @@ AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenge
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
 AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
-AutoImproveGear		2.2.1	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
+AutoImproveGear		2.6.4	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
 AutoMasterWrits	15103	1.51.03	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
@@ -144,7 +144,7 @@ CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker
 CPSlotsConsole		1.3	101051	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
 CPVeterancy		CPVeterancy-0.0.2-2026-07-30T204833	101050	CP Veterancy	clubwratt	7f8752f5-11f4-4e26-a26b-fc0ee813d8e1
 CraftMaster		1.0.13	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
-CraftMaterialAssistant		0.0.16	101051	CraftMaterialAssistant (Beta)	lesse83	96d1c172-661c-4739-960f-fcf660401298
+CraftMaterialAssistant		1.0.8	101051	CraftMaterialAssistant	lesse83	949980bd-b411-4102-82d7-4e64ba17bc3a
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
 CrowdednESO		2026.07.09	101050	CrowdednESO	Masteroshi430	9d131435-84c4-4c6d-9d73-5e2ec6fa61b7
 CrownAndCrux	1.3.7	1.3.7	101049 101050	Crown And Crux	SaintAres97	0ac5fe21-6f1a-4c14-8b9f-be1a308a9619
@@ -425,7 +425,7 @@ NoTargetFrame	110	Final version	101050	Hide Targetframe by JH	j.hhh	b1bf0d35-ce2
 NQOL	367	367	101050 101051	NQOL	unacntble	6987c48d-827e-4583-a5a7-6cb748174190
 NQOL-dev	366	366	101050 101051	NQOL-dev	unacntble	475ce77b-6d09-4c75-8c28-95fff8f907c9
 NumbersOnDummyOnly		2025.05.29	101046	NumbersOnDummyOnly	Masteroshi430	7dd87315-5f9a-4644-887f-a38632d7f70e
-ObsidianHUD	753	0.8.1	101051	Trest	FiNk3F13	74e3cf1b-47f3-44c7-ac72-290efc19e8f3
+ObsidianHUD	754	0.8.2	101051	Trest	FiNk3F13	74e3cf1b-47f3-44c7-ac72-290efc19e8f3
 OffBalanceTracker	0005	20260914-0005	101050	Off Balance Tracker - incl. Smart Tracking Mode	DuesentriebESO	ee431f44-2522-4944-ad58-8916644ec121
 OhNoMyMenu		1.0.1	101050	Oh No My Menu	BLKx777	30102403-93a7-4fd2-a08a-4b249f03e4d4
 Olorime	020301	2.3.1	101051	Olorime	tmbrinks	2abdc7a0-d15d-42ae-aad7-bccf995da180
@@ -566,9 +566,10 @@ SXUIBeaconPet	705	0.5.1	101050 101051	pet	satuve	25a0aeff-e8df-4458-bc72-f5a8319
 SynergyCooldown	20101	2.1.1	101050	Synergy Cooldown	Kyzeragon	a6c22156-8b52-467d-ab02-287e5731a1fb
 SynergyImprover	120	v1.1	101050 101051	SynergyImprover	j.hhh	64ff6b45-1306-4375-8422-3ff52ef58d90
 SynergyPriority	2.0	Recovery Convergence update	101048	Synergy Priority	Vixen_Hunny	3f511a24-33c0-4c94-979a-97e0982dbb6b
-TamrielCollectionsMotifs	246	v0.2.46	101051	Tamriel Collections - Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
+TamrielCollectionsMotifs	1002	v1.0.2	101051	Tamriel Collections - Archive Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
+TamrielCollectionsStylePages	113	v0.1.13	101051	Tamriel Collections - Archive Style Pages	MajesticMinxi	c8ff27a5-4393-43c9-a816-b912384fdb2d
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
-TamrielTextStudio		2.3.6	101051	Tamriel Text Studio	Lucky38Tech	a847021b-2ae6-4d43-81a4-9a8f3985f8b8
+TamrielTextStudio		2.4.3	101051	Tamriel Text Studio	Lucky38Tech	a847021b-2ae6-4d43-81a4-9a8f3985f8b8
 TargetInfo		1.2.5	101049 101050 101051	TargetInfo	SugaComa	a8908085-8223-4986-ac34-5932bc2c5172
 TauntAssist	6	0.1	101047	Taunt Assist	Cozy_Radish	443e6038-7baa-4e81-84fb-afe6cd3f92d6
 Tauntless	6	0.0.6	101050	Tauntless	hoellik	153e64a6-b621-4c91-b84a-c2ae48778142

@@ -603,18 +603,18 @@
    "version": "v30"
   },
   "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626/TamrielCollectionsMotifs": {
-   "addOnVersion": "246",
+   "addOnVersion": "1002",
    "addonId": "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 77,
+   "downloads": 85,
    "folder": "TamrielCollectionsMotifs",
    "isLibrary": "",
    "optionalDependsOn": "",
-   "title": "Tamriel Collections - Motifs",
-   "updatedAt": 1793357917,
-   "version": "v0.2.46"
+   "title": "Tamriel Collections - Archive Motifs",
+   "updatedAt": 1793364472,
+   "version": "v1.0.2"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc/EsoPL": {
    "addOnVersion": "",
@@ -4285,18 +4285,18 @@
    "version": "1.15"
   },
   "74e3cf1b-47f3-44c7-ac72-290efc19e8f3/ObsidianHUD": {
-   "addOnVersion": "753",
+   "addOnVersion": "754",
    "addonId": "74e3cf1b-47f3-44c7-ac72-290efc19e8f3",
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 12,
+   "downloads": 13,
    "folder": "ObsidianHUD",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Trest",
-   "updatedAt": 1793295686,
-   "version": "0.8.1"
+   "updatedAt": 1793373129,
+   "version": "0.8.2"
   },
   "75167780-fb8c-479c-86be-c0a208443b97/CollectThemAll": {
    "addOnVersion": "",
@@ -5502,20 +5502,6 @@
    "updatedAt": 1790721423,
    "version": "0.1.5"
   },
-  "96d1c172-661c-4739-960f-fcf660401298/CraftMaterialAssistant": {
-   "addOnVersion": "",
-   "addonId": "96d1c172-661c-4739-960f-fcf660401298",
-   "apiVersion": "101051",
-   "author": "lesse83",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 138,
-   "folder": "CraftMaterialAssistant",
-   "isLibrary": "",
-   "optionalDependsOn": "LibResearch",
-   "title": "CraftMaterialAssistant (Beta)",
-   "updatedAt": 1791934959,
-   "version": "0.0.16"
-  },
   "96f579ed-c17e-44c6-b3e3-969c34e8f20f/IsItTaunted": {
    "addOnVersion": "",
    "addonId": "96f579ed-c17e-44c6-b3e3-969c34e8f20f",
@@ -6096,13 +6082,13 @@
    "apiVersion": "101051",
    "author": "Lucky38Tech",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 9,
+   "downloads": 17,
    "folder": "TamrielTextStudio",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Text Studio",
-   "updatedAt": 1793307820,
-   "version": "2.3.6"
+   "updatedAt": 1793382994,
+   "version": "2.4.3"
   },
   "a84f8a0c-210f-481a-b8a7-6dc95bff7664/DailyQuestTracker": {
    "addOnVersion": "",
@@ -6628,13 +6614,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 118,
+   "downloads": 163,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793356524,
-   "version": "2.2.1"
+   "updatedAt": 1793386337,
+   "version": "2.6.4"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7265,6 +7251,20 @@
    "title": "PinkB's DiceExtension",
    "updatedAt": 1789002238,
    "version": "1.4.1"
+  },
+  "c8ff27a5-4393-43c9-a816-b912384fdb2d/TamrielCollectionsStylePages": {
+   "addOnVersion": "113",
+   "addonId": "c8ff27a5-4393-43c9-a816-b912384fdb2d",
+   "apiVersion": "101051",
+   "author": "MajesticMinxi",
+   "dependsOn": "",
+   "downloads": 10,
+   "folder": "TamrielCollectionsStylePages",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Tamriel Collections - Archive Style Pages",
+   "updatedAt": 1793387733,
+   "version": "v0.1.13"
   },
   "c9b85989-bab6-4000-a3fc-80ed49e25e87/PersonalDpsTracker": {
    "addOnVersion": "21007",
@@ -9890,7 +9890,7 @@
    "folders": [
     "TamrielCollectionsMotifs"
    ],
-   "version": "v0.2.46"
+   "version": "v1.0.2"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc": {
    "folders": [
@@ -11507,7 +11507,7 @@
    "folders": [
     "ObsidianHUD"
    ],
-   "version": "0.8.1"
+   "version": "0.8.2"
   },
   "75167780-fb8c-479c-86be-c0a208443b97": {
    "folders": [
@@ -12055,12 +12055,6 @@
    ],
    "version": "0.1.5"
   },
-  "96d1c172-661c-4739-960f-fcf660401298": {
-   "folders": [
-    "CraftMaterialAssistant"
-   ],
-   "version": "0.0.16"
-  },
   "96f579ed-c17e-44c6-b3e3-969c34e8f20f": {
    "folders": [
     "IsItTaunted"
@@ -12315,7 +12309,7 @@
    "folders": [
     "TamrielTextStudio"
    ],
-   "version": "2.3.6"
+   "version": "2.4.3"
   },
   "a84f8a0c-210f-481a-b8a7-6dc95bff7664": {
    "folders": [
@@ -12557,7 +12551,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "2.2.1"
+   "version": "2.6.4"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12843,6 +12837,12 @@
     "PBsDiceExtension"
    ],
    "version": "1.4.1"
+  },
+  "c8ff27a5-4393-43c9-a816-b912384fdb2d": {
+   "folders": [
+    "TamrielCollectionsStylePages"
+   ],
+   "version": "v0.1.13"
   },
   "c9b85989-bab6-4000-a3fc-80ed49e25e87": {
    "folders": [
