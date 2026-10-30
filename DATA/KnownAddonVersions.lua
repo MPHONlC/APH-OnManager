@@ -25,7 +25,7 @@ AchievementInfo		4.17	350	101044
 AchievementPeek		1.0.0	4930	101051
 ActionBarLabels	1	1.0	4348	101048
 ActionBarSkillStyles	4	0.0.4	3928	101044
-ActionDurationReminder	31680	3.168	1536	101051 101052
+ActionDurationReminder	31690	3.169	1536	101051 101052
 ActivityFinderPlus		1.0.2	4676	101050
 ADawgsFlipWorthy	40	1.1.0	4563	101049 101050
 ADawgsGroupManager	137	1.1.1	4561	101049 101050
@@ -108,7 +108,7 @@ ArcanumGuildHall		1.22.0	3013	101050
 ArchdruidTracker	10101	1.1.1	3473	101051
 ArchiveAdvisor	10001	1.0.1	4787	101050
 ArchiveHelper	1402	1.4.2	3772	101045
-ArclightTaunt	10000	1.0.1	5008	101051
+ArclightTaunt	10001	1.0.1	5008	101051
 ArdysOBTracker	162	1.6.2	4879	101051 101052
 AreWeMounted		1.0.0	4134	101046
 AriesLogsEncounter		1.0.1	4633	101050
@@ -1157,7 +1157,7 @@ PriceTooltip		1.7.2	2221	101043
 PriceTooltipGamepad		1.4	4439	101049 101050
 PriceTooltipNote		1.1.2	3201	101043
 PriorityRecast	140	1.4	4655	101051
-PrismaticEmotes	2	1.0.0	5004	101051
+PrismaticEmotes	10002	1.0.2	5004	101051
 ProblemSolved	1	1.0.1	4885	101050 101051
 Provinatus	4670	2.6.1	1943	101050
 ProvisioningWatcher		1	4448	101049
@@ -1437,7 +1437,7 @@ TamrielCalendar	20400	2.4.0	4357	101050 101051
 TamrielProgressMap	20800	2.8.0	4799	101050 101051
 TamrielSkyDial	1	1.1	4860	101050 101051
 TamrielTomes_MapPins	64	1.2.3	4591	101050 101051
-TamrielTourist	1	1.0.0	5007	101051 101052
+TamrielTourist	101	1.0.1	5007	101051 101052
 TamrielTradeCentre		4.27.281.39281	1245	101049
 TamrielTradeCentre-KR-Minion	10000	1.0.0	4505	101049
 TamrielTradeCentreBR		2.0.1	3506	101041
@@ -1568,7 +1568,7 @@ VotansFishermanExport		1.16.3	918	101044 101045
 VotansFishFillet		1.6.5	958	101042 101043
 VotansGroupPins		1.2.19	1619	101044 101045
 VotansImprovedHouseTours		1.0.2	3950	101048 101049
-VotansImprovedLocations		1.23.6	1096	101050 101051
+VotansImprovedLocations		1.23.7	1096	101051 101052
 VotansImprovedOutfit		1.4.6	1921	101050 101051
 VotansImprovedProvisioner		1.2.10	1917	101040 101041
 VotansImprovedQuests		1.3.2	1523	101041 101042
@@ -1579,7 +1579,7 @@ VotansMiniMap		2.2.2	1399	101050 101051
 VotansQuickslotCopy		1.0.1	3447	101040 101041
 VotansRuneTooltips		1.4.8	915	101044 101045
 VotansSettingsMenu		1.6.1	1134	101050 101051
-VotansSurveyTheWorld		1.23.6	1096	101050 101051
+VotansSurveyTheWorld		1.23.7	1096	101051 101052
 VotansTamrielMap		1.2.5	2672	101049 101050
 WardenMastery	5	1.3	4832	101050 101051
 WareGuild	20241105	0.23	3877	101044
