@@ -603,18 +603,18 @@
    "version": "v30"
   },
   "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626/TamrielCollectionsMotifs": {
-   "addOnVersion": "224",
+   "addOnVersion": "246",
    "addonId": "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 56,
+   "downloads": 77,
    "folder": "TamrielCollectionsMotifs",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Motifs",
-   "updatedAt": 1793315841,
-   "version": "v0.2.24"
+   "updatedAt": 1793357917,
+   "version": "v0.2.46"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc/EsoPL": {
    "addOnVersion": "",
@@ -6628,13 +6628,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 108,
+   "downloads": 118,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793325000,
-   "version": "2.0.8"
+   "updatedAt": 1793356524,
+   "version": "2.2.1"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -9890,7 +9890,7 @@
    "folders": [
     "TamrielCollectionsMotifs"
    ],
-   "version": "v0.2.24"
+   "version": "v0.2.46"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc": {
    "folders": [
@@ -12557,7 +12557,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "2.0.8"
+   "version": "2.2.1"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [

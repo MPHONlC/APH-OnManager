@@ -67,7 +67,7 @@ AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenge
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
 AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
-AutoImproveGear		2.0.8	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
+AutoImproveGear		2.2.1	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
 AutoMasterWrits	15103	1.51.03	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
@@ -566,7 +566,7 @@ SXUIBeaconPet	705	0.5.1	101050 101051	pet	satuve	25a0aeff-e8df-4458-bc72-f5a8319
 SynergyCooldown	20101	2.1.1	101050	Synergy Cooldown	Kyzeragon	a6c22156-8b52-467d-ab02-287e5731a1fb
 SynergyImprover	120	v1.1	101050 101051	SynergyImprover	j.hhh	64ff6b45-1306-4375-8422-3ff52ef58d90
 SynergyPriority	2.0	Recovery Convergence update	101048	Synergy Priority	Vixen_Hunny	3f511a24-33c0-4c94-979a-97e0982dbb6b
-TamrielCollectionsMotifs	224	v0.2.24	101051	Tamriel Collections - Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
+TamrielCollectionsMotifs	246	v0.2.46	101051	Tamriel Collections - Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
 TamrielTextStudio		2.3.6	101051	Tamriel Text Studio	Lucky38Tech	a847021b-2ae6-4d43-81a4-9a8f3985f8b8
 TargetInfo		1.2.5	101049 101050 101051	TargetInfo	SugaComa	a8908085-8223-4986-ac34-5932bc2c5172
