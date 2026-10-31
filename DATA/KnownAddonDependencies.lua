@@ -254,6 +254,7 @@ AoM.KnownAddonDependencies = {
 	["InspectVestige"] = { "LibCustomMenu" },
 	["InventoryAssistant"] = { "FCOItemSaver" },
 	["InventoryCompanion"] = { "None" },
+	["InventoryPulse"] = { "LibAddonMenu-2.0", "LibMediaProvider" },
 	["IsJustaDeconCarriedList"] = { "AdvancedFilters", "LibFilters-3.0" },
 	["IsJustaFavoriteCollectibles"] = { "IsJustaCollectibleRandomizer" },
 	["IsJustaGamepadCameraAccelerator"] = { "LibAddonMenu-2.0" },
