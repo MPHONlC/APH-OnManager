@@ -5802,13 +5802,13 @@
    "apiVersion": "101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 15,
+   "downloads": 21,
    "folder": "SetTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings-1.0",
    "title": "Set Perk Tracker",
-   "updatedAt": 1792483752,
-   "version": "0.2.10a"
+   "updatedAt": 1793417570,
+   "version": "0.2.11"
   },
   "9e55edc2-32f8-4c75-b87c-e921fd53e9cf/AlternateDeathRecap": {
    "addOnVersion": "30200",
@@ -6628,13 +6628,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 172,
+   "downloads": 181,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793401630,
-   "version": "2.7.5"
+   "updatedAt": 1793416861,
+   "version": "2.9.0"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7323,18 +7323,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "17",
+   "addOnVersion": "18",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 602,
+   "downloads": 625,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1793392397,
-   "version": "0.5.7"
+   "updatedAt": 1793406445,
+   "version": "0.5.8"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
    "addOnVersion": "",
@@ -12201,7 +12201,7 @@
    "folders": [
     "SetTracker"
    ],
-   "version": "0.2.10a"
+   "version": "0.2.11"
   },
   "9e55edc2-32f8-4c75-b87c-e921fd53e9cf": {
    "folders": [
@@ -12571,7 +12571,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "2.7.5"
+   "version": "2.9.0"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12886,7 +12886,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.5.7"
+   "version": "0.5.8"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
    "folders": [
