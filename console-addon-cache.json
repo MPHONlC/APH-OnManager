@@ -603,18 +603,18 @@
    "version": "v30"
   },
   "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626/TamrielCollectionsMotifs": {
-   "addOnVersion": "1002",
+   "addOnVersion": "1006",
    "addonId": "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 85,
+   "downloads": 92,
    "folder": "TamrielCollectionsMotifs",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Motifs",
-   "updatedAt": 1793364472,
-   "version": "v1.0.2"
+   "updatedAt": 1793469116,
+   "version": "v1.0.6"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc/EsoPL": {
    "addOnVersion": "",
@@ -2484,13 +2484,13 @@
    "apiVersion": "101051 101052",
    "author": "Lykeion+",
    "dependsOn": "LibAddonMenu-2.0>=43",
-   "downloads": 1805,
+   "downloads": 1972,
    "folder": "LykeionsAwareWolf",
    "isLibrary": "",
    "optionalDependsOn": "LibCombatAlerts",
    "title": "Lykeion's Aware Wolf",
-   "updatedAt": 1793051785,
-   "version": "2.5"
+   "updatedAt": 1793457621,
+   "version": "2.6"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25/CanThisBeCraftedAtHome": {
    "addOnVersion": "",
@@ -6642,13 +6642,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 195,
+   "downloads": 213,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793442268,
-   "version": "2.6.8"
+   "updatedAt": 1793456054,
+   "version": "3.1.9"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7211,18 +7211,18 @@
    "version": "2026-01-11-fix"
   },
   "c75df85c-f9c0-4e54-a0f3-d5173e44a850/CasualClean": {
-   "addOnVersion": "12",
+   "addOnVersion": "14",
    "addonId": "c75df85c-f9c0-4e54-a0f3-d5173e44a850",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 84,
+   "downloads": 93,
    "folder": "CasualClean",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "CasualClean (Beta)",
-   "updatedAt": 1793290274,
-   "version": "1.8.04"
+   "updatedAt": 1793468624,
+   "version": "1.8.2"
   },
   "c7f082bc-03e0-4e0c-b82b-d7903e5101ad/PBsCraftMaterialAssistant": {
    "addOnVersion": "",
@@ -7281,18 +7281,18 @@
    "version": "1.4.1"
   },
   "c8ff27a5-4393-43c9-a816-b912384fdb2d/TamrielCollectionsStylePages": {
-   "addOnVersion": "115",
+   "addOnVersion": "1000",
    "addonId": "c8ff27a5-4393-43c9-a816-b912384fdb2d",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 18,
+   "downloads": 33,
    "folder": "TamrielCollectionsStylePages",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Style Pages",
-   "updatedAt": 1793395934,
-   "version": "v0.1.15"
+   "updatedAt": 1793470628,
+   "version": "v1.0.0"
   },
   "c9b85989-bab6-4000-a3fc-80ed49e25e87/PersonalDpsTracker": {
    "addOnVersion": "21007",
@@ -9296,6 +9296,20 @@
    "updatedAt": 1785861027,
    "version": "36"
   },
+  "f8bc38ae-b26d-4071-83f7-5987dbc4045f/SiphonZahl": {
+   "addOnVersion": "605",
+   "addonId": "f8bc38ae-b26d-4071-83f7-5987dbc4045f",
+   "apiVersion": "101052",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 0,
+   "folder": "SiphonZahl",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Test",
+   "updatedAt": 1793471389,
+   "version": "0.6.5"
+  },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d/RoaringOpportunist": {
    "addOnVersion": "020501",
    "addonId": "f8e59501-116b-422a-90e9-f57cf2dc7b9d",
@@ -9918,7 +9932,7 @@
    "folders": [
     "TamrielCollectionsMotifs"
    ],
-   "version": "v1.0.2"
+   "version": "v1.0.6"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc": {
    "folders": [
@@ -10741,7 +10755,7 @@
    "folders": [
     "LykeionsAwareWolf"
    ],
-   "version": "2.5"
+   "version": "2.6"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25": {
    "folders": [
@@ -12591,7 +12605,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "2.6.8"
+   "version": "3.1.9"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12844,7 +12858,7 @@
    "folders": [
     "CasualClean"
    ],
-   "version": "1.8.04"
+   "version": "1.8.2"
   },
   "c786f4ab-0ae9-4067-bfd7-5d9ec9b2705b": {
    "folders": [],
@@ -12882,7 +12896,7 @@
    "folders": [
     "TamrielCollectionsStylePages"
    ],
-   "version": "v0.1.15"
+   "version": "v1.0.0"
   },
   "c9b85989-bab6-4000-a3fc-80ed49e25e87": {
    "folders": [
@@ -13794,6 +13808,12 @@
     "NGear"
    ],
    "version": "36"
+  },
+  "f8bc38ae-b26d-4071-83f7-5987dbc4045f": {
+   "folders": [
+    "SiphonZahl"
+   ],
+   "version": "0.6.5"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d": {
    "folders": [
