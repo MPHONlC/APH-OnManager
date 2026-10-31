@@ -4738,13 +4738,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 11,
    "folder": "PBsProcSetTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PBsProcSetTimer(Beta)",
-   "updatedAt": 1793400891,
-   "version": "0.2.0"
+   "updatedAt": 1793433819,
+   "version": "0.5.1"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce/CanITravelBack": {
    "addOnVersion": "1",
@@ -5390,6 +5390,20 @@
    "updatedAt": 1783995254,
    "version": "1.0"
   },
+  "92429895-8851-446b-83ef-a1333a7ac486/PBsProcSetTimer": {
+   "addOnVersion": "",
+   "addonId": "92429895-8851-446b-83ef-a1333a7ac486",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsProcSetTimer",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's ProcSetTimer",
+   "updatedAt": 1793432682,
+   "version": "0.5.1"
+  },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f/BattleScrollsNameColours": {
    "addOnVersion": "17",
    "addonId": "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f",
@@ -5438,13 +5452,13 @@
    "apiVersion": "101051",
    "author": "lesse83",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 175,
+   "downloads": 190,
    "folder": "CraftMaterialAssistant",
    "isLibrary": "",
    "optionalDependsOn": "LibResearch",
    "title": "CraftMaterialAssistant",
-   "updatedAt": 1793391023,
-   "version": "1.0.9"
+   "updatedAt": 1793437550,
+   "version": "1.0.11"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347/feedingFrenzyTracker": {
    "addOnVersion": "",
@@ -6628,13 +6642,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 181,
+   "downloads": 195,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793416861,
-   "version": "2.9.0"
+   "updatedAt": 1793442268,
+   "version": "2.6.8"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7295,18 +7309,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000101",
+   "addOnVersion": "01000102",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 15908,
+   "downloads": 16274,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793332813,
-   "version": "1.0.101"
+   "updatedAt": 1793419213,
+   "version": "1.0.102"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -11726,7 +11740,7 @@
    "folders": [
     "PBsProcSetTimer"
    ],
-   "version": "0.2.0"
+   "version": "0.5.1"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce": {
    "folders": [
@@ -12021,6 +12035,12 @@
    ],
    "version": "1.0"
   },
+  "92429895-8851-446b-83ef-a1333a7ac486": {
+   "folders": [
+    "PBsProcSetTimer"
+   ],
+   "version": "0.5.1"
+  },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f": {
    "folders": [
     "BattleScrollsNameColours"
@@ -12043,7 +12063,7 @@
    "folders": [
     "CraftMaterialAssistant"
    ],
-   "version": "1.0.9"
+   "version": "1.0.11"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347": {
    "folders": [
@@ -12571,7 +12591,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "2.9.0"
+   "version": "2.6.8"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12874,7 +12894,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.101"
+   "version": "1.0.102"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
