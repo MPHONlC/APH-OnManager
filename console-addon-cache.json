@@ -1149,18 +1149,18 @@
    "version": "1.0.0"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
-   "addOnVersion": "22801",
+   "addOnVersion": "22802",
    "addonId": "21f0cc83-5ba3-4776-ac75-a5a266fde574",
    "apiVersion": "101051 101052",
    "author": "Kyzeragon",
    "dependsOn": "",
-   "downloads": 737098,
+   "downloads": 752399,
    "folder": "CrutchAlerts",
    "isLibrary": "",
    "optionalDependsOn": "OdySupportIcons LibFilteredChatPanel LibGroupBroadcast>=91 LibCustomIcons",
    "title": "CrutchAlerts",
-   "updatedAt": 1793063530,
-   "version": "2.28.1"
+   "updatedAt": 1793485396,
+   "version": "2.28.2"
   },
   "21f64968-c492-4b43-82ff-b7b1f25c7500/AltGroupFrames": {
    "addOnVersion": "30",
@@ -2701,6 +2701,20 @@
    "title": "Chat keeper",
    "updatedAt": 1792944217,
    "version": "1.0.2"
+  },
+  "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3/TamrielCollectionsLorebooks": {
+   "addOnVersion": "111",
+   "addonId": "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3",
+   "apiVersion": "101051",
+   "author": "MajesticMinxi",
+   "dependsOn": "",
+   "downloads": 10,
+   "folder": "TamrielCollectionsLorebooks",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Tamriel Collections - Archive Lore Books",
+   "updatedAt": 1793483953,
+   "version": "v0.1.11"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -5180,6 +5194,20 @@
    "updatedAt": 1772046286,
    "version": "1.18"
   },
+  "8e8983cd-c304-4a89-b625-ec8c4560820d/TamrielCollectionsFurnishingPlans": {
+   "addOnVersion": "100",
+   "addonId": "8e8983cd-c304-4a89-b625-ec8c4560820d",
+   "apiVersion": "101051",
+   "author": "MajesticMinxi",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "TamrielCollectionsFurnishingPlans",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Tamriel Collections - Archive Furnishing Plans",
+   "updatedAt": 1793472511,
+   "version": "v0.1.0"
+  },
   "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2/KhajiitVoice": {
    "addOnVersion": "",
    "addonId": "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2",
@@ -5503,18 +5531,18 @@
    "version": "BWEHHEHEHEHEHEH"
   },
   "9653b3d8-c1bf-4328-9b31-5e18a4ea643d/MSPAINTUI": {
-   "addOnVersion": "150",
+   "addOnVersion": "160",
    "addonId": "9653b3d8-c1bf-4328-9b31-5e18a4ea643d",
-   "apiVersion": "101049 101050",
+   "apiVersion": "101051 101052",
    "author": "Kyzeragon",
-   "dependsOn": "LibAddonMenu-2.0>=41",
-   "downloads": 1009,
+   "dependsOn": "LibAddonMenu-2.0>=43",
+   "downloads": 1089,
    "folder": "MSPAINTUI",
    "isLibrary": "",
    "optionalDependsOn": "AbilityIconsFramework",
    "title": "MSPAINTUI",
-   "updatedAt": 1778486162,
-   "version": "1.5.0"
+   "updatedAt": 1793477748,
+   "version": "1.6.0"
   },
   "96620ecb-ccf7-4298-9215-636f4075695b/PacketByteExporter": {
    "addOnVersion": "105",
@@ -6642,13 +6670,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 213,
+   "downloads": 218,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793456054,
-   "version": "3.1.9"
+   "updatedAt": 1793487338,
+   "version": "3.2.4"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7447,6 +7475,20 @@
    "title": "Talk Toggle",
    "updatedAt": 1784765291,
    "version": "1.5"
+  },
+  "ce080e90-e198-4d6b-8b7e-19c933c02e6e/TamrielCollectionsAntiquities": {
+   "addOnVersion": "100",
+   "addonId": "ce080e90-e198-4d6b-8b7e-19c933c02e6e",
+   "apiVersion": "101051",
+   "author": "MajesticMinxi",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "TamrielCollectionsAntiquities",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Tamriel Collections - Archive Antiquities",
+   "updatedAt": 1793472430,
+   "version": "v0.1.0"
   },
   "ce31d856-17b4-4951-9802-820df96527e2/SimpleFPSPing": {
    "addOnVersion": "",
@@ -9297,18 +9339,18 @@
    "version": "36"
   },
   "f8bc38ae-b26d-4071-83f7-5987dbc4045f/SiphonZahl": {
-   "addOnVersion": "605",
+   "addOnVersion": "606",
    "addonId": "f8bc38ae-b26d-4071-83f7-5987dbc4045f",
    "apiVersion": "101052",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 0,
+   "downloads": 1,
    "folder": "SiphonZahl",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Test",
-   "updatedAt": 1793471389,
-   "version": "0.6.5"
+   "updatedAt": 1793478133,
+   "version": "0.6.6"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d/RoaringOpportunist": {
    "addOnVersion": "020501",
@@ -9493,18 +9535,18 @@
    "version": "1.2.51"
   },
   "fe065445-3217-4a76-8932-23a0a1c9c16c/CombatAlerts": {
-   "addOnVersion": "206080",
+   "addOnVersion": "206090",
    "addonId": "fe065445-3217-4a76-8932-23a0a1c9c16c",
-   "apiVersion": "101051",
+   "apiVersion": "101051 101052",
    "author": "code65536",
    "dependsOn": "LibCombatAlerts>=8060",
-   "downloads": 395152,
+   "downloads": 410705,
    "folder": "CombatAlerts",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Code's Combat Alerts",
-   "updatedAt": 1792573129,
-   "version": "2.6.8"
+   "updatedAt": 1793485671,
+   "version": "2.6.9"
   },
   "fe11caef-4426-405c-bb46-3c3ca893703b/LibMapPins-1.0": {
    "addOnVersion": "10047",
@@ -10179,7 +10221,7 @@
    "folders": [
     "CrutchAlerts"
    ],
-   "version": "2.28.1"
+   "version": "2.28.2"
   },
   "21f64968-c492-4b43-82ff-b7b1f25c7500": {
    "folders": [
@@ -10850,6 +10892,12 @@
   "47bd1882-3ae4-414d-929c-aad937946be0": {
    "folders": [],
    "version": "1.4.6"
+  },
+  "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3": {
+   "folders": [
+    "TamrielCollectionsLorebooks"
+   ],
+   "version": "v0.1.11"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6": {
    "folders": [
@@ -11958,6 +12006,12 @@
    ],
    "version": "1.18"
   },
+  "8e8983cd-c304-4a89-b625-ec8c4560820d": {
+   "folders": [
+    "TamrielCollectionsFurnishingPlans"
+   ],
+   "version": "v0.1.0"
+  },
   "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2": {
    "folders": [
     "KhajiitVoice"
@@ -12101,7 +12155,7 @@
    "folders": [
     "MSPAINTUI"
    ],
-   "version": "1.5.0"
+   "version": "1.6.0"
   },
   "96620ecb-ccf7-4298-9215-636f4075695b": {
    "folders": [
@@ -12605,7 +12659,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "3.1.9"
+   "version": "3.2.4"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12967,6 +13021,12 @@
     "MicToggle"
    ],
    "version": "1.5"
+  },
+  "ce080e90-e198-4d6b-8b7e-19c933c02e6e": {
+   "folders": [
+    "TamrielCollectionsAntiquities"
+   ],
+   "version": "v0.1.0"
   },
   "ce31d856-17b4-4951-9802-820df96527e2": {
    "folders": [
@@ -13813,7 +13873,7 @@
    "folders": [
     "SiphonZahl"
    ],
-   "version": "0.6.5"
+   "version": "0.6.6"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d": {
    "folders": [
@@ -13902,7 +13962,7 @@
    "folders": [
     "CombatAlerts"
    ],
-   "version": "2.6.8"
+   "version": "2.6.9"
   },
   "fe11caef-4426-405c-bb46-3c3ca893703b": {
    "folders": [

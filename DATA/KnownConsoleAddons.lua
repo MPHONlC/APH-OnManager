@@ -67,7 +67,7 @@ AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenge
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
 AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
-AutoImproveGear		3.1.9	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
+AutoImproveGear		3.2.4	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
 AutoMasterWrits	15103	1.51.03	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
@@ -126,7 +126,7 @@ CleanLeadsUI		1.0.0	101040	CleanLeadsUI	akbosser	2150f7ed-d4e8-426c-b6e0-2df807f
 ClearSight		1.0.5a	101050	ClearSight	SugaComa	c720ddc7-a982-4027-ac83-204540d2b013
 CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f0c-9c9c-48e1a355c970
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
-CombatAlerts	206080	2.6.8	101051	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
+CombatAlerts	206090	2.6.9	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
@@ -148,7 +148,7 @@ CraftMaterialAssistant		1.0.11	101051	CraftMaterialAssistant	lesse83	949980bd-b4
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
 CrowdednESO		2026.07.09	101050	CrowdednESO	Masteroshi430	9d131435-84c4-4c6d-9d73-5e2ec6fa61b7
 CrownAndCrux	1.3.7	1.3.7	101049 101050	Crown And Crux	SaintAres97	0ac5fe21-6f1a-4c14-8b9f-be1a308a9619
-CrutchAlerts	22801	2.28.1	101051 101052	CrutchAlerts	Kyzeragon	21f0cc83-5ba3-4776-ac75-a5a266fde574
+CrutchAlerts	22802	2.28.2	101051 101052	CrutchAlerts	Kyzeragon	21f0cc83-5ba3-4776-ac75-a5a266fde574
 CruxTracker-2.0		2.7.1	101040	CruxTracker-2.0	akbosser	aef7e9f0-ed11-4b67-99f7-c500cdc0b343
 CTest	2606272	260627.2	101050	Calamath's Test Site	Calamath	23ee5193-1c27-4b42-b005-05c3f28ad835
 CurvedHUD		1.1.3	101050 101051 101052	Curved Resource HUD	Kaos_Arbiter	bc307fb6-b7b8-4905-b81a-1b33b24c8662
@@ -393,7 +393,7 @@ MovableAddonMemory	100	1.0	101049	Movable Addon Memory	M0R	acf1ef04-4ec0-400b-86
 MovableHUD	20411	2.4.11	101050 101051	Aldrens Movable UI	Rhyojaan	a25448d4-0fb6-421f-bdb2-d9cf32a397d5
 MoveBuffDebuff		51.00	101051	Move Buff & Debuff Bar	Gamer_sa22	fb88de81-c67e-4170-b8d8-39ac322f0664
 MSI	2789	2.7.89	101051 101052	Metu's SpareIdler	MetuLiber_Ger	227876bb-e9b1-439f-81fe-8f458ae351a8
-MSPAINTUI	150	1.5.0	101049 101050	MSPAINTUI	Kyzeragon	9653b3d8-c1bf-4328-9b31-5e18a4ea643d
+MSPAINTUI	160	1.6.0	101051 101052	MSPAINTUI	Kyzeragon	9653b3d8-c1bf-4328-9b31-5e18a4ea643d
 MTS_WRITS_HUD		1.3.1		MTS WRITS HUD – Daily Crafting Tracker (PS5).	Something_Spec90	ce9458a5-0897-4765-9ec1-5cf8e8345462
 MuchSmarterAutoLoot	80311	8.3.11	101051	Lykeion's AutoLoot+	Lykeion+	1156c297-4c51-44e7-8267-9f934307f36e
 MultiMark	1	1.3	101050	Many Markers	dicen9	59768602-717c-425b-a4ce-7ffc14887bc0
@@ -539,7 +539,7 @@ SimpleGroupDPS		1.5.1	101051	Testin	FiNk3F13	dda5dca2-4511-4e45-9dd2-769c7eb40fe
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb
-SiphonZahl	605	0.6.5	101052	Test	FiNk3F13	f8bc38ae-b26d-4071-83f7-5987dbc4045f
+SiphonZahl	606	0.6.6	101052	Test	FiNk3F13	f8bc38ae-b26d-4071-83f7-5987dbc4045f
 SkyShards	1059	10.59	101045 101046	Skyshards	Sharlikran	e0335eb7-8445-4bde-9db4-1a4ace8ee8b1
 SlayansBossTimer	3	1.0.1	101051	Slayan's Boss Timer	xSuperSlayan	e77534ef-ba1c-4ce2-becb-c7c534a86ebe
 SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d04c0cbee9c4
@@ -568,6 +568,9 @@ SXUIBeaconPet	705	0.5.1	101050 101051	pet	satuve	25a0aeff-e8df-4458-bc72-f5a8319
 SynergyCooldown	20101	2.1.1	101050	Synergy Cooldown	Kyzeragon	a6c22156-8b52-467d-ab02-287e5731a1fb
 SynergyImprover	120	v1.1	101050 101051	SynergyImprover	j.hhh	64ff6b45-1306-4375-8422-3ff52ef58d90
 SynergyPriority	2.0	Recovery Convergence update	101048	Synergy Priority	Vixen_Hunny	3f511a24-33c0-4c94-979a-97e0982dbb6b
+TamrielCollectionsAntiquities	100	v0.1.0	101051	Tamriel Collections - Archive Antiquities	MajesticMinxi	ce080e90-e198-4d6b-8b7e-19c933c02e6e
+TamrielCollectionsFurnishingPlans	100	v0.1.0	101051	Tamriel Collections - Archive Furnishing Plans	MajesticMinxi	8e8983cd-c304-4a89-b625-ec8c4560820d
+TamrielCollectionsLorebooks	111	v0.1.11	101051	Tamriel Collections - Archive Lore Books	MajesticMinxi	47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3
 TamrielCollectionsMotifs	1006	v1.0.6	101051	Tamriel Collections - Archive Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
 TamrielCollectionsStylePages	1000	v1.0.0	101051	Tamriel Collections - Archive Style Pages	MajesticMinxi	c8ff27a5-4393-43c9-a816-b912384fdb2d
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
