@@ -45,7 +45,7 @@ AntiAllCaps		1.1	101045 101046	Anti All Caps	Dolgubon	556512a1-fb7c-4558-9572-f7
 AntiDismount	1	1.0.0	101049	Anti Dismount	Dolgubon	1da0a275-fc2d-43cc-869f-a8103095dc29
 AntiDK	1.0.0	1.0.1	101048	AntiDK	Vixen_Hunny	1f552d57-81fb-407f-b9f2-f45228e2a171
 AntiDK2	1.5	1.2.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586d
-AntiquarianCodex	15105	1.51.05	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
+AntiquarianCodex	15106	1.51.06	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-FPSGraph	26101514	2026.10.18.01.41	101051 101052	APH FPS GRAPH	APH0NlC	ad02eccd-a3f5-4375-8c13-e631101449c5
 APH-OnManager	26101801	2026.10.18.01.41	101051 101052	APH-On Manager	APH0NlC	7b833469-41d6-4060-b6df-547ae3ca188c
@@ -123,7 +123,7 @@ ChatPalette	3	1.0.1	101050 101051	Chat Palette	TheGreyWolf98	3ecd8aa0-ce2c-4b41-
 ChatSkipper	100	1.0.1	101048 101049	Chat Skipper	mYoda01	5e1a067b-7af6-4752-bbb0-3de588e8587e
 CircularMinimap		2.0.1	101048 101049	Circular Votan's Mini Map	votan73	f5b8ee78-0ef3-4ee5-803c-79785f34173d
 CleanLeadsUI		1.0.0	101040	CleanLeadsUI	akbosser	2150f7ed-d4e8-426c-b6e0-2df807f1db92
-ClearSight		1.0.5a	101050	ClearSight	SugaComa	c720ddc7-a982-4027-ac83-204540d2b013
+ClearSight		1.1.5	101050	ClearSight	SugaComa	c720ddc7-a982-4027-ac83-204540d2b013
 CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f0c-9c9c-48e1a355c970
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
 CombatAlerts	206090	2.6.9	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
@@ -144,7 +144,7 @@ CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker
 CPSlotsConsole		1.3	101051	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
 CPVeterancy		CPVeterancy-0.0.2-2026-07-30T204833	101050	CP Veterancy	clubwratt	7f8752f5-11f4-4e26-a26b-fc0ee813d8e1
 CraftMaster		1.0.13	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
-CraftMaterialAssistant		1.0.11	101051	CraftMaterialAssistant	lesse83	949980bd-b411-4102-82d7-4e64ba17bc3a
+CraftMaterialAssistant		0.0.1	101051	CraftMaterialAssistant (Beta)	lesse83	96d1c172-661c-4739-960f-fcf660401298
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
 CrowdednESO		2026.07.09	101050	CrowdednESO	Masteroshi430	9d131435-84c4-4c6d-9d73-5e2ec6fa61b7
 CrownAndCrux	1.3.7	1.3.7	101049 101050	Crown And Crux	SaintAres97	0ac5fe21-6f1a-4c14-8b9f-be1a308a9619
@@ -280,6 +280,7 @@ KDRTracker		1	101050 101051	DaveeKDR	DaveeMafiaa	84fad8c0-9712-446a-9fff-e8bf44a
 KhajiitFengShui	137	1.3.7	101050 101051	Khajiit Feng Shui	Dack.Janiels	cae51d07-5b11-4feb-ab79-11e17ca47dca
 KhajiitVoice		4.2	101049	Speak Like Khajiit	YFNatey	8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2
 KillCount	3100	new	101049 101050	Kill Count	Dreadazar	29b689fc-d75c-432c-adfa-691d46ddf847
+LazyAlchemyLearner	116	1	101051 101052	Beta Dolg Alch	Dolgubon	2711aec8-a92b-4dae-97c9-096e8d72bf16
 LazyConfirm		1.0.4	101045 101046	Lazy Confirm (and delete)	Dolgubon	8fbbe7ae-8178-4e35-9755-3cafefd42095
 LazyCrown	14	0.4.0	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
 LazyHorseFeed		1.0.5	101045 101046	Lazy Horse Trainer	Dolgubon	dd337340-e6c9-4835-8e50-ba68c7e949e4
@@ -490,7 +491,7 @@ PvPUAPatch		PvPUAPatch-5.6.1-2026-10-23T234227	101048 101049 101050 101051	PvP U
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
-RagsToRiches		1.5.3	101050 101051	Rags To Riches	SugaComa	67c87375-bbf1-4841-933b-9beec7f88155
+RagsToRiches		1.5.4	101050 101051	Rags To Riches	SugaComa	67c87375-bbf1-4841-933b-9beec7f88155
 RainbowAOE		0.1.3	101050	Rainbow AOE	Alpha-AC	f74afae1-50fc-4e7f-8883-573992187a63
 rallyingCryTracker		1.1.0	101051	Rallying Cry Tracker	codeWarrior82	cec19621-d3f2-4b43-b391-5d028918cfb4
 RanckorsBaggage	3.1.2	3.1.1	101050	Ranckor's Baggage	Ranckor90	a17836b4-17ec-478f-91a6-f0c59e123e2a
@@ -521,7 +522,6 @@ ScoreboardFixXbox	201	0.2.1	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46
 ScreenshotModeEnhanced	10104	1.1.4	101051	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
 ScryMaster		1.0.1	101051	Skill Point Finder	TheGreyWolf98	427000e9-72c4-4fc9-b9b6-3cca4f863607
 Seamstress		1.5.0b	101049 101050	Seamstress	SugaComa	8bc4c7c2-ee0d-488d-a3b5-ecab07912f95
-SetCooldownTracker	103	v1.0.3	101051 101050	Set Cooldown Tracker	Bucketmore	630b3a3d-a865-43cb-ab6c-2a1c9923dbe6
 SetTracker		0.2.11	101051	Set Perk Tracker	SugaComa	9e3a7462-c06e-4ee2-a7da-ac5279f979c8
 ShogrinUI	10106	1.1.51	101045 101046	ShogrinUI	sshogrin	8e6dc008-7b2f-4d55-8a1b-3ee825b1de0f
 ShouldIUlt		9	101050	buffybeta	YFNatey	086be98f-893e-4cea-a222-aad748e474c9
@@ -536,7 +536,7 @@ SimpleGroupDPS		1.6.3	101051	DontDownload	FiNk3F13	31353ae2-3899-477e-935e-69f97
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb
-SiphonZahl	609	0.6.9	101051	Test	FiNk3F13	f8bc38ae-b26d-4071-83f7-5987dbc4045f
+SiphonZahl	707	0.7.7	101051	Test	FiNk3F13	f8bc38ae-b26d-4071-83f7-5987dbc4045f
 SkyShards	1059	10.59	101045 101046	Skyshards	Sharlikran	e0335eb7-8445-4bde-9db4-1a4ace8ee8b1
 SlayansBossTimer	3	1.0.1	101051	Slayan's Boss Timer	xSuperSlayan	e77534ef-ba1c-4ce2-becb-c7c534a86ebe
 SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d04c0cbee9c4
@@ -619,7 +619,7 @@ TurningTide	010101	1.1.1	101051	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c
 turningTideTracker		1.3.4	101051	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
 UnchainedHelper		1.8	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
-UnderPressure	21	0.5.10	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
+UnderPressure	22	0.5.11	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20402	2.4.2	101051 101052	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829
 UnknownFilter	302	0.3.2	101050	UnknownFilter	Xarador	670babe5-297e-4cb3-88d6-cda790275d1a
 Update47Tweaker		1.2.6	101050 101051	Update 47 Tweaker	murphyx	50a4c919-aff0-4475-8614-eb2576d6b6d9

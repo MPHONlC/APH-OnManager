@@ -86,6 +86,7 @@ InsatiableHungerBlocker	Combat Mods
 InstaQ	Discontinued & Outdated
 ItalianScrollsOnline	Unofficial game translations
 KillCount	PvP
+LazyAlchemyLearner	TradeSkill Mods
 LazyHorseFeed	Character Advancement
 LazyOverlandChallenger	Utility Mods
 LibAddonMenu-2.0	Libraries

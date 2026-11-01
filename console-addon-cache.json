@@ -323,18 +323,18 @@
    "version": "0.1.1"
   },
   "09fedb91-c1d9-4f3b-8882-b8c9e36bda36/AntiquarianCodex": {
-   "addOnVersion": "15105",
+   "addOnVersion": "15106",
    "addonId": "09fedb91-c1d9-4f3b-8882-b8c9e36bda36",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 20705,
+   "downloads": 22066,
    "folder": "AntiquarianCodex",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Antiquarian's Codex",
-   "updatedAt": 1792031626,
-   "version": "1.51.05"
+   "updatedAt": 1793560197,
+   "version": "1.51.06"
   },
   "0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d/LibPrice": {
    "addOnVersion": "70460",
@@ -1413,6 +1413,20 @@
    "title": "Dark Convergence Timer",
    "updatedAt": 1781097881,
    "version": "1.0.4"
+  },
+  "2711aec8-a92b-4dae-97c9-096e8d72bf16/LazyAlchemyLearner": {
+   "addOnVersion": "116",
+   "addonId": "2711aec8-a92b-4dae-97c9-096e8d72bf16",
+   "apiVersion": "101051 101052",
+   "author": "Dolgubon",
+   "dependsOn": "LibLazyCrafting LibAddonMenu-2.0",
+   "downloads": 1,
+   "folder": "LazyAlchemyLearner",
+   "isLibrary": "",
+   "optionalDependsOn": "LibPrice",
+   "title": "Beta Dolg Alch",
+   "updatedAt": 1793552351,
+   "version": "1"
   },
   "271c1d87-b92b-4c7e-b1c6-199f8a56c776/LibZone": {
    "addOnVersion": "0901",
@@ -3654,20 +3668,6 @@
    "updatedAt": 1789857249,
    "version": "2.4.3"
   },
-  "630b3a3d-a865-43cb-ab6c-2a1c9923dbe6/SetCooldownTracker": {
-   "addOnVersion": "103",
-   "addonId": "630b3a3d-a865-43cb-ab6c-2a1c9923dbe6",
-   "apiVersion": "101051 101050",
-   "author": "Bucketmore",
-   "dependsOn": "",
-   "downloads": 1,
-   "folder": "SetCooldownTracker",
-   "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0",
-   "title": "Set Cooldown Tracker",
-   "updatedAt": 1793518854,
-   "version": "v1.0.3"
-  },
   "63900961-28c3-49d2-8576-476e5906e80b/SatuveXboxUI": {
    "addOnVersion": "",
    "addonId": "63900961-28c3-49d2-8576-476e5906e80b",
@@ -3926,13 +3926,13 @@
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 2791,
+   "downloads": 2837,
    "folder": "RagsToRiches",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Rags To Riches",
-   "updatedAt": 1793532989,
-   "version": "1.5.3"
+   "updatedAt": 1793547503,
+   "version": "1.5.4"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374/LibNotification": {
    "addOnVersion": "15",
@@ -5543,6 +5543,20 @@
    "title": "PacketByte Exporter",
    "updatedAt": 1790721423,
    "version": "0.1.5"
+  },
+  "96d1c172-661c-4739-960f-fcf660401298/CraftMaterialAssistant": {
+   "addOnVersion": "",
+   "addonId": "96d1c172-661c-4739-960f-fcf660401298",
+   "apiVersion": "101051",
+   "author": "lesse83",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 154,
+   "folder": "CraftMaterialAssistant",
+   "isLibrary": "",
+   "optionalDependsOn": "LibResearch",
+   "title": "CraftMaterialAssistant (Beta)",
+   "updatedAt": 1793550809,
+   "version": "0.0.1"
   },
   "96f579ed-c17e-44c6-b3e3-969c34e8f20f/IsItTaunted": {
    "addOnVersion": "",
@@ -7202,13 +7216,13 @@
    "apiVersion": "101050",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 358,
+   "downloads": 724,
    "folder": "ClearSight",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "ClearSight",
-   "updatedAt": 1785767272,
-   "version": "1.0.5a"
+   "updatedAt": 1793542564,
+   "version": "1.1.5"
   },
   "c75ace9c-ba19-4bce-b7b1-4793854c4754/LibGroupPotionCooldowns": {
    "addOnVersion": "20260111",
@@ -7365,18 +7379,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "21",
+   "addOnVersion": "22",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 667,
+   "downloads": 696,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1793500361,
-   "version": "0.5.10"
+   "updatedAt": 1793557753,
+   "version": "0.5.11"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
    "addOnVersion": "",
@@ -9325,18 +9339,18 @@
    "version": "36"
   },
   "f8bc38ae-b26d-4071-83f7-5987dbc4045f/SiphonZahl": {
-   "addOnVersion": "609",
+   "addOnVersion": "707",
    "addonId": "f8bc38ae-b26d-4071-83f7-5987dbc4045f",
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 1,
+   "downloads": 12,
    "folder": "SiphonZahl",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Test",
-   "updatedAt": 1793533038,
-   "version": "0.6.9"
+   "updatedAt": 1793541814,
+   "version": "0.7.7"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d/RoaringOpportunist": {
    "addOnVersion": "020501",
@@ -9821,7 +9835,7 @@
    "folders": [
     "AntiquarianCodex"
    ],
-   "version": "1.51.05"
+   "version": "1.51.06"
   },
   "0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d": {
    "folders": [
@@ -10303,6 +10317,12 @@
     "DarkConvergenceTimer"
    ],
    "version": "1.0.4"
+  },
+  "2711aec8-a92b-4dae-97c9-096e8d72bf16": {
+   "folders": [
+    "LazyAlchemyLearner"
+   ],
+   "version": "1"
   },
   "271c1d87-b92b-4c7e-b1c6-199f8a56c776": {
    "folders": [
@@ -11287,12 +11307,6 @@
    "folders": [],
    "version": "v1.0.016"
   },
-  "630b3a3d-a865-43cb-ab6c-2a1c9923dbe6": {
-   "folders": [
-    "SetCooldownTracker"
-   ],
-   "version": "v1.0.3"
-  },
   "63900961-28c3-49d2-8576-476e5906e80b": {
    "folders": [
     "SatuveXboxUI"
@@ -11405,7 +11419,7 @@
    "folders": [
     "RagsToRiches"
    ],
-   "version": "1.5.3"
+   "version": "1.5.4"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374": {
    "folders": [
@@ -12128,6 +12142,12 @@
     "PacketByteExporter"
    ],
    "version": "0.1.5"
+  },
+  "96d1c172-661c-4739-960f-fcf660401298": {
+   "folders": [
+    "CraftMaterialAssistant"
+   ],
+   "version": "0.0.1"
   },
   "96f579ed-c17e-44c6-b3e3-969c34e8f20f": {
    "folders": [
@@ -12866,7 +12886,7 @@
    "folders": [
     "ClearSight"
    ],
-   "version": "1.0.5a"
+   "version": "1.1.5"
   },
   "c75ace9c-ba19-4bce-b7b1-4793854c4754": {
    "folders": [
@@ -12946,7 +12966,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.5.10"
+   "version": "0.5.11"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
    "folders": [
@@ -13839,7 +13859,7 @@
    "folders": [
     "SiphonZahl"
    ],
-   "version": "0.6.9"
+   "version": "0.7.7"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d": {
    "folders": [
