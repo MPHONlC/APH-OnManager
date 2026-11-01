@@ -189,7 +189,7 @@ LibResearch	43	4.0r3	517	101042 101043	libResearch	libResearch
 LibSavedVars	60101	6.1.1	2161	101052 101051	LibSavedVars	LSV
 LibSaveToDisk	102	1.3g r6	1993	100033 100034	LibSaveToDisk	LibSaveToDisk
 LibScroll	2	2	1151	100033 100034	LibScroll	LibScroll
-LibScrollableMenu	20407	2.47	3546	101051 101052	LibScrollableMenu	LSM
+LibScrollableMenu	20408	2.48	3546	101051 101052	LibScrollableMenu	LSM
 LibScrollList	4	4	4609	101050	LibScrollList	LibScrollList
 LibSeasonalEventManager	1	1.3	3670	101040 101038	LibSeasonalEventManager	LibSeasonalEventManager
 LibServerResetTime	200000	2.0.0	4427	101049 101050	LibServerResetTime	LibServerResetTime

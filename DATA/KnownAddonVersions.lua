@@ -71,7 +71,7 @@ AltBuffs		1.0.3	3875	101041
 AlternateDeathRecap	30200	3.3	4454	101049 101050
 AltGroupFrames	15	1.5.39	3053	101051
 AltGroupFramesBuffTracker	13	1.5.39	3053	101050
-ALTHI	10000	1.0.0	4984	101051
+ALTHI	20000	2.0.0	4984	101051
 AlwaysCompass		0.0.2	4107	101045
 AlwaysExpandedAttributeBars		4.0	2979	101051
 AlwaysLogging		v3.1.12.1.0	4081	101051 101050
@@ -202,7 +202,7 @@ BetaScry		1.0.0	3783	101040
 BetterBGSounds		2.0	4807	101046
 BetterDungeonFinder	191	1.91	3824	101048 101049
 BetterGuard	28	2.8	3974	101050
-BetterScoreboard	10	v1	5013	101051
+BetterScoreboard	8	4.2	3182	101044
 BetterStealthText		1.10	4039	101046 101047
 BetterSynergy		1.4	4029	101044
 BetterUI		3.06	2013	101049
@@ -245,7 +245,7 @@ BSCs-PillagersProfit		2.1.0	3399	101046 101047
 BSCs-ScribingFavorite	1112025	1.1.1	3856	101048
 BSCs-UltiPoints		2.2.3	3198	101047 101048
 BSCs-WizardPlugin		1.0.2	4645	101050
-BTVToolsRosterImporter	301	0.3.1	4852	101051
+BTVToolsRosterImporter	302	0.3.2	4852	101051
 BuffTheGroup		3.5.0	2759	101041 101042
 BugCatcher		043	2566	101051 101052
 BureauOfAcceptableViews	313	3.13.232847	4720	101051
@@ -712,7 +712,7 @@ HarvensExtraIcons		1.0.1	4939	101051
 HarvensImprovedSkillsWindow		2.0.13	489	101046 101047
 HarvensItemStatsComparsion		1.0.0	1206	101044 101045
 HarvensPotionsAlert		2.2.2	562	101041 101042
-HarvensQuestJournal		3.0.0	580	101051 101052
+HarvensQuestJournal		3.0.1	580	101051 101052
 HarvensSubtitleAddon		2.0.4	339	101047 101048
 HarvensThievesTrovesMarker		1.1.0	1313	101037 101038
 HarvensTraitAndStyle		2.10.3	436	101044 101045
@@ -743,6 +743,7 @@ HideCompletedTomeChallenges		1.0	4811	101050
 HideGroupNecro		1.5.1	3472	101047 101048
 HideLoginNotice		1.0.3	4248	101048
 HidePlayerMapMarker		1.0.2	4249	101048
+HideResearchableIcon		1.1.0	5016	101051 101050
 HideReticleMounted		1.0.1	4332	101048
 HideScryingTooltips		1.0.1	4782	101050
 HideUI		1.0	4083	101045 101046
@@ -815,6 +816,7 @@ InspectVestige	140	1.4.0	4706	101049
 InstanceLeaver	2	0.2	4867	101050
 InstantSwap		1.2	2987	100034
 InstaQ	1	1.2 Stable	4164	101046
+Inventory2	103	1.0.3	5009	101051
 InventoryAssistant		1.21.261002-beta	2015	101051
 InventoryCompanion	10500	1.5.0	4997	101051
 InventoryManagerTESO		1.0.2	4071	101041
@@ -870,7 +872,7 @@ Killz	118	1.10.7	3572	101050
 KillZaeler	16	1.7.0	4543	101042
 KindlerBeggarLiarThief		1.2	4321	101048 101048
 KozyEsoBuildPort	1002	0.10.2	4938	101051 101052
-KwibusRandomThings		1.4.6	4450	101051
+KwibusRandomThings		1.5.0	4450	101050 101051
 KwibusReset	110101	1.11.0	4281	101047
 KyzderpsDerps	1560	1.56.0	2427	101051 101052
 Labyrinthe		0.8.2	3841	101045
@@ -903,6 +905,7 @@ LightsOut		2.1.0	4550	101049
 LinkstoRuFonts		1.0.6	3830	101049 101050
 LiveAchiever		1.0.4	4339	101048
 LiveCyrodiilMap		1.0	3920	101042
+LMB		1.4.2	3994	101050
 LMP_jpFontFI	20200	2.2.0	2936	101046
 LMP_zhFontFI	20000	2.0.1	3750	101040
 LockedItemsTab	103	1.3	3420	101034
@@ -980,6 +983,7 @@ MightyExperienceBar		1.1.0	3126	101041
 MiniMap		2026.10.25	3384	101051
 MiniStats	1	0.1.0	4222	101046
 MinistryOfNormalWalks		1.0.0	4022	101044
+MiraclesBetterScoreboard	11	v2	5013	101051
 MirrorlandGuildHalls		2.0.0	3016	101049 101050
 MitigationFilter		1.00	4767	101046
 MonsterCofferHelper	10000	1.0	4752	101050
@@ -1108,7 +1112,7 @@ PDT	101	1.0.1	4214	101046
 PenTest	27	27	1933	101043
 PerfectExtendedJournal		2.0.0	3942	101042 101043
 PerfectJournalQuestLog		1.0.0	3662	101038
-PerfectPixel	1339	0.13.40	2103	101051 101052
+PerfectPixel	1341	0.13.41	2103	101051 101052
 PerfectRockgrove		1.0.7	3238	101034
 PerfectWeave	9	0.9	4468	101049
 PerfStatz	10013	1.0.13	3458	101050
