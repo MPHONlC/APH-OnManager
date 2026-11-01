@@ -204,6 +204,7 @@ SatuveRotationTrainer	LibGamepad
 SatuveXboxUI	LibDebugLogger	LibStub
 SavedChatMessages	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
 Seamstress	LibHarvensAddonSettings
+SetCooldownTracker	LibAddonMenu-2.0
 SetTracker	LibHarvensAddonSettings-1.0
 ShogrinUI	LibAddonMenu-2.0	LibSlashCommander
 ShowEquipped	LibHarvensAddonSettings

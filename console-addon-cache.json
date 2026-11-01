@@ -1890,6 +1890,20 @@
    "updatedAt": 1774611924,
    "version": "1.3"
   },
+  "31353ae2-3899-477e-935e-69f9756c9d60/SimpleGroupDPS": {
+   "addOnVersion": "",
+   "addonId": "31353ae2-3899-477e-935e-69f9756c9d60",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
+   "downloads": 2,
+   "folder": "SimpleGroupDPS",
+   "isLibrary": "",
+   "optionalDependsOn": "BattleScrolls",
+   "title": "DontDownload",
+   "updatedAt": 1793528104,
+   "version": "1.6.3"
+  },
   "32111121-29be-4447-ba40-3c064d28680e/PowerLashTracker": {
    "addOnVersion": "1.0.0",
    "addonId": "32111121-29be-4447-ba40-3c064d28680e",
@@ -2661,18 +2675,18 @@
    "version": "1.0.2"
   },
   "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3/TamrielCollectionsLorebooks": {
-   "addOnVersion": "111",
+   "addOnVersion": "115",
    "addonId": "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 10,
+   "downloads": 14,
    "folder": "TamrielCollectionsLorebooks",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Lore Books",
-   "updatedAt": 1793483953,
-   "version": "v0.1.11"
+   "updatedAt": 1793528766,
+   "version": "v0.1.15"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -3640,6 +3654,20 @@
    "updatedAt": 1789857249,
    "version": "2.4.3"
   },
+  "630b3a3d-a865-43cb-ab6c-2a1c9923dbe6/SetCooldownTracker": {
+   "addOnVersion": "103",
+   "addonId": "630b3a3d-a865-43cb-ab6c-2a1c9923dbe6",
+   "apiVersion": "101051 101050",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "SetCooldownTracker",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
+   "title": "Set Cooldown Tracker",
+   "updatedAt": 1793518854,
+   "version": "v1.0.3"
+  },
   "63900961-28c3-49d2-8576-476e5906e80b/SatuveXboxUI": {
    "addOnVersion": "",
    "addonId": "63900961-28c3-49d2-8576-476e5906e80b",
@@ -3898,13 +3926,13 @@
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 2668,
+   "downloads": 2791,
    "folder": "RagsToRiches",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Rags To Riches",
-   "updatedAt": 1793088717,
-   "version": "1.5.1"
+   "updatedAt": 1793532989,
+   "version": "1.5.3"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374/LibNotification": {
    "addOnVersion": "15",
@@ -6012,13 +6040,13 @@
    "apiVersion": "101050",
    "author": "Bucketmore",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 161,
+   "downloads": 164,
    "folder": "PvPTargetInfo",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "PvP Target Info",
-   "updatedAt": 1793325992,
-   "version": "V2.0.8"
+   "updatedAt": 1793519459,
+   "version": "V2.0.8t"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -7048,13 +7076,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 15,
+   "downloads": 16,
    "folder": "PBsScreenshotModeShortcut",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ScreenshotModeShortcut(Beta)",
-   "updatedAt": 1793499256,
-   "version": "1.3.0"
+   "updatedAt": 1793512381,
+   "version": "1.3.1"
   },
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e/TrueDebuffsBars": {
    "addOnVersion": "",
@@ -7309,18 +7337,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000102",
+   "addOnVersion": "01000103",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 16274,
+   "downloads": 16543,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793419213,
-   "version": "1.0.102"
+   "updatedAt": 1793505613,
+   "version": "1.0.103"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8182,13 +8210,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 39,
+   "downloads": 51,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "Testin",
-   "updatedAt": 1793271849,
-   "version": "1.5.1"
+   "updatedAt": 1793526560,
+   "version": "1.6.2"
   },
   "ddf1a1e2-b627-4cb5-a40a-a3ece40c609c/AutoInteract": {
    "addOnVersion": "185",
@@ -8966,13 +8994,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 52,
+   "downloads": 57,
    "folder": "PBsScreenshotModeShortcut",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ScreenshotModeShortcut",
-   "updatedAt": 1793499387,
-   "version": "1.3.0"
+   "updatedAt": 1793512477,
+   "version": "1.3.1"
   },
   "f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d/MyROCooldownBar": {
    "addOnVersion": "",
@@ -9297,9 +9325,9 @@
    "version": "36"
   },
   "f8bc38ae-b26d-4071-83f7-5987dbc4045f/SiphonZahl": {
-   "addOnVersion": "606",
+   "addOnVersion": "609",
    "addonId": "f8bc38ae-b26d-4071-83f7-5987dbc4045f",
-   "apiVersion": "101052",
+   "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
    "downloads": 1,
@@ -9307,8 +9335,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Test",
-   "updatedAt": 1793478133,
-   "version": "0.6.6"
+   "updatedAt": 1793533038,
+   "version": "0.6.9"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d/RoaringOpportunist": {
    "addOnVersion": "020501",
@@ -10486,6 +10514,12 @@
    ],
    "version": "1.3"
   },
+  "31353ae2-3899-477e-935e-69f9756c9d60": {
+   "folders": [
+    "SimpleGroupDPS"
+   ],
+   "version": "1.6.3"
+  },
   "32111121-29be-4447-ba40-3c064d28680e": {
    "folders": [
     "PowerLashTracker"
@@ -10823,7 +10857,7 @@
    "folders": [
     "TamrielCollectionsLorebooks"
    ],
-   "version": "v0.1.11"
+   "version": "v0.1.15"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6": {
    "folders": [
@@ -11253,6 +11287,12 @@
    "folders": [],
    "version": "v1.0.016"
   },
+  "630b3a3d-a865-43cb-ab6c-2a1c9923dbe6": {
+   "folders": [
+    "SetCooldownTracker"
+   ],
+   "version": "v1.0.3"
+  },
   "63900961-28c3-49d2-8576-476e5906e80b": {
    "folders": [
     "SatuveXboxUI"
@@ -11365,7 +11405,7 @@
    "folders": [
     "RagsToRiches"
    ],
-   "version": "1.5.1"
+   "version": "1.5.3"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374": {
    "folders": [
@@ -12306,7 +12346,7 @@
    "folders": [
     "PvPTargetInfo"
    ],
-   "version": "V2.0.8"
+   "version": "V2.0.8t"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -12772,7 +12812,7 @@
    "folders": [
     "PBsScreenshotModeShortcut"
    ],
-   "version": "1.3.0"
+   "version": "1.3.1"
   },
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e": {
    "folders": [
@@ -12894,7 +12934,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.102"
+   "version": "1.0.103"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13285,7 +13325,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "1.5.1"
+   "version": "1.6.2"
   },
   "ddf1a1e2-b627-4cb5-a40a-a3ece40c609c": {
    "folders": [
@@ -13651,7 +13691,7 @@
    "folders": [
     "PBsScreenshotModeShortcut"
    ],
-   "version": "1.3.0"
+   "version": "1.3.1"
   },
   "f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d": {
    "folders": [
@@ -13799,7 +13839,7 @@
    "folders": [
     "SiphonZahl"
    ],
-   "version": "0.6.6"
+   "version": "0.6.9"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d": {
    "folders": [
