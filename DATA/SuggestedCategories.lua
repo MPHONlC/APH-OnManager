@@ -1381,6 +1381,7 @@ AoM.SuggestedCategories = {
 	["PersonalAssistantLoot"] = "Bags, Bank, Inventory",
 	["PersonalAssistantRepair"] = "Bags, Bank, Inventory",
 	["PersonalAssistantWorker"] = "Bags, Bank, Inventory",
+	["PersonalityDesigner"] = "RolePlay",
 	["PetHealth"] = "Unit Mods",
 	["PetrifyTimer"] = "PvP",
 	["Photographer"] = "Plug-Ins & Patches",
