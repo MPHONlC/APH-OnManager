@@ -67,7 +67,7 @@ AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenge
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
 AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
-AutoImproveGear		3.2.4	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
+AutoImproveGear		3.4.6	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
 AutoMasterWrits	15103	1.51.03	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
@@ -403,15 +403,11 @@ MurfSkyshards		1.3.7	101050 101051	Murf's Skyshards	murphyx	f252b54c-ca06-45e6-8
 MurfTimer		1.2.7	101050 101051	Murf's Timer	murphyx	7c703441-775f-466c-9811-b6b2ee0e480e
 MurfTreasures		1.2.7	101050 101051	Murf's Treasures	murphyx	4c4e9010-a3ef-435d-b540-4d292e289eca
 MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08e4ae
-MyAutoMarker		2.2	101050	MyAutoMarker	Unfounded_Puppy3	097cf265-8ddc-4970-9836-914d69dbdc80
 MyCombatText		2.0.0 Performance and bug fix updates	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
-MyCrystalFragmentsProcUI		0.1	101050	MyCrystalFragmentsProcUI	Unfounded_Puppy3	d706fcf0-71fd-47e6-911a-fdacc426303a
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
 MyExtras		1.2	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
-MyGridHelper		1.0	101049	MyGridHelper	Unfounded_Puppy3	36ae3d1e-dbb6-45d2-b0a4-30934a0634f8
-MyMapPos		1.0	101049	MyMapPos	Unfounded_Puppy3	2c07f374-57bc-4f20-814f-d40e4d93285b
+MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
-MyTankBars	2	1.0	101048 101049	MyTankBars	Unfounded_Puppy3	fe2be9f7-6b33-44e1-8b54-7a7afcc9b63d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
 MyUI		v3.1.2	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
 necroTracker		1.4.0	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
@@ -436,7 +432,7 @@ OsseinAssist		0.0.11	101048 101049	Ossein Assist	goron_spice	fea36b82-af6d-4ba4-
 PacketByteExporter	105	0.1.5	101050 101051	PacketByte Exporter	packetloss404	96620ecb-ccf7-4298-9215-636f4075695b
 PairsWellWithCheese	029	0.2.9	101050 101051	PairsWellWithCheese	saranicole1980	b57202fe-9b3a-4021-ad86-f2db8dfe0c5e
 PatronsLedger	100	2.2	101050	Patron's Ledger	svammy	e6627cb6-5e78-4443-86bc-4340210a5684
-PBsChatAssistant		1.30.1	101050 101051	PinkB's ChatAssistant	PinkBanther	416eb892-aa32-4a10-8d1a-7ba7cf27cedf
+PBsChatAssistant		1.31.0	101050 101051	PinkB's ChatAssistant	PinkBanther	416eb892-aa32-4a10-8d1a-7ba7cf27cedf
 PBsChatWindowCustomizer		1.3.2	101050 101051	PinkB's ChatWindowCustomizer	PinkBanther	095b24d1-d035-4472-ae1d-9da85c61cb99
 PBsClock		1.3.1	101050 101051	PinkB's Clock(Beta)	PinkBanther	61641950-b365-49c6-bb98-dff4fa7bcc01
 PBsCompass	100	1.0.0	101050 101051	PinkB's Compass for AD Stalkers	PinkBanther	9cf7a466-7ad1-4e05-b1d9-093450347229
@@ -457,7 +453,7 @@ PBsMiniMap		2.3.4	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsProcSetTimer		0.5.1	101050 101051	PBsProcSetTimer(Beta)	PinkBanther	81a06296-da7a-447d-8784-8b2116d37dbf
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
-PBsScreenshotModeShortcut		1.1.1	101050 101051	PinkB's ScreenshotModeShortcut(Beta)	PinkBanther	c3b0724d-c60e-44de-9244-7cdc9f20c868
+PBsScreenshotModeShortcut		1.3.0	101050 101051	PinkB's ScreenshotModeShortcut	PinkBanther	f092f755-7f1e-43bf-b184-f2a9871a86ea
 PBsTargetPlayer		1.7.0	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
 PBsTetris	11600	1.16.0	101050 101051	PinkB's Tamriel de Tetris	PinkBanther	e8b21bff-aae1-4a24-b91b-8c49cd6acfd6
 PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanther	a213bf5d-d4a4-4bfb-bd6b-e10a127ea56e
@@ -622,7 +618,7 @@ TurningTide	010101	1.1.1	101051	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c
 turningTideTracker		1.3.4	101051	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
 UnchainedHelper		1.8	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
-UnderPressure	18	0.5.8	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
+UnderPressure	21	0.5.10	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20402	2.4.2	101051 101052	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829
 UnknownFilter	302	0.3.2	101050	UnknownFilter	Xarador	670babe5-297e-4cb3-88d6-cda790275d1a
 Update47Tweaker		1.2.6	101050 101051	Update 47 Tweaker	murphyx	50a4c919-aff0-4475-8614-eb2576d6b6d9

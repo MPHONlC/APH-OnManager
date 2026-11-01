@@ -308,20 +308,6 @@
    "updatedAt": 1791806783,
    "version": "1.3.2"
   },
-  "097cf265-8ddc-4970-9836-914d69dbdc80/MyAutoMarker": {
-   "addOnVersion": "",
-   "addonId": "097cf265-8ddc-4970-9836-914d69dbdc80",
-   "apiVersion": "101050",
-   "author": "Unfounded_Puppy3",
-   "dependsOn": "",
-   "downloads": 7,
-   "folder": "MyAutoMarker",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "MyAutoMarker",
-   "updatedAt": 1783069651,
-   "version": "2.2"
-  },
   "097d0094-d2c0-4e8c-be4e-016e8046d655/TrialTagger": {
    "addOnVersion": "1",
    "addonId": "097d0094-d2c0-4e8c-be4e-016e8046d655",
@@ -1652,20 +1638,6 @@
    "updatedAt": 1793330831,
    "version": "1.7.0"
   },
-  "2c07f374-57bc-4f20-814f-d40e4d93285b/MyMapPos": {
-   "addOnVersion": "",
-   "addonId": "2c07f374-57bc-4f20-814f-d40e4d93285b",
-   "apiVersion": "101049",
-   "author": "Unfounded_Puppy3",
-   "dependsOn": "",
-   "downloads": 5,
-   "folder": "MyMapPos",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "MyMapPos",
-   "updatedAt": 1776613103,
-   "version": "1.0"
-  },
   "2c6301b6-2c09-4282-9496-84ffcb7577ce/LibNotify": {
    "addOnVersion": "",
    "addonId": "2c6301b6-2c09-4282-9496-84ffcb7577ce",
@@ -2058,20 +2030,6 @@
    "updatedAt": 1770752320,
    "version": "0.0.1"
   },
-  "36ae3d1e-dbb6-45d2-b0a4-30934a0634f8/MyGridHelper": {
-   "addOnVersion": "",
-   "addonId": "36ae3d1e-dbb6-45d2-b0a4-30934a0634f8",
-   "apiVersion": "101049",
-   "author": "Unfounded_Puppy3",
-   "dependsOn": "",
-   "downloads": 18,
-   "folder": "MyGridHelper",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "MyGridHelper",
-   "updatedAt": 1777201841,
-   "version": "1.0"
-  },
   "371fcd02-ae32-4937-a1d4-de4f33b01870/PBsMailerExtension": {
    "addOnVersion": "",
    "addonId": "371fcd02-ae32-4937-a1d4-de4f33b01870",
@@ -2428,13 +2386,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 307,
+   "downloads": 341,
    "folder": "PBsChatAssistant",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's ChatAssistant",
-   "updatedAt": 1792237356,
-   "version": "1.30.1"
+   "updatedAt": 1793504799,
+   "version": "1.31.0"
   },
   "427000e9-72c4-4fc9-b9b6-3cca4f863607/ScryMaster": {
    "addOnVersion": "",
@@ -4808,13 +4766,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 112,
+   "downloads": 115,
    "folder": "PBsChatAssistant",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's ChatAssistant(Beta)",
-   "updatedAt": 1792237313,
-   "version": "1.30.1"
+   "updatedAt": 1793500859,
+   "version": "1.31.0"
   },
   "8421afb6-ec3a-4d66-a247-e161c5656103/TrustButVerify": {
    "addOnVersion": "",
@@ -6670,13 +6628,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 218,
+   "downloads": 239,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793487338,
-   "version": "3.2.4"
+   "updatedAt": 1793501996,
+   "version": "3.4.6"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7090,13 +7048,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 10,
+   "downloads": 15,
    "folder": "PBsScreenshotModeShortcut",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ScreenshotModeShortcut(Beta)",
-   "updatedAt": 1792650275,
-   "version": "1.1.1"
+   "updatedAt": 1793499256,
+   "version": "1.3.0"
   },
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e/TrueDebuffsBars": {
    "addOnVersion": "",
@@ -7308,6 +7266,20 @@
    "updatedAt": 1789002238,
    "version": "1.4.1"
   },
+  "c8d15550-8307-43a1-9803-acf475da93bd/MyOmBuffHUD": {
+   "addOnVersion": "",
+   "addonId": "c8d15550-8307-43a1-9803-acf475da93bd",
+   "apiVersion": "101051",
+   "author": "Unfounded_Puppy3",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 0,
+   "folder": "MyOmBuffHUD",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "MyOmBuffHUD",
+   "updatedAt": 1793498826,
+   "version": "1.0"
+  },
   "c8ff27a5-4393-43c9-a816-b912384fdb2d/TamrielCollectionsStylePages": {
    "addOnVersion": "1000",
    "addonId": "c8ff27a5-4393-43c9-a816-b912384fdb2d",
@@ -7365,18 +7337,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "18",
+   "addOnVersion": "21",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 625,
+   "downloads": 667,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1793406445,
-   "version": "0.5.8"
+   "updatedAt": 1793500361,
+   "version": "0.5.10"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
    "addOnVersion": "",
@@ -7895,20 +7867,6 @@
    "title": "Siege Reminder",
    "updatedAt": 1781386839,
    "version": "2.0.31"
-  },
-  "d706fcf0-71fd-47e6-911a-fdacc426303a/MyCrystalFragmentsProcUI": {
-   "addOnVersion": "",
-   "addonId": "d706fcf0-71fd-47e6-911a-fdacc426303a",
-   "apiVersion": "101050",
-   "author": "Unfounded_Puppy3",
-   "dependsOn": "",
-   "downloads": 4,
-   "folder": "MyCrystalFragmentsProcUI",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "MyCrystalFragmentsProcUI",
-   "updatedAt": 1789285640,
-   "version": "0.1"
   },
   "d761d228-adae-40b7-8320-6e4504e2d2ec/PBsHudManager": {
    "addOnVersion": "",
@@ -9008,13 +8966,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 35,
+   "downloads": 52,
    "folder": "PBsScreenshotModeShortcut",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ScreenshotModeShortcut",
-   "updatedAt": 1792650238,
-   "version": "1.1.1"
+   "updatedAt": 1793499387,
+   "version": "1.3.0"
   },
   "f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d/MyROCooldownBar": {
    "addOnVersion": "",
@@ -9576,20 +9534,6 @@
    "updatedAt": 1773945609,
    "version": "1.0.6"
   },
-  "fe2be9f7-6b33-44e1-8b54-7a7afcc9b63d/MyTankBars": {
-   "addOnVersion": "2",
-   "addonId": "fe2be9f7-6b33-44e1-8b54-7a7afcc9b63d",
-   "apiVersion": "101048 101049",
-   "author": "Unfounded_Puppy3",
-   "dependsOn": "LibGroupBroadcast",
-   "downloads": 90,
-   "folder": "MyTankBars",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "MyTankBars",
-   "updatedAt": 1778138077,
-   "version": "1.0"
-  },
   "fea36b82-af6d-4ba4-803b-94703baf934a/OsseinAssist": {
    "addOnVersion": "",
    "addonId": "fea36b82-af6d-4ba4-803b-94703baf934a",
@@ -9837,12 +9781,6 @@
     "PBsChatWindowCustomizer"
    ],
    "version": "1.3.2"
-  },
-  "097cf265-8ddc-4970-9836-914d69dbdc80": {
-   "folders": [
-    "MyAutoMarker"
-   ],
-   "version": "2.2"
   },
   "097d0094-d2c0-4e8c-be4e-016e8046d655": {
    "folders": [
@@ -10439,12 +10377,6 @@
    ],
    "version": "1.7.0"
   },
-  "2c07f374-57bc-4f20-814f-d40e4d93285b": {
-   "folders": [
-    "MyMapPos"
-   ],
-   "version": "1.0"
-  },
   "2c6301b6-2c09-4282-9496-84ffcb7577ce": {
    "folders": [
     "LibNotify"
@@ -10616,12 +10548,6 @@
    ],
    "version": "0.0.1"
   },
-  "36ae3d1e-dbb6-45d2-b0a4-30934a0634f8": {
-   "folders": [
-    "MyGridHelper"
-   ],
-   "version": "1.0"
-  },
   "371fcd02-ae32-4937-a1d4-de4f33b01870": {
    "folders": [
     "PBsMailerExtension"
@@ -10785,7 +10711,7 @@
    "folders": [
     "PBsChatAssistant"
    ],
-   "version": "1.30.1"
+   "version": "1.31.0"
   },
   "427000e9-72c4-4fc9-b9b6-3cca4f863607": {
    "folders": [
@@ -11826,7 +11752,7 @@
    "folders": [
     "PBsChatAssistant"
    ],
-   "version": "1.30.1"
+   "version": "1.31.0"
   },
   "8421afb6-ec3a-4d66-a247-e161c5656103": {
    "folders": [
@@ -12659,7 +12585,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "3.2.4"
+   "version": "3.4.6"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12846,7 +12772,7 @@
    "folders": [
     "PBsScreenshotModeShortcut"
    ],
-   "version": "1.1.1"
+   "version": "1.3.0"
   },
   "c3d7fa6e-9024-4480-a02b-a9672c9da86e": {
    "folders": [
@@ -12946,6 +12872,12 @@
    ],
    "version": "1.4.1"
   },
+  "c8d15550-8307-43a1-9803-acf475da93bd": {
+   "folders": [
+    "MyOmBuffHUD"
+   ],
+   "version": "1.0"
+  },
   "c8ff27a5-4393-43c9-a816-b912384fdb2d": {
    "folders": [
     "TamrielCollectionsStylePages"
@@ -12974,7 +12906,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.5.8"
+   "version": "0.5.10"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
    "folders": [
@@ -13211,12 +13143,6 @@
     "SiegeReminder"
    ],
    "version": "2.0.31"
-  },
-  "d706fcf0-71fd-47e6-911a-fdacc426303a": {
-   "folders": [
-    "MyCrystalFragmentsProcUI"
-   ],
-   "version": "0.1"
   },
   "d761d228-adae-40b7-8320-6e4504e2d2ec": {
    "folders": [
@@ -13725,7 +13651,7 @@
    "folders": [
     "PBsScreenshotModeShortcut"
    ],
-   "version": "1.1.1"
+   "version": "1.3.0"
   },
   "f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d": {
    "folders": [
@@ -13976,12 +13902,6 @@
     "InterruptNarc"
    ],
    "version": "1.0.6"
-  },
-  "fe2be9f7-6b33-44e1-8b54-7a7afcc9b63d": {
-   "folders": [
-    "MyTankBars"
-   ],
-   "version": "1.0"
   },
   "fea36b82-af6d-4ba4-803b-94703baf934a": {
    "folders": [
