@@ -481,6 +481,7 @@ AoM.KnownAddonDependencies = {
 	["SlipsSanitysEdgeAssist"] = { "OdySupportIcons" },
 	["SmartChatMsg"] = { "LibDebugLogger" },
 	["SmartGear"] = { "LibAddonMenu-2.0" },
+	["SoraReticleTracker"] = { "LibSkillBlocker" },
 	["SoraUltimatePair"] = { "LibAddonMenu-2.0" },
 	["SorcererMasteryTracker"] = { "LibAddonMenu-2.0" },
 	["SprintSens"] = { "LibAddonMenu-2.0" },

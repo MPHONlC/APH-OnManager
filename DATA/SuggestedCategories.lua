@@ -1640,6 +1640,7 @@ AoM.SuggestedCategories = {
 	["SocialIcons"] = "Group, Guild & Friends",
 	["Sol_Guild_Hall"] = "Homestead",
 	["SoloistsOfTamriel_Portal"] = "Group, Guild & Friends",
+	["SoraReticleTracker"] = "Combat Mods",
 	["SoraSorcReticleTracker"] = "Sorcerer",
 	["SoraUltimatePair"] = "Action Bar Mods",
 	["SorcererMasteryTracker"] = "Sorcerer",
