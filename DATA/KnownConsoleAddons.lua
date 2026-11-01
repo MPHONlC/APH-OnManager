@@ -67,7 +67,7 @@ AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenge
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
 AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
-AutoImproveGear		3.4.6	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
+AutoImproveGear		3.5.0	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
 AutoMasterWrits	15103	1.51.03	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
@@ -144,7 +144,7 @@ CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker
 CPSlotsConsole		1.3	101051	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
 CPVeterancy		CPVeterancy-0.0.2-2026-07-30T204833	101050	CP Veterancy	clubwratt	7f8752f5-11f4-4e26-a26b-fc0ee813d8e1
 CraftMaster		1.0.13	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
-CraftMaterialAssistant		0.0.1	101051	CraftMaterialAssistant (Beta)	lesse83	96d1c172-661c-4739-960f-fcf660401298
+CraftMaterialAssistant		1.0.12	101051	CraftMaterialAssistant	lesse83	949980bd-b411-4102-82d7-4e64ba17bc3a
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
 CrowdednESO		2026.07.09	101050	CrowdednESO	Masteroshi430	9d131435-84c4-4c6d-9d73-5e2ec6fa61b7
 CrownAndCrux	1.3.7	1.3.7	101049 101050	Crown And Crux	SaintAres97	0ac5fe21-6f1a-4c14-8b9f-be1a308a9619
@@ -644,7 +644,7 @@ WhatsMyBuildAgain	005005004	5.0.5	101050	What's My Build Again	Eldibabalo	61ffae
 WheeWheel		0.0.5	101050 101051	Wheewheel	murphyx	6b001219-cfeb-4b80-b418-e3c7da481d73
 WhereIsIt		1.5	101048 101049 101050 101051	Where Is It?	user562x	45d919f9-f85b-4930-9348-94fe2e245f98
 WhispersBeyond		1.0.6	101046	Whispers Beyond	Volcano_Beetle	5aa01879-0f7a-42e6-a52d-979261f97cf1
-WizardsHelper	1	0.1.0	101051	Wizard's Helper	xbutch	9dcd2732-49fe-45f8-b46e-86b0f938505f
+WizardsHelper	2	0.1.1	101051	Wizard's Helper	xbutch	9dcd2732-49fe-45f8-b46e-86b0f938505f
 WizardsWardrobe	402	0.4.2	101048	Wizard's Wardrobe	STUDLETON	645213de-645d-4170-a4d0-0ee977090114
 WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	RagePhoenix96	f6c4019b-59cf-4a0b-8550-0e83c807df18
 wretchedVitalityTracker		1.4.5	101051	Wretched Vitality Tracker	codeWarrior82	af0511e3-aa4e-4d26-8665-e486da04c1cd
