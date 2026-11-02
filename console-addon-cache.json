@@ -462,6 +462,20 @@
    "updatedAt": 1756836639,
    "version": "1.0.14"
   },
+  "0d43993b-0f07-4f0b-9411-53ad5c85a2f4/MatchMonitorDiag": {
+   "addOnVersion": "1",
+   "addonId": "0d43993b-0f07-4f0b-9411-53ad5c85a2f4",
+   "apiVersion": "101051 101050",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "MatchMonitorDiag",
+   "isLibrary": "false",
+   "optionalDependsOn": "",
+   "title": "Match Monitor",
+   "updatedAt": 1793620735,
+   "version": "V1.0.5"
+  },
   "0db118b4-92d1-4b06-b81a-64a67e477e60/DreadVision": {
    "addOnVersion": "602",
    "addonId": "0db118b4-92d1-4b06-b81a-64a67e477e60",
@@ -1415,18 +1429,18 @@
    "version": "1.0.4"
   },
   "2711aec8-a92b-4dae-97c9-096e8d72bf16/LazyAlchemyLearner": {
-   "addOnVersion": "116",
+   "addOnVersion": "116.1",
    "addonId": "2711aec8-a92b-4dae-97c9-096e8d72bf16",
    "apiVersion": "101051 101052",
    "author": "Dolgubon",
-   "dependsOn": "LibLazyCrafting LibAddonMenu-2.0",
-   "downloads": 1,
+   "dependsOn": "LibLazyCrafting",
+   "downloads": 2,
    "folder": "LazyAlchemyLearner",
    "isLibrary": "",
    "optionalDependsOn": "LibPrice",
    "title": "Beta Dolg Alch",
-   "updatedAt": 1793552351,
-   "version": "1"
+   "updatedAt": 1793601039,
+   "version": "4"
   },
   "271c1d87-b92b-4c7e-b1c6-199f8a56c776/LibZone": {
    "addOnVersion": "0901",
@@ -1735,20 +1749,6 @@
    "title": "Pvp Ready Emotes",
    "updatedAt": 1773994090,
    "version": "1.1"
-  },
-  "2e7370ba-81d3-4bb3-8b0b-2bff4a943421/IAHelper": {
-   "addOnVersion": "",
-   "addonId": "2e7370ba-81d3-4bb3-8b0b-2bff4a943421",
-   "apiVersion": "101050",
-   "author": "Gamer_sa22",
-   "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 6,
-   "folder": "IAHelper",
-   "isLibrary": "",
-   "optionalDependsOn": "LibDataShare",
-   "title": "IAH Test",
-   "updatedAt": 1784884772,
-   "version": "50.07"
   },
   "2e985373-cd04-4a3e-855f-4f8a4ada4d76/TrueReticle2": {
    "addOnVersion": "",
@@ -2689,18 +2689,18 @@
    "version": "1.0.2"
   },
   "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3/TamrielCollectionsLorebooks": {
-   "addOnVersion": "115",
+   "addOnVersion": "1000",
    "addonId": "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 14,
+   "downloads": 16,
    "folder": "TamrielCollectionsLorebooks",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Lore Books",
-   "updatedAt": 1793528766,
-   "version": "v0.1.15"
+   "updatedAt": 1793620149,
+   "version": "v1.0.0 Final"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -2859,16 +2859,16 @@
   "4b76af9c-bb6e-4eab-b0dc-c8c4e5c7c226/FishingMap": {
    "addOnVersion": "",
    "addonId": "4b76af9c-bb6e-4eab-b0dc-c8c4e5c7c226",
-   "apiVersion": "101050",
+   "apiVersion": "101051 101052",
    "author": "Gamer_sa22",
    "dependsOn": "LibMapPins-1.0",
-   "downloads": 221953,
+   "downloads": 236797,
    "folder": "FishingMap",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Fishing Map",
-   "updatedAt": 1780136693,
-   "version": "50.01"
+   "updatedAt": 1793592201,
+   "version": "52.01"
   },
   "4b83f722-f447-4d05-a262-1f0427f9fca2/TraitScout": {
    "addOnVersion": "1",
@@ -5181,7 +5181,7 @@
    "version": "1.18"
   },
   "8e8983cd-c304-4a89-b625-ec8c4560820d/TamrielCollectionsFurnishingPlans": {
-   "addOnVersion": "100",
+   "addOnVersion": "102",
    "addonId": "8e8983cd-c304-4a89-b625-ec8c4560820d",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
@@ -5191,8 +5191,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Furnishing Plans",
-   "updatedAt": 1793472511,
-   "version": "v0.1.0"
+   "updatedAt": 1793621025,
+   "version": "v0.1.2"
   },
   "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2/KhajiitVoice": {
    "addOnVersion": "",
@@ -5466,13 +5466,13 @@
    "apiVersion": "101051",
    "author": "lesse83",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 212,
+   "downloads": 226,
    "folder": "CraftMaterialAssistant",
    "isLibrary": "",
    "optionalDependsOn": "LibResearch",
    "title": "CraftMaterialAssistant",
-   "updatedAt": 1793574733,
-   "version": "1.0.12"
+   "updatedAt": 1793609541,
+   "version": "1.0.13"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347/feedingFrenzyTracker": {
    "addOnVersion": "",
@@ -9325,7 +9325,7 @@
    "version": "36"
   },
   "f8bc38ae-b26d-4071-83f7-5987dbc4045f/SiphonZahl": {
-   "addOnVersion": "707",
+   "addOnVersion": "902",
    "addonId": "f8bc38ae-b26d-4071-83f7-5987dbc4045f",
    "apiVersion": "101051",
    "author": "FiNk3F13",
@@ -9335,8 +9335,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Test",
-   "updatedAt": 1793541814,
-   "version": "0.7.7"
+   "updatedAt": 1793616246,
+   "version": "0.9.2"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d/RoaringOpportunist": {
    "addOnVersion": "020501",
@@ -9877,6 +9877,12 @@
    ],
    "version": "1.0.14"
   },
+  "0d43993b-0f07-4f0b-9411-53ad5c85a2f4": {
+   "folders": [
+    "MatchMonitorDiag"
+   ],
+   "version": "V1.0.5"
+  },
   "0db118b4-92d1-4b06-b81a-64a67e477e60": {
    "folders": [
     "DreadVision"
@@ -10308,7 +10314,7 @@
    "folders": [
     "LazyAlchemyLearner"
    ],
-   "version": "1"
+   "version": "4"
   },
   "271c1d87-b92b-4c7e-b1c6-199f8a56c776": {
    "folders": [
@@ -10447,12 +10453,6 @@
     "PvpReadyEmotes"
    ],
    "version": "1.1"
-  },
-  "2e7370ba-81d3-4bb3-8b0b-2bff4a943421": {
-   "folders": [
-    "IAHelper"
-   ],
-   "version": "50.07"
   },
   "2e985373-cd04-4a3e-855f-4f8a4ada4d76": {
    "folders": [
@@ -10863,7 +10863,7 @@
    "folders": [
     "TamrielCollectionsLorebooks"
    ],
-   "version": "v0.1.15"
+   "version": "v1.0.0 Final"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6": {
    "folders": [
@@ -10930,7 +10930,7 @@
    "folders": [
     "FishingMap"
    ],
-   "version": "50.01"
+   "version": "52.01"
   },
   "4b83f722-f447-4d05-a262-1f0427f9fca2": {
    "folders": [
@@ -11976,7 +11976,7 @@
    "folders": [
     "TamrielCollectionsFurnishingPlans"
    ],
-   "version": "v0.1.0"
+   "version": "v0.1.2"
   },
   "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2": {
    "folders": [
@@ -12097,7 +12097,7 @@
    "folders": [
     "CraftMaterialAssistant"
    ],
-   "version": "1.0.12"
+   "version": "1.0.13"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347": {
    "folders": [
@@ -13839,7 +13839,7 @@
    "folders": [
     "SiphonZahl"
    ],
-   "version": "0.7.7"
+   "version": "0.9.2"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d": {
    "folders": [

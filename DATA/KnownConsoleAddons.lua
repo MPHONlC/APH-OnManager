@@ -144,7 +144,7 @@ CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker
 CPSlotsConsole		1.3	101051	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
 CPVeterancy		CPVeterancy-0.0.2-2026-07-30T204833	101050	CP Veterancy	clubwratt	7f8752f5-11f4-4e26-a26b-fc0ee813d8e1
 CraftMaster		1.0.13	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
-CraftMaterialAssistant		1.0.12	101051	CraftMaterialAssistant	lesse83	949980bd-b411-4102-82d7-4e64ba17bc3a
+CraftMaterialAssistant		1.0.13	101051	CraftMaterialAssistant	lesse83	949980bd-b411-4102-82d7-4e64ba17bc3a
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
 CrowdednESO		2026.07.09	101050	CrowdednESO	Masteroshi430	9d131435-84c4-4c6d-9d73-5e2ec6fa61b7
 CrownAndCrux	1.3.7	1.3.7	101049 101050	Crown And Crux	SaintAres97	0ac5fe21-6f1a-4c14-8b9f-be1a308a9619
@@ -205,7 +205,7 @@ FavoriteHomeTeleports		1.5	101049	Favorite Home Teleporter	codeman1734	fc9f4f62-
 FCOLockpicker	003100	0.31	101050 101051	FCO Lockpicker	Baertram_ESOUI	f141edd7-7b4f-4b3e-b32e-9e6df1ec228b
 feedingFrenzyTracker		1.3.6	101051	Feeding Frenzy Tracker	codeWarrior82	9526cff9-d7f1-4c3c-a96b-aecfb0daa347
 FindMyStuff		1.2.0	101049 101050	Find My Stuff	Vixen_Hunny	3a04382d-3f1c-4340-9fa5-abd6af19a2af
-FishingMap		50.07	101050	Fishing Map - Experimental	Gamer_sa22	cebf06be-ff4d-4f54-96e4-7eec85c1be52
+FishingMap		52.01	101051 101052	Fishing Map	Gamer_sa22	4b76af9c-bb6e-4eab-b0dc-c8c4e5c7c226
 Flexatron	19	0.8.6	101050	Flexatron	-Chin	cf03f2d9-c234-46ee-a20b-ae75c678e225
 FlexibleBars	100	1.0.0	101047	Flexible Bars	M0R	4be7617d-7e6d-42bf-bcbb-921e37ace7bc
 Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6dec3b447
@@ -280,7 +280,7 @@ KDRTracker		1	101050 101051	DaveeKDR	DaveeMafiaa	84fad8c0-9712-446a-9fff-e8bf44a
 KhajiitFengShui	137	1.3.7	101050 101051	Khajiit Feng Shui	Dack.Janiels	cae51d07-5b11-4feb-ab79-11e17ca47dca
 KhajiitVoice		4.2	101049	Speak Like Khajiit	YFNatey	8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2
 KillCount	3100	new	101049 101050	Kill Count	Dreadazar	29b689fc-d75c-432c-adfa-691d46ddf847
-LazyAlchemyLearner	116	1	101051 101052	Beta Dolg Alch	Dolgubon	2711aec8-a92b-4dae-97c9-096e8d72bf16
+LazyAlchemyLearner	116.1	4	101051 101052	Beta Dolg Alch	Dolgubon	2711aec8-a92b-4dae-97c9-096e8d72bf16
 LazyConfirm		1.0.4	101045 101046	Lazy Confirm (and delete)	Dolgubon	8fbbe7ae-8178-4e35-9755-3cafefd42095
 LazyCrown	14	0.4.0	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
 LazyHorseFeed		1.0.5	101045 101046	Lazy Horse Trainer	Dolgubon	dd337340-e6c9-4835-8e50-ba68c7e949e4
@@ -381,6 +381,7 @@ MapPinsTextureFix		3	101050	Map Pins Texture Fix	Gamer_sa22	d081d271-bda5-4b78-a
 MARA	6	6	101050	Mara: M0R's Assorted Radial Actions	M0R	76d8e5e1-619c-48d4-b331-b3895b578dc6
 MasterBaiter	14	1.0.2	101050 101051	Master Baiter	TheGreyWolf98	fcf311fe-14ad-4eff-ae72-cee32d7b5943
 MasterThief		1.6	101051	MasterThief	thewizadt	f7a31693-2690-4ce0-973f-0af5e5ce92f8
+MatchMonitorDiag	1	V1.0.5	101051 101050	Match Monitor	Bucketmore	0d43993b-0f07-4f0b-9411-53ad5c85a2f4
 mechAcuityTracker		1.3.6	101051	Mechanical Acuity Tracker	codeWarrior82	254690df-a05a-4c44-9c95-9a898dea8d92
 Medic	185	2.2.0	101048	Medic - UI Fixes	sirinsidiator	b0c7d3d5-b3e6-4a61-b509-5d05a12c2130
 MemoryUsage	100	1.0	101045 101046	MemoryUsage	Shinni42	ebe3290d-93b5-49b9-8113-71ecf6bf6c52
@@ -536,7 +537,7 @@ SimpleGroupDPS		1.6.3	101051	DontDownload	FiNk3F13	31353ae2-3899-477e-935e-69f97
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb
-SiphonZahl	707	0.7.7	101051	Test	FiNk3F13	f8bc38ae-b26d-4071-83f7-5987dbc4045f
+SiphonZahl	902	0.9.2	101051	Test	FiNk3F13	f8bc38ae-b26d-4071-83f7-5987dbc4045f
 SkyShards	1059	10.59	101045 101046	Skyshards	Sharlikran	e0335eb7-8445-4bde-9db4-1a4ace8ee8b1
 SlayansBossTimer	3	1.0.1	101051	Slayan's Boss Timer	xSuperSlayan	e77534ef-ba1c-4ce2-becb-c7c534a86ebe
 SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d04c0cbee9c4
@@ -566,8 +567,8 @@ SynergyCooldown	20101	2.1.1	101050	Synergy Cooldown	Kyzeragon	a6c22156-8b52-467d
 SynergyImprover	120	v1.1	101050 101051	SynergyImprover	j.hhh	64ff6b45-1306-4375-8422-3ff52ef58d90
 SynergyPriority	2.0	Recovery Convergence update	101048	Synergy Priority	Vixen_Hunny	3f511a24-33c0-4c94-979a-97e0982dbb6b
 TamrielCollectionsAntiquities	100	v0.1.0	101051	Tamriel Collections - Archive Antiquities	MajesticMinxi	ce080e90-e198-4d6b-8b7e-19c933c02e6e
-TamrielCollectionsFurnishingPlans	100	v0.1.0	101051	Tamriel Collections - Archive Furnishing Plans	MajesticMinxi	8e8983cd-c304-4a89-b625-ec8c4560820d
-TamrielCollectionsLorebooks	115	v0.1.15	101051	Tamriel Collections - Archive Lore Books	MajesticMinxi	47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3
+TamrielCollectionsFurnishingPlans	102	v0.1.2	101051	Tamriel Collections - Archive Furnishing Plans	MajesticMinxi	8e8983cd-c304-4a89-b625-ec8c4560820d
+TamrielCollectionsLorebooks	1000	v1.0.0 Final	101051	Tamriel Collections - Archive Lore Books	MajesticMinxi	47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3
 TamrielCollectionsMotifs	1006	v1.0.6	101051	Tamriel Collections - Archive Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
 TamrielCollectionsStylePages	1000	v1.0.0	101051	Tamriel Collections - Archive Style Pages	MajesticMinxi	c8ff27a5-4393-43c9-a816-b912384fdb2d
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
