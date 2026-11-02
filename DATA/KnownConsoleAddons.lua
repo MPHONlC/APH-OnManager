@@ -45,7 +45,7 @@ AntiAllCaps		1.1	101045 101046	Anti All Caps	Dolgubon	556512a1-fb7c-4558-9572-f7
 AntiDismount	1	1.0.0	101049	Anti Dismount	Dolgubon	1da0a275-fc2d-43cc-869f-a8103095dc29
 AntiDK	1.0.0	1.0.1	101048	AntiDK	Vixen_Hunny	1f552d57-81fb-407f-b9f2-f45228e2a171
 AntiDK2	1.5	1.2.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586d
-AntiquarianCodex	15106	1.51.06	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
+AntiquarianCodex	15107	1.51.07	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-FPSGraph	26101514	2026.10.18.01.41	101051 101052	APH FPS GRAPH	APH0NlC	ad02eccd-a3f5-4375-8c13-e631101449c5
 APH-OnManager	26101801	2026.10.18.01.41	101051 101052	APH-On Manager	APH0NlC	7b833469-41d6-4060-b6df-547ae3ca188c
@@ -67,7 +67,7 @@ AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenge
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
 AutoConsume		3.5	101048 101049 101050 101051	AutoConsume	user562x	126f9ed8-95dd-46e4-b365-18e7f56bb804
 AutoGuildWelcome	10002	1.21	101049 101050	Auto Guild Welcome Revised	CaffeinatedMayhem	2b95c809-f14b-4c3c-9c0c-945a3e8547c4
-AutoImproveGear		3.5.0	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
+AutoImproveGear		3.5.3	101051	Auto Improve Gear	codeWarrior82	b6fb28ee-9e94-46d0-b44e-94ee0b5852a3
 AutoInteract	185	1.8.6	101048 101049	AutoInteract	Squid.Meat	ddf1a1e2-b627-4cb5-a40a-a3ece40c609c
 AutoLuaMemoryCleaner	26101801	2026.10.18.01.41	101051 101052	AUTO LUA MEMORY CLEANER	APH0NlC	9926b8d4-d4ca-4215-8790-013c0b1630c0
 AutoMasterWrits	15103	1.51.03	101051	Auto Master Writs	xbutch	8ac74138-bfc3-481a-9baf-7e2cdbca36a0
@@ -308,7 +308,7 @@ LibConsoleLogger	400	LibConsoleLogger-0.4.0-2026-10-23T160515	101050	LibConsoleL
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea
-LibCustomNames	20261026	2026-10-26	101049 101050	LibCustomNames	m00nyONE	5eaa0d91-47f8-4c5e-8673-db3ab518a752
+LibCustomNames	20261102	2026-11-02	101049 101050	LibCustomNames	m00nyONE	5eaa0d91-47f8-4c5e-8673-db3ab518a752
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	307	2.6.2	101050	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
@@ -358,7 +358,7 @@ LiveBuffUptime		2.2.7	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000103	1.0.103	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000104	1.0.104	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -639,7 +639,7 @@ warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-81
 WarmasktrackerByJH		1.5	101051 101050	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
 WeaveDelays	105	1.0.5	101050	WeaveDelays	ThePsiioniic	1428d8ab-7f1f-4741-833a-93180287dd09
 WeavingMetronome	101061	2.0.0	101051	Weaving Metronome	FiNk3F13	c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5
-WhatsMissing	15109	1.51.09	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
+WhatsMissing	15110	1.51.10	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
 WhatsMyBuildAgain	005005004	5.0.5	101050	What's My Build Again	Eldibabalo	61ffae27-7976-4d4b-a9fa-0fafb387434a
 WheeWheel		0.0.5	101050 101051	Wheewheel	murphyx	6b001219-cfeb-4b80-b418-e3c7da481d73
 WhereIsIt		1.5	101048 101049 101050 101051	Where Is It?	user562x	45d919f9-f85b-4930-9348-94fe2e245f98

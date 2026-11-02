@@ -323,18 +323,18 @@
    "version": "0.1.1"
   },
   "09fedb91-c1d9-4f3b-8882-b8c9e36bda36/AntiquarianCodex": {
-   "addOnVersion": "15106",
+   "addOnVersion": "15107",
    "addonId": "09fedb91-c1d9-4f3b-8882-b8c9e36bda36",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 22066,
+   "downloads": 22390,
    "folder": "AntiquarianCodex",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Antiquarian's Codex",
-   "updatedAt": 1793560197,
-   "version": "1.51.06"
+   "updatedAt": 1793591511,
+   "version": "1.51.07"
   },
   "0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d/LibPrice": {
    "addOnVersion": "70460",
@@ -3501,18 +3501,18 @@
    "version": "0.3.0"
   },
   "5eaa0d91-47f8-4c5e-8673-db3ab518a752/LibCustomNames": {
-   "addOnVersion": "20261026",
+   "addOnVersion": "20261102",
    "addonId": "5eaa0d91-47f8-4c5e-8673-db3ab518a752",
    "apiVersion": "101049 101050",
    "author": "m00nyONE",
    "dependsOn": "",
-   "downloads": 311034,
+   "downloads": 316181,
    "folder": "LibCustomNames",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibCustomNames",
-   "updatedAt": 1792974096,
-   "version": "2026-10-26"
+   "updatedAt": 1793583007,
+   "version": "2026-11-02"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78/Puma": {
    "addOnVersion": "1",
@@ -6656,13 +6656,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 242,
+   "downloads": 244,
    "folder": "AutoImproveGear",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Auto Improve Gear",
-   "updatedAt": 1793568790,
-   "version": "3.5.0"
+   "updatedAt": 1793582546,
+   "version": "3.5.3"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277/SavedChatMessages": {
    "addOnVersion": "",
@@ -7337,18 +7337,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000103",
+   "addOnVersion": "01000104",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 16543,
+   "downloads": 16735,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793505613,
-   "version": "1.0.103"
+   "updatedAt": 1793592014,
+   "version": "1.0.104"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8723,18 +8723,18 @@
    "version": "1.0.3"
   },
   "ea5313bb-c034-4b91-8816-546e4d37a355/WhatsMissing": {
-   "addOnVersion": "15109",
+   "addOnVersion": "15110",
    "addonId": "ea5313bb-c034-4b91-8816-546e4d37a355",
    "apiVersion": "101051",
    "author": "xbutch",
    "dependsOn": "",
-   "downloads": 8374,
+   "downloads": 9258,
    "folder": "WhatsMissing",
    "isLibrary": "false",
    "optionalDependsOn": "LibRadialMenu",
    "title": "What's Missing? - Skill Point Tracker",
-   "updatedAt": 1792864707,
-   "version": "1.51.09"
+   "updatedAt": 1793588686,
+   "version": "1.51.10"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0/LibPromises": {
    "addOnVersion": "37",
@@ -9821,7 +9821,7 @@
    "folders": [
     "AntiquarianCodex"
    ],
-   "version": "1.51.06"
+   "version": "1.51.07"
   },
   "0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d": {
    "folders": [
@@ -11220,7 +11220,7 @@
    "folders": [
     "LibCustomNames"
    ],
-   "version": "2026-10-26"
+   "version": "2026-11-02"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78": {
    "folders": [
@@ -12625,7 +12625,7 @@
    "folders": [
     "AutoImproveGear"
    ],
-   "version": "3.5.0"
+   "version": "3.5.3"
   },
   "b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277": {
    "folders": [
@@ -12934,7 +12934,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.103"
+   "version": "1.0.104"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13567,7 +13567,7 @@
    "folders": [
     "WhatsMissing"
    ],
-   "version": "1.51.09"
+   "version": "1.51.10"
   },
   "eb221fca-fa24-44ac-9fab-6ee0f8cba1e0": {
    "folders": [
