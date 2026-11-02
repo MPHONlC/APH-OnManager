@@ -550,6 +550,7 @@ AoM.SuggestedCategories = {
 	["ESOEmoji"] = "Chat Mods",
 	["ESOFacts"] = "Chat Mods",
 	["ESOFarmBuddy"] = "Bags, Bank, Inventory",
+	["ESOHybridUI"] = "Game Controller",
 	["EsoKR"] = "Unofficial game translations",
 	["ESOLiveSplit"] = "Data Mods",
 	["ESOLiveSplitUpdatePatch"] = "Data Mods",
