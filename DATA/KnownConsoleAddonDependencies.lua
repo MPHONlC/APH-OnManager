@@ -49,7 +49,7 @@ ChatBeGone	LibAddonMenu-2.0	LibChatMessage	LibHarvensAddonSettings	pChat	rChat
 ClearSight	LibHarvensAddonSettings
 CombatAlerts	LibAddonMenu-2.0
 CompanionPerkTracker	LibAddonMenu-2.0
-ConsoleMetrics	LMB	LibAddonMenu-2.0	LibConsoleDialogs	LibHarvensAddonSettings	PvPCooldownTracker
+ConsoleMetrics	LMB	LibConsoleDialogs	LibHarvensAddonSettings	PvPCooldownTracker
 ContainerHighlighter	LibAddonMenu-2.0	LibQRCode
 ContainerVisitHide	LibAddonMenu-2.0
 CraftMaterialAssistant	LibResearch

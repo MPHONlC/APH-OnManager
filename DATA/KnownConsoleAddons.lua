@@ -44,7 +44,7 @@ Andy	101100	1.1.2	101048	AddonAnalyzer (ANDY) - Checks for malicious, stolen, or
 AntiAllCaps		1.1	101045 101046	Anti All Caps	Dolgubon	556512a1-fb7c-4558-9572-f7cf6fd8b171
 AntiDismount	1	1.0.0	101049	Anti Dismount	Dolgubon	1da0a275-fc2d-43cc-869f-a8103095dc29
 AntiDK	1.0.0	1.0.1	101048	AntiDK	Vixen_Hunny	1f552d57-81fb-407f-b9f2-f45228e2a171
-AntiDK2	1.5	1.2.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586d
+AntiDK2	1.5	1.5.0	101049	AntiDK2	Vixen_Hunny	282c4ce3-9c61-409b-913c-b7bec357586d
 AntiquarianCodex	15107	1.51.07	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4f3b-8882-b8c9e36bda36
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-FPSGraph	26101514	2026.10.18.01.41	101051 101052	APH FPS GRAPH	APH0NlC	ad02eccd-a3f5-4375-8c13-e631101449c5
@@ -137,7 +137,7 @@ CompanionRapport	221	3.0.0	101050	Companion Rapport	ParanoidGaming	1d8faf08-ce78
 ConsistentColours		0.0.2a	101048	Consistent Colours	Scribe_Rob	b0d2b98f-5e22-4809-a765-0398f6344350
 ConsoleCPQoL		1.01	101051	ConsoleCPQoL	thewizadt	751c7402-5cb7-4469-afc8-469584372b40
 ConsoleHideUI	100000	1.0.0	101049	Console Hide UI	code65536	89f44de6-a710-4680-8553-b1fc04735bbd
-ConsoleMetrics		CM 5.0.0	101051	Console Metrics	Vixen_Hunny	1e7d3c7d-1680-4f93-b82c-8c4601d3b449
+ConsoleMetrics		6.1.0	101050	Console Metrics	Vixen_Hunny	1e7d3c7d-1680-4f93-b82c-8c4601d3b449
 ContainerHighlighter	651	14.12.651	101048	Adventures toolkit (Dev)	Tekatsu	e42700aa-3021-495e-9ff4-9e83377c9f99
 ContainerVisitHide	10000	1.0	101051 101050	Usable Containers	dicen9	9237369e-344f-4e5c-8966-b0f04b0be2c9
 CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker	clubwratt	4700c5de-fb02-411e-b563-1f326352b4ed
@@ -381,7 +381,6 @@ MapPinsTextureFix		3	101050	Map Pins Texture Fix	Gamer_sa22	d081d271-bda5-4b78-a
 MARA	6	6	101050	Mara: M0R's Assorted Radial Actions	M0R	76d8e5e1-619c-48d4-b331-b3895b578dc6
 MasterBaiter	14	1.0.2	101050 101051	Master Baiter	TheGreyWolf98	fcf311fe-14ad-4eff-ae72-cee32d7b5943
 MasterThief		1.6	101051	MasterThief	thewizadt	f7a31693-2690-4ce0-973f-0af5e5ce92f8
-MatchMonitorDiag	1	V1.0.5	101051 101050	Match Monitor	Bucketmore	0d43993b-0f07-4f0b-9411-53ad5c85a2f4
 mechAcuityTracker		1.3.6	101051	Mechanical Acuity Tracker	codeWarrior82	254690df-a05a-4c44-9c95-9a898dea8d92
 Medic	185	2.2.0	101048	Medic - UI Fixes	sirinsidiator	b0c7d3d5-b3e6-4a61-b509-5d05a12c2130
 MemoryUsage	100	1.0	101045 101046	MemoryUsage	Shinni42	ebe3290d-93b5-49b9-8113-71ecf6bf6c52
@@ -411,8 +410,8 @@ MyExtras		1.2	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-0
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
-MyUI		v3.1.2	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
-necroTracker		1.4.0	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
+MyUI		v3.3	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
+necroTracker		1.4.5	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
 NedsGroupManager		1.5	101046	Ned's Group Manager	Ned919x	4f86b7c8-8fb6-432c-a1b9-2004263244ab
 Nemesis	100	1.0.0	101050	Nemesis	Rogue0rbit	88739d40-c764-4276-9157-ba0eb1d47805
 NewQuestAssist	1	1	101050	NextQuest	dicen9	dfed21f9-988b-44b9-a054-89bfcce20639

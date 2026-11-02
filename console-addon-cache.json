@@ -462,20 +462,6 @@
    "updatedAt": 1756836639,
    "version": "1.0.14"
   },
-  "0d43993b-0f07-4f0b-9411-53ad5c85a2f4/MatchMonitorDiag": {
-   "addOnVersion": "1",
-   "addonId": "0d43993b-0f07-4f0b-9411-53ad5c85a2f4",
-   "apiVersion": "101051 101050",
-   "author": "Bucketmore",
-   "dependsOn": "",
-   "downloads": 5,
-   "folder": "MatchMonitorDiag",
-   "isLibrary": "false",
-   "optionalDependsOn": "",
-   "title": "Match Monitor",
-   "updatedAt": 1793620735,
-   "version": "V1.0.5"
-  },
   "0db118b4-92d1-4b06-b81a-64a67e477e60/DreadVision": {
    "addOnVersion": "602",
    "addonId": "0db118b4-92d1-4b06-b81a-64a67e477e60",
@@ -1039,16 +1025,16 @@
   "1e7d3c7d-1680-4f93-b82c-8c4601d3b449/ConsoleMetrics": {
    "addOnVersion": "",
    "addonId": "1e7d3c7d-1680-4f93-b82c-8c4601d3b449",
-   "apiVersion": "101051",
+   "apiVersion": "101050",
    "author": "Vixen_Hunny",
    "dependsOn": "",
-   "downloads": 1168,
+   "downloads": 1406,
    "folder": "ConsoleMetrics",
    "isLibrary": "",
-   "optionalDependsOn": "PvPCooldownTracker LibConsoleDialogs LibHarvensAddonSettings LibAddonMenu-2.0 LMB",
+   "optionalDependsOn": "PvPCooldownTracker LibConsoleDialogs LibHarvensAddonSettings LMB",
    "title": "Console Metrics",
-   "updatedAt": 1792384136,
-   "version": "CM 5.0.0"
+   "updatedAt": 1793630768,
+   "version": "6.1.0"
   },
   "1f42735d-8e9b-47ab-a1a7-f70de8bef493/BeyondTheMap": {
    "addOnVersion": "15100",
@@ -1476,13 +1462,13 @@
    "apiVersion": "101049",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 966,
+   "downloads": 1966,
    "folder": "AntiDK2",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "AntiDK2",
-   "updatedAt": 1783590189,
-   "version": "1.2.0"
+   "updatedAt": 1793630020,
+   "version": "1.5.0"
   },
   "28cfc719-5113-4b1f-aab6-570be159ab81/AwesomeGuildStore": {
    "addOnVersion": "3282",
@@ -1700,13 +1686,13 @@
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "",
-   "downloads": 34,
+   "downloads": 36,
    "folder": "MyUI",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibStub",
    "title": "ttest",
-   "updatedAt": 1793306000,
-   "version": "v3.1.2"
+   "updatedAt": 1793659283,
+   "version": "v3.3"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa/ValknarrUIE": {
    "addOnVersion": "43",
@@ -2960,13 +2946,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 44,
+   "downloads": 56,
    "folder": "necroTracker",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Necro Tracker",
-   "updatedAt": 1793194651,
-   "version": "1.4.0"
+   "updatedAt": 1793654302,
+   "version": "1.4.5"
   },
   "4dd951d1-312d-470c-b02c-f1961618b998/BetterTwins": {
    "addOnVersion": "6",
@@ -9877,12 +9863,6 @@
    ],
    "version": "1.0.14"
   },
-  "0d43993b-0f07-4f0b-9411-53ad5c85a2f4": {
-   "folders": [
-    "MatchMonitorDiag"
-   ],
-   "version": "V1.0.5"
-  },
   "0db118b4-92d1-4b06-b81a-64a67e477e60": {
    "folders": [
     "DreadVision"
@@ -10145,7 +10125,7 @@
    "folders": [
     "ConsoleMetrics"
    ],
-   "version": "CM 5.0.0"
+   "version": "6.1.0"
   },
   "1f42735d-8e9b-47ab-a1a7-f70de8bef493": {
    "folders": [
@@ -10332,7 +10312,7 @@
    "folders": [
     "AntiDK2"
    ],
-   "version": "1.2.0"
+   "version": "1.5.0"
   },
   "28cfc719-5113-4b1f-aab6-570be159ab81": {
    "folders": [
@@ -10433,7 +10413,7 @@
    "folders": [
     "MyUI"
    ],
-   "version": "v3.1.2"
+   "version": "v3.3"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa": {
    "folders": [
@@ -10972,7 +10952,7 @@
    "folders": [
     "necroTracker"
    ],
-   "version": "1.4.0"
+   "version": "1.4.5"
   },
   "4d619dbf-92df-4bda-aac1-b5dbec806fca": {
    "folders": [],
