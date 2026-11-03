@@ -589,18 +589,18 @@
    "version": "v30"
   },
   "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626/TamrielCollectionsMotifs": {
-   "addOnVersion": "1006",
+   "addOnVersion": "1013",
    "addonId": "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 92,
+   "downloads": 103,
    "folder": "TamrielCollectionsMotifs",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Motifs",
-   "updatedAt": 1793469116,
-   "version": "v1.0.6"
+   "updatedAt": 1793706104,
+   "version": "1.0.13"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc/EsoPL": {
    "addOnVersion": "",
@@ -659,18 +659,18 @@
    "version": "1.0.10"
   },
   "1156c297-4c51-44e7-8267-9f934307f36e/MuchSmarterAutoLoot": {
-   "addOnVersion": "80311",
+   "addOnVersion": "80312",
    "addonId": "1156c297-4c51-44e7-8267-9f934307f36e",
-   "apiVersion": "101051",
+   "apiVersion": "101051 101052",
    "author": "Lykeion+",
    "dependsOn": "",
-   "downloads": 183577,
+   "downloads": 187129,
    "folder": "MuchSmarterAutoLoot",
    "isLibrary": "",
    "optionalDependsOn": "LibCharacterKnowledge>=201030 TamrielTradeCentre MasterMerchant ArkadiusTradeTools LibSavedVars LibRadialMenu PerfectPixel TSCPriceFetcher2 LibCustomMenu",
    "title": "Lykeion's AutoLoot+",
-   "updatedAt": 1792761994,
-   "version": "8.3.11"
+   "updatedAt": 1793713531,
+   "version": "8.3.12"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a/AreYouSlow": {
    "addOnVersion": "2",
@@ -911,18 +911,18 @@
    "version": "2.0.2"
   },
   "198814e6-46ba-4bb3-b368-ba1a2af67c52/LuiExtended": {
-   "addOnVersion": "7277",
+   "addOnVersion": "7279",
    "addonId": "198814e6-46ba-4bb3-b368-ba1a2af67c52",
    "apiVersion": "101051 101052",
    "author": "Dack.Janiels",
    "dependsOn": "LuiMedia>=7134 LuiData>=7231",
-   "downloads": 24917,
+   "downloads": 25778,
    "folder": "LuiExtended",
    "isLibrary": "",
-   "optionalDependsOn": "LootLog>=408040 Taneth LibCombat LibCombat2 LibSlashCommander HarvestMap LibMapPins-1.0 Pre101046UI",
+   "optionalDependsOn": "LibCustomNames>=20261019 LibCustomIcons>=20261019",
    "title": "LuiExtended",
-   "updatedAt": 1792693206,
-   "version": "7.2.7.7"
+   "updatedAt": 1793706082,
+   "version": "7.2.7.9"
   },
   "1a29fcf8-992f-4334-bf0a-088cc4ac73a7/GamepadInventoryTweaks": {
    "addOnVersion": "041",
@@ -1686,13 +1686,13 @@
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "",
-   "downloads": 36,
+   "downloads": 39,
    "folder": "MyUI",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibStub",
    "title": "ttest",
-   "updatedAt": 1793659283,
-   "version": "v3.3"
+   "updatedAt": 1793725020,
+   "version": "v3.6"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa/ValknarrUIE": {
    "addOnVersion": "43",
@@ -3912,13 +3912,13 @@
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 2837,
+   "downloads": 2926,
    "folder": "RagsToRiches",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Rags To Riches",
-   "updatedAt": 1793547503,
-   "version": "1.5.4"
+   "updatedAt": 1793709692,
+   "version": "1.5.5"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374/LibNotification": {
    "addOnVersion": "15",
@@ -5167,18 +5167,18 @@
    "version": "1.18"
   },
   "8e8983cd-c304-4a89-b625-ec8c4560820d/TamrielCollectionsFurnishingPlans": {
-   "addOnVersion": "102",
+   "addOnVersion": "105",
    "addonId": "8e8983cd-c304-4a89-b625-ec8c4560820d",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 8,
    "folder": "TamrielCollectionsFurnishingPlans",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Furnishing Plans",
-   "updatedAt": 1793621025,
-   "version": "v0.1.2"
+   "updatedAt": 1793696865,
+   "version": "v0.1.5"
   },
   "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2/KhajiitVoice": {
    "addOnVersion": "",
@@ -5529,6 +5529,20 @@
    "title": "PacketByte Exporter",
    "updatedAt": 1790721423,
    "version": "0.1.5"
+  },
+  "96d1c172-661c-4739-960f-fcf660401298/CraftMaterialAssistant": {
+   "addOnVersion": "",
+   "addonId": "96d1c172-661c-4739-960f-fcf660401298",
+   "apiVersion": "101051",
+   "author": "lesse83",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 158,
+   "folder": "CraftMaterialAssistant",
+   "isLibrary": "",
+   "optionalDependsOn": "LibResearch",
+   "title": "CraftMaterialAssistant (Beta)",
+   "updatedAt": 1793722124,
+   "version": "0.0.5"
   },
   "96f579ed-c17e-44c6-b3e3-969c34e8f20f/IsItTaunted": {
    "addOnVersion": "",
@@ -7650,13 +7664,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 87,
+   "downloads": 92,
    "folder": "PBsMiniMap",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's MiniMap(Beta)",
-   "updatedAt": 1792894358,
-   "version": "2.3.4"
+   "updatedAt": 1793715974,
+   "version": "2.3.5"
   },
   "d081d271-bda5-4b78-a18c-251878246156/MapPinsTextureFix": {
    "addOnVersion": "",
@@ -7757,18 +7771,18 @@
    "version": "4.0.5.031"
   },
   "d2f38194-bd78-47b6-817f-71932b3a5c42/DM2_ParseFightStats": {
-   "addOnVersion": "31806",
+   "addOnVersion": "31807",
    "addonId": "d2f38194-bd78-47b6-817f-71932b3a5c42",
    "apiVersion": "101048 101047",
    "author": "Fredgu3",
    "dependsOn": "",
-   "downloads": 16045,
+   "downloads": 16159,
    "folder": "DM2_ParseFightStats",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibAddonMenu2 LibStub",
    "title": "DM2 Parse & Fight Stats",
-   "updatedAt": 1793668014,
-   "version": "3.18.6"
+   "updatedAt": 1793716937,
+   "version": "3.18.7"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557/LoreBooks": {
    "addOnVersion": "96",
@@ -7860,13 +7874,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 1649,
+   "downloads": 1898,
    "folder": "PBsMiniMap",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's MiniMap",
-   "updatedAt": 1792894762,
-   "version": "2.3.4"
+   "updatedAt": 1793716014,
+   "version": "2.3.5"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616/SiegeReminder": {
    "addOnVersion": "110",
@@ -9926,7 +9940,7 @@
    "folders": [
     "TamrielCollectionsMotifs"
    ],
-   "version": "v1.0.6"
+   "version": "1.0.13"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc": {
    "folders": [
@@ -9957,7 +9971,7 @@
    "folders": [
     "MuchSmarterAutoLoot"
    ],
-   "version": "8.3.11"
+   "version": "8.3.12"
   },
   "11615176-cc74-452d-a5b3-cd3fe5272a2a": {
    "folders": [
@@ -10072,7 +10086,7 @@
    "folders": [
     "LuiExtended"
    ],
-   "version": "7.2.7.7"
+   "version": "7.2.7.9"
   },
   "19ce6fa1-98c2-458e-b92b-c47fc6f55b55": {
    "folders": [],
@@ -10413,7 +10427,7 @@
    "folders": [
     "MyUI"
    ],
-   "version": "v3.3"
+   "version": "v3.6"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa": {
    "folders": [
@@ -11385,7 +11399,7 @@
    "folders": [
     "RagsToRiches"
    ],
-   "version": "1.5.4"
+   "version": "1.5.5"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374": {
    "folders": [
@@ -11956,7 +11970,7 @@
    "folders": [
     "TamrielCollectionsFurnishingPlans"
    ],
-   "version": "v0.1.2"
+   "version": "v0.1.5"
   },
   "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2": {
    "folders": [
@@ -12108,6 +12122,12 @@
     "PacketByteExporter"
    ],
    "version": "0.1.5"
+  },
+  "96d1c172-661c-4739-960f-fcf660401298": {
+   "folders": [
+    "CraftMaterialAssistant"
+   ],
+   "version": "0.0.5"
   },
   "96f579ed-c17e-44c6-b3e3-969c34e8f20f": {
    "folders": [
@@ -13056,7 +13076,7 @@
    "folders": [
     "PBsMiniMap"
    ],
-   "version": "2.3.4"
+   "version": "2.3.5"
   },
   "d081d271-bda5-4b78-a18c-251878246156": {
    "folders": [
@@ -13110,7 +13130,7 @@
     "DM2_ParseFightStats",
     "DM2_ParseFightStats"
    ],
-   "version": "3.18.6"
+   "version": "3.18.7"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557": {
    "folders": [
@@ -13156,7 +13176,7 @@
    "folders": [
     "PBsMiniMap"
    ],
-   "version": "2.3.4"
+   "version": "2.3.5"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616": {
    "folders": [

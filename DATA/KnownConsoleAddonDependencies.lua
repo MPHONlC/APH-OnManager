@@ -135,7 +135,7 @@ LoreBooks	DebugLogViewer	LibDebugLogger
 LoreLibrary	AUI	LibHarvensAddonSettings	MiniMap	VotansMiniMap
 LoreTooltips	LibLoreLibraryCesarska	LibLoreLibraryUESP
 LuiExecuteIcon	KhajiitFengShui
-LuiExtended	HarvestMap	LibCombat	LibCombat2	LibMapPins-1.0	LibSlashCommander	LootLog	Pre101046UI	Taneth
+LuiExtended	LibCustomIcons	LibCustomNames
 LuXhrysLibExtendedInventory	LibAsync
 LuXhrysLibItemLinkPreview	LuXhrysLibExtendedInventory
 LuXhrysVaultAndCoffer	LuXhrysLibItemLinkPreview
