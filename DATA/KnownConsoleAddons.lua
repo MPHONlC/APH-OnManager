@@ -165,7 +165,7 @@ DevSandbox3	41902	DevSandbox3-4.19.2-2026-10-17T150333	101050	dev sandbox 3	club
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
 DLCRoulette	5	1.1.3	101051	DLC Roulette	-Chin	0f2a1db4-049e-454b-96b8-52c65ff6cb85
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
-DM2_ParseFightStats	31805	3.18.5	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
+DM2_ParseFightStats	31806	3.18.6	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
 DM2SimpleDPS	10014	1.0.14	101048 101047	DM2 Simple DPS	Fredgu3	324ffb56-dc57-4b03-a4b0-2c43de605ef1
 DoesThisThingGoAnyFaster	13	0.9	101051	DoesThisThingGoAnyFaster	Th3rtythr33	838c4ba0-f7d2-4d29-ab28-7bd838a4973b
 DolgubonsLazySetCrafter		3.0.7.9	101049 101050	Dolgubon's Lazy Set Crafter (XBPA ONLY)	Dolgubon	e1b979e5-1c57-4da0-8980-5477f9d3b689
@@ -358,7 +358,7 @@ LiveBuffUptime		2.2.7	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000104	1.0.104	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000105	1.0.105	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
