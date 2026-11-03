@@ -1825,6 +1825,7 @@ AoM.SuggestedCategories = {
 	["VFXFade"] = "Miscellaneous",
 	["VicsCharTrackr"] = "Character Advancement",
 	["VicsUnfinishedBusiness"] = "Character Advancement",
+	["Vigilant"] = "Buff, Debuff, Spell",
 	["VisitHouse"] = "Utility Mods",
 	["VoidBash"] = "Buff, Debuff, Spell",
 	["VoidsExecuteBlocker"] = "DPS",

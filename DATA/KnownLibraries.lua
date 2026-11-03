@@ -252,7 +252,7 @@ MM15Data	331	1.03	3334	101047 101048	Importers for Master Merchant 3.0	MM15Data
 MM16Data	331	1.03	3334	101047 101048	Importers for Master Merchant 3.0	MM16Data
 NodeDetection	113	3.16.13	57	101049 101050	NodeDetection	NodeDetection
 ShoppingList		0.19.4	4775	101050 101051	Shopping List	ShoppingList
-Taneth	31	1.1.0	3584	101044 101045	Taneth - Testing Framwork	Taneth
+Taneth	88	2.0.0	3584	101051 101052	Taneth - Testing Framwork	Taneth
 united		1.0.0	4004		LibFonts	united
 ustring	1	1.0 r1	3736	101039 101040	ustring	ustring
 ]==])
