@@ -581,6 +581,7 @@ FCOPsijicUndoHelper	10000	1.0	3595	101037 101038
 FCOStarveStop	97	0.97	1291	101045 101046
 FilteredLootTracker	1	1.0.0	3932	101043 101044
 FineClubIcons	10001	1.0.1	3937	101042
+FishAlert	10500	1.5.0	5018	101051
 FishBar	1100	1.10.0	3284	101050
 FishermansFriend	17	1.7	2904	101040
 FishingSound		1.1	4649	101042
@@ -817,7 +818,7 @@ InspectVestige	140	1.4.0	4706	101049
 InstanceLeaver	2	0.2	4867	101050
 InstantSwap		1.2	2987	100034
 InstaQ	1	1.2 Stable	4164	101046
-Inventory2	104	1.0.4	5009	101051
+Inventory2	105	1.0.5	5009	101051
 InventoryAssistant		1.21.261002-beta	2015	101051
 InventoryCompanion	10500	1.5.0	4997	101051
 InventoryManagerTESO		1.0.2	4071	101041
@@ -1614,7 +1615,7 @@ WhisperNotifier		1.0.1	4089	101045
 Whoison		1.0.0	4079	101045
 WhoWantsSpaulder		1.2	4052	101045
 WideTooltips		1.0.1	3785	101040
-WifeyDPSPositions	7	1.6	4861	101050 101051
+WifeyDPSPositions	17	1.7	4861	101050 101051
 WifeyRyticMagmaTracker	3	1.2	4821	101050 101051
 WindsCustomIcons	1	1.0.0	4363	101047 101048
 WingsOfWindGuildhall	20002	2.0.2	4020	101047 101048

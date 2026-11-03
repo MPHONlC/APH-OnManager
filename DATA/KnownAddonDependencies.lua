@@ -192,6 +192,7 @@ AoM.KnownAddonDependencies = {
 	["FCOGuildLottery"] = { "ArkadiusTradeTools", "ArkadiusTradeToolsSales", "LibDebugLogger", "MasterMerchant", "TamrielTradeCentre" },
 	["FCOItemSaver"] = { "AF_FCODuplicateItemsFilters", "AdvancedDisableControllerUI", "AdvancedFilters", "AwesomeGuildStore", "CraftBagExtended", "DolgubonsLazyWritCreator", "ItemCooldownTracker", "LibCharacterKnowledge", "LibDebugLogger", "LibLazyCrafting", "LibMultiAccountSets", "LibSets", "SetTracker", "SousChef" },
 	["FilteredLootTracker"] = { "pChat", "rChat" },
+	["FishAlert"] = { "LibAddonMenu-2.0" },
 	["FishBar"] = { "LibDebugLogger" },
 	["FishermansFriend"] = { "LibDebugLogger" },
 	["FishingStateMachine"] = { "LibDebugLogger" },

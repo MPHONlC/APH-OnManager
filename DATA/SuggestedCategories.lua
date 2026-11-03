@@ -615,6 +615,7 @@ AoM.SuggestedCategories = {
 	["FightingDisplay"] = "Combat Mods",
 	["FilteredLootTracker"] = "Bags, Bank, Inventory",
 	["FineClubIcons"] = "Raid Mods",
+	["FishAlert"] = "TradeSkill Mods",
 	["FishBar"] = "Graphic UI Mods",
 	["FishermansFriend"] = "Plug-Ins & Patches",
 	["FishingSound"] = "Utility Mods",
