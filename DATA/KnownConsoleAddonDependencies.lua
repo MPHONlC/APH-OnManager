@@ -24,7 +24,7 @@ APH-Profiler	LibAddonMenu-2.0	LibDebugLogger	LibHarvensAddonSettings
 APH-Search	LibAddonMenu-2.0	LibHarvensAddonSettings
 Archaeology	LibHarvensAddonSettings
 archdruidTracker	LibNotify
-ArdysBuffTracker	LibHarvensAddonSettings
+ArdysBuffTracker	LibHarvensAddonSettings	LibVotans
 AsylumTimers	LibHarvensAddonSettings
 atronachTracker	LibNotify
 AutoComplete	pChat
@@ -80,6 +80,7 @@ EsoTR	LibHarvensAddonSettings
 EsoTR_Lite	LibHarvensAddonSettings
 essenceThiefTracker	LibNotify
 EyeOnKeep	LibHarvensAddonSettings
+EyesOfTheUndaunted	LibRadialMenu
 FancyActionBarPlus	ActionBarSkillStyles	Untaunted
 FashionMount	LibHarvensAddonSettings
 FavoriteGuildCycler	LibHarvensAddonSettings
@@ -145,7 +146,6 @@ LykeionsHomeSweetHome	LibRadialMenu
 M0RMarkers	LibGroupBroadcast	LibMapPins-1.0	LibRadialMenu
 MapPins	CustomCompassPins	LibHarvensAddonSettings
 MARA	WizardsWardrobe
-MatchMonitor	LibAddonMenu-2.0
 mechAcuityTracker	LibNotify
 MiatsTickTracker	LibGamepad
 MicToggle	LibAddonMenu-2.0

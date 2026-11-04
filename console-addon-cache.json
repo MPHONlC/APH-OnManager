@@ -462,20 +462,6 @@
    "updatedAt": 1756836639,
    "version": "1.0.14"
   },
-  "0d43993b-0f07-4f0b-9411-53ad5c85a2f4/MatchMonitor": {
-   "addOnVersion": "101",
-   "addonId": "0d43993b-0f07-4f0b-9411-53ad5c85a2f4",
-   "apiVersion": "101051 101050",
-   "author": "Bucketmore",
-   "dependsOn": "",
-   "downloads": 10,
-   "folder": "MatchMonitor",
-   "isLibrary": "false",
-   "optionalDependsOn": "LibAddonMenu-2.0",
-   "title": "Match Monitor",
-   "updatedAt": 1793748858,
-   "version": "V1.0.1"
-  },
   "0db118b4-92d1-4b06-b81a-64a67e477e60/DreadVision": {
    "addOnVersion": "602",
    "addonId": "0db118b4-92d1-4b06-b81a-64a67e477e60",
@@ -3772,13 +3758,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 45,
    "folder": "PBsFurnitureEditor",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's FurnitureEditor",
-   "updatedAt": 1792298971,
-   "version": "1.0.6"
+   "updatedAt": 1793791432,
+   "version": "1.0.7"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
    "addOnVersion": "201",
@@ -6035,7 +6021,7 @@
    "version": "5.3"
   },
   "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
-   "addOnVersion": "108",
+   "addOnVersion": "110",
    "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
    "apiVersion": "101050",
    "author": "Bucketmore",
@@ -6045,8 +6031,8 @@
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "PvP Target Info",
-   "updatedAt": 1793748744,
-   "version": "V2.1.0"
+   "updatedAt": 1793789075,
+   "version": "V2.1.2"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -6511,18 +6497,18 @@
    "version": "Final version"
   },
   "b22ade94-a817-47da-bc4f-cfa7e1dd25ff/EyesOfTheUndaunted": {
-   "addOnVersion": "15102",
+   "addOnVersion": "15103",
    "addonId": "b22ade94-a817-47da-bc4f-cfa7e1dd25ff",
    "apiVersion": "101051",
    "author": "xbutch",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 427926,
+   "dependsOn": "",
+   "downloads": 458249,
    "folder": "EyesOfTheUndaunted",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibRadialMenu",
    "title": "Eyes of the Undaunted",
-   "updatedAt": 1792862507,
-   "version": "1.51.02"
+   "updatedAt": 1793766594,
+   "version": "1.51.03"
   },
   "b2507553-0888-4fae-9f69-5b1f89f1b266/MoreTargetInformation": {
    "addOnVersion": "",
@@ -7076,13 +7062,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 12,
+   "downloads": 16,
    "folder": "PBsFurnitureEditor",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's FurnitureEditor(Beta)",
-   "updatedAt": 1792298871,
-   "version": "1.0.6"
+   "updatedAt": 1793791028,
+   "version": "1.0.7"
   },
   "c3b0724d-c60e-44de-9244-7cdc9f20c868/PBsScreenshotModeShortcut": {
    "addOnVersion": "",
@@ -7267,18 +7253,18 @@
    "version": "1.2.0"
   },
   "c816691d-2f46-451b-9ac0-5a63292d6297/ArdysBuffTracker": {
-   "addOnVersion": "10000",
+   "addOnVersion": "10201",
    "addonId": "c816691d-2f46-451b-9ac0-5a63292d6297",
    "apiVersion": "101052",
    "author": "gigachadESO",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 1,
    "folder": "ArdysBuffTracker",
    "isLibrary": "",
-   "optionalDependsOn": "LibHarvensAddonSettings",
+   "optionalDependsOn": "LibHarvensAddonSettings LibVotans",
    "title": "Ardy's Buff Tracker",
-   "updatedAt": 1793751088,
-   "version": "1.0.0"
+   "updatedAt": 1793753917,
+   "version": "1.2.1"
   },
   "c8397663-7bee-4e0b-89de-16dcf5c029d7/RecoveryTracker": {
    "addOnVersion": "1.0.0",
@@ -7365,18 +7351,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000105",
+   "addOnVersion": "01000106",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 17023,
+   "downloads": 17412,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793678414,
-   "version": "1.0.105"
+   "updatedAt": 1793764813,
+   "version": "1.0.106"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -9905,12 +9891,6 @@
    ],
    "version": "1.0.14"
   },
-  "0d43993b-0f07-4f0b-9411-53ad5c85a2f4": {
-   "folders": [
-    "MatchMonitor"
-   ],
-   "version": "V1.0.1"
-  },
   "0db118b4-92d1-4b06-b81a-64a67e477e60": {
    "folders": [
     "DreadVision"
@@ -11367,7 +11347,7 @@
    "folders": [
     "PBsFurnitureEditor"
    ],
-   "version": "1.0.6"
+   "version": "1.0.7"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
    "folders": [
@@ -12374,7 +12354,7 @@
    "folders": [
     "PvPTargetInfo"
    ],
-   "version": "V2.1.0"
+   "version": "V2.1.2"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -12585,7 +12565,7 @@
    "folders": [
     "EyesOfTheUndaunted"
    ],
-   "version": "1.51.02"
+   "version": "1.51.03"
   },
   "b2507553-0888-4fae-9f69-5b1f89f1b266": {
    "folders": [
@@ -12836,7 +12816,7 @@
    "folders": [
     "PBsFurnitureEditor"
    ],
-   "version": "1.0.6"
+   "version": "1.0.7"
   },
   "c370eaba-64de-4a9b-9d9a-d6bd0c3db0aa": {
    "folders": [],
@@ -12928,7 +12908,7 @@
    "folders": [
     "ArdysBuffTracker"
    ],
-   "version": "1.0.0"
+   "version": "1.2.1"
   },
   "c8397663-7bee-4e0b-89de-16dcf5c029d7": {
    "folders": [
@@ -12974,7 +12954,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.105"
+   "version": "1.0.106"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
