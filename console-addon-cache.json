@@ -462,6 +462,20 @@
    "updatedAt": 1756836639,
    "version": "1.0.14"
   },
+  "0d43993b-0f07-4f0b-9411-53ad5c85a2f4/MatchMonitor": {
+   "addOnVersion": "101",
+   "addonId": "0d43993b-0f07-4f0b-9411-53ad5c85a2f4",
+   "apiVersion": "101051 101050",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 10,
+   "folder": "MatchMonitor",
+   "isLibrary": "false",
+   "optionalDependsOn": "LibAddonMenu-2.0",
+   "title": "Match Monitor",
+   "updatedAt": 1793748858,
+   "version": "V1.0.1"
+  },
   "0db118b4-92d1-4b06-b81a-64a67e477e60/DreadVision": {
    "addOnVersion": "602",
    "addonId": "0db118b4-92d1-4b06-b81a-64a67e477e60",
@@ -3912,13 +3926,13 @@
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 2926,
+   "downloads": 2985,
    "folder": "RagsToRiches",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Rags To Riches",
-   "updatedAt": 1793709692,
-   "version": "1.5.5"
+   "updatedAt": 1793737543,
+   "version": "1.5.12"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374/LibNotification": {
    "addOnVersion": "15",
@@ -5452,13 +5466,13 @@
    "apiVersion": "101051",
    "author": "lesse83",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 226,
+   "downloads": 251,
    "folder": "CraftMaterialAssistant",
    "isLibrary": "",
    "optionalDependsOn": "LibResearch",
    "title": "CraftMaterialAssistant",
-   "updatedAt": 1793609541,
-   "version": "1.0.13"
+   "updatedAt": 1793732901,
+   "version": "1.0.14"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347/feedingFrenzyTracker": {
    "addOnVersion": "",
@@ -5529,20 +5543,6 @@
    "title": "PacketByte Exporter",
    "updatedAt": 1790721423,
    "version": "0.1.5"
-  },
-  "96d1c172-661c-4739-960f-fcf660401298/CraftMaterialAssistant": {
-   "addOnVersion": "",
-   "addonId": "96d1c172-661c-4739-960f-fcf660401298",
-   "apiVersion": "101051",
-   "author": "lesse83",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 158,
-   "folder": "CraftMaterialAssistant",
-   "isLibrary": "",
-   "optionalDependsOn": "LibResearch",
-   "title": "CraftMaterialAssistant (Beta)",
-   "updatedAt": 1793722124,
-   "version": "0.0.5"
   },
   "96f579ed-c17e-44c6-b3e3-969c34e8f20f/IsItTaunted": {
    "addOnVersion": "",
@@ -5830,13 +5830,13 @@
    "apiVersion": "101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 21,
+   "downloads": 33,
    "folder": "SetTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings-1.0",
    "title": "Set Perk Tracker",
-   "updatedAt": 1793417570,
-   "version": "0.2.11"
+   "updatedAt": 1793739318,
+   "version": "0.3.0"
   },
   "9e55edc2-32f8-4c75-b87c-e921fd53e9cf/AlternateDeathRecap": {
    "addOnVersion": "30200",
@@ -6035,18 +6035,18 @@
    "version": "5.3"
   },
   "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
-   "addOnVersion": "107",
+   "addOnVersion": "108",
    "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
    "apiVersion": "101050",
    "author": "Bucketmore",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 164,
+   "downloads": 165,
    "folder": "PvPTargetInfo",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "PvP Target Info",
-   "updatedAt": 1793519459,
-   "version": "V2.0.8t"
+   "updatedAt": 1793748744,
+   "version": "V2.1.0"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -6216,6 +6216,20 @@
    "updatedAt": 1780917784,
    "version": "1.5"
   },
+  "aa4be285-0c03-47b8-8ee1-a2e3992d9460/GroupScout": {
+   "addOnVersion": "100",
+   "addonId": "aa4be285-0c03-47b8-8ee1-a2e3992d9460",
+   "apiVersion": "101051",
+   "author": "xbutch",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "GroupScout",
+   "isLibrary": "false",
+   "optionalDependsOn": "",
+   "title": "Group Scout (Beta)",
+   "updatedAt": 1793736729,
+   "version": "0.1.0-beta"
+  },
   "ab71c694-e122-4792-9268-fe2c2595f986/AltBossBar": {
    "addOnVersion": "",
    "addonId": "ab71c694-e122-4792-9268-fe2c2595f986",
@@ -6348,13 +6362,13 @@
    "apiVersion": "101049 101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 2885,
+   "downloads": 3155,
    "folder": "BackBarTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "BackBarTimer",
-   "updatedAt": 1792757960,
-   "version": "2.0.0 RC - test3"
+   "updatedAt": 1793739993,
+   "version": "2.1.1"
   },
   "aef7e9f0-ed11-4b67-99f7-c500cdc0b343/CruxTracker-2.0": {
    "addOnVersion": "",
@@ -7029,18 +7043,18 @@
    "version": "v0.0.02"
   },
   "c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5/WeavingMetronome": {
-   "addOnVersion": "101061",
+   "addOnVersion": "101066",
    "addonId": "c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5",
    "apiVersion": "101051",
    "author": "FiNk3F13",
-   "dependsOn": "",
-   "downloads": 7092,
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 7956,
    "folder": "WeavingMetronome",
    "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0",
+   "optionalDependsOn": "",
    "title": "Weaving Metronome",
-   "updatedAt": 1793022530,
-   "version": "2.0.0"
+   "updatedAt": 1793731466,
+   "version": "2.0.5"
   },
   "c26064b6-d685-492c-b750-3bc59f315109/AntiquityTracker": {
    "addOnVersion": "",
@@ -7252,6 +7266,20 @@
    "updatedAt": 1788914151,
    "version": "1.2.0"
   },
+  "c816691d-2f46-451b-9ac0-5a63292d6297/ArdysBuffTracker": {
+   "addOnVersion": "10000",
+   "addonId": "c816691d-2f46-451b-9ac0-5a63292d6297",
+   "apiVersion": "101052",
+   "author": "gigachadESO",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "ArdysBuffTracker",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "Ardy's Buff Tracker",
+   "updatedAt": 1793751088,
+   "version": "1.0.0"
+  },
   "c8397663-7bee-4e0b-89de-16dcf5c029d7/RecoveryTracker": {
    "addOnVersion": "1.0.0",
    "addonId": "c8397663-7bee-4e0b-89de-16dcf5c029d7",
@@ -7365,18 +7393,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "22",
+   "addOnVersion": "23",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 696,
+   "downloads": 767,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1793557753,
-   "version": "0.5.11"
+   "updatedAt": 1793744099,
+   "version": "0.5.12"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
    "addOnVersion": "",
@@ -7771,18 +7799,18 @@
    "version": "4.0.5.031"
   },
   "d2f38194-bd78-47b6-817f-71932b3a5c42/DM2_ParseFightStats": {
-   "addOnVersion": "31807",
+   "addOnVersion": "31808",
    "addonId": "d2f38194-bd78-47b6-817f-71932b3a5c42",
    "apiVersion": "101048 101047",
    "author": "Fredgu3",
    "dependsOn": "",
-   "downloads": 16159,
+   "downloads": 16290,
    "folder": "DM2_ParseFightStats",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibAddonMenu2 LibStub",
    "title": "DM2 Parse & Fight Stats",
-   "updatedAt": 1793716937,
-   "version": "3.18.7"
+   "updatedAt": 1793744133,
+   "version": "3.18.8"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557/LoreBooks": {
    "addOnVersion": "96",
@@ -9877,6 +9905,12 @@
    ],
    "version": "1.0.14"
   },
+  "0d43993b-0f07-4f0b-9411-53ad5c85a2f4": {
+   "folders": [
+    "MatchMonitor"
+   ],
+   "version": "V1.0.1"
+  },
   "0db118b4-92d1-4b06-b81a-64a67e477e60": {
    "folders": [
     "DreadVision"
@@ -11399,7 +11433,7 @@
    "folders": [
     "RagsToRiches"
    ],
-   "version": "1.5.5"
+   "version": "1.5.12"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374": {
    "folders": [
@@ -12091,7 +12125,7 @@
    "folders": [
     "CraftMaterialAssistant"
    ],
-   "version": "1.0.13"
+   "version": "1.0.14"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347": {
    "folders": [
@@ -12122,12 +12156,6 @@
     "PacketByteExporter"
    ],
    "version": "0.1.5"
-  },
-  "96d1c172-661c-4739-960f-fcf660401298": {
-   "folders": [
-    "CraftMaterialAssistant"
-   ],
-   "version": "0.0.5"
   },
   "96f579ed-c17e-44c6-b3e3-969c34e8f20f": {
    "folders": [
@@ -12255,7 +12283,7 @@
    "folders": [
     "SetTracker"
    ],
-   "version": "0.2.11"
+   "version": "0.3.0"
   },
   "9e55edc2-32f8-4c75-b87c-e921fd53e9cf": {
    "folders": [
@@ -12346,7 +12374,7 @@
    "folders": [
     "PvPTargetInfo"
    ],
-   "version": "V2.0.8t"
+   "version": "V2.1.0"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -12421,6 +12449,12 @@
    ],
    "version": "1.5"
   },
+  "aa4be285-0c03-47b8-8ee1-a2e3992d9460": {
+   "folders": [
+    "GroupScout"
+   ],
+   "version": "0.1.0-beta"
+  },
   "ab71c694-e122-4792-9268-fe2c2595f986": {
    "folders": [
     "AltBossBar",
@@ -12485,7 +12519,7 @@
    "folders": [
     "BackBarTimer"
    ],
-   "version": "2.0.0 RC - test3"
+   "version": "2.1.1"
   },
   "aef7e9f0-ed11-4b67-99f7-c500cdc0b343": {
    "folders": [
@@ -12785,7 +12819,7 @@
    "folders": [
     "WeavingMetronome"
    ],
-   "version": "2.0.0"
+   "version": "2.0.5"
   },
   "c26064b6-d685-492c-b750-3bc59f315109": {
    "folders": [
@@ -12890,6 +12924,12 @@
    ],
    "version": "1.2.0"
   },
+  "c816691d-2f46-451b-9ac0-5a63292d6297": {
+   "folders": [
+    "ArdysBuffTracker"
+   ],
+   "version": "1.0.0"
+  },
   "c8397663-7bee-4e0b-89de-16dcf5c029d7": {
    "folders": [
     "RecoveryTracker"
@@ -12946,7 +12986,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.5.11"
+   "version": "0.5.12"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
    "folders": [
@@ -13130,7 +13170,7 @@
     "DM2_ParseFightStats",
     "DM2_ParseFightStats"
    ],
-   "version": "3.18.7"
+   "version": "3.18.8"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557": {
    "folders": [
