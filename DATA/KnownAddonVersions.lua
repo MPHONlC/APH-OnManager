@@ -109,6 +109,7 @@ ArchdruidTracker	10101	1.1.1	3473	101051
 ArchiveAdvisor	10001	1.0.1	4787	101050
 ArchiveHelper	1402	1.4.2	3772	101045
 ArclightTaunt	10101	1.1.1	5008	101051
+ArdysBuffTrackerPC	10100	1.1.0	5021	101051 101052
 ArdysOBTracker	162	1.6.2	4879	101051 101052
 AreWeMounted		1.0.0	4134	101046
 AriesLogsEncounter		1.0.1	4633	101050
@@ -261,7 +262,7 @@ CameraMotion		2.00	4763	101050
 CampaignRewardTracker	10	1.0	3821	101040
 CanThisBeCraftedAtHome		2026.07.09	3966	101050
 CapybaraIcons	194	1.9.4	4176	101050 101051
-CaracBuffDebuff		1.1	5002	101051
+CaracBuffDebuff		1.9	5002	101051
 CaracVentes		1.1	4995	101051
 CardCombo	3	1.0.2	4512	101049 101050
 CarosLootList		3.14	2898	101046
@@ -652,7 +653,7 @@ GoldenPursuitsTracker		1.8	4276	101051
 GoldenSkullTracker	10102	1.1.2	4978	101051
 GoldHouseFinder	18	1.9.1	4751	101049 101050
 GoldLedger		2.3.1	3566	101050 101051
-GoldRush		2.8	4685	101051
+GoldRush		2.9	4685	101051
 GoldTracker		1.0	4257	101041
 Goto		1.1041	1154	101041
 GravvyShoppingList	37	0.19.4	4775	101050 101051
@@ -773,7 +774,7 @@ HowManyGold	10001	1.0.1	3981	101045
 HowToCloudrest		1.2.2	3497	101033 101036
 HowToKyne		1.1	3486	101036
 HowToSunspire		1.3.10	2430	101032 101036
-HUDitorTools	13002	1.3.2	4750	101051
+HUDitorTools	13003	1.3.3	4750	101051
 HuntsmanWarmaskReminder		2.0.5	4287	101050
 HyboremAssistant		v.1.6	4410	101050 101051
 HyboremBugsWeeds	2	v.2.0.0	4528	101049 101050
@@ -1220,6 +1221,7 @@ Raidificator	408020	4.8.2	1101	101051
 RaidNotifier	230	2.30	1355	101046
 RaidNotifierZHPatch		2.28.1	3912	101041
 RajinesExpLeft	1	1.0	4636	101050
+Ramaladni_buff_debuff_tracker	10000	v1.0.0_STABLE	5022	101051 101052
 RanckorsBaggage		v3.1.2	3933	101051
 RanckorsLeaderBoardTracker		v1.0.3	4047	101051
 Randwache	200	2.0.0	4842	101051 101050
@@ -1491,7 +1493,7 @@ TiradilGuildAssistant	22	1.5.2	4817	101050 101051
 ToggleFPSandPing		1.001	3812	101047 101048
 ToggleGroupFrame		1.5.1	3698	101047
 ToggleQuestTracker		1.2.2	3809	101047
-Tom		6.4.3	3428	101050 101051
+Tom		6.5.0	3428	101050 101051
 TomesTracker		3.2	4488	101051
 TOMGuildsAddon		2.70	3703	101045 101046
 TooltipResizer		2.2	4409	101048

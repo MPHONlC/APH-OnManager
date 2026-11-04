@@ -178,7 +178,7 @@ LibPanicida	2000000	2.0.0	4349	101048	LibPanicida	LibPanicida
 LibPotionBuff	3	2.2.2	2475		RdK Group Tool	LibPotionBuff
 LibPrice	70530	7.53	2204	101045 101046	LibPrice	LibPrice
 LibPriceCache	10105	v.1.1.7	4494	101049	LibPriceCache	LibPriceCache
-LibPromises	37	1.1.2	2274	101045 101046	LibPromises	LibPromises
+LibPromises	40	2.0.0	2274	101051 101052	LibPromises	LibPromises
 LibQRCode	46	1.0.8	4102	101046	LibQRCode	LibQRCode
 LibQuestData	279	2.79	2625	101048 101049	LibQuestData	LibQuestData
 LibQuestStatus	100030	1.0.3	4573	101050 101051	LibQuestStatus	LibQuestStatus
