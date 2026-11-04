@@ -1339,6 +1339,7 @@ AoM.SuggestedCategories = {
 	["OmniAura"] = "Buff, Debuff, Spell",
 	["OneAPHaTime"] = "Bags, Bank, Inventory",
 	["OneAtATime"] = "Bags, Bank, Inventory",
+	["OneChat"] = "Chat Mods",
 	["OneClickChampionPoints"] = "Character Advancement",
 	["OneCrosshair"] = "Action Bar Mods",
 	["OneDungeon"] = "Graphic UI Mods",
