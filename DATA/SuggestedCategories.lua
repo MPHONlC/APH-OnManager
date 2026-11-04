@@ -903,6 +903,7 @@ AoM.SuggestedCategories = {
 	["JacobsBuffTracker"] = "Buff, Debuff, Spell",
 	["JacobsChannelCastBar"] = "Casting Bars, Cooldowns",
 	["JensenRankedDuels"] = "PvP",
+	["JesusDePlatre_PrivateMarker"] = "Combat Mods",
 	["JoGroup"] = "Plug-Ins & Patches",
 	["Joker"] = "Miscellaneous",
 	["Journal"] = "Auction House & Vendors",

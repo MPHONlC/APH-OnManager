@@ -108,7 +108,7 @@ ArcanumGuildHall		1.22.0	3013	101050
 ArchdruidTracker	10101	1.1.1	3473	101051
 ArchiveAdvisor	10001	1.0.1	4787	101050
 ArchiveHelper	1402	1.4.2	3772	101045
-ArclightTaunt	10100	1.1.0	5008	101051
+ArclightTaunt	10101	1.1.1	5008	101051
 ArdysOBTracker	162	1.6.2	4879	101051 101052
 AreWeMounted		1.0.0	4134	101046
 AriesLogsEncounter		1.0.1	4633	101050
@@ -773,7 +773,7 @@ HowManyGold	10001	1.0.1	3981	101045
 HowToCloudrest		1.2.2	3497	101033 101036
 HowToKyne		1.1	3486	101036
 HowToSunspire		1.3.10	2430	101032 101036
-HUDitorTools	13000	1.3.0	4750	101051
+HUDitorTools	13002	1.3.2	4750	101051
 HuntsmanWarmaskReminder		2.0.5	4287	101050
 HyboremAssistant		v.1.6	4410	101050 101051
 HyboremBugsWeeds	2	v.2.0.0	4528	101049 101050
@@ -818,7 +818,7 @@ InspectVestige	140	1.4.0	4706	101049
 InstanceLeaver	2	0.2	4867	101050
 InstantSwap		1.2	2987	100034
 InstaQ	1	1.2 Stable	4164	101046
-Inventory2	105	1.0.5	5009	101051
+Inventory2	106	1.0.6	5009	101051
 InventoryAssistant		1.21.261002-beta	2015	101051
 InventoryCompanion	10500	1.5.0	4997	101051
 InventoryManagerTESO		1.0.2	4071	101041
@@ -849,6 +849,7 @@ JackOfAllTrades	52	2.0.0	2951	101045
 JacobsBuffTracker		0.6.1	4463	101049
 JacobsChannelCastBar	1	1.0.1	4464	101049
 JensenRankedDuels		1.2.8	4635	101049 101050
+JesusDePlatre_PrivateMarker		V.1.1	5017	101051
 JoGroup	200011	2.0.1.1	3643	101040
 Joker	807100	8.7.1	2329	101048
 Journal		0.7.1	4556	101047
@@ -935,7 +936,7 @@ LRSA	20250401	1.2.2	3767	101040
 LSAchievTracker	2	0.1	4069	100033
 LucentCitadel		1.4.3	3879	101041 101042
 LucentCitadelHelper		0.7.0	3897	101046 101047
-LuiExtended	7279	7.2.7.9	818	101051 101052
+LuiExtended	7280	7.2.8.0	818	101051 101052
 Lumberjack		1.0.7	2792	101046
 LvxJournal	20445	5.1	4596	101049 101046
 LvxJournal_PersonalNotesBackup	111	5.1	4596	101049 101046
@@ -1195,7 +1196,7 @@ QuestArrow	202	0.2.2	4833	101050
 Questbound	3	1.1.0	4893	101050 101051
 QuestCycleHotKeys		2026-09-30	4896	101050 101051
 QuestMap	329	3.29	1022	101047 101048
-QuestTrackerImproved		2.1	4864	101051
+QuestTrackerImproved		2.2	4864	101051
 QuestTrackerToggle		1.4	4040	101045
 QuickBank		v1.0.2	4109	101051
 QuickBind	2	1.1.0	4296	101048
