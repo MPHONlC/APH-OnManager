@@ -53,7 +53,7 @@ LibMessagePlugin	110	1.1.31	101049 101050	LibMessagePlugin	SugaComa	90c97baa-617
 LibMousePointer	10000	1.0.0	101049 101050	LibMousePointer	votan73	de9c92f2-729c-45e6-8071-0155852da2c0
 LibNotification	15	1.1.0	101045 101046	LibNotification	sirinsidiator	68111c3f-410f-4318-b9ec-582b8c68c374
 LibPrice	70460	7.46	101045 101046	LibPrice	Sharlikran	0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d
-LibPromises	37	1.1.2	101045 101046	LibPromises	sirinsidiator	eb221fca-fa24-44ac-9fab-6ee0f8cba1e0
+LibPromises	40	2.0.0	101051 101052	LibPromises	sirinsidiator	eb221fca-fa24-44ac-9fab-6ee0f8cba1e0
 LibQRCode	046	1.0.8	101046	LibQRCode	RoyalTonberry	da93c9ce-04e0-4acf-a62a-16e23c1e8d06
 LibQuestStatus	100020	1.0.2	101050 101051	LibQuestStatus	code65536	df55d66d-d19b-41dd-99a2-8d385916f4a1
 LibRadialMenu	9	9	101050	LibRadialMenu	M0R	f3dd1d3e-85df-448d-8d84-fdf6545dbebb

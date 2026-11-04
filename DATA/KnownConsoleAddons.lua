@@ -55,7 +55,7 @@ Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb7
 archdruidTracker		2.5.4	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010101	1.1.1	101051	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
 ArcRobsFurnishingFinder		0.0.4a	101047 101048 101049 101050 101051	Arcanist Rob's Furnishing Finder	Scribe_Rob	17df3bbc-aace-41f6-b29e-9dc87cb84fdf
-ArdysBuffTracker	10201	1.2.1	101052	Ardy's Buff Tracker	gigachadESO	c816691d-2f46-451b-9ac0-5a63292d6297
+ArdysBuffTracker	10300	1.3.0	101052	Ardy's Buff Tracker	gigachadESO	c816691d-2f46-451b-9ac0-5a63292d6297
 AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5272a2a
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
 ArtaeumGroupTool	613	6.1.3	101048	Artaeum Group Tool	M0R	dc653131-c684-4f94-b875-35a29506436b
@@ -166,7 +166,7 @@ DevSandbox3	41902	DevSandbox3-4.19.2-2026-10-17T150333	101050	dev sandbox 3	club
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
 DLCRoulette	5	1.1.3	101051	DLC Roulette	-Chin	0f2a1db4-049e-454b-96b8-52c65ff6cb85
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
-DM2_ParseFightStats	31808	3.18.8	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
+DM2_ParseFightStats	31809	3.18.9	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
 DM2SimpleDPS	10014	1.0.14	101048 101047	DM2 Simple DPS	Fredgu3	324ffb56-dc57-4b03-a4b0-2c43de605ef1
 DoesThisThingGoAnyFaster	13	0.9	101051	DoesThisThingGoAnyFaster	Th3rtythr33	838c4ba0-f7d2-4d29-ab28-7bd838a4973b
 DolgubonsLazySetCrafter		3.0.7.9	101049 101050	Dolgubon's Lazy Set Crafter (XBPA ONLY)	Dolgubon	e1b979e5-1c57-4da0-8980-5477f9d3b689
@@ -339,7 +339,7 @@ LibMousePointer	10000	1.0.0	101049 101050	LibMousePointer	votan73	de9c92f2-729c-
 LibNotification	15	1.1.0	101045 101046	LibNotification	sirinsidiator	68111c3f-410f-4318-b9ec-582b8c68c374
 LibNotify		1.4.3	101051	LibNotify	codeWarrior82	2c6301b6-2c09-4282-9496-84ffcb7577ce
 LibPrice	70460	7.46	101045 101046	LibPrice	Sharlikran	0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d
-LibPromises	37	1.1.2	101045 101046	LibPromises	sirinsidiator	eb221fca-fa24-44ac-9fab-6ee0f8cba1e0
+LibPromises	40	2.0.0	101051 101052	LibPromises	sirinsidiator	eb221fca-fa24-44ac-9fab-6ee0f8cba1e0
 LibQRCode	046	1.0.8	101046	LibQRCode	RoyalTonberry	da93c9ce-04e0-4acf-a62a-16e23c1e8d06
 LibQuestStatus	100020	1.0.2	101050 101051	LibQuestStatus	code65536	df55d66d-d19b-41dd-99a2-8d385916f4a1
 LibRadialMenu	9	9	101050	LibRadialMenu	M0R	f3dd1d3e-85df-448d-8d84-fdf6545dbebb
@@ -412,7 +412,7 @@ MyExtras		1.2	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-0
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
-MyUI		v3.6	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
+MyUI		v4.2	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
 necroTracker		1.4.5	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
 NedsGroupManager		1.5	101046	Ned's Group Manager	Ned919x	4f86b7c8-8fb6-432c-a1b9-2004263244ab
 Nemesis	100	1.0.0	101050	Nemesis	Rogue0rbit	88739d40-c764-4276-9157-ba0eb1d47805
@@ -534,7 +534,7 @@ ShowEquipped	10601	1.6.3	101048 101049	Show Equips	Shienar	7d3a20ff-160a-4988-b8
 SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26b16bd23b8d
 SiegeReminder	110	2.0.31	101049 101050	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
-SimpleGroupDPS		1.6.3	101051	DontDownload	FiNk3F13	31353ae2-3899-477e-935e-69f9756c9d60
+SimpleGroupDPS		1.8.4	101051	SimpleGroupDPS	FiNk3F13	31353ae2-3899-477e-935e-69f9756c9d60
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb

@@ -152,7 +152,7 @@ MicToggle	LibAddonMenu-2.0
 MSPAINTUI	AbilityIconsFramework
 MuchSmarterAutoLoot	ArkadiusTradeTools	LibCharacterKnowledge	LibCustomMenu	LibRadialMenu	LibSavedVars	MasterMerchant	PerfectPixel	TSCPriceFetcher2	TamrielTradeCentre
 MultiMark	LibAddonMenu-2.0
-MyUI	LibAddonMenu-2.0	LibStub
+MyUI	CrutchAlerts	LibAddonMenu-2.0	LibGamepad	LibStub
 Nemesis	LibHarvensAddonSettings	LibVotans
 NewQuestAssist	LibAddonMenu-2.0
 NoTargetFrame	LibAddonMenu-2.0
