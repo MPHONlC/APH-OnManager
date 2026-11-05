@@ -116,6 +116,7 @@ LibCInteraction	LibDebugLogger
 LibCombat2	LibCombat	LibDebugLogger
 LibConsoleLogger	LibHarvensAddonSettings
 LibDateTime	Taneth
+LibDebugLogger	Taneth
 LibGamepad	LibAddonMenu-2.0
 LibGroupBroadcast	Taneth
 LibGroupCombatStats	LibCombat2	LibDebugLogger
@@ -169,11 +170,13 @@ PBsConsoleHudCustomizer	LibHarvensAddonSettings
 PBsCraftMaterialAssistant	LibHarvensAddonSettings
 PBsCyrodiilAlert	LibHarvensAddonSettings
 PBsDiceExtension	LibHarvensAddonSettings
+PBsEmoteSynchronizer	LibGroupBroadcast	LibHarvensAddonSettings
 PBsFurnitureEditor	LibHarvensAddonSettings
 PBsHpsChecker	LibHarvensAddonSettings
 PBsHudManager	LibHarvensAddonSettings	PBsChatWindowCustomizer	PBsClock	PBsConsoleHudCustomizer	PBsCyrodiilAlert	PBsMiniMap	PBsNamePlateChanger	PBsQuestTrackerFontChanger
 PBsJanken	LibGroupBroadcast
 PBsKillLog	LibHarvensAddonSettings
+PBsLowestPriceFinder	LibHarvensAddonSettings
 PBsLuaMemoryMonitor	LibHarvensAddonSettings
 PBsMailerExtension	LibHarvensAddonSettings
 PBsOmikuji	LibHarvensAddonSettings
@@ -254,4 +257,5 @@ WhereIsIt	TSCPriceFetcher2
 WizardsHelper	LibRadialMenu
 wretchedVitalityTracker	LibNotify
 WritReady	LibAddonMenu-2.0
+WritWorthy	AwesomeGuildStore	HomeStationMarker	LibCustomMenu	LibDebugLogger	LibSlashCommander
 ]==])

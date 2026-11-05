@@ -29,18 +29,18 @@
    "version": "1.1.0"
   },
   "031ddfc1-c44d-4452-ab48-42b7c429bc81/LibDebugLogger": {
-   "addOnVersion": "307",
+   "addOnVersion": "327",
    "addonId": "031ddfc1-c44d-4452-ab48-42b7c429bc81",
-   "apiVersion": "101050",
+   "apiVersion": "101051 101052",
    "author": "sirinsidiator",
    "dependsOn": "",
-   "downloads": 649428,
+   "downloads": 708767,
    "folder": "LibDebugLogger",
    "isLibrary": "true",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "Taneth",
    "title": "LibDebugLogger",
-   "updatedAt": 1780943711,
-   "version": "2.6.2"
+   "updatedAt": 1793828025,
+   "version": "2.7.0"
   },
   "033f7a4a-8918-4753-be5b-2874afa50230/VotansFisherman": {
    "addOnVersion": "",
@@ -1750,6 +1750,20 @@
    "updatedAt": 1791554998,
    "version": "2.2"
   },
+  "2ea327f5-7b87-49e2-a306-9e7ce0021db9/queueNextWrit": {
+   "addOnVersion": "100",
+   "addonId": "2ea327f5-7b87-49e2-a306-9e7ce0021db9",
+   "apiVersion": "101051 101052",
+   "author": "Dack.Janiels",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "queueNextWrit",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "queueNextWrit",
+   "updatedAt": 1793832588,
+   "version": "1"
+  },
   "2edefdf7-97a0-476e-98a0-f76c40976159/CombatFPSBooster": {
    "addOnVersion": "10505",
    "addonId": "2edefdf7-97a0-476e-98a0-f76c40976159",
@@ -3388,6 +3402,20 @@
    "updatedAt": 1791547602,
    "version": "2.5.4"
   },
+  "5cc8ec52-378a-4e09-aa6a-02f2409b2f2a/PBsEmoteSynchronizer": {
+   "addOnVersion": "",
+   "addonId": "5cc8ec52-378a-4e09-aa6a-02f2409b2f2a",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsEmoteSynchronizer",
+   "isLibrary": "",
+   "optionalDependsOn": "LibGroupBroadcast LibHarvensAddonSettings>=20106",
+   "title": "PinkB's EmoteSynchronizer(Beta)",
+   "updatedAt": 1793843157,
+   "version": "0.1.0"
+  },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73/FurniturePlanSearch": {
    "addOnVersion": "",
    "addonId": "5d0f8b9b-9537-4b51-b576-5ec13219cc73",
@@ -4046,6 +4074,20 @@
    "updatedAt": 1789909334,
    "version": "0.0.5"
   },
+  "6b42fd29-e6c4-4aec-8f92-e5c54de4c28c/PBsEmoteSynchronizer": {
+   "addOnVersion": "",
+   "addonId": "6b42fd29-e6c4-4aec-8f92-e5c54de4c28c",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsEmoteSynchronizer",
+   "isLibrary": "",
+   "optionalDependsOn": "LibGroupBroadcast LibHarvensAddonSettings>=20106",
+   "title": "PinkB's EmoteSynchronizer",
+   "updatedAt": 1793844380,
+   "version": "0.1.0"
+  },
   "6b4f359b-e17e-46f6-b2c9-9a1e42e7de2b/IsItTaunted": {
    "addOnVersion": "",
    "addonId": "6b4f359b-e17e-46f6-b2c9-9a1e42e7de2b",
@@ -4570,13 +4612,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 0,
+   "downloads": 5,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1792793599,
-   "version": "1.2"
+   "updatedAt": 1793853652,
+   "version": "1.3"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -4724,13 +4766,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 11,
+   "downloads": 16,
    "folder": "PBsProcSetTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PBsProcSetTimer(Beta)",
-   "updatedAt": 1793433819,
-   "version": "0.5.1"
+   "updatedAt": 1793829521,
+   "version": "0.6.1"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce/CanITravelBack": {
    "addOnVersion": "1",
@@ -5396,13 +5438,27 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 41,
    "folder": "PBsProcSetTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ProcSetTimer",
-   "updatedAt": 1793432682,
-   "version": "0.5.1"
+   "updatedAt": 1793830608,
+   "version": "0.6.1"
+  },
+  "9244a9ac-fb16-46cf-a7e5-e15c98fdd7a6/PBsLowestPriceFinder": {
+   "addOnVersion": "",
+   "addonId": "9244a9ac-fb16-46cf-a7e5-e15c98fdd7a6",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "PBsLowestPriceFinder",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's LowestPriceFinder(Beta)",
+   "updatedAt": 1793854001,
+   "version": "0.3.2"
   },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f/BattleScrollsNameColours": {
    "addOnVersion": "17",
@@ -5445,6 +5501,20 @@
    "title": "cChat",
    "updatedAt": 1786385850,
    "version": "2.2"
+  },
+  "93ab810e-7b13-4feb-8bb9-ecfadf17dace/WritWorthy": {
+   "addOnVersion": "070509",
+   "addonId": "93ab810e-7b13-4feb-8bb9-ecfadf17dace",
+   "apiVersion": "101051 101052",
+   "author": "Gamer_sa22",
+   "dependsOn": "LibAddonMenu-2.0>=43 LibPrice>=70000 LibLazyCrafting>=4038 LibSets>=9020 LibCharacterKnowledge>=300040",
+   "downloads": 2127,
+   "folder": "WritWorthy",
+   "isLibrary": "",
+   "optionalDependsOn": "LibCustomMenu AwesomeGuildStore LibSlashCommander LibDebugLogger HomeStationMarker",
+   "title": "Gamer_sa22 Addon Testing",
+   "updatedAt": 1793840448,
+   "version": "ww2"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a/CraftMaterialAssistant": {
    "addOnVersion": "",
@@ -7351,18 +7421,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000106",
+   "addOnVersion": "01000107",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 17412,
+   "downloads": 17596,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793764813,
-   "version": "1.0.106"
+   "updatedAt": 1793851215,
+   "version": "1.0.107"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8189,6 +8259,20 @@
    "title": "PinkB's WeaveBlockTrainer(Beta)",
    "updatedAt": 1792831386,
    "version": "1.4.0"
+  },
+  "dd1317bc-8330-4d2f-940c-51d9724a45a5/IWantItAll": {
+   "addOnVersion": "6",
+   "addonId": "dd1317bc-8330-4d2f-940c-51d9724a45a5",
+   "apiVersion": "101051",
+   "author": "Th3rtythr33",
+   "dependsOn": "LibHarvensAddonSettings>=20200",
+   "downloads": 4,
+   "folder": "IWantItAll",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "IWantItAll",
+   "updatedAt": 1793850562,
+   "version": "0.1.4"
   },
   "dd337340-e6c9-4835-8e50-ba68c7e949e4/LazyHorseFeed": {
    "addOnVersion": "",
@@ -9692,7 +9776,7 @@
    "folders": [
     "LibDebugLogger"
    ],
-   "version": "2.6.2"
+   "version": "2.7.0"
   },
   "033f7a4a-8918-4753-be5b-2874afa50230": {
    "folders": [
@@ -10468,6 +10552,12 @@
    ],
    "version": "2.2"
   },
+  "2ea327f5-7b87-49e2-a306-9e7ce0021db9": {
+   "folders": [
+    "queueNextWrit"
+   ],
+   "version": "1"
+  },
   "2edefdf7-97a0-476e-98a0-f76c40976159": {
    "folders": [
     "CombatFPSBooster"
@@ -11181,6 +11271,12 @@
    ],
    "version": "2.5.4"
   },
+  "5cc8ec52-378a-4e09-aa6a-02f2409b2f2a": {
+   "folders": [
+    "PBsEmoteSynchronizer"
+   ],
+   "version": "0.1.0"
+  },
   "5d0f8b9b-9537-4b51-b576-5ec13219cc73": {
    "folders": [
     "FurniturePlanSearch"
@@ -11469,6 +11565,12 @@
    ],
    "version": "0.0.5"
   },
+  "6b42fd29-e6c4-4aec-8f92-e5c54de4c28c": {
+   "folders": [
+    "PBsEmoteSynchronizer"
+   ],
+   "version": "0.1.0"
+  },
   "6b4f359b-e17e-46f6-b2c9-9a1e42e7de2b": {
    "folders": [
     "IsItTaunted"
@@ -11712,7 +11814,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "1.2"
+   "version": "1.3"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -11776,7 +11878,7 @@
    "folders": [
     "PBsProcSetTimer"
    ],
-   "version": "0.5.1"
+   "version": "0.6.1"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce": {
    "folders": [
@@ -12081,7 +12183,13 @@
    "folders": [
     "PBsProcSetTimer"
    ],
-   "version": "0.5.1"
+   "version": "0.6.1"
+  },
+  "9244a9ac-fb16-46cf-a7e5-e15c98fdd7a6": {
+   "folders": [
+    "PBsLowestPriceFinder"
+   ],
+   "version": "0.3.2"
   },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f": {
    "folders": [
@@ -12100,6 +12208,12 @@
     "cChat"
    ],
    "version": "2.2"
+  },
+  "93ab810e-7b13-4feb-8bb9-ecfadf17dace": {
+   "folders": [
+    "WritWorthy"
+   ],
+   "version": "ww2"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a": {
    "folders": [
@@ -12954,7 +13068,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.106"
+   "version": "1.0.107"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13324,6 +13438,12 @@
     "PBsWeaveBlockTrainer"
    ],
    "version": "1.4.0"
+  },
+  "dd1317bc-8330-4d2f-940c-51d9724a45a5": {
+   "folders": [
+    "IWantItAll"
+   ],
+   "version": "0.1.4"
   },
   "dd337340-e6c9-4835-8e50-ba68c7e949e4": {
    "folders": [

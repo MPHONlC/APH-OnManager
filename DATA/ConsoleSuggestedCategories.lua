@@ -188,6 +188,7 @@ ProvisioningWatcher	Buff, Debuff, Spell
 PullCard	Raid Mods
 QAutoConfirm	Discontinued & Outdated
 QcellDreadsailReefHelper	Combat Mods
+queueNextWrit	TradeSkill Mods
 RanckorsBaggage	Bags, Bank, Inventory
 RareFishTracker	Info, Plug-in Bars
 RoaringOpportunist	Casting Bars, Cooldowns
@@ -221,6 +222,7 @@ VotansFisherman	TradeSkill Mods
 VotansMiniMap	Map, Coords, Compasses
 WeaveDelays	Action Bar Mods
 WizardsWardrobe	Action Bar Mods
+WritWorthy	TradeSkill Mods
 YeOldeInfos	Info, Plug-in Bars
 ZoneMountSwitcher	RolePlay
 ]==])
