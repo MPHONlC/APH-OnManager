@@ -1249,6 +1249,7 @@ AoM.SuggestedCategories = {
 	["MoreColourfulGroupFrames"] = "Unit Mods",
 	["MoreTargetInformation"] = "Graphic UI Mods",
 	["MoreUI"] = "Miscellaneous",
+	["MountSwap"] = "Miscellaneous",
 	["MountTracker"] = "Data Mods",
 	["MountTrainingOverview"] = "Character Advancement",
 	["Mousoboros"] = "Graphic UI Mods",

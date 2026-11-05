@@ -374,7 +374,7 @@ CritMarker	1	1.0.20	4690	101050
 CritMeter	1	1.3.0	3231	101040
 CrosshairInfo		1.2	2989	101044
 CrowdednESO		2026.07.09	3296	101050
-CrownCrateCodex		0.12.5	5023	101051
+CrownCrateCodex		0.12.6	5023	101051
 CroZone	100	1.1.0	4641	101049 101050
 CrutchAlerts	22802	2.28.2	3137	101051 101052
 CrutchAlerts-KR-Minion	10000	1.0.0	4517	101049
@@ -686,7 +686,7 @@ GroupModerationBlacklist		0.0.1	4880	101045
 GroupResources	56	0.10.0	1338	101048 101049
 GroupUserId	116	2026.07.09	2589	101055
 GrumpysLarcenistTracker		1.1.0	4531	101050
-GTA		2026.11.04	4590	101051
+GTA		2026.11.04	4590	101051 101052
 GuardHelper		1.0.1	3553	101040
 GuardWarner	20250221	1.4.1	3590	101044
 GuildAdblockCustomized		1.0.2	4340
@@ -747,7 +747,7 @@ HideCompletedTomeChallenges		1.0	4811	101050
 HideGroupNecro		1.5.1	3472	101047 101048
 HideLoginNotice		1.0.3	4248	101048
 HidePlayerMapMarker		1.0.2	4249	101048
-HideResearchableIcon		1.1.0	5016	101051 101050
+HideResearchableIcon	111	1.1.1	5016	101051 101050
 HideReticleMounted		1.0.1	4332	101048
 HideScryingTooltips		1.0.1	4782	101050
 HideUI		1.0	4083	101045 101046
@@ -996,6 +996,7 @@ MonsterSetShoulderCollector		1.4.5	2860	101041
 MoreColourfulGroupFrames	1	1	4607	101049
 MoreTargetInformation		3.49	1189	101048 101049
 MoreUI		2	3919	101044
+MountSwap		0.8.9	5025	101051
 MountTracker		0.3.0	4362	101049 101048
 MountTrainingOverview	304	3.0.4	4422	101050
 Mousoboros	1	2026.08.07	4742	101050
@@ -1063,7 +1064,7 @@ NoResearchDupes	3	3	2964	100033 100034
 NoResearchDuplicate	1100	1.1.0	4874	101050
 NORGuildTools		5.00	4121	101051
 NoSpinContinued		1.4.1	4618	101049
-Notebook2018		5.00	1991	101050
+Notebook2018		5.01	1991	101051
 NoThankYou	1214	12.1.4	4903	101051
 NothingWastedTracker	6	2.0	4642	101051
 NowhereKeys		1.1	4906	101051

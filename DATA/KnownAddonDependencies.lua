@@ -378,6 +378,7 @@ AoM.KnownAddonDependencies = {
 	["MiniMap"] = { "ColorfulMapAreas" },
 	["MonsterCofferHelper"] = { "LibAddonMenu-2.0" },
 	["MoreColourfulGroupFrames"] = { "LibAddonMenu-2.0" },
+	["MountSwap"] = { "LibAddonMenu-2.0", "VotansKeybinder", "libAddonKeybinds" },
 	["MountTracker"] = { "LibAddonMenu-2.0", "LibChatMessage" },
 	["MSPAINTUI"] = { "AbilityIconsFramework" },
 	["MuchSmarterAutoLoot"] = { "ArkadiusTradeTools", "LibCharacterKnowledge", "LibCustomMenu", "LibRadialMenu", "LibSavedVars", "MasterMerchant", "PerfectPixel", "TSCPriceFetcher2", "TamrielTradeCentre" },
