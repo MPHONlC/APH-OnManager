@@ -232,6 +232,7 @@ AoM.KnownAddonDependencies = {
 	["HealingMeter"] = { "LibAddonMenu-2.0" },
 	["HeatShockTracker"] = { "LibAddonMenu-2.0" },
 	["HideLoginNotice"] = { "pChat" },
+	["HideResearchableIcon"] = { "ResearchAssistant" },
 	["HodorReflexes"] = { "LibCombat2", "LibCustomIcons", "LibCustomNames", "LibRadialMenu" },
 	["HodorReflexesIconExtension"] = { "LibCustomIcons", "LibCustomNames", "LibSlashCommander", "OdySupportIcons" },
 	["HouseHotkey"] = { "LibRadialMenu" },
