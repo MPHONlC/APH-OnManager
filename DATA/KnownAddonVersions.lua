@@ -108,7 +108,7 @@ ArcanumGuildHall		1.22.0	3013	101050
 ArchdruidTracker	10101	1.1.1	3473	101051
 ArchiveAdvisor	10001	1.0.1	4787	101050
 ArchiveHelper	1402	1.4.2	3772	101045
-ArclightTaunt	10101	1.1.1	5008	101051
+ArclightTaunt	10102	1.1.2	5008	101051
 ArdysBuffTrackerPC	10100	1.1.0	5021	101051 101052
 ArdysOBTracker	162	1.6.2	4879	101051 101052
 AreWeMounted		1.0.0	4134	101046
@@ -374,6 +374,7 @@ CritMarker	1	1.0.20	4690	101050
 CritMeter	1	1.3.0	3231	101040
 CrosshairInfo		1.2	2989	101044
 CrowdednESO		2026.07.09	3296	101050
+CrownCrateCodex		0.12.5	5023	101051
 CroZone	100	1.1.0	4641	101049 101050
 CrutchAlerts	22802	2.28.2	3137	101051 101052
 CrutchAlerts-KR-Minion	10000	1.0.0	4517	101049
@@ -614,9 +615,9 @@ FreshUI		1.4.1	3804	101046
 Frostfall	31	3.4.35	4710	101051 101052
 FunKillFeed		1.3.5	4286	101046
 FurnishingRecipeCollector		1.4.9	3862	101050
-FurnitureCatalogue	8000001	8.0.1	1617	101051 101052
-FurnitureCatalogue_DevUtility		8.0.1	1617	101050 101051
-FurnitureCatalogue_Export		8.0.1	1617	101050 101051
+FurnitureCatalogue	8001000	8.1.0	1617	101051 101052
+FurnitureCatalogue_DevUtility		8.1.0	1617	101051 101052
+FurnitureCatalogue_Export		8.1.0	1617	101051 101052
 FurnitureFilter	2	1.0.1	4986	101051
 GamePadHelper	10618	1.06.18	3268	101049 101050
 GamePadHelper_GearComparison		1.03	4253	101047
@@ -685,7 +686,7 @@ GroupModerationBlacklist		0.0.1	4880	101045
 GroupResources	56	0.10.0	1338	101048 101049
 GroupUserId	116	2026.07.09	2589	101055
 GrumpysLarcenistTracker		1.1.0	4531	101050
-GTA		2026.10.09	4590	101051
+GTA		2026.11.04	4590	101051
 GuardHelper		1.0.1	3553	101040
 GuardWarner	20250221	1.4.1	3590	101044
 GuildAdblockCustomized		1.0.2	4340
@@ -1200,6 +1201,7 @@ QuestCycleHotKeys		2026-09-30	4896	101050 101051
 QuestMap	329	3.29	1022	101047 101048
 QuestTrackerImproved		2.2	4864	101051
 QuestTrackerToggle		1.4	4040	101045
+queueNextWrit	200	2	5024	101051 101052
 QuickBank		v1.0.2	4109	101051
 QuickBind	2	1.1.0	4296	101048
 QuickEmoteMenu	1787431397	1.3.0	4769	101050
@@ -1252,7 +1254,7 @@ RewardPopupsReworked	10008	1.8	4694	101050 101051
 RewardsTracker	84	0.8.4	2864	101048
 RhalyfsKeybindings		1.1	1147	101049 101050
 Rhythmos		1.0	4586	101046
-RidinDirty		2026.10.30	3560	101051 101052
+RidinDirty		2026.11.04	3560	101051 101052
 RidingSchool	26	1.4.22	2491	101052 101051
 RipFilter	75	0.75	1844	101040
 RiptideTracker		1.3	3663	101039 101040
