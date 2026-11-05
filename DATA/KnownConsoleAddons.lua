@@ -277,7 +277,6 @@ IsItTaunted		1.9.10	101046	IsItTaunted	RipleyZepher	6b4f359b-e17e-46f6-b2c9-9a1e
 ItalianScrollsOnline		1.75	101046	ItalianScrollsOnline	dusty82	5d612b95-1149-48f4-b359-2aaee406bd86
 ItemHound	10	0.8.2	101050 101051	ItemHound	TheGreyWolf98	70b691c1-ae82-42c5-ad2d-4dad6bd53b36
 ItemStackSplitter		1.0.1	101050	Item Stack Splitter	Eldibabalo	fd260c09-574e-4494-9d13-dad835b05662
-IWantItAll	6	0.1.4	101051	IWantItAll	Th3rtythr33	dd1317bc-8330-4d2f-940c-51d9724a45a5
 JumpToSearch	201	JumpToSearch-0.2.1-2026-10-08T192243	101050	Jump to Search	clubwratt	65eefa37-d12c-4876-bdb9-aa547f7a070a
 KDRTracker		1	101050 101051	DaveeKDR	DaveeMafiaa	84fad8c0-9712-446a-9fff-e8bf44ad6d40
 KhajiitFengShui	137	1.3.7	101050 101051	Khajiit Feng Shui	Dack.Janiels	cae51d07-5b11-4feb-ab79-11e17ca47dca
@@ -452,7 +451,7 @@ PBsHpsChecker		0.6.1	101050 101051	PinkB's HpsChecker for AD Stalkers	PinkBanthe
 PBsHudManager		1.3.0	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
 PBsJanken	10010	1.0.10	101050	PinkB's Tamriel de Janken(Beta)	PinkBanther	112c25bb-1103-4636-a4f6-5c6a280ff8e2
 PBsKillLog		1.6.0	101050 101051	PinkB's KillLog	PinkBanther	ff4bafd1-1006-4f21-8d38-7a45f4527518
-PBsLowestPriceFinder		0.3.2	101050 101051	PinkB's LowestPriceFinder(Beta)	PinkBanther	9244a9ac-fb16-46cf-a7e5-e15c98fdd7a6
+PBsLowestPriceFinder		0.4.1	101050 101051	PinkB's LowestPriceFinder	PinkBanther	72f3b989-5d83-4337-8114-fa1c23d38d9e
 PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4878125-abb0-49bd-b8d3-ca06c9ad746a
 PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371fcd02-ae32-4937-a1d4-de4f33b01870
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
@@ -490,7 +489,7 @@ Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
-PvPTargetInfo	110	V2.1.2	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
+PvPTargetInfo	113	V2.4.0	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
 PvPUA		5.3	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
 PvPUAPatch		PvPUAPatch-5.6.1-2026-10-23T234227	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
@@ -571,11 +570,11 @@ SXUIBeaconPet	705	0.5.1	101050 101051	pet	satuve	25a0aeff-e8df-4458-bc72-f5a8319
 SynergyCooldown	20101	2.1.1	101050	Synergy Cooldown	Kyzeragon	a6c22156-8b52-467d-ab02-287e5731a1fb
 SynergyImprover	120	v1.1	101050 101051	SynergyImprover	j.hhh	64ff6b45-1306-4375-8422-3ff52ef58d90
 SynergyPriority	2.0	Recovery Convergence update	101048	Synergy Priority	Vixen_Hunny	3f511a24-33c0-4c94-979a-97e0982dbb6b
-TamrielCollectionsAntiquities	100	v0.1.0	101051	Tamriel Collections - Archive Antiquities	MajesticMinxi	ce080e90-e198-4d6b-8b7e-19c933c02e6e
-TamrielCollectionsFurnishingPlans	105	v0.1.5	101051	Tamriel Collections - Archive Furnishing Plans	MajesticMinxi	8e8983cd-c304-4a89-b625-ec8c4560820d
-TamrielCollectionsLorebooks	1000	v1.0.0 Final	101051	Tamriel Collections - Archive Lore Books	MajesticMinxi	47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3
-TamrielCollectionsMotifs	1013	1.0.13	101051	Tamriel Collections - Archive Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
-TamrielCollectionsStylePages	1000	v1.0.0	101051	Tamriel Collections - Archive Style Pages	MajesticMinxi	c8ff27a5-4393-43c9-a816-b912384fdb2d
+TamrielCollectionsAntiquities	101	v0.0.1	101051	Tamriel Collections - Archive Antiquities	MajesticMinxi	ce080e90-e198-4d6b-8b7e-19c933c02e6e
+TamrielCollectionsFurnishingPlans	10000	V1.0.0	101051	Tamriel Collections - Archive Furnishing Plans	MajesticMinxi	8e8983cd-c304-4a89-b625-ec8c4560820d
+TamrielCollectionsLorebooks	1100	v1.1.0	101051	Tamriel Collections - Archive Lore Books	MajesticMinxi	47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3
+TamrielCollectionsMotifs	1101	V1.1.1	101051	Tamriel Collections - Archive Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
+TamrielCollectionsStylePages	1101	v1.1.1	101051	Tamriel Collections - Archive Style Pages	MajesticMinxi	c8ff27a5-4393-43c9-a816-b912384fdb2d
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
 TamrielTextStudio		2.4.3	101051	Tamriel Text Studio	Lucky38Tech	a847021b-2ae6-4d43-81a4-9a8f3985f8b8
 TargetInfo		1.2.5	101049 101050 101051	TargetInfo	SugaComa	a8908085-8223-4986-ac34-5932bc2c5172
@@ -625,7 +624,7 @@ TurningTide	010101	1.1.1	101051	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c
 turningTideTracker		1.3.4	101051	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
 UnchainedHelper		1.8	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
-UnderPressure	23	0.5.12	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
+UnderPressure	25	0.5.14	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20402	2.4.2	101051 101052	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829
 UnknownFilter	302	0.3.2	101050	UnknownFilter	Xarador	670babe5-297e-4cb3-88d6-cda790275d1a
 Update47Tweaker		1.2.6	101050 101051	Update 47 Tweaker	murphyx	50a4c919-aff0-4475-8614-eb2576d6b6d9

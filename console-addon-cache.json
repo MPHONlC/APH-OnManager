@@ -589,18 +589,18 @@
    "version": "v30"
   },
   "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626/TamrielCollectionsMotifs": {
-   "addOnVersion": "1013",
+   "addOnVersion": "1101",
    "addonId": "103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 103,
+   "downloads": 113,
    "folder": "TamrielCollectionsMotifs",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Motifs",
-   "updatedAt": 1793706104,
-   "version": "1.0.13"
+   "updatedAt": 1793867225,
+   "version": "V1.1.1"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc/EsoPL": {
    "addOnVersion": "",
@@ -2689,18 +2689,18 @@
    "version": "1.0.2"
   },
   "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3/TamrielCollectionsLorebooks": {
-   "addOnVersion": "1000",
+   "addOnVersion": "1100",
    "addonId": "47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 16,
+   "downloads": 23,
    "folder": "TamrielCollectionsLorebooks",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Lore Books",
-   "updatedAt": 1793620149,
-   "version": "v1.0.0 Final"
+   "updatedAt": 1793870032,
+   "version": "v1.1.0"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -4256,6 +4256,20 @@
    "updatedAt": 1791116666,
    "version": "3.1.5"
   },
+  "72f3b989-5d83-4337-8114-fa1c23d38d9e/PBsLowestPriceFinder": {
+   "addOnVersion": "",
+   "addonId": "72f3b989-5d83-4337-8114-fa1c23d38d9e",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsLowestPriceFinder",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's LowestPriceFinder",
+   "updatedAt": 1793878341,
+   "version": "0.4.1"
+  },
   "72f77b51-a84a-492e-a266-4f7175a53a71/CallToArm": {
    "addOnVersion": "",
    "addonId": "72f77b51-a84a-492e-a266-4f7175a53a71",
@@ -5209,18 +5223,18 @@
    "version": "1.18"
   },
   "8e8983cd-c304-4a89-b625-ec8c4560820d/TamrielCollectionsFurnishingPlans": {
-   "addOnVersion": "105",
+   "addOnVersion": "10000",
    "addonId": "8e8983cd-c304-4a89-b625-ec8c4560820d",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 8,
+   "downloads": 18,
    "folder": "TamrielCollectionsFurnishingPlans",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Furnishing Plans",
-   "updatedAt": 1793696865,
-   "version": "v0.1.5"
+   "updatedAt": 1793879113,
+   "version": "V1.0.0"
   },
   "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2/KhajiitVoice": {
    "addOnVersion": "",
@@ -5452,13 +5466,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 5,
    "folder": "PBsLowestPriceFinder",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's LowestPriceFinder(Beta)",
-   "updatedAt": 1793854001,
-   "version": "0.3.2"
+   "updatedAt": 1793878318,
+   "version": "0.4.1"
   },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f/BattleScrollsNameColours": {
    "addOnVersion": "17",
@@ -6091,18 +6105,18 @@
    "version": "5.3"
   },
   "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
-   "addOnVersion": "110",
+   "addOnVersion": "113",
    "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
    "apiVersion": "101050",
    "author": "Bucketmore",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 165,
+   "downloads": 171,
    "folder": "PvPTargetInfo",
    "isLibrary": "false",
    "optionalDependsOn": "",
    "title": "PvP Target Info",
-   "updatedAt": 1793789075,
-   "version": "V2.1.2"
+   "updatedAt": 1793879450,
+   "version": "V2.4.0"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -7393,18 +7407,18 @@
    "version": "1.0"
   },
   "c8ff27a5-4393-43c9-a816-b912384fdb2d/TamrielCollectionsStylePages": {
-   "addOnVersion": "1000",
+   "addOnVersion": "1101",
    "addonId": "c8ff27a5-4393-43c9-a816-b912384fdb2d",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 33,
+   "downloads": 44,
    "folder": "TamrielCollectionsStylePages",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Style Pages",
-   "updatedAt": 1793470628,
-   "version": "v1.0.0"
+   "updatedAt": 1793871054,
+   "version": "v1.1.1"
   },
   "c9b85989-bab6-4000-a3fc-80ed49e25e87/PersonalDpsTracker": {
    "addOnVersion": "21007",
@@ -7449,18 +7463,18 @@
    "version": "1.3.7"
   },
   "cb26e578-84c4-4196-9aee-7e0e53f3d6a1/UnderPressure": {
-   "addOnVersion": "23",
+   "addOnVersion": "25",
    "addonId": "cb26e578-84c4-4196-9aee-7e0e53f3d6a1",
    "apiVersion": "101051",
    "author": "Th3rtythr33",
    "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 767,
+   "downloads": 836,
    "folder": "UnderPressure",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Under Pressure",
-   "updatedAt": 1793744099,
-   "version": "0.5.12"
+   "updatedAt": 1793857418,
+   "version": "0.5.14"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
    "addOnVersion": "",
@@ -7561,18 +7575,18 @@
    "version": "1.5"
   },
   "ce080e90-e198-4d6b-8b7e-19c933c02e6e/TamrielCollectionsAntiquities": {
-   "addOnVersion": "100",
+   "addOnVersion": "101",
    "addonId": "ce080e90-e198-4d6b-8b7e-19c933c02e6e",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 4,
    "folder": "TamrielCollectionsAntiquities",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Antiquities",
-   "updatedAt": 1793472430,
-   "version": "v0.1.0"
+   "updatedAt": 1793870071,
+   "version": "v0.0.1"
   },
   "ce31d856-17b4-4951-9802-820df96527e2/SimpleFPSPing": {
    "addOnVersion": "",
@@ -8259,20 +8273,6 @@
    "title": "PinkB's WeaveBlockTrainer(Beta)",
    "updatedAt": 1792831386,
    "version": "1.4.0"
-  },
-  "dd1317bc-8330-4d2f-940c-51d9724a45a5/IWantItAll": {
-   "addOnVersion": "6",
-   "addonId": "dd1317bc-8330-4d2f-940c-51d9724a45a5",
-   "apiVersion": "101051",
-   "author": "Th3rtythr33",
-   "dependsOn": "LibHarvensAddonSettings>=20200",
-   "downloads": 4,
-   "folder": "IWantItAll",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "IWantItAll",
-   "updatedAt": 1793850562,
-   "version": "0.1.4"
   },
   "dd337340-e6c9-4835-8e50-ba68c7e949e4/LazyHorseFeed": {
    "addOnVersion": "",
@@ -10038,7 +10038,7 @@
    "folders": [
     "TamrielCollectionsMotifs"
    ],
-   "version": "1.0.13"
+   "version": "V1.1.1"
   },
   "10a87c9d-556d-4389-8952-629b42b5a3bc": {
    "folders": [
@@ -10961,7 +10961,7 @@
    "folders": [
     "TamrielCollectionsLorebooks"
    ],
-   "version": "v1.0.0 Final"
+   "version": "v1.1.0"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6": {
    "folders": [
@@ -11645,6 +11645,12 @@
    ],
    "version": "3.1.5"
   },
+  "72f3b989-5d83-4337-8114-fa1c23d38d9e": {
+   "folders": [
+    "PBsLowestPriceFinder"
+   ],
+   "version": "0.4.1"
+  },
   "72f77b51-a84a-492e-a266-4f7175a53a71": {
    "folders": [
     "CallToArm"
@@ -12086,7 +12092,7 @@
    "folders": [
     "TamrielCollectionsFurnishingPlans"
    ],
-   "version": "v0.1.5"
+   "version": "V1.0.0"
   },
   "8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2": {
    "folders": [
@@ -12189,7 +12195,7 @@
    "folders": [
     "PBsLowestPriceFinder"
    ],
-   "version": "0.3.2"
+   "version": "0.4.1"
   },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f": {
    "folders": [
@@ -12468,7 +12474,7 @@
    "folders": [
     "PvPTargetInfo"
    ],
-   "version": "V2.1.2"
+   "version": "V2.4.0"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -13056,7 +13062,7 @@
    "folders": [
     "TamrielCollectionsStylePages"
    ],
-   "version": "v1.0.0"
+   "version": "v1.1.1"
   },
   "c9b85989-bab6-4000-a3fc-80ed49e25e87": {
    "folders": [
@@ -13080,7 +13086,7 @@
    "folders": [
     "UnderPressure"
    ],
-   "version": "0.5.12"
+   "version": "0.5.14"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
    "folders": [
@@ -13132,7 +13138,7 @@
    "folders": [
     "TamrielCollectionsAntiquities"
    ],
-   "version": "v0.1.0"
+   "version": "v0.0.1"
   },
   "ce31d856-17b4-4951-9802-820df96527e2": {
    "folders": [
@@ -13438,12 +13444,6 @@
     "PBsWeaveBlockTrainer"
    ],
    "version": "1.4.0"
-  },
-  "dd1317bc-8330-4d2f-940c-51d9724a45a5": {
-   "folders": [
-    "IWantItAll"
-   ],
-   "version": "0.1.4"
   },
   "dd337340-e6c9-4835-8e50-ba68c7e949e4": {
    "folders": [
