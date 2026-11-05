@@ -55,7 +55,7 @@ Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb7
 archdruidTracker		2.5.4	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
 ArchdruidTracker	010101	1.1.1	101051	ArchdruidTracker	tmbrinks	7b383e7f-a85f-491d-b950-dffc87bcec10
 ArcRobsFurnishingFinder		0.0.4a	101047 101048 101049 101050 101051	Arcanist Rob's Furnishing Finder	Scribe_Rob	17df3bbc-aace-41f6-b29e-9dc87cb84fdf
-ArdysBuffTracker	10300	1.3.0	101052	Ardy's Buff Tracker	gigachadESO	c816691d-2f46-451b-9ac0-5a63292d6297
+ArdysBuffTracker	10400	v1.4.0	101052	Ardy's Buff Tracker	gigachadESO	c816691d-2f46-451b-9ac0-5a63292d6297
 AreYouSlow	2	1.1.0	101051	AreYouSlow?	Th3rtythr33	11615176-cc74-452d-a5b3-cd3fe5272a2a
 ArmoryRoleSwitcher		2025.05.28	101046	ArmoryRoleSwitcher	Masteroshi430	ec09cf15-d910-4d7e-b9cc-17c759d03aa0
 ArtaeumGroupTool	613	6.1.3	101048	Artaeum Group Tool	M0R	dc653131-c684-4f94-b875-35a29506436b
@@ -124,7 +124,7 @@ ChatPalette	3	1.0.1	101050 101051	Chat Palette	TheGreyWolf98	3ecd8aa0-ce2c-4b41-
 ChatSkipper	100	1.0.1	101048 101049	Chat Skipper	mYoda01	5e1a067b-7af6-4752-bbb0-3de588e8587e
 CircularMinimap		2.0.1	101048 101049	Circular Votan's Mini Map	votan73	f5b8ee78-0ef3-4ee5-803c-79785f34173d
 CleanLeadsUI		1.0.0	101040	CleanLeadsUI	akbosser	2150f7ed-d4e8-426c-b6e0-2df807f1db92
-ClearSight		1.1.5	101050	ClearSight	SugaComa	c720ddc7-a982-4027-ac83-204540d2b013
+ClearSight		1.2.6	101050	ClearSight	SugaComa	c720ddc7-a982-4027-ac83-204540d2b013
 CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f0c-9c9c-48e1a355c970
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
 CombatAlerts	206090	2.6.9	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
@@ -199,7 +199,7 @@ ExoYsCruxTracker		v1.3	101050	Crux Tracker	j.hhh	7c2543a8-c08b-4c48-b4bf-47d2463
 EyeOnKeep		1.2.0	101051	EyeOnKeep	SugaComa	4c644add-5991-49a0-ad77-6b91a5ffee42
 EyesOfTheUndaunted	15103	1.51.03	101051	Eyes of the Undaunted	xbutch	b22ade94-a817-47da-bc4f-cfa7e1dd25ff
 FancyActionBarPlus	21908	2.19.8	101050	Fancy Action Bar+	acastanza	922792c1-1d90-4415-ada5-c356757e857f
-FashionMount		1.2.0	101049 101050 101051	Fashion Mount	SugaComa	91a5e014-74ee-4d3b-a612-b2b05dd223d8
+FashionMount		1.1.2	101049 101050 101051	Fashion Mount	SugaComa	91a5e014-74ee-4d3b-a612-b2b05dd223d8
 FavOptions		1.2.5	101050 101051	FavOptions	murphyx	d13d8dac-6694-4ebe-8685-ce038ec06a1e
 FavoriteGuildCycler	131	v1.3.1	101051 101050 101049 101048	Favorite Guild Cycler	Lucky38Tech	0a76b1e2-2754-4c05-8647-04f6f0216c0d
 FavoriteHomeTeleports		1.5	101049	Favorite Home Teleporter	codeman1734	fc9f4f62-3d31-41cd-b9ee-e1a0ea0f6ecb
@@ -537,7 +537,7 @@ ShowEquipped	10601	1.6.3	101048 101049	Show Equips	Shienar	7d3a20ff-160a-4988-b8
 SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26b16bd23b8d
 SiegeReminder	110	2.0.31	101049 101050	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
-SimpleGroupDPS		1.8.4	101051	SimpleGroupDPS	FiNk3F13	31353ae2-3899-477e-935e-69f9756c9d60
+SimpleGroupDPS		1.9.6	101051	SimpleGroupDPS	FiNk3F13	31353ae2-3899-477e-935e-69f9756c9d60
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb
@@ -570,7 +570,7 @@ SXUIBeaconPet	705	0.5.1	101050 101051	pet	satuve	25a0aeff-e8df-4458-bc72-f5a8319
 SynergyCooldown	20101	2.1.1	101050	Synergy Cooldown	Kyzeragon	a6c22156-8b52-467d-ab02-287e5731a1fb
 SynergyImprover	120	v1.1	101050 101051	SynergyImprover	j.hhh	64ff6b45-1306-4375-8422-3ff52ef58d90
 SynergyPriority	2.0	Recovery Convergence update	101048	Synergy Priority	Vixen_Hunny	3f511a24-33c0-4c94-979a-97e0982dbb6b
-TamrielCollectionsAntiquities	101	v0.0.1	101051	Tamriel Collections - Archive Antiquities	MajesticMinxi	ce080e90-e198-4d6b-8b7e-19c933c02e6e
+TamrielCollectionsAntiquities	108	V0.1.8	101051	Tamriel Collections - Archive Antiquities	MajesticMinxi	ce080e90-e198-4d6b-8b7e-19c933c02e6e
 TamrielCollectionsFurnishingPlans	10000	V1.0.0	101051	Tamriel Collections - Archive Furnishing Plans	MajesticMinxi	8e8983cd-c304-4a89-b625-ec8c4560820d
 TamrielCollectionsLorebooks	1100	v1.1.0	101051	Tamriel Collections - Archive Lore Books	MajesticMinxi	47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3
 TamrielCollectionsMotifs	1101	V1.1.1	101051	Tamriel Collections - Archive Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626

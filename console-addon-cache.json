@@ -1910,13 +1910,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 11,
+   "downloads": 19,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "SimpleGroupDPS",
-   "updatedAt": 1793819806,
-   "version": "1.8.4"
+   "updatedAt": 1793912965,
+   "version": "1.9.6"
   },
   "32111121-29be-4447-ba40-3c064d28680e/PowerLashTracker": {
    "addOnVersion": "1.0.0",
@@ -5382,13 +5382,13 @@
    "apiVersion": "101049 101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 1607,
+   "downloads": 1772,
    "folder": "FashionMount",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Fashion Mount",
-   "updatedAt": 1792758134,
-   "version": "1.2.0"
+   "updatedAt": 1793892110,
+   "version": "1.1.2"
   },
   "91c0799a-d1f2-46e3-9ef6-2c470d6869f6/NoM0RErrors": {
    "addOnVersion": "101",
@@ -7286,13 +7286,13 @@
    "apiVersion": "101050",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 724,
+   "downloads": 850,
    "folder": "ClearSight",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "ClearSight",
-   "updatedAt": 1793542564,
-   "version": "1.1.5"
+   "updatedAt": 1793911447,
+   "version": "1.2.6"
   },
   "c75ace9c-ba19-4bce-b7b1-4793854c4754/LibGroupPotionCooldowns": {
    "addOnVersion": "20260111",
@@ -7337,18 +7337,18 @@
    "version": "1.2.0"
   },
   "c816691d-2f46-451b-9ac0-5a63292d6297/ArdysBuffTracker": {
-   "addOnVersion": "10300",
+   "addOnVersion": "10400",
    "addonId": "c816691d-2f46-451b-9ac0-5a63292d6297",
    "apiVersion": "101052",
    "author": "gigachadESO",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 5,
    "folder": "ArdysBuffTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibVotans",
    "title": "Ardy's Buff Tracker",
-   "updatedAt": 1793810057,
-   "version": "1.3.0"
+   "updatedAt": 1793907138,
+   "version": "v1.4.0"
   },
   "c8397663-7bee-4e0b-89de-16dcf5c029d7/RecoveryTracker": {
    "addOnVersion": "1.0.0",
@@ -7575,18 +7575,18 @@
    "version": "1.5"
   },
   "ce080e90-e198-4d6b-8b7e-19c933c02e6e/TamrielCollectionsAntiquities": {
-   "addOnVersion": "101",
+   "addOnVersion": "108",
    "addonId": "ce080e90-e198-4d6b-8b7e-19c933c02e6e",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 11,
    "folder": "TamrielCollectionsAntiquities",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Antiquities",
-   "updatedAt": 1793870071,
-   "version": "v0.0.1"
+   "updatedAt": 1793911263,
+   "version": "V0.1.8"
   },
   "ce31d856-17b4-4951-9802-820df96527e2/SimpleFPSPing": {
    "addOnVersion": "",
@@ -10622,7 +10622,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "1.8.4"
+   "version": "1.9.6"
   },
   "32111121-29be-4447-ba40-3c064d28680e": {
    "folders": [
@@ -12158,7 +12158,7 @@
    "folders": [
     "FashionMount"
    ],
-   "version": "1.2.0"
+   "version": "1.1.2"
   },
   "91c0799a-d1f2-46e3-9ef6-2c470d6869f6": {
    "folders": [
@@ -13000,7 +13000,7 @@
    "folders": [
     "ClearSight"
    ],
-   "version": "1.1.5"
+   "version": "1.2.6"
   },
   "c75ace9c-ba19-4bce-b7b1-4793854c4754": {
    "folders": [
@@ -13028,7 +13028,7 @@
    "folders": [
     "ArdysBuffTracker"
    ],
-   "version": "1.3.0"
+   "version": "v1.4.0"
   },
   "c8397663-7bee-4e0b-89de-16dcf5c029d7": {
    "folders": [
@@ -13138,7 +13138,7 @@
    "folders": [
     "TamrielCollectionsAntiquities"
    ],
-   "version": "v0.0.1"
+   "version": "V0.1.8"
   },
   "ce31d856-17b4-4951-9802-820df96527e2": {
    "folders": [
