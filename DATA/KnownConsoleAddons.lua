@@ -227,6 +227,7 @@ GCDMonitor	20001	2.01	101049 101050	Global Cooldown Monitor Revised	CaffeinatedM
 GearTracker	204	1.10	101051	GearTracker	thewizadt	fa5da270-ccfe-454b-ba19-4599992e272a
 GildedUI		0.2.46	101050 101051	Gilded UI	Fluazinam	5dce8bc1-61a1-4273-a23e-f74372f36b40
 GoldLedger	8	1.5.1	101050	Gold Ledger	Eldibabalo	53c19565-2bb9-4872-a40f-90825e736a2f
+GoldNation		1.0		Gold Nation	SvlphvryVoid	a168ff84-818b-4e00-9168-0c0c80a6d5af
 gorethiefTracker		1.1.3	101051	Gorethief Tracker	codeWarrior82	6077d87d-fafc-431b-9380-f25348d7b430
 GoronDev		0.0.2	101047 101048	Goron Dev	goron_spice	4ff8232a-3b96-4a66-8401-dad48e8b5301
 GottaOpenEmAll		1.0.1	101048 101049	Gotta Open 'em all!	Eldibabalo	c8456e9d-2e93-40d9-a266-88d0ad1f9332
@@ -360,7 +361,7 @@ LiveBuffUptime		2.2.7	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000107	1.0.107	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000108	1.0.108	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -456,7 +457,7 @@ PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4
 PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371fcd02-ae32-4937-a1d4-de4f33b01870
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
-PBsProcSetTimer		0.6.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
+PBsProcSetTimer		0.7.0	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsScreenshotModeShortcut		1.3.1	101050 101051	PinkB's ScreenshotModeShortcut	PinkBanther	f092f755-7f1e-43bf-b184-f2a9871a86ea
 PBsTargetPlayer		1.7.0	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
@@ -489,7 +490,6 @@ Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
-PvPTargetInfo	113	V2.4.0	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
 PvPUA		5.3	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
 PvPUAPatch		PvPUAPatch-5.6.1-2026-10-23T234227	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568

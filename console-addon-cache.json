@@ -4780,13 +4780,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 16,
+   "downloads": 17,
    "folder": "PBsProcSetTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PBsProcSetTimer(Beta)",
-   "updatedAt": 1793829521,
-   "version": "0.6.1"
+   "updatedAt": 1793918065,
+   "version": "0.7.0"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce/CanITravelBack": {
    "addOnVersion": "1",
@@ -5452,13 +5452,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 41,
+   "downloads": 63,
    "folder": "PBsProcSetTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ProcSetTimer",
-   "updatedAt": 1793830608,
-   "version": "0.6.1"
+   "updatedAt": 1793918096,
+   "version": "0.7.0"
   },
   "9244a9ac-fb16-46cf-a7e5-e15c98fdd7a6/PBsLowestPriceFinder": {
    "addOnVersion": "",
@@ -5992,6 +5992,20 @@
    "updatedAt": 1752622858,
    "version": "1.0.2"
   },
+  "a168ff84-818b-4e00-9168-0c0c80a6d5af/GoldNation": {
+   "addOnVersion": "",
+   "addonId": "a168ff84-818b-4e00-9168-0c0c80a6d5af",
+   "apiVersion": "",
+   "author": "SvlphvryVoid",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 1,
+   "folder": "GoldNation",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Gold Nation",
+   "updatedAt": 1793926030,
+   "version": "1.0"
+  },
   "a17836b4-17ec-478f-91a6-f0c59e123e2a/RanckorsBaggage": {
    "addOnVersion": "3.1.2",
    "addonId": "a17836b4-17ec-478f-91a6-f0c59e123e2a",
@@ -6103,20 +6117,6 @@
    "title": "PvP UA!",
    "updatedAt": 1792810182,
    "version": "5.3"
-  },
-  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
-   "addOnVersion": "113",
-   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
-   "apiVersion": "101050",
-   "author": "Bucketmore",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 171,
-   "folder": "PvPTargetInfo",
-   "isLibrary": "false",
-   "optionalDependsOn": "",
-   "title": "PvP Target Info",
-   "updatedAt": 1793879450,
-   "version": "V2.4.0"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -7435,18 +7435,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000107",
+   "addOnVersion": "01000108",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 17596,
+   "downloads": 17889,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793851215,
-   "version": "1.0.107"
+   "updatedAt": 1793937613,
+   "version": "1.0.108"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -11884,7 +11884,7 @@
    "folders": [
     "PBsProcSetTimer"
    ],
-   "version": "0.6.1"
+   "version": "0.7.0"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce": {
    "folders": [
@@ -12189,7 +12189,7 @@
    "folders": [
     "PBsProcSetTimer"
    ],
-   "version": "0.6.1"
+   "version": "0.7.0"
   },
   "9244a9ac-fb16-46cf-a7e5-e15c98fdd7a6": {
    "folders": [
@@ -12421,6 +12421,12 @@
    ],
    "version": "1.0.2"
   },
+  "a168ff84-818b-4e00-9168-0c0c80a6d5af": {
+   "folders": [
+    "GoldNation"
+   ],
+   "version": "1.0"
+  },
   "a17836b4-17ec-478f-91a6-f0c59e123e2a": {
    "folders": [
     "RanckorsBaggage"
@@ -12469,12 +12475,6 @@
     "PvPUA"
    ],
    "version": "5.3"
-  },
-  "a5490d07-2b02-4714-bf07-a18820977a3c": {
-   "folders": [
-    "PvPTargetInfo"
-   ],
-   "version": "V2.4.0"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -13074,7 +13074,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.107"
+   "version": "1.0.108"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
