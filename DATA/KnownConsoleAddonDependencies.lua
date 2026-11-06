@@ -181,6 +181,7 @@ PBsLuaMemoryMonitor	LibHarvensAddonSettings
 PBsMailerExtension	LibHarvensAddonSettings
 PBsOmikuji	LibHarvensAddonSettings
 PBsProcSetTimer	LibHarvensAddonSettings
+PBsReticle	LibHarvensAddonSettings
 PBsScreenshotModeShortcut	LibHarvensAddonSettings
 PBsTargetPlayer	LibHarvensAddonSettings
 PBsTetris	LibGroupBroadcast
@@ -192,6 +193,7 @@ PermMemento	LibAddonMenu-2.0	LibGroupBroadcast	LibHarvensAddonSettings
 PersonalDpsTracker	LibHarvensAddonSettings
 PetHealth	LibAddonMenu-2.0	LibAddonMenuOrderListBox	LibHarvensAddonSettings	LibSlashCommander
 PinAutoResizer	LibGPS
+PlayerMascotHealth	LibAddonMenu-2.0
 PreviewAnywhere	LibConsoleLogger
 PVPBuddy	LibAddonMenu-2.0
 PvPUA	LibGroupBroadcast

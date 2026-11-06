@@ -3430,6 +3430,20 @@
    "updatedAt": 1791313428,
    "version": "0.2.4"
   },
+  "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
+   "addOnVersion": "100",
+   "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
+   "apiVersion": "101048 101049 101050 101051",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "PlayerMascotHealth",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
+   "title": "Mascot",
+   "updatedAt": 1793967430,
+   "version": "v2"
+  },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
    "addonId": "5d612b95-1149-48f4-b359-2aaee406bd86",
@@ -5998,13 +6012,13 @@
    "apiVersion": "",
    "author": "SvlphvryVoid",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 1,
+   "downloads": 3,
    "folder": "GoldNation",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Gold Nation",
-   "updatedAt": 1793926030,
-   "version": "1.0"
+   "updatedAt": 1793944442,
+   "version": "1.1.1"
   },
   "a17836b4-17ec-478f-91a6-f0c59e123e2a/RanckorsBaggage": {
    "addOnVersion": "3.1.2",
@@ -6117,6 +6131,20 @@
    "title": "PvP UA!",
    "updatedAt": 1792810182,
    "version": "5.3"
+  },
+  "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
+   "addOnVersion": "114",
+   "addonId": "a5490d07-2b02-4714-bf07-a18820977a3c",
+   "apiVersion": "101050",
+   "author": "Bucketmore",
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 173,
+   "folder": "PvPTargetInfo",
+   "isLibrary": "false",
+   "optionalDependsOn": "",
+   "title": "PvP Target Info",
+   "updatedAt": 1793959563,
+   "version": "V2.5.0"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -6677,6 +6705,20 @@
    "title": "702's Craft Completionist List",
    "updatedAt": 1778822035,
    "version": "Version 2.4.3.4"
+  },
+  "b3cb5c11-367d-4c6e-9868-4a0cb33b4fcb/PBsReticle": {
+   "addOnVersion": "100",
+   "addonId": "b3cb5c11-367d-4c6e-9868-4a0cb33b4fcb",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsReticle",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's Reticle(Beta)",
+   "updatedAt": 1793952780,
+   "version": "1.0.0"
   },
   "b57202fe-9b3a-4021-ad86-f2db8dfe0c5e/PairsWellWithCheese": {
    "addOnVersion": "029",
@@ -11283,6 +11325,12 @@
    ],
    "version": "0.2.4"
   },
+  "5d143529-b075-433f-b9b6-c5e28e44497a": {
+   "folders": [
+    "PlayerMascotHealth"
+   ],
+   "version": "v2"
+  },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
     "ItalianScrollsOnline",
@@ -12425,7 +12473,7 @@
    "folders": [
     "GoldNation"
    ],
-   "version": "1.0"
+   "version": "1.1.1"
   },
   "a17836b4-17ec-478f-91a6-f0c59e123e2a": {
    "folders": [
@@ -12475,6 +12523,12 @@
     "PvPUA"
    ],
    "version": "5.3"
+  },
+  "a5490d07-2b02-4714-bf07-a18820977a3c": {
+   "folders": [
+    "PvPTargetInfo"
+   ],
+   "version": "V2.5.0"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -12726,6 +12780,12 @@
     "702sCraftCompletionistList"
    ],
    "version": "Version 2.4.3.4"
+  },
+  "b3cb5c11-367d-4c6e-9868-4a0cb33b4fcb": {
+   "folders": [
+    "PBsReticle"
+   ],
+   "version": "1.0.0"
   },
   "b57202fe-9b3a-4021-ad86-f2db8dfe0c5e": {
    "folders": [

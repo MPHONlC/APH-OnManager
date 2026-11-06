@@ -227,7 +227,7 @@ GCDMonitor	20001	2.01	101049 101050	Global Cooldown Monitor Revised	CaffeinatedM
 GearTracker	204	1.10	101051	GearTracker	thewizadt	fa5da270-ccfe-454b-ba19-4599992e272a
 GildedUI		0.2.46	101050 101051	Gilded UI	Fluazinam	5dce8bc1-61a1-4273-a23e-f74372f36b40
 GoldLedger	8	1.5.1	101050	Gold Ledger	Eldibabalo	53c19565-2bb9-4872-a40f-90825e736a2f
-GoldNation		1.0		Gold Nation	SvlphvryVoid	a168ff84-818b-4e00-9168-0c0c80a6d5af
+GoldNation		1.1.1		Gold Nation	SvlphvryVoid	a168ff84-818b-4e00-9168-0c0c80a6d5af
 gorethiefTracker		1.1.3	101051	Gorethief Tracker	codeWarrior82	6077d87d-fafc-431b-9380-f25348d7b430
 GoronDev		0.0.2	101047 101048	Goron Dev	goron_spice	4ff8232a-3b96-4a66-8401-dad48e8b5301
 GottaOpenEmAll		1.0.1	101048 101049	Gotta Open 'em all!	Eldibabalo	c8456e9d-2e93-40d9-a266-88d0ad1f9332
@@ -459,6 +459,7 @@ PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsProcSetTimer		0.7.0	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
+PBsReticle	100	1.0.0	101050 101051	PinkB's Reticle(Beta)	PinkBanther	b3cb5c11-367d-4c6e-9868-4a0cb33b4fcb
 PBsScreenshotModeShortcut		1.3.1	101050 101051	PinkB's ScreenshotModeShortcut	PinkBanther	f092f755-7f1e-43bf-b184-f2a9871a86ea
 PBsTargetPlayer		1.7.0	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
 PBsTetris	11600	1.16.0	101050 101051	PinkB's Tamriel de Tetris	PinkBanther	e8b21bff-aae1-4a24-b91b-8c49cd6acfd6
@@ -476,6 +477,7 @@ PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a8
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
+PlayerMascotHealth	100	v2	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
 PreviewAnywhere	10300	PreviewAnywhere-1.3.0-2026-10-26T170437	101050 101051	Preview Anywhere	clubwratt	b5cc1fef-6afb-46ca-a772-f1b71c39530c
@@ -490,6 +492,7 @@ Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	111	22.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
+PvPTargetInfo	114	V2.5.0	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
 PvPUA		5.3	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
 PvPUAPatch		PvPUAPatch-5.6.1-2026-10-23T234227	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
