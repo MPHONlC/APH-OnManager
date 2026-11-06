@@ -453,6 +453,7 @@ AoM.KnownAddonDependencies = {
 	["RaidNotifier"] = { "LibGroupSocket", "LibStub" },
 	["rChat"] = { "LibChatMessage", "LibSlashCommander" },
 	["RealisticNeedsAndDiseases"] = { "Frostfall", "LibZoneTemp" },
+	["RecipePriceForWritWorthy"] = { "ArkadiusTradeTools", "LibDebugLogger", "LibPrice", "MasterMerchant", "TamrielTradeCentre" },
 	["RemoveLearnableIndicator"] = { "MasterMerchant" },
 	["RengarusStatusDisplay"] = { "LibAddonMenu-2.0", "LuiExtended" },
 	["ResearchAssistant"] = { "GridList", "LibCustomMenu", "LibDebugLogger" },
