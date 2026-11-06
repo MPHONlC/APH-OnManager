@@ -29,18 +29,18 @@
    "version": "1.1.0"
   },
   "031ddfc1-c44d-4452-ab48-42b7c429bc81/LibDebugLogger": {
-   "addOnVersion": "327",
+   "addOnVersion": "329",
    "addonId": "031ddfc1-c44d-4452-ab48-42b7c429bc81",
    "apiVersion": "101051 101052",
    "author": "sirinsidiator",
    "dependsOn": "",
-   "downloads": 708767,
+   "downloads": 725175,
    "folder": "LibDebugLogger",
    "isLibrary": "true",
    "optionalDependsOn": "Taneth",
    "title": "LibDebugLogger",
-   "updatedAt": 1793828025,
-   "version": "2.7.0"
+   "updatedAt": 1793987505,
+   "version": "2.7.1"
   },
   "033f7a4a-8918-4753-be5b-2874afa50230/VotansFisherman": {
    "addOnVersion": "",
@@ -1910,13 +1910,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 19,
+   "downloads": 30,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "SimpleGroupDPS",
-   "updatedAt": 1793912965,
-   "version": "1.9.6"
+   "updatedAt": 1793981375,
+   "version": "1.9.7"
   },
   "32111121-29be-4447-ba40-3c064d28680e/PowerLashTracker": {
    "addOnVersion": "1.0.0",
@@ -3431,18 +3431,18 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "100",
+   "addOnVersion": "111",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 3,
    "folder": "PlayerMascotHealth",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1793967430,
-   "version": "v2"
+   "updatedAt": 1793975142,
+   "version": "v4"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
@@ -3785,14 +3785,14 @@
    "addonId": "656a56dd-1f9a-428e-a52e-dc72a77de425",
    "apiVersion": "101051",
    "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 36,
+   "dependsOn": "LibHarvensAddonSettings LibCombat2",
+   "downloads": 66,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
    "optionalDependsOn": "LibCombat",
    "title": "Live Buff Uptime",
-   "updatedAt": 1792670157,
-   "version": "2.2.7"
+   "updatedAt": 1793990806,
+   "version": "2.4.4"
   },
   "656edbf4-6ad8-4faf-8bd8-25f06199c990/PBsFurnitureEditor": {
    "addOnVersion": "",
@@ -4341,18 +4341,18 @@
    "version": "1.15"
   },
   "74e3cf1b-47f3-44c7-ac72-290efc19e8f3/ObsidianHUD": {
-   "addOnVersion": "754",
+   "addOnVersion": "755",
    "addonId": "74e3cf1b-47f3-44c7-ac72-290efc19e8f3",
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 13,
+   "downloads": 14,
    "folder": "ObsidianHUD",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Trest",
-   "updatedAt": 1793373129,
-   "version": "0.8.2"
+   "updatedAt": 1793974511,
+   "version": "0.8.3"
   },
   "75167780-fb8c-479c-86be-c0a208443b97/CollectThemAll": {
    "addOnVersion": "",
@@ -5550,13 +5550,13 @@
    "apiVersion": "101051",
    "author": "lesse83",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 251,
+   "downloads": 276,
    "folder": "CraftMaterialAssistant",
    "isLibrary": "",
    "optionalDependsOn": "LibResearch",
    "title": "CraftMaterialAssistant",
-   "updatedAt": 1793732901,
-   "version": "1.0.14"
+   "updatedAt": 1793992542,
+   "version": "1.0.15"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347/feedingFrenzyTracker": {
    "addOnVersion": "",
@@ -7617,18 +7617,18 @@
    "version": "1.5"
   },
   "ce080e90-e198-4d6b-8b7e-19c933c02e6e/TamrielCollectionsAntiquities": {
-   "addOnVersion": "108",
+   "addOnVersion": "10002",
    "addonId": "ce080e90-e198-4d6b-8b7e-19c933c02e6e",
    "apiVersion": "101051",
    "author": "MajesticMinxi",
    "dependsOn": "",
-   "downloads": 11,
+   "downloads": 16,
    "folder": "TamrielCollectionsAntiquities",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Tamriel Collections - Archive Antiquities",
-   "updatedAt": 1793911263,
-   "version": "V0.1.8"
+   "updatedAt": 1793989667,
+   "version": "v1.0.2"
   },
   "ce31d856-17b4-4951-9802-820df96527e2/SimpleFPSPing": {
    "addOnVersion": "",
@@ -8343,20 +8343,6 @@
    "title": "Ev",
    "updatedAt": 1756916262,
    "version": "1.1"
-  },
-  "dda5dca2-4511-4e45-9dd2-769c7eb40feb/SimpleGroupDPS": {
-   "addOnVersion": "",
-   "addonId": "dda5dca2-4511-4e45-9dd2-769c7eb40feb",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 51,
-   "folder": "SimpleGroupDPS",
-   "isLibrary": "",
-   "optionalDependsOn": "BattleScrolls",
-   "title": "Testin",
-   "updatedAt": 1793526560,
-   "version": "1.6.2"
   },
   "ddf1a1e2-b627-4cb5-a40a-a3ece40c609c/AutoInteract": {
    "addOnVersion": "185",
@@ -9464,20 +9450,6 @@
    "updatedAt": 1785861027,
    "version": "36"
   },
-  "f8bc38ae-b26d-4071-83f7-5987dbc4045f/SiphonZahl": {
-   "addOnVersion": "902",
-   "addonId": "f8bc38ae-b26d-4071-83f7-5987dbc4045f",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 12,
-   "folder": "SiphonZahl",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Test",
-   "updatedAt": 1793616246,
-   "version": "0.9.2"
-  },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d/RoaringOpportunist": {
    "addOnVersion": "020501",
    "addonId": "f8e59501-116b-422a-90e9-f57cf2dc7b9d",
@@ -9818,7 +9790,7 @@
    "folders": [
     "LibDebugLogger"
    ],
-   "version": "2.7.0"
+   "version": "2.7.1"
   },
   "033f7a4a-8918-4753-be5b-2874afa50230": {
    "folders": [
@@ -10664,7 +10636,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "1.9.6"
+   "version": "1.9.7"
   },
   "32111121-29be-4447-ba40-3c064d28680e": {
    "folders": [
@@ -11329,7 +11301,7 @@
    "folders": [
     "PlayerMascotHealth"
    ],
-   "version": "v2"
+   "version": "v4"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -11485,7 +11457,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "2.2.7"
+   "version": "2.4.4"
   },
   "656edbf4-6ad8-4faf-8bd8-25f06199c990": {
    "folders": [
@@ -11727,7 +11699,7 @@
    "folders": [
     "ObsidianHUD"
    ],
-   "version": "0.8.2"
+   "version": "0.8.3"
   },
   "75167780-fb8c-479c-86be-c0a208443b97": {
    "folders": [
@@ -12273,7 +12245,7 @@
    "folders": [
     "CraftMaterialAssistant"
    ],
-   "version": "1.0.14"
+   "version": "1.0.15"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347": {
    "folders": [
@@ -13198,7 +13170,7 @@
    "folders": [
     "TamrielCollectionsAntiquities"
    ],
-   "version": "V0.1.8"
+   "version": "v1.0.2"
   },
   "ce31d856-17b4-4951-9802-820df96527e2": {
    "folders": [
@@ -13520,12 +13492,6 @@
   "dda2c060-41fd-485e-b1f1-39c1b6f7ca6f": {
    "folders": [],
    "version": "1.1.0"
-  },
-  "dda5dca2-4511-4e45-9dd2-769c7eb40feb": {
-   "folders": [
-    "SimpleGroupDPS"
-   ],
-   "version": "1.6.2"
   },
   "ddf1a1e2-b627-4cb5-a40a-a3ece40c609c": {
    "folders": [
@@ -14034,12 +14000,6 @@
     "NGear"
    ],
    "version": "36"
-  },
-  "f8bc38ae-b26d-4071-83f7-5987dbc4045f": {
-   "folders": [
-    "SiphonZahl"
-   ],
-   "version": "0.9.2"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d": {
    "folders": [
