@@ -1348,6 +1348,7 @@ AoM.SuggestedCategories = {
 	["OneDungeon"] = "Graphic UI Mods",
 	["OneFrame"] = "Action Bar Mods",
 	["OneKey"] = "Miscellaneous",
+	["OneMap"] = "Map, Coords, Compasses",
 	["OneMorRockgrove"] = "Combat Mods",
 	["OnixMenuHUD"] = "Graphic UI Mods",
 	["OnixWorldmap"] = "Graphic UI Mods",
