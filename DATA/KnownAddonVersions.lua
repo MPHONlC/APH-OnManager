@@ -405,7 +405,7 @@ DailyAlchemy		1.5.2	1899	101050
 DailyAutoShare		4.6.3	1340	101042
 DailyCrab	3	3	4350	101048
 DailyCraftStatus		0.2.16	2510	101040
-DailyDeeds		1.8	4504	101051
+DailyDeeds		1.9	4504	101051
 DailyMail		v.1.1.2	4406	101050 101051
 DailyPledgeManager		1.2.9	4336	101050
 DailyProvisioning		1.5.3	1901	101038
@@ -822,7 +822,7 @@ InstantSwap		1.2	2987	100034
 InstaQ	1	1.2 Stable	4164	101046
 Inventory2	106	1.0.6	5009	101051
 InventoryAssistant		1.21.261002-beta	2015	101051
-InventoryCompanion	10500	1.5.0	4997	101051
+InventoryCompanion	10603	1.6.3	4997	101051
 InventoryManagerTESO		1.0.2	4071	101041
 InventoryPulse	1	1.0.0	5012	101051 101052
 InventoryUpkeep	1700	1.8.0.0	1045	101050 101051
@@ -996,7 +996,7 @@ MonsterSetShoulderCollector		1.4.5	2860	101041
 MoreColourfulGroupFrames	1	1	4607	101049
 MoreTargetInformation		3.49	1189	101048 101049
 MoreUI		2	3919	101044
-MountSwap		0.8.9	5025	101051
+MountSwap		0.8.11	5025	101051
 MountTracker		0.3.0	4362	101049 101048
 MountTrainingOverview	304	3.0.4	4422	101050
 Mousoboros	1	2026.08.07	4742	101050
@@ -1370,6 +1370,7 @@ SkillPointAlerts	129	1.29	3989	101050
 SkillStyleCycler	10403	1.4.3	4014	101051
 Skillstyles	20	2.0	4178	101050 101051
 SkillTags		1.2	4446	101047
+SkullIssue	1	1.0.0	5026	101044 101045
 SkyShards	1064	10.64	128	101047 101048
 SlashBindButtons		1.4.2	4626	101049
 Slasher	81	2.51	1887	101052 101051

@@ -1629,6 +1629,7 @@ AoM.SuggestedCategories = {
 	["SkillStyleCycler"] = "RolePlay",
 	["Skillstyles"] = "Plug-Ins & Patches",
 	["SkillTags"] = "DPS",
+	["SkullIssue"] = "Necromancer",
 	["SkyShards"] = "Map, Coords, Compasses",
 	["SlashBindButtons"] = "Graphic UI Mods",
 	["Slasher"] = "Utility Mods",
