@@ -14,6 +14,20 @@
    "updatedAt": 1792910297,
    "version": "1.3.0"
   },
+  "0308c3b9-4770-4548-939d-cc4550f58fcc/PBsReticle": {
+   "addOnVersion": "110",
+   "addonId": "0308c3b9-4770-4548-939d-cc4550f58fcc",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsReticle",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's Reticle",
+   "updatedAt": 1794030223,
+   "version": "1.1.0"
+  },
   "03172246-c90c-4b8b-9821-06a74a01ce96/ZoneMountSwitcher": {
    "addOnVersion": "110",
    "addonId": "03172246-c90c-4b8b-9821-06a74a01ce96",
@@ -3431,18 +3445,18 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "111",
+   "addOnVersion": "120",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 9,
    "folder": "PlayerMascotHealth",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1793975142,
-   "version": "v4"
+   "updatedAt": 1794042517,
+   "version": "v7"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -4290,13 +4304,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 23,
    "folder": "PBsLowestPriceFinder",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's LowestPriceFinder",
-   "updatedAt": 1793878341,
-   "version": "0.4.1"
+   "updatedAt": 1794029731,
+   "version": "0.5.1"
   },
   "72f77b51-a84a-492e-a266-4f7175a53a71/CallToArm": {
    "addOnVersion": "",
@@ -4659,8 +4673,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1794021200,
-   "version": "2.5"
+   "updatedAt": 1794031184,
+   "version": "2.9"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -4766,13 +4780,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 10,
+   "downloads": 13,
    "folder": "PBsHpsChecker",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's HpsChecker for AD Stalkers",
-   "updatedAt": 1793277051,
-   "version": "0.6.1"
+   "updatedAt": 1794032621,
+   "version": "0.6.4"
   },
   "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82/HelloGoodbye": {
    "addOnVersion": "",
@@ -5508,13 +5522,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 9,
    "folder": "PBsLowestPriceFinder",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's LowestPriceFinder(Beta)",
-   "updatedAt": 1793878318,
-   "version": "0.4.1"
+   "updatedAt": 1794029501,
+   "version": "0.5.1"
   },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f/BattleScrollsNameColours": {
    "addOnVersion": "17",
@@ -5867,18 +5881,18 @@
    "version": "1.0.8"
   },
   "9cf7a466-7ad1-4e05-b1d9-093450347229/PBsCompass": {
-   "addOnVersion": "100",
+   "addOnVersion": "120",
    "addonId": "9cf7a466-7ad1-4e05-b1d9-093450347229",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 9,
    "folder": "PBsCompass",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
-   "title": "PinkB's Compass for AD Stalkers",
-   "updatedAt": 1792567532,
-   "version": "1.0.0"
+   "title": "PinkB's Compass",
+   "updatedAt": 1794031098,
+   "version": "1.1.0"
   },
   "9d131435-84c4-4c6d-9d73-5e2ec6fa61b7/CrowdednESO": {
    "addOnVersion": "",
@@ -6166,13 +6180,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 30693,
+   "downloads": 36608,
    "folder": "PvPUA",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast",
    "title": "PvP UA!",
-   "updatedAt": 1792810182,
-   "version": "5.3"
+   "updatedAt": 1794026178,
+   "version": "5.4"
   },
   "a5490d07-2b02-4714-bf07-a18820977a3c/PvPTargetInfo": {
    "addOnVersion": "114",
@@ -7321,6 +7335,20 @@
    "title": "Furnishing Tracker",
    "updatedAt": 1783029496,
    "version": "1.0.18"
+  },
+  "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50/MyFontSwitcher": {
+   "addOnVersion": "",
+   "addonId": "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50",
+   "apiVersion": "101046",
+   "author": "BrutalCrime",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 0,
+   "folder": "MyFontSwitcher",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Eskiodoe's Font Switcher",
+   "updatedAt": 1794049870,
+   "version": "1.1"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -9822,6 +9850,12 @@
    ],
    "version": "1.3.0"
   },
+  "0308c3b9-4770-4548-939d-cc4550f58fcc": {
+   "folders": [
+    "PBsReticle"
+   ],
+   "version": "1.1.0"
+  },
   "03172246-c90c-4b8b-9821-06a74a01ce96": {
    "folders": [
     "ZoneMountSwitcher"
@@ -11341,9 +11375,9 @@
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a": {
    "folders": [
-    "PlayerMascotSheetTest"
+    "PlayerMascotHealth"
    ],
-   "version": "v6"
+   "version": "v7"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -11711,7 +11745,7 @@
    "folders": [
     "PBsLowestPriceFinder"
    ],
-   "version": "0.4.1"
+   "version": "0.5.1"
   },
   "72f77b51-a84a-492e-a266-4f7175a53a71": {
    "folders": [
@@ -11882,7 +11916,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "2.5"
+   "version": "2.9"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -11924,7 +11958,7 @@
    "folders": [
     "PBsHpsChecker"
    ],
-   "version": "0.6.1"
+   "version": "0.6.4"
   },
   "80a0dbcb-9e84-4f98-8d1d-d2fd78129f82": {
    "folders": [
@@ -12263,7 +12297,7 @@
    "folders": [
     "PBsLowestPriceFinder"
    ],
-   "version": "0.4.1"
+   "version": "0.5.1"
   },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f": {
    "folders": [
@@ -12421,7 +12455,7 @@
    "folders": [
     "PBsCompass"
    ],
-   "version": "1.0.0"
+   "version": "1.1.0"
   },
   "9d131435-84c4-4c6d-9d73-5e2ec6fa61b7": {
    "folders": [
@@ -12548,7 +12582,7 @@
    "folders": [
     "PvPUA"
    ],
-   "version": "5.3"
+   "version": "5.4"
   },
   "a5490d07-2b02-4714-bf07-a18820977a3c": {
    "folders": [
@@ -13063,6 +13097,12 @@
     "FurnishingTracker"
    ],
    "version": "1.0.18"
+  },
+  "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50": {
+   "folders": [
+    "MyFontSwitcher"
+   ],
+   "version": "1.1"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
