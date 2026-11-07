@@ -1885,6 +1885,7 @@ AoM.SuggestedCategories = {
 	["WerewolfTimerBar"] = "Utility Mods",
 	["WerewolfTrackersAndQOL"] = "Casting Bars, Cooldowns",
 	["WerrasGuildAddons"] = "Group, Guild & Friends",
+	["WhatDropsHere"] = "Data Mods",
 	["WhereIsMyOlorime"] = "Buff, Debuff, Spell",
 	["WheresMyGuildHall"] = "Homestead",
 	["WhiskersButterflyCounter"] = "Bags, Bank, Inventory",
