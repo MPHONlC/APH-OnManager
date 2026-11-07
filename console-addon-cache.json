@@ -1652,6 +1652,20 @@
    "updatedAt": 1789141773,
    "version": "1"
   },
+  "2baada60-80d6-4b37-b1d3-5f78ad7b2c5a/SimpleGroupDPS2": {
+   "addOnVersion": "",
+   "addonId": "2baada60-80d6-4b37-b1d3-5f78ad7b2c5a",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
+   "downloads": 1,
+   "folder": "SimpleGroupDPS2",
+   "isLibrary": "",
+   "optionalDependsOn": "BattleScrolls",
+   "title": "DontDownload",
+   "updatedAt": 1794076580,
+   "version": "1.9.16"
+  },
   "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc/PBsTargetPlayer": {
    "addOnVersion": "",
    "addonId": "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc",
@@ -3445,18 +3459,18 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "120",
+   "addOnVersion": "130",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 9,
+   "downloads": 11,
    "folder": "PlayerMascotHealth",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1794042517,
-   "version": "v7"
+   "updatedAt": 1794069197,
+   "version": "V8"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -3814,13 +3828,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibCombat2",
-   "downloads": 66,
+   "downloads": 76,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
    "optionalDependsOn": "LibCombat",
    "title": "Live Buff Uptime",
-   "updatedAt": 1793990806,
-   "version": "2.4.4"
+   "updatedAt": 1794069967,
+   "version": "2.4.9"
   },
   "656edbf4-6ad8-4faf-8bd8-25f06199c990/PBsFurnitureEditor": {
    "addOnVersion": "",
@@ -4315,16 +4329,16 @@
   "72f77b51-a84a-492e-a266-4f7175a53a71/CallToArm": {
    "addOnVersion": "",
    "addonId": "72f77b51-a84a-492e-a266-4f7175a53a71",
-   "apiVersion": "101051",
+   "apiVersion": "101051 101050",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 638,
+   "downloads": 859,
    "folder": "CallToArm",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibConsoleDialogs",
    "title": "Call To Arms",
-   "updatedAt": 1791646398,
-   "version": "1.1.6-T5c"
+   "updatedAt": 1794058617,
+   "version": "1.2.2"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b/LibConsoleDialogs": {
    "addOnVersion": "10004",
@@ -5725,20 +5739,6 @@
    "title": "Satchel Exchange",
    "updatedAt": 1785120364,
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
-  },
-  "97b7ad12-cdb2-4cf2-83b4-25c152e0d74f/SimpleGroupDPS": {
-   "addOnVersion": "",
-   "addonId": "97b7ad12-cdb2-4cf2-83b4-25c152e0d74f",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 2,
-   "folder": "SimpleGroupDPS",
-   "isLibrary": "",
-   "optionalDependsOn": "BattleScrolls",
-   "title": "DontDownload",
-   "updatedAt": 1794008679,
-   "version": "1.9.12"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
    "addOnVersion": "9",
@@ -7342,13 +7342,13 @@
    "apiVersion": "101046",
    "author": "BrutalCrime",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 0,
+   "downloads": 3,
    "folder": "MyFontSwitcher",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Eskiodoe's Font Switcher",
-   "updatedAt": 1794049870,
-   "version": "1.1"
+   "updatedAt": 1794053000,
+   "version": "1.2"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -7981,18 +7981,18 @@
    "version": "4.0.5.031"
   },
   "d2f38194-bd78-47b6-817f-71932b3a5c42/DM2_ParseFightStats": {
-   "addOnVersion": "31809",
+   "addOnVersion": "31811",
    "addonId": "d2f38194-bd78-47b6-817f-71932b3a5c42",
    "apiVersion": "101048 101047",
    "author": "Fredgu3",
    "dependsOn": "",
-   "downloads": 16510,
+   "downloads": 16838,
    "folder": "DM2_ParseFightStats",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibAddonMenu2 LibStub",
    "title": "DM2 Parse & Fight Stats",
-   "updatedAt": 1793817432,
-   "version": "3.18.9"
+   "updatedAt": 1794069878,
+   "version": "3.18.11"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557/LoreBooks": {
    "addOnVersion": "96",
@@ -10593,6 +10593,12 @@
    ],
    "version": "1"
   },
+  "2baada60-80d6-4b37-b1d3-5f78ad7b2c5a": {
+   "folders": [
+    "SimpleGroupDPS2"
+   ],
+   "version": "1.9.16"
+  },
   "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc": {
    "folders": [
     "PBsTargetPlayer"
@@ -11377,7 +11383,7 @@
    "folders": [
     "PlayerMascotHealth"
    ],
-   "version": "v7"
+   "version": "V8"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -11533,7 +11539,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "2.4.4"
+   "version": "2.4.9"
   },
   "656edbf4-6ad8-4faf-8bd8-25f06199c990": {
    "folders": [
@@ -11751,7 +11757,7 @@
    "folders": [
     "CallToArm"
    ],
-   "version": "1.1.6-T5c"
+   "version": "1.2.2"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b": {
    "folders": [
@@ -12384,12 +12390,6 @@
     "SatchelExchange"
    ],
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
-  },
-  "97b7ad12-cdb2-4cf2-83b4-25c152e0d74f": {
-   "folders": [
-    "SimpleGroupDPS"
-   ],
-   "version": "1.9.12"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214": {
    "folders": [
@@ -13102,7 +13102,7 @@
    "folders": [
     "MyFontSwitcher"
    ],
-   "version": "1.1"
+   "version": "1.2"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
@@ -13396,7 +13396,7 @@
     "DM2_ParseFightStats",
     "DM2_ParseFightStats"
    ],
-   "version": "3.18.9"
+   "version": "3.18.11"
   },
   "d324f223-1cd9-40d2-8e37-8cf302dde557": {
    "folders": [
