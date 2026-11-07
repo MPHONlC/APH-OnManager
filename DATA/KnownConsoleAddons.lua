@@ -188,7 +188,7 @@ EsoBR		1.3.1	101051	Tradução Português - ESOBR	frooke	2f8a0754-ae3b-42c9-ad8a
 ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4dbd3-8273-4fc3-8416-f6c79eeb76ab
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
-EsoPL		1.0.23	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
+EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
 esoReport		1.5.5	101051	eso Report	codeWarrior82	52e26019-7e65-4ad8-9af6-bfdf51ef2bce
 EsoTR		Rahaad1.0.6a	101049 101050 101051	Türkçe çeviri - ESOTR	XANTOSTR	56b19964-a32d-4e97-b922-6d446ff6b6fc
 EsoTR_Lite		RahaadLite1.0.4a	101049 101050 101051	Türkçe çeviri - ESOTR_Lite	XANTOSTR	b7f56e79-7bdd-41c5-89d4-a0b61b7719af
@@ -266,6 +266,7 @@ HouseHotkey	182	1.8.2	101050 101051	House Hotkey	saranicole1980	256dc81e-d505-4e
 HousingForge	1400	1.4.0	101050	Test suite 2	Tekatsu	e1fa49c2-830c-41dc-9927-0d013ba1f21d
 HousingFPSBooster	10102	1.1.3	101050 101051	Tetsu's Housing FPS Booster	Tetsurion	febdb84e-a3d4-46d5-b70c-e9b1e491be5f
 HousingVote	19	0.4.1	101050 101051	HousingVote	yodased-mods	f78047ed-9eb4-471b-953c-3fdab2282231
+HPSMeter	4	5.0.1 Bug fix	101047 101048	Bloom HPS	Vixen_Hunny	adeb7cae-c7d2-4f05-9f6b-398235624c33
 IAHelper		50.09	101050	Infinite Archive Helper	Gamer_sa22	fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8
 IFG		1.1.15	101049	IFG	FIG_BOT	869cd684-8dba-4750-bdf3-9b3be03ecdc6
 ImperialCityBossTimers	10400	5.0.0	101050 101051	Imperial City Boss Timers	ParanoidGaming	6684c311-afc5-48de-8ced-f86edbe863f1
@@ -441,6 +442,7 @@ PatronsLedger	100	2.2	101050	Patron's Ledger	svammy	e6627cb6-5e78-4443-86bc-4340
 PBsChatAssistant		1.31.0	101050 101051	PinkB's ChatAssistant	PinkBanther	416eb892-aa32-4a10-8d1a-7ba7cf27cedf
 PBsChatWindowCustomizer		1.3.2	101050 101051	PinkB's ChatWindowCustomizer	PinkBanther	095b24d1-d035-4472-ae1d-9da85c61cb99
 PBsClock		1.3.1	101050 101051	PinkB's Clock(Beta)	PinkBanther	61641950-b365-49c6-bb98-dff4fa7bcc01
+PBsCompanionAffinity	50	0.5.0	101050 101051	PinkB's CompanionAffinity	PinkBanther	8524a1bc-9aef-4585-a4b5-6b2c50c1675a
 PBsCompass	120	1.1.0	101050 101051	PinkB's Compass	PinkBanther	9cf7a466-7ad1-4e05-b1d9-093450347229
 PBsConsoleHudCustomizer		1.27.18	101050 101051	PinkB's ResourceAndSkillBarCustomizer	PinkBanther	51bd8b59-40b0-4e2f-b31d-527bb63f0bfc
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
@@ -479,7 +481,7 @@ PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a8
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
-PlayerMascotHealth	130	V8	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth	131	v9	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
@@ -501,7 +503,7 @@ PvPUAPatch		PvPUAPatch-5.6.1-2026-10-23T234227	101048 101049 101050 101051	PvP U
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
-queueNextWrit	100	1	101051 101052	queueNextWrit	Dack.Janiels	2ea327f5-7b87-49e2-a306-9e7ce0021db9
+queueNextWrit	300	3	101051 101052	queueNextWrit	Dack.Janiels	2ea327f5-7b87-49e2-a306-9e7ce0021db9
 RagsToRiches		1.6.3	101050 101051	Rags To Riches	SugaComa	67c87375-bbf1-4841-933b-9beec7f88155
 RainbowAOE		0.1.3	101050	Rainbow AOE	Alpha-AC	f74afae1-50fc-4e7f-8883-573992187a63
 rallyingCryTracker		1.1.0	101051	Rallying Cry Tracker	codeWarrior82	cec19621-d3f2-4b43-b391-5d028918cfb4
@@ -544,7 +546,7 @@ SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26
 SiegeReminder	110	2.0.31	101049 101050	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
 SimpleGroupDPS		1.9.14	101051	SimpleGroupDPS	FiNk3F13	31353ae2-3899-477e-935e-69f9756c9d60
-SimpleGroupDPS2		1.9.16	101051	DontDownload	FiNk3F13	2baada60-80d6-4b37-b1d3-5f78ad7b2c5a
+SimpleGroupDPS2		1.9.17	101051	DontDownload	FiNk3F13	2baada60-80d6-4b37-b1d3-5f78ad7b2c5a
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb

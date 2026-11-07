@@ -140,6 +140,20 @@
    "updatedAt": 1762972838,
    "version": "1.1.2"
   },
+  "04dfa0a7-6446-437f-a0ef-ee5a17d1fd07/PBsCompanionAffinity": {
+   "addOnVersion": "50",
+   "addonId": "04dfa0a7-6446-437f-a0ef-ee5a17d1fd07",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsCompanionAffinity",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's CompanionAffinity(Beta)",
+   "updatedAt": 1794089744,
+   "version": "0.5.0"
+  },
   "05de6273-f39c-4bd4-a38a-ee75245118af/CraftMaster": {
    "addOnVersion": "",
    "addonId": "05de6273-f39c-4bd4-a38a-ee75245118af",
@@ -622,13 +636,13 @@
    "apiVersion": "101051",
    "author": "tomkolp",
    "dependsOn": "",
-   "downloads": 3493,
+   "downloads": 3941,
    "folder": "EsoPL",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "EsoPL - Spolszczenie",
-   "updatedAt": 1790586550,
-   "version": "1.0.23"
+   "updatedAt": 1794087887,
+   "version": "1.0.24"
   },
   "11036cca-172c-4428-83fe-301cb496b33e/ImprovedAttributeBars": {
    "addOnVersion": "103000",
@@ -1658,13 +1672,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 1,
+   "downloads": 4,
    "folder": "SimpleGroupDPS2",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "DontDownload",
-   "updatedAt": 1794076580,
-   "version": "1.9.16"
+   "updatedAt": 1794086662,
+   "version": "1.9.17"
   },
   "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc/PBsTargetPlayer": {
    "addOnVersion": "",
@@ -1779,18 +1793,18 @@
    "version": "2.2"
   },
   "2ea327f5-7b87-49e2-a306-9e7ce0021db9/queueNextWrit": {
-   "addOnVersion": "100",
+   "addOnVersion": "300",
    "addonId": "2ea327f5-7b87-49e2-a306-9e7ce0021db9",
    "apiVersion": "101051 101052",
    "author": "Dack.Janiels",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 5,
    "folder": "queueNextWrit",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "queueNextWrit",
-   "updatedAt": 1793832588,
-   "version": "1"
+   "updatedAt": 1794087432,
+   "version": "3"
   },
   "2edefdf7-97a0-476e-98a0-f76c40976159/CombatFPSBooster": {
    "addOnVersion": "10505",
@@ -3459,18 +3473,18 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "130",
+   "addOnVersion": "131",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 11,
+   "downloads": 12,
    "folder": "PlayerMascotHealth",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1794069197,
-   "version": "V8"
+   "updatedAt": 1794091772,
+   "version": "v9"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -4969,6 +4983,20 @@
    "title": "DaveeKDR",
    "updatedAt": 1787792168,
    "version": "1"
+  },
+  "8524a1bc-9aef-4585-a4b5-6b2c50c1675a/PBsCompanionAffinity": {
+   "addOnVersion": "50",
+   "addonId": "8524a1bc-9aef-4585-a4b5-6b2c50c1675a",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsCompanionAffinity",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's CompanionAffinity",
+   "updatedAt": 1794089943,
+   "version": "0.5.0"
   },
   "853b60aa-f47b-4f79-bd43-88c1f37e8a9a/TurningTide": {
    "addOnVersion": "010101",
@@ -6495,6 +6523,20 @@
    "title": "Aerie's Cry Tracker",
    "updatedAt": 1791548129,
    "version": "1.2.9"
+  },
+  "adeb7cae-c7d2-4f05-9f6b-398235624c33/HPSMeter": {
+   "addOnVersion": "4",
+   "addonId": "adeb7cae-c7d2-4f05-9f6b-398235624c33",
+   "apiVersion": "101047 101048",
+   "author": "Vixen_Hunny",
+   "dependsOn": "LibFights>=10000",
+   "downloads": 711,
+   "folder": "HPSMeter",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
+   "title": "Bloom HPS",
+   "updatedAt": 1794090788,
+   "version": "5.0.1 Bug fix"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43/PBsLuaMemoryMonitor": {
    "addOnVersion": "",
@@ -9904,6 +9946,12 @@
    ],
    "version": "1.1.2"
   },
+  "04dfa0a7-6446-437f-a0ef-ee5a17d1fd07": {
+   "folders": [
+    "PBsCompanionAffinity"
+   ],
+   "version": "0.5.0"
+  },
   "053412e8-989a-4dce-9551-7011dc3096ac": {
    "folders": [],
    "version": "1.0.8"
@@ -10134,7 +10182,7 @@
    "folders": [
     "EsoPL"
    ],
-   "version": "1.0.23"
+   "version": "1.0.24"
   },
   "11036cca-172c-4428-83fe-301cb496b33e": {
    "folders": [
@@ -10597,7 +10645,7 @@
    "folders": [
     "SimpleGroupDPS2"
    ],
-   "version": "1.9.16"
+   "version": "1.9.17"
   },
   "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc": {
    "folders": [
@@ -10652,7 +10700,7 @@
    "folders": [
     "queueNextWrit"
    ],
-   "version": "1"
+   "version": "3"
   },
   "2edefdf7-97a0-476e-98a0-f76c40976159": {
    "folders": [
@@ -11383,7 +11431,7 @@
    "folders": [
     "PlayerMascotHealth"
    ],
-   "version": "V8"
+   "version": "v9"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -12042,6 +12090,12 @@
     "KDRTracker"
    ],
    "version": "1"
+  },
+  "8524a1bc-9aef-4585-a4b5-6b2c50c1675a": {
+   "folders": [
+    "PBsCompanionAffinity"
+   ],
+   "version": "0.5.0"
   },
   "853b60aa-f47b-4f79-bd43-88c1f37e8a9a": {
    "folders": [
@@ -12720,8 +12774,10 @@
    "version": "1.2.9"
   },
   "adeb7cae-c7d2-4f05-9f6b-398235624c33": {
-   "folders": [],
-   "version": "5.0.0 LibFights"
+   "folders": [
+    "HPSMeter"
+   ],
+   "version": "5.0.1 Bug fix"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43": {
    "folders": [

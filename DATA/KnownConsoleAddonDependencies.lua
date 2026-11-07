@@ -100,6 +100,7 @@ Hazel	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMen
 HodorReflexes	LibCombat2	LibCustomIcons	LibCustomNames	LibRadialMenu
 HouseHotkey	LibRadialMenu
 HousingForge	LibAddonMenu-2.0
+HPSMeter	LibAddonMenu-2.0
 IAHelper	LibDataShare
 InsatiableHungerBlocker	LibAddonMenu-2.0
 IsItTaunted	LibAddonMenu-2.0
@@ -166,6 +167,7 @@ OneMorRockgrove	Breadcrumbs
 PacketByteExporter	LibAddonMenu-2.0
 PBsChatWindowCustomizer	LibHarvensAddonSettings
 PBsClock	LibHarvensAddonSettings
+PBsCompanionAffinity	LibHarvensAddonSettings
 PBsCompass	LibHarvensAddonSettings
 PBsConsoleHudCustomizer	LibHarvensAddonSettings
 PBsCraftMaterialAssistant	LibHarvensAddonSettings
