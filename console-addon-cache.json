@@ -706,13 +706,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 4115,
+   "downloads": 4579,
    "folder": "AutoConsume",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "AutoConsume",
-   "updatedAt": 1792470658,
-   "version": "3.5"
+   "updatedAt": 1794023596,
+   "version": "3.6"
   },
   "1314f50c-ef2d-47b1-a8e8-18bf28416980/AldrensWorldEvents": {
    "addOnVersion": "",
@@ -1028,13 +1028,13 @@
    "apiVersion": "101050",
    "author": "Vixen_Hunny",
    "dependsOn": "",
-   "downloads": 1406,
+   "downloads": 1498,
    "folder": "ConsoleMetrics",
    "isLibrary": "",
-   "optionalDependsOn": "PvPCooldownTracker LibConsoleDialogs LibHarvensAddonSettings LMB",
+   "optionalDependsOn": "PvPCooldownTracker LibConsoleDialogs LibHarvensAddonSettings LibAddonMenu-2.0 LMB LibFights",
    "title": "Console Metrics",
-   "updatedAt": 1793630768,
-   "version": "6.1.0"
+   "updatedAt": 1794018156,
+   "version": "UI Fix"
   },
   "1f42735d-8e9b-47ab-a1a7-f70de8bef493/BeyondTheMap": {
    "addOnVersion": "15100",
@@ -1910,13 +1910,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 30,
+   "downloads": 31,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "SimpleGroupDPS",
-   "updatedAt": 1793981375,
-   "version": "1.9.7"
+   "updatedAt": 1794014393,
+   "version": "1.9.14"
   },
   "32111121-29be-4447-ba40-3c064d28680e/PowerLashTracker": {
    "addOnVersion": "1.0.0",
@@ -3444,6 +3444,20 @@
    "updatedAt": 1793975142,
    "version": "v4"
   },
+  "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
+   "addOnVersion": "1",
+   "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
+   "apiVersion": "101048 101049 101050 101051",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 7,
+   "folder": "PlayerMascotSheetTest",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Mascot",
+   "updatedAt": 1794021367,
+   "version": "v6"
+  },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
    "addonId": "5d612b95-1149-48f4-b359-2aaee406bd86",
@@ -3954,13 +3968,13 @@
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 2985,
+   "downloads": 3116,
    "folder": "RagsToRiches",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Rags To Riches",
-   "updatedAt": 1793737543,
-   "version": "1.5.12"
+   "updatedAt": 1794013996,
+   "version": "1.6.3"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374/LibNotification": {
    "addOnVersion": "15",
@@ -4318,13 +4332,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 2007,
+   "downloads": 2302,
    "folder": "VerticalBuffsDebuffs",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "VerticalBuffsDebuffs",
-   "updatedAt": 1792470713,
-   "version": "1.7"
+   "updatedAt": 1794024924,
+   "version": "1.9"
   },
   "747e5279-71c7-4d0b-8db8-5c7552b2ed65/DryzlerElderGeekNetLore": {
    "addOnVersion": "",
@@ -4640,13 +4654,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 5,
+   "downloads": 14,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1793853652,
-   "version": "1.3"
+   "updatedAt": 1794021200,
+   "version": "2.5"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -5095,6 +5109,20 @@
    "title": "Seamstress",
    "updatedAt": 1781386851,
    "version": "1.5.0b"
+  },
+  "8be171bd-c74f-44e8-811e-65bda3a42015/LibFights": {
+   "addOnVersion": "10000",
+   "addonId": "8be171bd-c74f-44e8-811e-65bda3a42015",
+   "apiVersion": "101047 101048",
+   "author": "Vixen_Hunny",
+   "dependsOn": "",
+   "downloads": 7,
+   "folder": "LibFights",
+   "isLibrary": "true",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings LibSets",
+   "title": "LibFights",
+   "updatedAt": 1794009046,
+   "version": "1.0.0"
   },
   "8c18ca98-8921-4bf3-b455-1d63b2f761e3/VCAP2": {
    "addOnVersion": "2204  ; Test build 5 - do not publish as stable",
@@ -5683,6 +5711,20 @@
    "title": "Satchel Exchange",
    "updatedAt": 1785120364,
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
+  },
+  "97b7ad12-cdb2-4cf2-83b4-25c152e0d74f/SimpleGroupDPS": {
+   "addOnVersion": "",
+   "addonId": "97b7ad12-cdb2-4cf2-83b4-25c152e0d74f",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
+   "downloads": 2,
+   "folder": "SimpleGroupDPS",
+   "isLibrary": "",
+   "optionalDependsOn": "BattleScrolls",
+   "title": "DontDownload",
+   "updatedAt": 1794008679,
+   "version": "1.9.12"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
    "addOnVersion": "9",
@@ -6707,18 +6749,18 @@
    "version": "Version 2.4.3.4"
   },
   "b3cb5c11-367d-4c6e-9868-4a0cb33b4fcb/PBsReticle": {
-   "addOnVersion": "100",
+   "addOnVersion": "110",
    "addonId": "b3cb5c11-367d-4c6e-9868-4a0cb33b4fcb",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 3,
    "folder": "PBsReticle",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's Reticle(Beta)",
-   "updatedAt": 1793952780,
-   "version": "1.0.0"
+   "updatedAt": 1793997774,
+   "version": "1.1.0"
   },
   "b57202fe-9b3a-4021-ad86-f2db8dfe0c5e/PairsWellWithCheese": {
    "addOnVersion": "029",
@@ -7477,18 +7519,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000108",
+   "addOnVersion": "01000109",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 17889,
+   "downloads": 18156,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1793937613,
-   "version": "1.0.108"
+   "updatedAt": 1794024013,
+   "version": "1.0.109"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -10102,7 +10144,7 @@
    "folders": [
     "AutoConsume"
    ],
-   "version": "3.5"
+   "version": "3.6"
   },
   "1314f50c-ef2d-47b1-a8e8-18bf28416980": {
    "folders": [
@@ -10251,7 +10293,7 @@
    "folders": [
     "ConsoleMetrics"
    ],
-   "version": "6.1.0"
+   "version": "UI Fix"
   },
   "1f42735d-8e9b-47ab-a1a7-f70de8bef493": {
    "folders": [
@@ -10636,7 +10678,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "1.9.7"
+   "version": "1.9.14"
   },
   "32111121-29be-4447-ba40-3c064d28680e": {
    "folders": [
@@ -11299,9 +11341,9 @@
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a": {
    "folders": [
-    "PlayerMascotHealth"
+    "PlayerMascotSheetTest"
    ],
-   "version": "v4"
+   "version": "v6"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -11529,7 +11571,7 @@
    "folders": [
     "RagsToRiches"
    ],
-   "version": "1.5.12"
+   "version": "1.6.3"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374": {
    "folders": [
@@ -11687,7 +11729,7 @@
    "folders": [
     "VerticalBuffsDebuffs"
    ],
-   "version": "1.7"
+   "version": "1.9"
   },
   "747e5279-71c7-4d0b-8db8-5c7552b2ed65": {
    "folders": [
@@ -11840,7 +11882,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "1.3"
+   "version": "2.5"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -12038,6 +12080,12 @@
     "Seamstress"
    ],
    "version": "1.5.0b"
+  },
+  "8be171bd-c74f-44e8-811e-65bda3a42015": {
+   "folders": [
+    "LibFights"
+   ],
+   "version": "1.0.0"
   },
   "8c18ca98-8921-4bf3-b455-1d63b2f761e3": {
    "folders": [
@@ -12302,6 +12350,12 @@
     "SatchelExchange"
    ],
    "version": "SatchelExchange-0.9.3-2026-07-26T194551"
+  },
+  "97b7ad12-cdb2-4cf2-83b4-25c152e0d74f": {
+   "folders": [
+    "SimpleGroupDPS"
+   ],
+   "version": "1.9.12"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214": {
    "folders": [
@@ -12633,7 +12687,7 @@
   },
   "adeb7cae-c7d2-4f05-9f6b-398235624c33": {
    "folders": [],
-   "version": "4.0.6"
+   "version": "5.0.0 LibFights"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43": {
    "folders": [
@@ -12757,7 +12811,7 @@
    "folders": [
     "PBsReticle"
    ],
-   "version": "1.0.0"
+   "version": "1.1.0"
   },
   "b57202fe-9b3a-4021-ad86-f2db8dfe0c5e": {
    "folders": [
@@ -13106,7 +13160,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.108"
+   "version": "1.0.109"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [

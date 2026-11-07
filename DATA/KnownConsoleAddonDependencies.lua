@@ -50,7 +50,7 @@ ChatBeGone	LibAddonMenu-2.0	LibChatMessage	LibHarvensAddonSettings	pChat	rChat
 ClearSight	LibHarvensAddonSettings
 CombatAlerts	LibAddonMenu-2.0
 CompanionPerkTracker	LibAddonMenu-2.0
-ConsoleMetrics	LMB	LibConsoleDialogs	LibHarvensAddonSettings	PvPCooldownTracker
+ConsoleMetrics	LMB	LibAddonMenu-2.0	LibConsoleDialogs	LibFights	LibHarvensAddonSettings	PvPCooldownTracker
 ContainerHighlighter	LibAddonMenu-2.0	LibQRCode
 ContainerVisitHide	LibAddonMenu-2.0
 CraftMaterialAssistant	LibResearch
@@ -117,6 +117,7 @@ LibCombat2	LibCombat	LibDebugLogger
 LibConsoleLogger	LibHarvensAddonSettings
 LibDateTime	Taneth
 LibDebugLogger	Taneth
+LibFights	LibAddonMenu-2.0	LibHarvensAddonSettings	LibSets
 LibGamepad	LibAddonMenu-2.0
 LibGroupBroadcast	Taneth
 LibGroupCombatStats	LibCombat2	LibDebugLogger
