@@ -362,7 +362,7 @@ CraftAutoLootUpgrade		1.0	4299	101047 101048
 CraftBagExtended		3.0.13	1419	101046 101047
 CraftCostCalculator		1.1.0	4731	101049
 CraftingBuildAlert		1.2.0	3246	101042 101043
-CraftingDailyNotification		1.0	4808	101050
+CraftingDailyNotification		1.2	4808	101051
 CraftingHouse		1.4	3492	101039 101040
 CraftingStations	45	1.19.7	668	101050
 CraftingStationSpCpDisplayNinja	2025031100	2.0	4007	101044 101045
@@ -824,7 +824,7 @@ Inventory2	106	1.0.6	5009	101051
 InventoryAssistant		1.21.261002-beta	2015	101051
 InventoryCompanion	10603	1.6.3	4997	101051
 InventoryManagerTESO		1.0.2	4071	101041
-InventoryPulse	1	1.0.0	5012	101051 101052
+InventoryPulse	2	1.0.1	5012	101051 101052
 InventoryUpkeep	1700	1.8.0.0	1045	101050 101051
 IsJustaBmuGamepadPlugin		1.4.2	3624	101042 101041
 IsJustaDeconCarriedList		3.3.2	2749	101041 101042
@@ -927,7 +927,7 @@ LootSanitizer	20	0.20.0	4189	101047
 LootTrackerSolution	1	1.0.40	3810	101040
 LoreBooks	108	108	288	101050 101051
 LorebooksColoredLibrary	1	4.1	3168	101040 101041
-LoreLibrary	1000104	1.0.104	4756	101051 101050
+LoreLibrary	1000109	1.0.109	4756	101051 101050
 LorePlay	10698	1.6.98-3	2523
 LoreTooltips		1.0.1	4460	101049
 LostTreasure	34	34	561	101049
