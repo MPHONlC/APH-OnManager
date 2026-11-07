@@ -25,7 +25,7 @@ AchievementInfo		4.17	350	101044
 AchievementPeek		1.0.0	4930	101051
 ActionBarLabels	1	1.0	4348	101048
 ActionBarSkillStyles	4	0.0.4	3928	101044
-ActionDurationReminder	31690	3.169	1536	101051 101052
+ActionDurationReminder	31700	3.170	1536	101051 101052
 ActivityFinderPlus		1.0.2	4676	101050
 ADawgsFlipWorthy	40	1.1.0	4563	101049 101050
 ADawgsGroupManager	137	1.1.1	4561	101049 101050
@@ -78,7 +78,7 @@ AlwaysLogging		v3.1.12.1.0	4081	101051 101050
 AM0RAutoInv	100	1.0.0 - Console	4170	101046
 AmIBlockingPlus		3.14	3929	101051
 Andy		1.1.1	4293	101048
-AnimatedActionBarPlus	3	2.0	4598	101050 101051
+AnimatedActionBarPlus	8	2.0	4598	101050 101051
 AntiAllCaps		1.1	3779	101045 101046
 AntiDismount	1	1.0.1	4570	101049
 AntiquitiesTracker	1	1.0	4172	101041
@@ -262,7 +262,7 @@ CameraMotion		2.00	4763	101050
 CampaignRewardTracker	10	1.0	3821	101040
 CanThisBeCraftedAtHome		2026.07.09	3966	101050
 CapybaraIcons	194	1.9.4	4176	101050 101051
-CaracBuffDebuff		1.9.1	5002	101051
+CaracBuffDebuff		1.9.3	5002	101051
 CaracVentes		1.1	4995	101051
 CardCombo	3	1.0.2	4512	101049 101050
 CarosLootList		3.14	2898	101046
@@ -507,7 +507,7 @@ EnchantPlus		1.1	4800	101051
 EndeavorAssistant		1.2	3936	101042
 EndeavorChatTracker		1.1.4	3274	101048
 EndeavorTracker		2.3.1	3154	101042 101043
-ESO_UA_GoA	107	47.65	4702	101049 101050 101051 101052
+ESO_UA_GoA	107	47.67	4702	101049 101050 101051 101052
 ESOAdventurerSuite	3725	0.29.790	4779	101050 101051
 EsoAR		2.4.2	4927	101050 101051
 EsoBR_Reforged		1.3.1	2256	101051
@@ -686,7 +686,7 @@ GroupModerationBlacklist		0.0.1	4880	101045
 GroupResources	56	0.10.0	1338	101048 101049
 GroupUserId	116	2026.07.09	2589	101055
 GrumpysLarcenistTracker		1.1.0	4531	101050
-GTA		2026.11.04	4590	101051 101052
+GTA		2026.11.07	4590	101051 101052
 GuardHelper		1.0.1	3553	101040
 GuardWarner	20250221	1.4.1	3590	101044
 GuildAdblockCustomized		1.0.2	4340
@@ -710,7 +710,8 @@ Guldgryden		0.5.2	4954	101051
 HARDCORE		1.5.1	4480	101051
 HardModeReminders	51	0.51	4310	101049 101050
 HarvensAliases		1.5.0	380	101046 101047
-HarvensCustomMapPins		3.4.2	357	101051 101052
+HarvensAllExperienceBars		2.8.5	467	101051 101052
+HarvensCustomMapPins		3.4.3	357	101051 101052
 HarvensCustomMapPinsWorld		0.5.1	4018	101048 101049
 HarvensExtraIcons		1.0.1	4939	101051
 HarvensImprovedSkillsWindow		2.0.13	489	101046 101047
@@ -905,7 +906,7 @@ LeoTrainer	223	2.2.3	2162	100035
 LesserIcons	10	1.0	4231	101047
 LetsTalkLater		0.1.4	4304	101049
 LibGuildHistory		2.0	1423	100015 1000016
-LibVotansAddonList	11000	1.10.0	2094	101045 101046
+LibVotansAddonList	11001	1.10.1	2094	101051 101052
 LightsOut		2.1.0	4550	101049
 LinkstoRuFonts		1.0.6	3830	101049 101050
 LiveAchiever		1.0.4	4339	101048
@@ -1258,7 +1259,7 @@ RewardPopupsReworked	10008	1.8	4694	101050 101051
 RewardsTracker	84	0.8.4	2864	101048
 RhalyfsKeybindings		1.1	1147	101049 101050
 Rhythmos		1.0	4586	101046
-RidinDirty		2026.11.04	3560	101051 101052
+RidinDirty		2026.11.07	3560	101051 101052
 RidingSchool	26	1.4.22	2491	101052 101051
 RipFilter	75	0.75	1844	101040
 RiptideTracker		1.3	3663	101039 101040
@@ -1585,10 +1586,10 @@ VotansCollectibleMRU		1.0.5	2503	101042 101043
 VotansCraglornDungeonCodes		1.0.5	3529	101043 101044
 VotansDarkerNights		1.1.1	1558	101045 101046
 VotanSearchBox		1.9.7	914	101043 101044
-VotansFisherman		1.16.3	918	101046 101047
-VotansFishermanExport		1.16.3	918	101044 101045
+VotansFisherman		1.16.4	918	101051 101052
+VotansFishermanExport		1.16.4	918	101051 101052
 VotansFishFillet		1.6.5	958	101042 101043
-VotansGroupPins		1.2.19	1619	101044 101045
+VotansGroupPins		1.3.0	1619	101051 101052
 VotansImprovedHouseTours		1.0.2	3950	101048 101049
 VotansImprovedLocations		1.23.7	1096	101051 101052
 VotansImprovedOutfit		1.4.6	1921	101050 101051
@@ -1597,7 +1598,7 @@ VotansImprovedQuests		1.3.2	1523	101041 101042
 VotansImprovedSetsBook		1.2.4	2885	101044 101045
 VotansKeybinder		1.4.6	1174	101048 101049
 VotansLoreLibrarySearch		1.1.10	1248	101040 101041
-VotansMiniMap		2.2.2	1399	101050 101051
+VotansMiniMap		2.3.0	1399	101051 101052
 VotansQuickslotCopy		1.0.1	3447	101040 101041
 VotansRuneTooltips		1.4.8	915	101044 101045
 VotansSettingsMenu		1.6.1	1134	101050 101051

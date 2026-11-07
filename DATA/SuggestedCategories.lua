@@ -763,6 +763,7 @@ AoM.SuggestedCategories = {
 	["HARDCORE"] = "Miscellaneous",
 	["HardModeReminders"] = "Beta-version AddOns",
 	["HarvensAliases"] = "Utility Mods",
+	["HarvensAllExperienceBars"] = "Info, Plug-in Bars",
 	["HarvensCustomMapPins"] = "Map, Coords, Compasses",
 	["HarvensCustomMapPinsWorld"] = "Map, Coords, Compasses",
 	["HarvensExtraIcons"] = "Plug-Ins & Patches",

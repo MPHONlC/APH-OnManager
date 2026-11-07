@@ -94,7 +94,7 @@ LibDataPacker	1005000	v5	4082	101050	LibDataPacker	LibDataPacker
 LibDataShare	20250314	2025.03.14	3297	101044 101045	LibDataShare (deprecated)	LibDataShare
 LibDataStructures	20241206	2024.12.06	4001	101044	LibDataStructures	LibDataStructures
 LibDateTime	32	1.2.0	2277	101045 101046	LibDateTime	LDT
-LibDebugLogger	329	2.7.1	2275	101051 101052	LibDebugLogger	LDL
+LibDebugLogger	331	2.7.2	2275	101051 101052	LibDebugLogger	LDL
 LibDelayedHandler	2	0.0.2	2807	100033 100034	LibDelayedHandler	LibDelayedHandler
 LibDialog	127	1.27	1931	101039 101040	LibDialog	LibDialog
 LibDungeonFinder	120	1.2.0	4600	101049 101050	LibDungeonFinder	LibDungeonFinder
@@ -129,7 +129,7 @@ LibGuardArrow	100	1.0.1	3553	100036	LibGuardArrow	LibGuardArrow
 LibGuildRoster	104	1.0.4	2784	101049 101050	LibGuildRoster	LibGuildRoster
 LibGuildStore	105	3.8.34	2753	101049 101050	Master Merchant 3.0	LibGuildStore
 LibHandler	3	0.0.3	3156	101033 101034	LibHandler	LibHandler
-LibHarvensAddonSettings	20200	2.2.0	584	101050 101051	LibHarvensAddonSettings	LHAS
+LibHarvensAddonSettings	20201	2.2.1	584	101051 101052	LibHarvensAddonSettings	LHAS
 LibHistoire	1105	2.7.2	2817	101050 101051	LibHistoire	LibHistoire
 LibId64	28	1.0.1	3585	101045 101046	LibId64	LibId64
 LibImplex	24	24	4108	101049	LibImplex	LibImplex
