@@ -263,6 +263,7 @@ CampaignRewardTracker	10	1.0	3821	101040
 CanThisBeCraftedAtHome		2026.07.09	3966	101050
 CapybaraIcons	194	1.9.4	4176	101050 101051
 CaracBuffDebuff		1.9.4	5002	101051
+CaracTracker		1	5038	101051
 CaracVentes		1.2	4995	101051
 CardCombo	3	1.0.2	4512	101049 101050
 CarosLootList		3.14	2898	101046
@@ -491,7 +492,7 @@ DynamicFPS		0.1.2	3947	101043
 DynamicPotions		2.1.1	4300	101036
 DynamicStats	1	1.0.2	3917	101040
 DynamicTitleFlex		1.0.11	3445	101047
-EasyAddonSetting	30	2.14	5036	101049 101050
+EasyAddonSetting	31	2.14.1	5036	101049 101050
 EasyPTE	11	1.1	4209	101047
 EasyTravel	45	1.9.7	1454	101050
 EBPixartLiveStats	5	Version 1.0.4.1	4479	101049
@@ -748,8 +749,10 @@ HideChatMiniBar		1.1.1	3672	101047
 HideCompassDistances		1.0.3	4221	101047 101048
 HideCompassLabels		1.0		101040
 HideCompletedTomeChallenges		1.0	4811	101050
+HideFriendStatus		2026.11.08	5034	101045
 HideGroupNecro		1.5.1	3472	101047 101048
 HideLoginNotice		1.0.3	4248	101048
+HideMOTD		2026.11.07	5033	101045
 HidePlayerMapMarker		1.0.2	4249	101048
 HideResearchableIcon	112	1.1.2	5016	101051 101050
 HideReticleMounted		1.0.1	4332	101048
@@ -907,6 +910,7 @@ Leadz	10107	1.1.7	3771	101050
 LeoAltholic	1940	1.9.4	3596	101046 101047
 LeoTrainer	223	2.2.3	2162	100035
 LesserIcons	10	1.0	4231	101047
+LethalPVPInsights	264	1.9.74	5037	101047 101048
 LetsTalkLater		0.1.4	4304	101049
 LibGuildHistory		2.0	1423	100015 1000016
 LibVotansAddonList	11001	1.10.1	2094	101051 101052
@@ -1179,7 +1183,7 @@ PriceTooltipNote		1.1.2	3201	101043
 PriorityRecast	140	1.4	4655	101051
 PrismaticEmotes	10002	1.0.2	5004	101051
 ProblemSolved	1	1.0.1	4885	101050 101051
-Provinatus	4670	2.6.1	1943	101050
+Provinatus	4698	2.6.3	1943	101051
 ProvisioningWatcher		1	4448	101049
 PS5Buttons		1.0.0	4006	101044
 PTSAssistant	5	5	4352	101049

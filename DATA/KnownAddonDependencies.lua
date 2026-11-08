@@ -289,6 +289,7 @@ AoM.KnownAddonDependencies = {
 	["LeaderDistanceAlert"] = { "LibAddonMenu-2.0" },
 	["LeadsOrganizer"] = { "BeamMeUp", "LibAddonMenu-2.0" },
 	["LeoTrainer"] = { "DolgubonsLazyWritCreator", "FCOItemSaver", "PersonalAssistant" },
+	["LethalPVPInsights"] = { "LibAddonMenu-2.0", "LibChatMessage" },
 	["libAddonKeybinds"] = { "LibAddonMenu-2.0", "LibHarvensAddonSettings" },
 	["LibAddonMenu-2.0"] = { "LibDebugLogger", "LibHarvensAddonSettings", "LibStub" },
 	["LibAkaUtils"] = { "LibChatMessage" },
