@@ -202,7 +202,7 @@ Beltalowda		0.5.4	4395	101048 101049
 BetaScry		1.0.0	3783	101040
 BetterBGSounds		2.0	4807	101046
 BetterDungeonFinder	191	1.91	3824	101048 101049
-BetterGuard	28	2.8	3974	101050
+BetterGuard	29	2.9	3974	101051
 BetterScoreboard	8	4.2	3182	101044
 BetterStealthText		1.10	4039	101046 101047
 BetterSynergy		1.4	4029	101044
@@ -1623,7 +1623,7 @@ WerewolfRave		1.3.9	4739	101051
 WerewolfTimerBar	307	3.07	3814	101050 101051
 WerewolfTrackersAndQOL		1.1.1	4698	101050
 WerrasGuildAddons		1.0	3982	101044
-WhatDropsHere	2	0.2.0	5030	101051 101052
+WhatDropsHere	3	0.3.0	5030	101051 101052
 WhereIsMyOlorime		1.0.1	3680	101040
 WheresMyGuildHall	49	2.13.8	1757	101052 101051
 WhiskersButterflyCounter		1.2	4393	101042
