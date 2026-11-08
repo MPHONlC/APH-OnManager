@@ -186,7 +186,7 @@ Esoar		3212	101044	EsoAR	Lofand	6aa72f53-f802-446b-9be4-55671bec2726
 ESOAssistant	10008	1.0.8	101048 101049	ESO Assistant by ESO-hub.com	ESO-Hub	3b053cc9-5963-4eb9-96b7-de3d29a5fa8b
 EsoBR		1.3.1	101051	Tradução Português - ESOBR	frooke	2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5
 ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4dbd3-8273-4fc3-8416-f6c79eeb76ab
-ESOCompanionQRTest	6	0.2.4	101051	ESO Companion QR Test	Khazaril	95d71844-4b3c-4d6b-b4f1-15716d72792f
+ESOCompanionQRTest	7	0.3.0	101051	ESO Companion QR Test	Khazaril	95d71844-4b3c-4d6b-b4f1-15716d72792f
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -289,7 +289,7 @@ KhajiitVoice		4.2	101049	Speak Like Khajiit	YFNatey	8edcdae2-d71b-4fb8-b99c-7d1f
 KillCount	3100	new	101049 101050	Kill Count	Dreadazar	29b689fc-d75c-432c-adfa-691d46ddf847
 LazyAlchemyLearner	116.1	4	101051 101052	Beta Dolg Alch	Dolgubon	2711aec8-a92b-4dae-97c9-096e8d72bf16
 LazyConfirm		1.0.4	101045 101046	Lazy Confirm (and delete)	Dolgubon	8fbbe7ae-8178-4e35-9755-3cafefd42095
-LazyCrown	14	0.4.0	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
+LazyCrown	14	0.4.1	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
 LazyHorseFeed		1.0.5	101045 101046	Lazy Horse Trainer	Dolgubon	dd337340-e6c9-4835-8e50-ba68c7e949e4
 LazyOverlandChallenger		1.1	101051	Lazy Overland Challenger	Lykeion+	da61ba59-9a71-4945-9af6-c39f6b8fa393
 LCMDemo		1.1.7	101050 101051	LCM Demo	Fluazinam	e27e2f85-110a-4725-ab46-5f878649b8a3
@@ -452,7 +452,7 @@ PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Be
 PBsCyrodiilAlert		2.8.0	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsEmoteSynchronizer		0.1.0	101050 101051	PinkB's EmoteSynchronizer	PinkBanther	6b42fd29-e6c4-4aec-8f92-e5c54de4c28c
-PBsEquipmentChanger	4	0.4.0	101050 101051	PinkB's EquipmentChanger(Beta)	PinkBanther	da044120-ac5c-4f05-8e4b-9910b5df0568
+PBsEquipmentChanger	5	0.5.0	101050 101051	PinkB's EquipmentChanger(Beta)	PinkBanther	da044120-ac5c-4f05-8e4b-9910b5df0568
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.7	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
@@ -485,7 +485,7 @@ PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a8
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
-PlayerMascotHealth	133	V11	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth	134	V12	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
@@ -587,6 +587,7 @@ TamrielCollectionsFurnishingPlans	10000	V1.0.0	101051	Tamriel Collections - Arch
 TamrielCollectionsLorebooks	1100	v1.1.0	101051	Tamriel Collections - Archive Lore Books	MajesticMinxi	47c3cdf6-2b6c-4ace-99f9-f4c57bf852a3
 TamrielCollectionsMotifs	1101	V1.1.1	101051	Tamriel Collections - Archive Motifs	MajesticMinxi	103c35ee-3bbb-4f5c-9fd4-3e0f20c3d626
 TamrielCollectionsStylePages	1101	v1.1.1	101051	Tamriel Collections - Archive Style Pages	MajesticMinxi	c8ff27a5-4393-43c9-a816-b912384fdb2d
+TamrielHello	1	0.1.0	101051	Tamriel Hello	wildskiller	a3daf4c1-aa98-4c59-9eca-7832fa036029
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
 TamrielTextStudio		2.4.3	101051	Tamriel Text Studio	Lucky38Tech	a847021b-2ae6-4d43-81a4-9a8f3985f8b8
 TargetInfo		1.2.5	101049 101050 101051	TargetInfo	SugaComa	a8908085-8223-4986-ac34-5932bc2c5172
@@ -650,6 +651,7 @@ VerticalBuffsDebuffs		1.9	101048 101049 101050 101051	VerticalBuffsDebuffs	user5
 VestigeMirror		v1.0.1	101049	Vestige Mirror	Wrynch	76fce7e2-297a-472f-bdf6-3e80756e7e8c
 VotansFisherman		1.16.4	101051 101052	Votan's Fisherman	votan73	033f7a4a-8918-4753-be5b-2874afa50230
 VotansMiniMap		2.3.0	101051 101052	Votan's Minimap	votan73	afe5bbbc-a2e0-48de-965a-29eff222393f
+WardrobeShortcutHUD	2	0.1.1	101051	Wardrobe Shortcut HUD	wildskiller	bfec3ddc-e9fa-4766-a474-22cb11325ac7
 wardTracker		1.1.0	101050	Hardened Ward Tracker	codeWarrior82	268f4e04-0e98-4b2c-874e-c9da484f991e
 warHornTracker		1.4.7	101051	WarHorn Tracker	codeWarrior82	d978b81f-b679-4aa8-b9a2-6d1b0511c3b3
 warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-813e-c178bb11a1e5
