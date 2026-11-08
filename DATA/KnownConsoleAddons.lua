@@ -451,6 +451,7 @@ PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Be
 PBsCyrodiilAlert		2.8.0	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsEmoteSynchronizer		0.1.0	101050 101051	PinkB's EmoteSynchronizer	PinkBanther	6b42fd29-e6c4-4aec-8f92-e5c54de4c28c
+PBsEquipmentChanger	3	0.3.0	101050 101051	PinkB's EquipmentChanger(Beta)	PinkBanther	da044120-ac5c-4f05-8e4b-9910b5df0568
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.7	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
@@ -483,7 +484,7 @@ PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a8
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
-PlayerMascotHealth	132	V10	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth	133	V11	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e

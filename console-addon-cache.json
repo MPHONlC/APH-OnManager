@@ -3487,18 +3487,18 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "132",
+   "addOnVersion": "133",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 12,
+   "downloads": 14,
    "folder": "PlayerMascotHealth",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1794109613,
-   "version": "V10"
+   "updatedAt": 1794129749,
+   "version": "V11"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -8302,6 +8302,20 @@
    "updatedAt": 1773100202,
    "version": "0.1.2"
   },
+  "da044120-ac5c-4f05-8e4b-9910b5df0568/PBsEquipmentChanger": {
+   "addOnVersion": "3",
+   "addonId": "da044120-ac5c-4f05-8e4b-9910b5df0568",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "PBsEquipmentChanger",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's EquipmentChanger(Beta)",
+   "updatedAt": 1794137150,
+   "version": "0.3.0"
+  },
   "da37ddee-0a3a-403e-aee9-d45c9af8a488/DiabloFramesConsole": {
    "addOnVersion": "4",
    "addonId": "da37ddee-0a3a-403e-aee9-d45c9af8a488",
@@ -11461,7 +11475,7 @@
    "folders": [
     "PlayerMascotHealth"
    ],
-   "version": "V10"
+   "version": "V11"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -13595,6 +13609,12 @@
     "SurveySentinel"
    ],
    "version": "0.1.2"
+  },
+  "da044120-ac5c-4f05-8e4b-9910b5df0568": {
+   "folders": [
+    "PBsEquipmentChanger"
+   ],
+   "version": "0.3.0"
   },
   "da37ddee-0a3a-403e-aee9-d45c9af8a488": {
    "folders": [
