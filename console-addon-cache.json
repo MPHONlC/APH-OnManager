@@ -141,18 +141,18 @@
    "version": "1.1.2"
   },
   "04dfa0a7-6446-437f-a0ef-ee5a17d1fd07/PBsCompanionAffinity": {
-   "addOnVersion": "50",
+   "addOnVersion": "51",
    "addonId": "04dfa0a7-6446-437f-a0ef-ee5a17d1fd07",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 3,
    "folder": "PBsCompanionAffinity",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CompanionAffinity(Beta)",
-   "updatedAt": 1794089744,
-   "version": "0.5.0"
+   "updatedAt": 1794105973,
+   "version": "0.5.1"
   },
   "05de6273-f39c-4bd4-a38a-ee75245118af/CraftMaster": {
    "addOnVersion": "",
@@ -187,14 +187,14 @@
    "addonId": "06c46d53-3301-44b3-92fe-8d19165f5d93",
    "apiVersion": "101048",
    "author": "Vixen_Hunny",
-   "dependsOn": "LibCombat2 LibAddonMenu-2.0",
-   "downloads": 396,
+   "dependsOn": "LibAddonMenu-2.0",
+   "downloads": 476,
    "folder": "MyCombatText",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Vixen's Combat Text",
-   "updatedAt": 1775428521,
-   "version": "2.0.0 Performance and bug fix updates"
+   "updatedAt": 1794096691,
+   "version": "5.0.3"
   },
   "070110ba-7a49-4a58-8a9a-a164977f2835/CCSentinel": {
    "addOnVersion": "1",
@@ -545,6 +545,20 @@
    "title": "DLC Roulette",
    "updatedAt": 1793190995,
    "version": "1.1.3"
+  },
+  "0f87c2f6-55c7-4450-b93b-d6395ac2004d/KDStatTracker": {
+   "addOnVersion": "300",
+   "addonId": "0f87c2f6-55c7-4450-b93b-d6395ac2004d",
+   "apiVersion": "101048 101049 101050",
+   "author": "Vixen_Hunny",
+   "dependsOn": "",
+   "downloads": 1701,
+   "folder": "KDStatTracker",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings LibConsoleDialogs",
+   "title": "KDStatTracker",
+   "updatedAt": 1794096240,
+   "version": "4.0.0"
   },
   "0fa32336-8528-4747-9b01-ccba9408f654/LibMediaProvider": {
    "addOnVersion": "39",
@@ -1023,18 +1037,18 @@
    "version": "1.0.0"
   },
   "1e6ecfd4-9947-49dc-9392-c5fab2256ab2/Rebar": {
-   "addOnVersion": "",
+   "addOnVersion": "70",
    "addonId": "1e6ecfd4-9947-49dc-9392-c5fab2256ab2",
    "apiVersion": "101044",
    "author": "Vixen_Hunny",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 1009,
+   "dependsOn": "LibAddonMenu-2.0>=32",
+   "downloads": 1132,
    "folder": "Rebar",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Rebar",
-   "updatedAt": 1773882788,
-   "version": "REBAR 3.0.0"
+   "updatedAt": 1794096390,
+   "version": "REBAR"
   },
   "1e746db5-8418-4a6f-9f17-4449e0d7e3f0/TamrielMasterLedger": {
    "addOnVersion": "21683",
@@ -1677,8 +1691,8 @@
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "DontDownload",
-   "updatedAt": 1794086662,
-   "version": "1.9.17"
+   "updatedAt": 1794093804,
+   "version": "1.9.18"
   },
   "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc/PBsTargetPlayer": {
    "addOnVersion": "",
@@ -2689,18 +2703,18 @@
    "version": "CooldownTracker-1.1.1-2026-07-30T161733"
   },
   "47568dd9-5328-4e2a-9862-c59932473a4b/DuelResults": {
-   "addOnVersion": "2.1",
+   "addOnVersion": "300",
    "addonId": "47568dd9-5328-4e2a-9862-c59932473a4b",
    "apiVersion": "101046",
    "author": "Vixen_Hunny",
-   "dependsOn": "LibAddonMenu-2.0 LibCombat2",
-   "downloads": 166,
+   "dependsOn": "",
+   "downloads": 182,
    "folder": "DuelResults",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Duel Results",
-   "updatedAt": 1772066764,
-   "version": "1.0.0"
+   "updatedAt": 1794096484,
+   "version": "2.0.0"
   },
   "475ce77b-6d09-4c75-8c28-95fff8f907c9/NQOL-dev": {
    "addOnVersion": "366",
@@ -3473,7 +3487,7 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "131",
+   "addOnVersion": "132",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
@@ -3483,8 +3497,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1794091772,
-   "version": "v9"
+   "updatedAt": 1794109613,
+   "version": "V10"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -4200,6 +4214,20 @@
    "updatedAt": 1786001314,
    "version": "1.5"
   },
+  "6cd30839-4c49-4d59-bf0f-760ff2605ab8/GroupUltimateReadyTracker": {
+   "addOnVersion": "223",
+   "addonId": "6cd30839-4c49-4d59-bf0f-760ff2605ab8",
+   "apiVersion": "101051",
+   "author": "DaveeMafiaa",
+   "dependsOn": "LibGroupCombatStats",
+   "downloads": 18,
+   "folder": "GroupUltimateReadyTracker",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Group ulti Tracker",
+   "updatedAt": 1794107385,
+   "version": "19"
+  },
   "6efaaa07-4ad5-48db-bda4-46d60c31b7cd/BlackroseEscapePlan": {
    "addOnVersion": "",
    "addonId": "6efaaa07-4ad5-48db-bda4-46d60c31b7cd",
@@ -4635,18 +4663,18 @@
    "version": "1.6.0"
   },
   "7a48fb7e-4903-4ff4-8d74-c6050c85363a/BetterEffectViewer": {
-   "addOnVersion": "",
+   "addOnVersion": "20",
    "addonId": "7a48fb7e-4903-4ff4-8d74-c6050c85363a",
    "apiVersion": "101048",
    "author": "Vixen_Hunny",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 1019,
+   "dependsOn": "",
+   "downloads": 1151,
    "folder": "BetterEffectViewer",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Vixen's Effect Viewer",
-   "updatedAt": 1774125087,
-   "version": "4.0.0"
+   "updatedAt": 1794096696,
+   "version": "5.0.0"
   },
   "7b383e7f-a85f-491d-b950-dffc87bcec10/ArchdruidTracker": {
    "addOnVersion": "010101",
@@ -4985,18 +5013,18 @@
    "version": "1"
   },
   "8524a1bc-9aef-4585-a4b5-6b2c50c1675a/PBsCompanionAffinity": {
-   "addOnVersion": "50",
+   "addOnVersion": "51",
    "addonId": "8524a1bc-9aef-4585-a4b5-6b2c50c1675a",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 1,
    "folder": "PBsCompanionAffinity",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CompanionAffinity",
-   "updatedAt": 1794089943,
-   "version": "0.5.0"
+   "updatedAt": 1794105944,
+   "version": "0.5.1"
   },
   "853b60aa-f47b-4f79-bd43-88c1f37e8a9a/TurningTide": {
    "addOnVersion": "010101",
@@ -7589,18 +7617,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000109",
+   "addOnVersion": "01000110",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 18156,
+   "downloads": 18458,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1794024013,
-   "version": "1.0.109"
+   "updatedAt": 1794110414,
+   "version": "1.0.110"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -9950,7 +9978,7 @@
    "folders": [
     "PBsCompanionAffinity"
    ],
-   "version": "0.5.0"
+   "version": "0.5.1"
   },
   "053412e8-989a-4dce-9551-7011dc3096ac": {
    "folders": [],
@@ -9976,7 +10004,7 @@
    "folders": [
     "MyCombatText"
    ],
-   "version": "2.0.0 Performance and bug fix updates"
+   "version": "5.0.3"
   },
   "070110ba-7a49-4a58-8a9a-a164977f2835": {
    "folders": [
@@ -10139,8 +10167,10 @@
    "version": "1.1.3"
   },
   "0f87c2f6-55c7-4450-b93b-d6395ac2004d": {
-   "folders": [],
-   "version": "3.0.0"
+   "folders": [
+    "KDStatTracker"
+   ],
+   "version": "4.0.0"
   },
   "0fa32336-8528-4747-9b01-ccba9408f654": {
    "folders": [
@@ -10363,7 +10393,7 @@
    "folders": [
     "Rebar"
    ],
-   "version": "REBAR 3.0.0"
+   "version": "REBAR"
   },
   "1e746db5-8418-4a6f-9f17-4449e0d7e3f0": {
    "folders": [
@@ -10645,7 +10675,7 @@
    "folders": [
     "SimpleGroupDPS2"
    ],
-   "version": "1.9.17"
+   "version": "1.9.18"
   },
   "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc": {
    "folders": [
@@ -11083,7 +11113,7 @@
    "folders": [
     "DuelResults"
    ],
-   "version": "1.0.0"
+   "version": "2.0.0"
   },
   "475ce77b-6d09-4c75-8c28-95fff8f907c9": {
    "folders": [
@@ -11431,7 +11461,7 @@
    "folders": [
     "PlayerMascotHealth"
    ],
-   "version": "v9"
+   "version": "V10"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -11739,6 +11769,12 @@
    ],
    "version": "1.5"
   },
+  "6cd30839-4c49-4d59-bf0f-760ff2605ab8": {
+   "folders": [
+    "GroupUltimateReadyTracker"
+   ],
+   "version": "19"
+  },
   "6efaaa07-4ad5-48db-bda4-46d60c31b7cd": {
    "folders": [
     "BlackroseEscapePlan"
@@ -11945,7 +11981,7 @@
    "folders": [
     "BetterEffectViewer"
    ],
-   "version": "4.0.0"
+   "version": "5.0.0"
   },
   "7b383e7f-a85f-491d-b950-dffc87bcec10": {
    "folders": [
@@ -12095,7 +12131,7 @@
    "folders": [
     "PBsCompanionAffinity"
    ],
-   "version": "0.5.0"
+   "version": "0.5.1"
   },
   "853b60aa-f47b-4f79-bd43-88c1f37e8a9a": {
    "folders": [
@@ -13256,7 +13292,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.109"
+   "version": "1.0.110"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13468,7 +13504,7 @@
   },
   "d36d2963-900c-4bb1-9f66-05f4d480a763": {
    "folders": [],
-   "version": "1.4.2"
+   "version": "2.0.0"
   },
   "d38d1fe9-e738-4036-9d0d-baeaa4ebbe2e": {
    "folders": [

@@ -38,6 +38,7 @@ BackBarTimer	LibHarvensAddonSettings
 BattleScrollsNameColours	LibHarvensAddonSettings
 BattleStats	LibHarvensAddonSettings
 BeamMeUp	BanditsUserInterface	LibChatMenuButton	LibCustomMenu	LibMapPing	LibSets	LibSlashCommander	MorrowindStyleUI	PortToFriendsHouse
+BetterEffectViewer	LibAddonMenu-2.0
 BoostTimer	LibAddonMenu-2.0
 BuildForge	LibAddonMenu-2.0
 CadenceCoach	LibHarvensAddonSettings
@@ -69,6 +70,7 @@ DolgubonsLazySetCrafter	LibCustomMenu	LibFeedback	LibPrice	LibStub	pChat
 DolgubonsLazyWritCreator	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
 DolmenRunner	LibHarvensAddonSettings
 DryzlerElderGeekNetLore	LibMOTD
+DuelResults	LibAddonMenu-2.0
 DWAllianceRankProgress	LibHarvensAddonSettings
 ESO_BuildForge	LibAddonMenu-2.0
 EsoAR	LibAddonMenu-2.0	LibHarvensAddonSettings
@@ -106,6 +108,7 @@ InsatiableHungerBlocker	LibAddonMenu-2.0
 IsItTaunted	LibAddonMenu-2.0
 JumpToSearch	LibConsoleLogger
 KDRTracker	LibHarvensAddonSettings
+KDStatTracker	LibAddonMenu-2.0	LibConsoleDialogs	LibHarvensAddonSettings
 KhajiitFengShui	LuiExtended
 LazyAlchemyLearner	LibPrice
 LazyCrown	LibGroupCombatStats	LibHarvensAddonSettings
