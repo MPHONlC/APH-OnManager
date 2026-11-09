@@ -5699,18 +5699,18 @@
    "version": "1.3.6"
   },
   "95d71844-4b3c-4d6b-b4f1-15716d72792f/ESOCompanionQRTest": {
-   "addOnVersion": "11",
+   "addOnVersion": "12",
    "addonId": "95d71844-4b3c-4d6b-b4f1-15716d72792f",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 9,
    "folder": "ESOCompanionQRTest",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "ESO Companion QR Test",
-   "updatedAt": 1794197646,
-   "version": "0.6.1"
+   "updatedAt": 1794206133,
+   "version": "0.6.2"
   },
   "96103ec3-3c4e-4865-be32-cc3b57df04d0/LibCombat2": {
    "addOnVersion": "8",
@@ -7462,20 +7462,6 @@
    "updatedAt": 1783029496,
    "version": "1.0.18"
   },
-  "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50/MyFontSwitcher": {
-   "addOnVersion": "",
-   "addonId": "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50",
-   "apiVersion": "101046",
-   "author": "BrutalCrime",
-   "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 3,
-   "folder": "MyFontSwitcher",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Eskiodoe's Font Switcher",
-   "updatedAt": 1794053000,
-   "version": "1.2"
-  },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
    "addonId": "c68c0503-c262-44d6-97a9-d2e8ee77ee72",
@@ -8359,18 +8345,18 @@
    "version": "0.1.2"
   },
   "da044120-ac5c-4f05-8e4b-9910b5df0568/PBsEquipmentChanger": {
-   "addOnVersion": "6",
+   "addOnVersion": "7",
    "addonId": "da044120-ac5c-4f05-8e4b-9910b5df0568",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 8,
    "folder": "PBsEquipmentChanger",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
-   "title": "PinkB's EquipmentChanger(Beta)",
-   "updatedAt": 1794190173,
-   "version": "0.6.0"
+   "title": "PinkB's EquipmentChanger with Yonechi(Beta)",
+   "updatedAt": 1794228005,
+   "version": "0.7.0"
   },
   "da37ddee-0a3a-403e-aee9-d45c9af8a488/DiabloFramesConsole": {
    "addOnVersion": "4",
@@ -12505,7 +12491,7 @@
    "folders": [
     "ESOCompanionQRTest"
    ],
-   "version": "0.6.1"
+   "version": "0.6.2"
   },
   "96103ec3-3c4e-4865-be32-cc3b57df04d0": {
    "folders": [
@@ -13278,12 +13264,6 @@
    ],
    "version": "1.0.18"
   },
-  "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50": {
-   "folders": [
-    "MyFontSwitcher"
-   ],
-   "version": "1.2"
-  },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
     "HealingBuffUptime"
@@ -13688,7 +13668,7 @@
    "folders": [
     "PBsEquipmentChanger"
    ],
-   "version": "0.6.0"
+   "version": "0.7.0"
   },
   "da37ddee-0a3a-403e-aee9-d45c9af8a488": {
    "folders": [
