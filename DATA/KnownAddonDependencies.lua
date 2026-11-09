@@ -568,6 +568,7 @@ AoM.KnownAddonDependencies = {
 	["WaypointIt"] = { "Destinations", "LibDebugLogger", "MapPins", "QuestMap", "SimpleSkyshards" },
 	["WealthEvaluator"] = { "LibPrice", "MasterMerchant" },
 	["WerewolfRave"] = { "LibAddonMenu-2.0" },
+	["WeylandHuntsmansWarmaskTracker"] = { "LibAddonMenu-2.0" },
 	["WeylandVampireStageTracker"] = { "LibAddonMenu-2.0" },
 	["WhatDropsHere"] = { "LibAddonMenu-2.0" },
 	["WingsOfWindGuildhall"] = { "LibAddonMenu-2.0" },
