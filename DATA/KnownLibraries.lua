@@ -85,9 +85,9 @@ LibCovetousCountess	103	1.03	3266	101049 101050	LibCovetousCountess	LibCovetousC
 LibCPieMenu	10503	1.5.3	3088	101041 101042	CShortcutPieMenu	LibCPieMenu
 LibCrypto	2	1.1	4010	101044	LibCrypto	LibCrypto
 LibCSA	210	2.30	1355	101040 101041	RaidNotifier Updated	LibCSA
-LibCustomIcons	20261102	2026-11-02	4161	101049 101050	LibCustomIcons	LCI
+LibCustomIcons	20261109	2026-11-09	4161	101049 101050	LibCustomIcons	LCI
 LibCustomMenu	730	7.3.0	1146	101044 101045	LibCustomMenu	LCM
-LibCustomNames	20261102	2026-11-02	4155	101049 101050	LibCustomNames	LCN
+LibCustomNames	20261109	2026-11-09	4155	101049 101050	LibCustomNames	LCN
 LibDailyReset	20	2.0	4424	101051	LibDailyReset	LibDailyReset
 LibDataEncode	2	2	3980	101044 101045	LibDataEncode	LibDataEncode
 LibDataPacker	1005000	v5	4082	101050	LibDataPacker	LibDataPacker
@@ -101,7 +101,7 @@ LibDungeonFinder	120	1.2.0	4600	101049 101050	LibDungeonFinder	LibDungeonFinder
 LibDynamicMail	24	0.2.4	4379	101050 101051	LibDynamicMail	LibDynamicMail
 LibEmote	1013	1.13	3715	101049	LibEmote	LibEmote
 LibEnchantingStation	234	2.3.5	2437	100033 100034	LibEnchantingStation	LibEnchantingStation
-LibEsoHubPrices	20	2026.11.02.02.54	4095	101051	LibEsoHubPrices	LibEsoHubPrices
+LibEsoHubPrices	20	2026.11.09.02.54	4095	101051	LibEsoHubPrices	LibEsoHubPrices
 LibEventHandler	1314	1.3.14	1452	101050 101051	LorePlay Forever	LibEventHandler
 LibExecutionQueue	202	3.8.34	2753	101049 101050	Master Merchant 3.0	LibExecutionQueue
 LibExoYsUtilities	9	9	3363	101049	LibExoYsUtilities	LibExoYsUtilities

@@ -184,7 +184,7 @@ BanditsGuildhall		1.7	3176	101040
 BanditsUserInterface		4.440	1643	101051
 BanditsUserInterfaceZHPatch		4.413	3909	101042
 BankDataExporter		1.0.3.1	3825	101046 101047
-Bankir		2.9.1	4535	101051
+Bankir		2.9.2	4535	101051
 BankManagerRevived		15.13	2333	101051 101050
 BankManagerTESO	1	1	4072	101041
 BannerTracker	1	1.0.5	4003	101044
