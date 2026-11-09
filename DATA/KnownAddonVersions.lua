@@ -307,7 +307,7 @@ Chronos	10400	1.4.0	3325	101051
 Chuhaister		1.2	4705	101050 101051
 CircularMinimap		2.0.1	1703	101045 101046
 CitizenAddon	1104	1.1.04	3799	101048
-CityLights	3	1.1.0	5031	101051 101050
+CityLights	4	1.1.1	5031	101051 101050
 ClankersWin	2	2	4846	101050 101051
 ClayladonsFriendStatus	10100	1.1.0	4855	101050 101051
 ClearChat		1.1.2	3633	101047
@@ -749,7 +749,6 @@ HideChatMiniBar		1.1.1	3672	101047
 HideCompassDistances		1.0.3	4221	101047 101048
 HideCompassLabels		1.0		101040
 HideCompletedTomeChallenges		1.0	4811	101050
-HideFriendStatus		2026.11.08	5034	101045
 HideGroupNecro		1.5.1	3472	101047 101048
 HideLoginNotice		1.0.3	4248	101048
 HideMOTD		2026.11.07	5033	101045
@@ -1628,8 +1627,8 @@ WerewolfRave		1.3.9	4739	101051
 WerewolfTimerBar	307	3.07	3814	101050 101051
 WerewolfTrackersAndQOL		1.1.1	4698	101050
 WerrasGuildAddons		1.0	3982	101044
-WeylandHuntsmansWarmaskTracker	10000	1.0.0	5040	101051
-WeylandVampireStageTracker	12001	1.2.1	5035	101051
+WeylandHuntsmansWarmaskTracker	10001	1.0.1	5040	101051
+WeylandVampireStageTracker	12002	1.2.2	5035	101051
 WhatDropsHere	3	0.3.0	5030	101051 101052
 WhereIsMyOlorime		1.0.1	3680	101040
 WheresMyGuildHall	49	2.13.8	1757	101052 101051
