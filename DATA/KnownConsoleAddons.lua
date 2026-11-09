@@ -186,7 +186,10 @@ Esoar		3212	101044	EsoAR	Lofand	6aa72f53-f802-446b-9be4-55671bec2726
 ESOAssistant	10008	1.0.8	101048 101049	ESO Assistant by ESO-hub.com	ESO-Hub	3b053cc9-5963-4eb9-96b7-de3d29a5fa8b
 EsoBR		1.3.1	101051	Tradução Português - ESOBR	frooke	2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5
 ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4dbd3-8273-4fc3-8416-f6c79eeb76ab
-ESOCompanionQRTest	12	0.6.2	101051	ESO Companion QR Test	Khazaril	95d71844-4b3c-4d6b-b4f1-15716d72792f
+ESOCCPPresets	1	1.0.0	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
+ESOCKeepMyCrafts	1	1.0.0	101051	Keep My Crafts	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
+ESOCMagesGuildLeveler	1	1.0.0	101051	Mages Guild Leveler	Khazaril	c51ec671-fa69-4605-a4b1-804af5ff45a8
+ESOCompanionQRTest	16	0.8.2	101051	ESO Companion QR Test	Khazaril	95d71844-4b3c-4d6b-b4f1-15716d72792f
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -451,7 +454,7 @@ PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Be
 PBsCyrodiilAlert		2.8.0	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsEmoteSynchronizer		0.1.0	101050 101051	PinkB's EmoteSynchronizer	PinkBanther	6b42fd29-e6c4-4aec-8f92-e5c54de4c28c
-PBsEquipmentChanger	7	0.7.0	101050 101051	PinkB's EquipmentChanger with Yonechi(Beta)	PinkBanther	da044120-ac5c-4f05-8e4b-9910b5df0568
+PBsEquipmentChanger	7	0.7.0	101050 101051	PinkB's EquipmentChanger with Yonechi	PinkBanther	18130d34-73cc-4a58-be8c-a9f9ba92d4ed
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.7	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
@@ -611,6 +614,7 @@ TitleLoop	1008	1.0.8	101050	Title Loop	Copper0	5e051775-8c73-4e96-bb6b-dcaa188dc
 TorigaCam		1.0.0	101050	TorigaCam	Master-Antonio	8c834a42-03cd-4110-8b81-7847f13944b6
 TorigaHUD		1.0.0	101050 101051	TorigaHUD	Master-Antonio	ac816501-4787-4c8b-942f-574aa8ea6c01
 TrackersByJH	1106	v2.3	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
+TradeQR	1	0.1.0	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
 TraderFilter		1.0.6	101043	TraderFilter	wh0c4r35ab0utth15	44df98e8-01a5-48d2-903d-41d3516f3289
 TradeSkills	12	1.0	101042	Trade Skills	Necis	6062f2e4-8b5a-48e5-9327-cf8de18eb5e5
 TraitCraft	243	2.4.3	101050 101051	TraitCraft	saranicole1980	6214b947-f6ff-4d1b-b443-987daf528ecb
