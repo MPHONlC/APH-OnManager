@@ -186,7 +186,7 @@ Esoar		3212	101044	EsoAR	Lofand	6aa72f53-f802-446b-9be4-55671bec2726
 ESOAssistant	10008	1.0.8	101048 101049	ESO Assistant by ESO-hub.com	ESO-Hub	3b053cc9-5963-4eb9-96b7-de3d29a5fa8b
 EsoBR		1.3.1	101051	Tradução Português - ESOBR	frooke	2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5
 ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4dbd3-8273-4fc3-8416-f6c79eeb76ab
-ESOCompanionQRTest	7	0.3.0	101051	ESO Companion QR Test	Khazaril	95d71844-4b3c-4d6b-b4f1-15716d72792f
+ESOCompanionQRTest	11	0.6.1	101051	ESO Companion QR Test	Khazaril	95d71844-4b3c-4d6b-b4f1-15716d72792f
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -315,7 +315,7 @@ LibConsoleLogger	400	LibConsoleLogger-0.4.0-2026-10-23T160515	101050	LibConsoleL
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea
-LibCustomNames	20261102	2026-11-02	101049 101050	LibCustomNames	m00nyONE	5eaa0d91-47f8-4c5e-8673-db3ab518a752
+LibCustomNames	20261109	2026-11-09	101049 101050	LibCustomNames	m00nyONE	5eaa0d91-47f8-4c5e-8673-db3ab518a752
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	329	2.7.1	101051 101052	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
@@ -366,7 +366,7 @@ LiveBuffUptime		2.4.9	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000110	1.0.110	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000111	1.0.111	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -414,7 +414,7 @@ MurfTreasures		1.2.7	101050 101051	Murf's Treasures	murphyx	4c4e9010-a3ef-435d-b
 MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08e4ae
 MyCombatText		5.0.3	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
-MyExtras		2.9	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
+MyExtras		3.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
 MyFontSwitcher		1.2	101046	Eskiodoe's Font Switcher	BrutalCrime	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
@@ -452,7 +452,7 @@ PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Be
 PBsCyrodiilAlert		2.8.0	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsEmoteSynchronizer		0.1.0	101050 101051	PinkB's EmoteSynchronizer	PinkBanther	6b42fd29-e6c4-4aec-8f92-e5c54de4c28c
-PBsEquipmentChanger	5	0.5.0	101050 101051	PinkB's EquipmentChanger(Beta)	PinkBanther	da044120-ac5c-4f05-8e4b-9910b5df0568
+PBsEquipmentChanger	6	0.6.0	101050 101051	PinkB's EquipmentChanger(Beta)	PinkBanther	da044120-ac5c-4f05-8e4b-9910b5df0568
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.7	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
@@ -651,7 +651,7 @@ VerticalBuffsDebuffs		1.9	101048 101049 101050 101051	VerticalBuffsDebuffs	user5
 VestigeMirror		v1.0.1	101049	Vestige Mirror	Wrynch	76fce7e2-297a-472f-bdf6-3e80756e7e8c
 VotansFisherman		1.16.4	101051 101052	Votan's Fisherman	votan73	033f7a4a-8918-4753-be5b-2874afa50230
 VotansMiniMap		2.3.0	101051 101052	Votan's Minimap	votan73	afe5bbbc-a2e0-48de-965a-29eff222393f
-WardrobeShortcutHUD	2	0.1.1	101051	Wardrobe Shortcut HUD	wildskiller	bfec3ddc-e9fa-4766-a474-22cb11325ac7
+WardrobeShortcutHUD	5	0.1.4	101051	Wardrobe Shortcut HUD	wildskiller	bfec3ddc-e9fa-4766-a474-22cb11325ac7
 wardTracker		1.1.0	101050	Hardened Ward Tracker	codeWarrior82	268f4e04-0e98-4b2c-874e-c9da484f991e
 warHornTracker		1.4.7	101051	WarHorn Tracker	codeWarrior82	d978b81f-b679-4aa8-b9a2-6d1b0511c3b3
 warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-813e-c178bb11a1e5
