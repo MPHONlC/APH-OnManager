@@ -2157,18 +2157,18 @@
    "version": "0.0.1"
   },
   "365347f8-e16a-45e1-9416-68b2cd63ad06/ESOCCPPresets": {
-   "addOnVersion": "1",
+   "addOnVersion": "5",
    "addonId": "365347f8-e16a-45e1-9416-68b2cd63ad06",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 7,
    "folder": "ESOCCPPresets",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "CP Presets",
-   "updatedAt": 1794238984,
-   "version": "1.0.0"
+   "updatedAt": 1794275755,
+   "version": "1.0.4"
   },
   "371fcd02-ae32-4937-a1d4-de4f33b01870/PBsMailerExtension": {
    "addOnVersion": "",
@@ -7519,18 +7519,18 @@
    "version": "1.0.18"
   },
   "c51ec671-fa69-4605-a4b1-804af5ff45a8/ESOCMagesGuildLeveler": {
-   "addOnVersion": "1",
+   "addOnVersion": "8",
    "addonId": "c51ec671-fa69-4605-a4b1-804af5ff45a8",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 9,
    "folder": "ESOCMagesGuildLeveler",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Mages Guild Leveler",
-   "updatedAt": 1794236869,
-   "version": "1.0.0"
+   "updatedAt": 1794288302,
+   "version": "1.2.5"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -7729,18 +7729,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000111",
+   "addOnVersion": "01000112",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 18737,
+   "downloads": 19009,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1794196813,
-   "version": "1.0.111"
+   "updatedAt": 1794283214,
+   "version": "1.0.112"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -11002,7 +11002,7 @@
    "folders": [
     "ESOCCPPresets"
    ],
-   "version": "1.0.0"
+   "version": "1.0.4"
   },
   "371fcd02-ae32-4937-a1d4-de4f33b01870": {
    "folders": [
@@ -13362,7 +13362,7 @@
    "folders": [
     "ESOCMagesGuildLeveler"
    ],
-   "version": "1.0.0"
+   "version": "1.2.5"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
@@ -13460,7 +13460,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.111"
+   "version": "1.0.112"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [

@@ -76,6 +76,7 @@ ESO_BuildForge	LibAddonMenu-2.0
 EsoAR	LibAddonMenu-2.0	LibHarvensAddonSettings
 ESOAssistant	LibDebugLogger
 EsoBR	LibHarvensAddonSettings
+ESOCMagesGuildLeveler	LibHarvensAddonSettings
 EsoKR	AdvancedNameplates
 EsoPL	LibHarvensAddonSettings
 EsoTR	LibHarvensAddonSettings

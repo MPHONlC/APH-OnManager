@@ -186,9 +186,9 @@ Esoar		3212	101044	EsoAR	Lofand	6aa72f53-f802-446b-9be4-55671bec2726
 ESOAssistant	10008	1.0.8	101048 101049	ESO Assistant by ESO-hub.com	ESO-Hub	3b053cc9-5963-4eb9-96b7-de3d29a5fa8b
 EsoBR		1.3.1	101051	Tradução Português - ESOBR	frooke	2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5
 ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4dbd3-8273-4fc3-8416-f6c79eeb76ab
-ESOCCPPresets	1	1.0.0	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
+ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
 ESOCKeepMyCrafts	1	1.0.0	101051	Keep My Crafts	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
-ESOCMagesGuildLeveler	1	1.0.0	101051	Mages Guild Leveler	Khazaril	c51ec671-fa69-4605-a4b1-804af5ff45a8
+ESOCMagesGuildLeveler	8	1.2.5	101051	Mages Guild Leveler	Khazaril	c51ec671-fa69-4605-a4b1-804af5ff45a8
 ESOCompanionQRTest	16	0.8.2	101051	ESO Companion QR Test	Khazaril	95d71844-4b3c-4d6b-b4f1-15716d72792f
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
@@ -369,7 +369,7 @@ LiveBuffUptime		2.4.9	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000111	1.0.111	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000112	1.0.112	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
