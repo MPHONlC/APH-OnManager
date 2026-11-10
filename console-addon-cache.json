@@ -1009,18 +1009,18 @@
    "version": "Beta"
   },
   "1a7bde87-8418-49dc-accc-d7b6cc6313bd/ESOCKeepMyCrafts": {
-   "addOnVersion": "1",
+   "addOnVersion": "6",
    "addonId": "1a7bde87-8418-49dc-accc-d7b6cc6313bd",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 4,
    "folder": "ESOCKeepMyCrafts",
    "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Keep My Crafts",
-   "updatedAt": 1794237387,
-   "version": "1.0.0"
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "Quartermaster",
+   "updatedAt": 1794330333,
+   "version": "2.3.1"
   },
   "1ac2188b-1200-476b-a90c-6561a7d3b52a/LibSideQuestPins": {
    "addOnVersion": "",
@@ -1707,34 +1707,6 @@
    "title": "CompanionPerkTracker",
    "updatedAt": 1789141773,
    "version": "1"
-  },
-  "2baada60-80d6-4b37-b1d3-5f78ad7b2c5a/SimpleGroupDPS": {
-   "addOnVersion": "",
-   "addonId": "2baada60-80d6-4b37-b1d3-5f78ad7b2c5a",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 6,
-   "folder": "SimpleGroupDPS",
-   "isLibrary": "",
-   "optionalDependsOn": "BattleScrolls",
-   "title": "DontDownload",
-   "updatedAt": 1794163523,
-   "version": "2.0.0"
-  },
-  "2baada60-80d6-4b37-b1d3-5f78ad7b2c5a/SimpleGroupDPS2": {
-   "addOnVersion": "",
-   "addonId": "2baada60-80d6-4b37-b1d3-5f78ad7b2c5a",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 4,
-   "folder": "SimpleGroupDPS2",
-   "isLibrary": "",
-   "optionalDependsOn": "BattleScrolls",
-   "title": "DontDownload",
-   "updatedAt": 1794093804,
-   "version": "1.9.18"
   },
   "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc/PBsTargetPlayer": {
    "addOnVersion": "",
@@ -2828,6 +2800,20 @@
    "updatedAt": 1793870032,
    "version": "v1.1.0"
   },
+  "47d6c0f1-6f87-46d0-b1a3-3b896b0e2d56/IWouldLikeAutoRunOnConsole": {
+   "addOnVersion": "1",
+   "addonId": "47d6c0f1-6f87-46d0-b1a3-3b896b0e2d56",
+   "apiVersion": "101048 101049 101050",
+   "author": "Vixen_Hunny",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "IWouldLikeAutoRunOnConsole",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
+   "title": "I Would Like Auto Run on Console",
+   "updatedAt": 1794318421,
+   "version": "1.0.0"
+  },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
    "addonId": "48762aef-8240-473f-aef5-17d1b5d5b9b6",
@@ -3557,18 +3543,18 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "134",
+   "addOnVersion": "136",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 15,
+   "downloads": 19,
    "folder": "PlayerMascotHealth",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1794179768,
-   "version": "V12"
+   "updatedAt": 1794304815,
+   "version": "v1.3.6"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -3926,13 +3912,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibCombat2",
-   "downloads": 76,
+   "downloads": 87,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
    "optionalDependsOn": "LibCombat",
    "title": "Live Buff Uptime",
-   "updatedAt": 1794069967,
-   "version": "2.4.9"
+   "updatedAt": 1794329942,
+   "version": "2.5.0"
   },
   "656edbf4-6ad8-4faf-8bd8-25f06199c990/PBsFurnitureEditor": {
    "addOnVersion": "",
@@ -4383,18 +4369,18 @@
    "version": "1.0.0.1"
   },
   "71f99aa0-341b-44fb-8b98-0dbda2a5b136/GamePadHelper": {
-   "addOnVersion": "10618",
+   "addOnVersion": "10619",
    "addonId": "71f99aa0-341b-44fb-8b98-0dbda2a5b136",
-   "apiVersion": "101049 101050",
+   "apiVersion": "101051",
    "author": "Delte",
    "dependsOn": "LibCovetousCountess>=103 LibItemLinkDecoder>=102 LibTraitResearch>=105",
-   "downloads": 4694,
+   "downloads": 5536,
    "folder": "GamePadHelper",
    "isLibrary": "",
    "optionalDependsOn": "TamrielTradeCentre LibPriceCache TSCPriceDataAPIXBNA TSCPriceDataAPIPSNA TSCPriceDataAPIXBEU TSCPriceDataAPIPSEU",
    "title": "GamePadHelper",
-   "updatedAt": 1786372338,
-   "version": "1.06.18"
+   "updatedAt": 1794326844,
+   "version": "1.06.19"
   },
   "72761e54-4d9a-471b-bd58-5dcec8942b9d/Destinations": {
    "addOnVersion": "3002",
@@ -4927,6 +4913,20 @@
    "title": "Hello, goodbye",
    "updatedAt": 1789824096,
    "version": "1.2.3"
+  },
+  "80e0a510-1882-45f4-9e0a-8ed6cdff9032/VampireStageReminder_v2": {
+   "addOnVersion": "",
+   "addonId": "80e0a510-1882-45f4-9e0a-8ed6cdff9032",
+   "apiVersion": "101049 101050 101051",
+   "author": "SugaComa",
+   "dependsOn": "",
+   "downloads": 1269,
+   "folder": "VampireStageReminder_v2",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "VampireStageReminder_v2",
+   "updatedAt": 1794305773,
+   "version": "2.1.4"
   },
   "80e548e3-0d72-47fa-9ef8-f6966b42ee75/Roomba": {
    "addOnVersion": "",
@@ -5670,6 +5670,20 @@
    "updatedAt": 1794029501,
    "version": "0.5.1"
   },
+  "927489b3-77bf-45d1-9b05-9d60e2102770/HeavyAttackTapTarget": {
+   "addOnVersion": "1",
+   "addonId": "927489b3-77bf-45d1-9b05-9d60e2102770",
+   "apiVersion": "101048 101049 101050",
+   "author": "Vixen_Hunny",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "HeavyAttackTapTarget",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
+   "title": "Heavy Attack Tap Marker",
+   "updatedAt": 1794319039,
+   "version": "1.0.0"
+  },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f/BattleScrollsNameColours": {
    "addOnVersion": "17",
    "addonId": "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f",
@@ -5753,20 +5767,6 @@
    "title": "Feeding Frenzy Tracker",
    "updatedAt": 1791760949,
    "version": "1.3.6"
-  },
-  "95d71844-4b3c-4d6b-b4f1-15716d72792f/ESOCompanionQRTest": {
-   "addOnVersion": "16",
-   "addonId": "95d71844-4b3c-4d6b-b4f1-15716d72792f",
-   "apiVersion": "101051",
-   "author": "Khazaril",
-   "dependsOn": "",
-   "downloads": 9,
-   "folder": "ESOCompanionQRTest",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "ESO Companion QR Test",
-   "updatedAt": 1794239061,
-   "version": "0.8.2"
   },
   "96103ec3-3c4e-4865-be32-cc3b57df04d0/LibCombat2": {
    "addOnVersion": "8",
@@ -6903,18 +6903,18 @@
    "version": "1.0.3"
   },
   "b3a44425-48ff-494d-bbfe-64c8be868720/PvPCooldownTracker": {
-   "addOnVersion": "111",
+   "addOnVersion": "121",
    "addonId": "b3a44425-48ff-494d-bbfe-64c8be868720",
    "apiVersion": "101046",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 9727,
+   "downloads": 10493,
    "folder": "PvPCooldownTracker",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PvPCooldownTracker",
-   "updatedAt": 1791581554,
-   "version": "22.0"
+   "updatedAt": 1794322494,
+   "version": "25.0"
   },
   "b3b32522-0ed3-419e-b20d-ef4b651bc013/702sCraftCompletionistList": {
    "addOnVersion": "",
@@ -7090,13 +7090,13 @@
    "apiVersion": "101050",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 69,
+   "downloads": 117,
    "folder": "StatsForNerds",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "StatsForNerds",
-   "updatedAt": 1785107317,
-   "version": "1.0.0 BETA"
+   "updatedAt": 1794323061,
+   "version": "2.0.0"
   },
   "b9e43d9e-2e7b-4530-941b-01e90bd15f5a/StoneTalker": {
    "addOnVersion": "010101",
@@ -7518,19 +7518,19 @@
    "updatedAt": 1783029496,
    "version": "1.0.18"
   },
-  "c51ec671-fa69-4605-a4b1-804af5ff45a8/ESOCMagesGuildLeveler": {
-   "addOnVersion": "8",
-   "addonId": "c51ec671-fa69-4605-a4b1-804af5ff45a8",
-   "apiVersion": "101051",
-   "author": "Khazaril",
-   "dependsOn": "",
-   "downloads": 9,
-   "folder": "ESOCMagesGuildLeveler",
+  "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50/MyFontSwitcher": {
+   "addOnVersion": "",
+   "addonId": "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50",
+   "apiVersion": "101046",
+   "author": "Eskiodoe",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 5,
+   "folder": "MyFontSwitcher",
    "isLibrary": "",
-   "optionalDependsOn": "LibHarvensAddonSettings",
-   "title": "Mages Guild Leveler",
-   "updatedAt": 1794288302,
-   "version": "1.2.5"
+   "optionalDependsOn": "",
+   "title": "Eskiodoe's Font Switcher",
+   "updatedAt": 1794331462,
+   "version": "1.0"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -7769,6 +7769,20 @@
    "title": "Under Pressure",
    "updatedAt": 1793857418,
    "version": "0.5.14"
+  },
+  "cbd43537-05b7-405f-b75d-511a3ceb083b/ESOCompanionQRTest": {
+   "addOnVersion": "17",
+   "addonId": "cbd43537-05b7-405f-b75d-511a3ceb083b",
+   "apiVersion": "101051",
+   "author": "Khazaril",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "ESOCompanionQRTest",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "ESO Companion",
+   "updatedAt": 1794304424,
+   "version": "0.9.0"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
    "addOnVersion": "",
@@ -10506,7 +10520,7 @@
    "folders": [
     "ESOCKeepMyCrafts"
    ],
-   "version": "1.0.0"
+   "version": "2.3.1"
   },
   "1ac2188b-1200-476b-a90c-6561a7d3b52a": {
    "folders": [
@@ -10808,12 +10822,6 @@
     "CompanionPerkTracker"
    ],
    "version": "1"
-  },
-  "2baada60-80d6-4b37-b1d3-5f78ad7b2c5a": {
-   "folders": [
-    "SimpleGroupDPS"
-   ],
-   "version": "2.0.0"
   },
   "2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc": {
    "folders": [
@@ -11287,6 +11295,12 @@
    ],
    "version": "v1.1.0"
   },
+  "47d6c0f1-6f87-46d0-b1a3-3b896b0e2d56": {
+   "folders": [
+    "IWouldLikeAutoRunOnConsole"
+   ],
+   "version": "1.0.0"
+  },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6": {
    "folders": [
     "LibAlchemy"
@@ -11611,7 +11625,7 @@
    "folders": [
     "PlayerMascotHealth"
    ],
-   "version": "V12"
+   "version": "v1.3.6"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -11767,7 +11781,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "2.4.9"
+   "version": "2.5.0"
   },
   "656edbf4-6ad8-4faf-8bd8-25f06199c990": {
    "folders": [
@@ -11967,7 +11981,7 @@
    "folders": [
     "GamePadHelper"
    ],
-   "version": "1.06.18"
+   "version": "1.06.19"
   },
   "72761e54-4d9a-471b-bd58-5dcec8942b9d": {
    "folders": [
@@ -12207,8 +12221,10 @@
    "version": "1.2.3"
   },
   "80e0a510-1882-45f4-9e0a-8ed6cdff9032": {
-   "folders": [],
-   "version": "2.0.23"
+   "folders": [
+    "VampireStageReminder_v2"
+   ],
+   "version": "2.1.4"
   },
   "80e548e3-0d72-47fa-9ef8-f6966b42ee75": {
    "folders": [
@@ -12545,6 +12561,12 @@
    ],
    "version": "0.5.1"
   },
+  "927489b3-77bf-45d1-9b05-9d60e2102770": {
+   "folders": [
+    "HeavyAttackTapTarget"
+   ],
+   "version": "1.0.0"
+  },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f": {
    "folders": [
     "BattleScrollsNameColours"
@@ -12580,12 +12602,6 @@
     "feedingFrenzyTracker"
    ],
    "version": "1.3.6"
-  },
-  "95d71844-4b3c-4d6b-b4f1-15716d72792f": {
-   "folders": [
-    "ESOCompanionQRTest"
-   ],
-   "version": "0.8.2"
   },
   "96103ec3-3c4e-4865-be32-cc3b57df04d0": {
    "folders": [
@@ -13087,7 +13103,7 @@
    "folders": [
     "PvPCooldownTracker"
    ],
-   "version": "22.0"
+   "version": "25.0"
   },
   "b3b32522-0ed3-419e-b20d-ef4b651bc013": {
    "folders": [
@@ -13169,7 +13185,7 @@
    "folders": [
     "StatsForNerds"
    ],
-   "version": "1.0.0 BETA"
+   "version": "2.0.0"
   },
   "b9e43d9e-2e7b-4530-941b-01e90bd15f5a": {
    "folders": [
@@ -13358,11 +13374,11 @@
    ],
    "version": "1.0.18"
   },
-  "c51ec671-fa69-4605-a4b1-804af5ff45a8": {
+  "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50": {
    "folders": [
-    "ESOCMagesGuildLeveler"
+    "MyFontSwitcher"
    ],
-   "version": "1.2.5"
+   "version": "1.0"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
@@ -13473,6 +13489,12 @@
     "UnderPressure"
    ],
    "version": "0.5.14"
+  },
+  "cbd43537-05b7-405f-b75d-511a3ceb083b": {
+   "folders": [
+    "ESOCompanionQRTest"
+   ],
+   "version": "0.9.0"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
    "folders": [

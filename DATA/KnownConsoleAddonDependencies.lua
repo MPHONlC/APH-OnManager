@@ -76,7 +76,8 @@ ESO_BuildForge	LibAddonMenu-2.0
 EsoAR	LibAddonMenu-2.0	LibHarvensAddonSettings
 ESOAssistant	LibDebugLogger
 EsoBR	LibHarvensAddonSettings
-ESOCMagesGuildLeveler	LibHarvensAddonSettings
+ESOCKeepMyCrafts	LibHarvensAddonSettings
+ESOCompanionQRTest	LibHarvensAddonSettings
 EsoKR	AdvancedNameplates
 EsoPL	LibHarvensAddonSettings
 EsoTR	LibHarvensAddonSettings
@@ -100,6 +101,7 @@ gorethiefTracker	LibNotify
 H8Ball	LibHarvensAddonSettings
 HarvestMapConsole	AUI	LibMapPins-1.0	MiniMap	VotansMiniMap
 Hazel	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
+HeavyAttackTapTarget	LibAddonMenu-2.0
 HodorReflexes	LibCombat2	LibCustomIcons	LibCustomNames	LibRadialMenu
 HouseHotkey	LibRadialMenu
 HousingForge	LibAddonMenu-2.0
@@ -107,6 +109,7 @@ HPSMeter	LibAddonMenu-2.0
 IAHelper	LibDataShare
 InsatiableHungerBlocker	LibAddonMenu-2.0
 IsItTaunted	LibAddonMenu-2.0
+IWouldLikeAutoRunOnConsole	LibAddonMenu-2.0
 JumpToSearch	LibConsoleLogger
 KDRTracker	LibHarvensAddonSettings
 KDStatTracker	LibAddonMenu-2.0	LibConsoleDialogs	LibHarvensAddonSettings
@@ -225,7 +228,6 @@ ShogrinUI	LibAddonMenu-2.0	LibSlashCommander
 ShowEquipped	LibHarvensAddonSettings
 SiegeReminder	LibHarvensAddonSettings
 SimpleGroupDPS	BattleScrolls
-SimpleGroupDPS2	BattleScrolls
 SimpleOffBalanceTracker	LibHarvensAddonSettings
 SkyShards	DebugLogViewer	LibDebugLogger
 SlayansBossTimer	LibChatMessage
@@ -256,6 +258,7 @@ UnchainedHelper	LibAddonMenu-2.0
 UniversalEffectTracker	LibHarvensAddonSettings	LibRadialMenu
 ValknarrTheme	LibAddonMenu-2.0	ValknarrUIE
 ValknarrUIE	LibHarvensAddonSettings	LibRadialMenu
+VampireStageReminder_v2	LibHarvensAddonSettings
 VaultCategories	LibConsoleLogger
 VCAP2	LibHarvensAddonSettings
 VotansFisherman	MiniMap	RareFishTracker	WaypointIt
