@@ -1126,13 +1126,13 @@
    "apiVersion": "101050",
    "author": "Vixen_Hunny",
    "dependsOn": "",
-   "downloads": 1498,
+   "downloads": 1642,
    "folder": "ConsoleMetrics",
    "isLibrary": "",
    "optionalDependsOn": "PvPCooldownTracker LibConsoleDialogs LibHarvensAddonSettings LibAddonMenu-2.0 LMB LibFights",
    "title": "Console Metrics",
-   "updatedAt": 1794018156,
-   "version": "UI Fix"
+   "updatedAt": 1794408387,
+   "version": "14.0.0"
   },
   "1f42735d-8e9b-47ab-a1a7-f70de8bef493/BeyondTheMap": {
    "addOnVersion": "15100",
@@ -2841,6 +2841,20 @@
    "title": "I Would Like Auto Run on Console",
    "updatedAt": 1794318421,
    "version": "1.0.0"
+  },
+  "47f8828e-c68c-4a8d-ba6f-69a87c8539b8/ScryersLedger": {
+   "addOnVersion": "",
+   "addonId": "47f8828e-c68c-4a8d-ba6f-69a87c8539b8",
+   "apiVersion": "101050 101051 101052",
+   "author": "SugaComa",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "ScryersLedger",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "Scryer\u2019s Ledger",
+   "updatedAt": 1794427852,
+   "version": "1.0.3"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -8350,13 +8364,13 @@
    "apiVersion": "101051",
    "author": "ZorrinoTV",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 3,
    "folder": "RolePlayMod",
    "isLibrary": "",
    "optionalDependsOn": "LibGPS",
    "title": "RolePlay Mod",
-   "updatedAt": 1794399406,
-   "version": "1.2.3-alpha.25-ps5.1"
+   "updatedAt": 1794403083,
+   "version": "1.2.3-alpha.25-ps5.2"
   },
   "d761d228-adae-40b7-8320-6e4504e2d2ec/PBsHudManager": {
    "addOnVersion": "",
@@ -10639,7 +10653,7 @@
    "folders": [
     "ConsoleMetrics"
    ],
-   "version": "UI Fix"
+   "version": "14.0.0"
   },
   "1f42735d-8e9b-47ab-a1a7-f70de8bef493": {
    "folders": [
@@ -11382,6 +11396,12 @@
     "IWouldLikeAutoRunOnConsole"
    ],
    "version": "1.0.0"
+  },
+  "47f8828e-c68c-4a8d-ba6f-69a87c8539b8": {
+   "folders": [
+    "ScryersLedger"
+   ],
+   "version": "1.0.3"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6": {
    "folders": [
@@ -13824,7 +13844,7 @@
    "folders": [
     "RolePlayMod"
    ],
-   "version": "1.2.3-alpha.25-ps5.1"
+   "version": "1.2.3-alpha.25-ps5.2"
   },
   "d761d228-adae-40b7-8320-6e4504e2d2ec": {
    "folders": [

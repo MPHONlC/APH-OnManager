@@ -140,7 +140,7 @@ CompanionRapport	221	3.0.0	101050	Companion Rapport	ParanoidGaming	1d8faf08-ce78
 ConsistentColours		0.0.2a	101048	Consistent Colours	Scribe_Rob	b0d2b98f-5e22-4809-a765-0398f6344350
 ConsoleCPQoL		1.01	101051	ConsoleCPQoL	thewizadt	751c7402-5cb7-4469-afc8-469584372b40
 ConsoleHideUI	100000	1.0.0	101049	Console Hide UI	code65536	89f44de6-a710-4680-8553-b1fc04735bbd
-ConsoleMetrics		UI Fix	101050	Console Metrics	Vixen_Hunny	1e7d3c7d-1680-4f93-b82c-8c4601d3b449
+ConsoleMetrics		14.0.0	101050	Console Metrics	Vixen_Hunny	1e7d3c7d-1680-4f93-b82c-8c4601d3b449
 ContainerHighlighter	651	14.12.651	101048	Adventures toolkit (Dev)	Tekatsu	e42700aa-3021-495e-9ff4-9e83377c9f99
 ContainerVisitHide	10000	1.0	101051 101050	Usable Containers	dicen9	9237369e-344f-4e5c-8966-b0f04b0be2c9
 CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker	clubwratt	4700c5de-fb02-411e-b563-1f326352b4ed
@@ -534,7 +534,7 @@ riposteTracker		1.0.6	101051	Riposte Tracker	codeWarrior82	491c3ac5-72b5-4579-80
 RoaringOpportunist	020501	2.5.1	101051	RoaringOpportunist	tmbrinks	f8e59501-116b-422a-90e9-f57cf2dc7b9d
 RockGroveAlkoshTimer		1.0.3	101048	RockGrove Alkosh Timer	Phamo1000	d8edb913-8af4-455a-939f-5bbd598eeff7
 RodZillaTraderStats	10	0.1.10	101050	RodZilla's Trader Stats	TeamRodZillaLLC	910cac85-d8d4-4788-949b-2954e8ee9215
-RolePlayMod		1.2.3-alpha.25-ps5.1	101051	RolePlay Mod	ZorrinoTV	d747dd7e-77c4-4e3c-9004-4d31188c184f
+RolePlayMod		1.2.3-alpha.25-ps5.2	101051	RolePlay Mod	ZorrinoTV	d747dd7e-77c4-4e3c-9004-4d31188c184f
 Rolodex	1	1.0	101050	Rolodex	dicen9	fba4016e-4c55-48b5-9f38-f169d2190581
 Roomba		2026.08.15	101050 101051	Roomba	Masteroshi430	80e548e3-0d72-47fa-9ef8-f6966b42ee75
 RotationHelper		1.0.52	101046 101047	Rotation Helper	RipleyZepher	183094f4-334c-48ea-abb9-14add7fbbbd7
@@ -546,6 +546,7 @@ SatuveXboxUI		2.0.4	101050 101051	Bandit Xbox UI	satuve	63900961-28c3-49d2-8576-
 SavedChatMessages		0.3.7	101047	Saved Chat Messages	ReliktKoala	b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277
 ScoreboardFixXbox	201	0.2.1	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46-49bb-a578-54569ddb865b
 ScreenshotModeEnhanced	10104	1.1.4	101051	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
+ScryersLedger		1.0.3	101050 101051 101052	Scryer’s Ledger	SugaComa	47f8828e-c68c-4a8d-ba6f-69a87c8539b8
 ScryMaster		1.0.1	101051	Skill Point Finder	TheGreyWolf98	427000e9-72c4-4fc9-b9b6-3cca4f863607
 Seamstress		1.5.0b	101049 101050	Seamstress	SugaComa	8bc4c7c2-ee0d-488d-a3b5-ecab07912f95
 SetTracker		0.3.0	101051	Set Perk Tracker	SugaComa	9e3a7462-c06e-4ee2-a7da-ac5279f979c8
