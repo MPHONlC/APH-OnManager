@@ -184,7 +184,7 @@ BanditsGuildhall		1.7	3176	101040
 BanditsUserInterface		4.440	1643	101051
 BanditsUserInterfaceZHPatch		4.413	3909	101042
 BankDataExporter		1.0.3.1	3825	101046 101047
-Bankir		2.9.2	4535	101051
+Bankir		2.9.3	4535	101051
 BankManagerRevived		15.13	2333	101051 101050
 BankManagerTESO	1	1	4072	101041
 BannerTracker	1	1.0.5	4003	101044
@@ -752,7 +752,7 @@ HideCompassLabels		1.0		101040
 HideCompletedTomeChallenges		1.0	4811	101050
 HideGroupNecro		1.5.1	3472	101047 101048
 HideLoginNotice		1.0.3	4248	101048
-HideMOTD		2026.11.07	5033	101045
+HideMOTD		26.11.11	5033	101045
 HidePlayerMapMarker		1.0.2	4249	101048
 HideResearchableIcon	112	1.1.2	5016	101051 101050
 HideReticleMounted		1.0.1	4332	101048
@@ -831,7 +831,7 @@ Inventory2	106	1.0.6	5009	101051
 InventoryAssistant		1.21.261002-beta	2015	101051
 InventoryCompanion	10603	1.6.3	4997	101051
 InventoryManagerTESO		1.0.2	4071	101041
-InventoryPulse	2	1.0.1	5012	101051 101052
+InventoryPulse	3	1.0.2	5012	101051 101052
 InventoryUpkeep	1700	1.8.0.0	1045	101050 101051
 IsJustaBmuGamepadPlugin		1.4.2	3624	101042 101041
 IsJustaDeconCarriedList		3.3.2	2749	101041 101042
@@ -910,7 +910,7 @@ Leadz	10107	1.1.7	3771	101050
 LeoAltholic	1940	1.9.4	3596	101046 101047
 LeoTrainer	223	2.2.3	2162	100035
 LesserIcons	10	1.0	4231	101047
-LethalPVPInsights	264	1.9.74	5037	101047 101048
+LethalPVPInsights	276	1.9.86	5037	101047 101048
 LetsTalkLater		0.1.4	4304	101049
 LibGuildHistory		2.0	1423	100015 1000016
 LibVotansAddonList	11001	1.10.1	2094	101051 101052
@@ -1626,12 +1626,12 @@ WeaveDelays	111	1.1.1	2657	101050
 Wegesruhe	201	2.0.1	4849	101050 101051
 WerewolfHelper		1.1	3832	101041
 WerewolfRave		1.3.9	4739	101051
-WerewolfTimerBar	307	3.07	3814	101050 101051
+WerewolfTimerBar	308	3.08	3814	101051 101052
 WerewolfTrackersAndQOL		1.1.1	4698	101050
 WerrasGuildAddons		1.0	3982	101044
 WeylandHuntsmansWarmaskTracker	10001	1.0.1	5040	101051
 WeylandVampireStageTracker	12002	1.2.2	5035	101051
-WhatDropsHere	3	0.3.0	5030	101051 101052
+WhatDropsHere	4	0.3.1	5030	101051 101052
 WhereIsMyOlorime		1.0.1	3680	101040
 WheresMyGuildHall	49	2.13.8	1757	101052 101051
 WhiskersButterflyCounter		1.2	4393	101042
