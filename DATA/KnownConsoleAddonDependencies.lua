@@ -98,10 +98,11 @@ GamepadHUDCustomizer	LibAddonMenu-2.0	LibHarvensAddonSettings
 GamepadInventoryTweaks	LibDebugLogger	LibGamepad
 GamepadUITweaks	LibGamepad
 gorethiefTracker	LibNotify
+GroupFrames	LibGroupBroadcast	LibGroupCombatStats	LibGroupResources
 H8Ball	LibHarvensAddonSettings
 HarvestMapConsole	AUI	LibMapPins-1.0	MiniMap	VotansMiniMap
 Hazel	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
-HeavyAttackTapTarget	LibAddonMenu-2.0
+HeavyAttackTapTarget	LibAddonMenu-2.0	LibGroupBroadcast
 HodorReflexes	LibCombat2	LibCustomIcons	LibCustomNames	LibRadialMenu
 HouseHotkey	LibRadialMenu
 HousingForge	LibAddonMenu-2.0

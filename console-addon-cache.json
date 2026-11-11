@@ -812,6 +812,20 @@
    "updatedAt": 1784469550,
    "version": "1.0.5"
   },
+  "145d6efe-63bc-46fb-bf64-f0bf0b063de0/AddKillCounter": {
+   "addOnVersion": "10304",
+   "addonId": "145d6efe-63bc-46fb-bf64-f0bf0b063de0",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 4,
+   "folder": "AddKillCounter",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "AddKillCounter",
+   "updatedAt": 1794353905,
+   "version": "1.3.4"
+  },
   "153e64a6-b621-4c91-b84a-c2ae48778142/Tauntless": {
    "addOnVersion": "6",
    "addonId": "153e64a6-b621-4c91-b84a-c2ae48778142",
@@ -911,18 +925,18 @@
    "version": "0.0.4a"
   },
   "18130d34-73cc-4a58-be8c-a9f9ba92d4ed/PBsEquipmentChanger": {
-   "addOnVersion": "7",
+   "addOnVersion": "8",
    "addonId": "18130d34-73cc-4a58-be8c-a9f9ba92d4ed",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 6,
    "folder": "PBsEquipmentChanger",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's EquipmentChanger with Yonechi",
-   "updatedAt": 1794260995,
-   "version": "0.7.0"
+   "updatedAt": 1794346592,
+   "version": "0.8.0"
   },
   "183094f4-334c-48ea-abb9-14add7fbbbd7/RotationHelper": {
    "addOnVersion": "",
@@ -2325,18 +2339,18 @@
    "version": "1.2.0"
   },
   "3a4024fc-1465-4e5e-a96f-6d6b6a781497/DevSandbox3": {
-   "addOnVersion": "41902",
+   "addOnVersion": "42000",
    "addonId": "3a4024fc-1465-4e5e-a96f-6d6b6a781497",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 79,
+   "downloads": 81,
    "folder": "DevSandbox3",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger LibHarvensAddonSettings",
    "title": "dev sandbox 3",
-   "updatedAt": 1792274623,
-   "version": "DevSandbox3-4.19.2-2026-10-17T150333"
+   "updatedAt": 1794354594,
+   "version": "DevSandbox3-4.20.0-2026-11-10T154943"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d/GamepadUITweaks": {
    "addOnVersion": "107",
@@ -2717,18 +2731,18 @@
    "version": "1.5"
   },
   "46afefc4-e422-4c9f-a163-3b7ed6c11a84/TradeQR": {
-   "addOnVersion": "1",
+   "addOnVersion": "3",
    "addonId": "46afefc4-e422-4c9f-a163-3b7ed6c11a84",
    "apiVersion": "101051",
    "author": "RereRongonui",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 3,
    "folder": "TradeQR",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "TradeQR",
-   "updatedAt": 1794262200,
-   "version": "0.1.0"
+   "updatedAt": 1794352043,
+   "version": "0.2.1"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed/CooldownTracker": {
    "addOnVersion": "",
@@ -3543,18 +3557,18 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "136",
+   "addOnVersion": "140",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 19,
+   "downloads": 21,
    "folder": "PlayerMascotHealth",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1794304815,
-   "version": "v1.3.6"
+   "updatedAt": 1794352357,
+   "version": "v1.4.0"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -4942,6 +4956,20 @@
    "updatedAt": 1786771460,
    "version": "2026.08.15"
   },
+  "81245a8d-0a99-4036-a4dc-52c4f82a9803/GroupFrames": {
+   "addOnVersion": "2",
+   "addonId": "81245a8d-0a99-4036-a4dc-52c4f82a9803",
+   "apiVersion": "101048 101049",
+   "author": "Vixen_Hunny",
+   "dependsOn": "LibAddonMenu-2.0>=38",
+   "downloads": 1,
+   "folder": "GroupFrames",
+   "isLibrary": "",
+   "optionalDependsOn": "LibGroupBroadcast LibGroupResources LibGroupCombatStats",
+   "title": "Vixen's Group Frames",
+   "updatedAt": 1794350280,
+   "version": "2.0.0"
+  },
   "81a06296-da7a-447d-8784-8b2116d37dbf/PBsProcSetTimer": {
    "addOnVersion": "",
    "addonId": "81a06296-da7a-447d-8784-8b2116d37dbf",
@@ -5676,13 +5704,13 @@
    "apiVersion": "101048 101049 101050",
    "author": "Vixen_Hunny",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 4,
    "folder": "HeavyAttackTapTarget",
    "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibGroupBroadcast",
    "title": "Heavy Attack Tap Marker",
-   "updatedAt": 1794319039,
-   "version": "1.0.0"
+   "updatedAt": 1794350586,
+   "version": "2.0.0"
   },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f/BattleScrollsNameColours": {
    "addOnVersion": "17",
@@ -6166,13 +6194,13 @@
    "apiVersion": "101050 101051",
    "author": "absolventR3M",
    "dependsOn": "LibRadialMenu>=9",
-   "downloads": 43,
+   "downloads": 57,
    "folder": "LazyCrown",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibGroupCombatStats",
    "title": "Lazy Crown",
-   "updatedAt": 1794169123,
-   "version": "0.4.1"
+   "updatedAt": 1794332884,
+   "version": "0.4.2"
   },
   "a095f0da-9f45-4dde-a150-2c9b09ba7317/TrueExploration": {
    "addOnVersion": "203",
@@ -6959,18 +6987,18 @@
    "version": "0.2.9"
   },
   "b5cc1fef-6afb-46ca-a772-f1b71c39530c/PreviewAnywhere": {
-   "addOnVersion": "10300",
+   "addOnVersion": "10301",
    "addonId": "b5cc1fef-6afb-46ca-a772-f1b71c39530c",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 76,
    "folder": "PreviewAnywhere",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger",
    "title": "Preview Anywhere",
-   "updatedAt": 1793059493,
-   "version": "PreviewAnywhere-1.3.0-2026-10-26T170437"
+   "updatedAt": 1794352533,
+   "version": "PreviewAnywhere-1.3.1-2026-11-10T151512"
   },
   "b630804a-0ccd-4828-8c9e-945790ec3774/AccountHold": {
    "addOnVersion": "26101700",
@@ -7524,13 +7552,13 @@
    "apiVersion": "101046",
    "author": "Eskiodoe",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 5,
+   "downloads": 8,
    "folder": "MyFontSwitcher",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Eskiodoe's Font Switcher",
-   "updatedAt": 1794331462,
-   "version": "1.0"
+   "updatedAt": 1794353970,
+   "version": "2.0"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -8429,18 +8457,18 @@
    "version": "0.1.2"
   },
   "da044120-ac5c-4f05-8e4b-9910b5df0568/PBsEquipmentChanger": {
-   "addOnVersion": "7",
+   "addOnVersion": "8",
    "addonId": "da044120-ac5c-4f05-8e4b-9910b5df0568",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 8,
+   "downloads": 12,
    "folder": "PBsEquipmentChanger",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's EquipmentChanger with Yonechi(Beta)",
-   "updatedAt": 1794228005,
-   "version": "0.7.0"
+   "updatedAt": 1794346552,
+   "version": "0.8.0"
   },
   "da37ddee-0a3a-403e-aee9-d45c9af8a488/DiabloFramesConsole": {
    "addOnVersion": "4",
@@ -9015,6 +9043,20 @@
    "title": "Essence Thief Tracker",
    "updatedAt": 1791551742,
    "version": "1.0.5"
+  },
+  "e67de641-75bf-4db4-a98c-86b854bc23f6/GroupBearings": {
+   "addOnVersion": "1",
+   "addonId": "e67de641-75bf-4db4-a98c-86b854bc23f6",
+   "apiVersion": "101051 101052",
+   "author": "absolventR3M",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 8,
+   "folder": "GroupBearings",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Group Bearings",
+   "updatedAt": 1794352929,
+   "version": "0.1.1"
   },
   "e6bacf32-d124-4c92-bc87-b477e7611861/ShowCP": {
    "addOnVersion": "4",
@@ -10422,6 +10464,12 @@
    ],
    "version": "1.0.5"
   },
+  "145d6efe-63bc-46fb-bf64-f0bf0b063de0": {
+   "folders": [
+    "AddKillCounter"
+   ],
+   "version": "1.3.4"
+  },
   "148076b2-9d29-46c7-aff5-da6dad6bc20d": {
    "folders": [],
    "version": "eerfsf"
@@ -10474,7 +10522,7 @@
    "folders": [
     "PBsEquipmentChanger"
    ],
-   "version": "0.7.0"
+   "version": "0.8.0"
   },
   "183094f4-334c-48ea-abb9-14add7fbbbd7": {
    "folders": [
@@ -11098,7 +11146,7 @@
    "folders": [
     "DevSandbox3"
    ],
-   "version": "DevSandbox3-4.19.2-2026-10-17T150333"
+   "version": "DevSandbox3-4.20.0-2026-11-10T154943"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d": {
    "folders": [
@@ -11259,7 +11307,7 @@
    "folders": [
     "TradeQR"
    ],
-   "version": "0.1.0"
+   "version": "0.2.1"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed": {
    "folders": [
@@ -11625,7 +11673,7 @@
    "folders": [
     "PlayerMascotHealth"
    ],
-   "version": "v1.3.6"
+   "version": "v1.4.0"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -12232,6 +12280,12 @@
    ],
    "version": "2026.08.15"
   },
+  "81245a8d-0a99-4036-a4dc-52c4f82a9803": {
+   "folders": [
+    "GroupFrames"
+   ],
+   "version": "2.0.0"
+  },
   "81a06296-da7a-447d-8784-8b2116d37dbf": {
    "folders": [
     "PBsProcSetTimer"
@@ -12565,7 +12619,7 @@
    "folders": [
     "HeavyAttackTapTarget"
    ],
-   "version": "1.0.0"
+   "version": "2.0.0"
   },
   "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f": {
    "folders": [
@@ -12777,7 +12831,7 @@
    "folders": [
     "LazyCrown"
    ],
-   "version": "0.4.1"
+   "version": "0.4.2"
   },
   "a095f0da-9f45-4dde-a150-2c9b09ba7317": {
    "folders": [
@@ -13127,7 +13181,7 @@
    "folders": [
     "PreviewAnywhere"
    ],
-   "version": "PreviewAnywhere-1.3.0-2026-10-26T170437"
+   "version": "PreviewAnywhere-1.3.1-2026-11-10T151512"
   },
   "b5df6547-9de1-4e95-b67c-61a4cdd504e7": {
    "folders": [],
@@ -13378,7 +13432,7 @@
    "folders": [
     "MyFontSwitcher"
    ],
-   "version": "1.0"
+   "version": "2.0"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
@@ -13790,7 +13844,7 @@
    "folders": [
     "PBsEquipmentChanger"
    ],
-   "version": "0.7.0"
+   "version": "0.8.0"
   },
   "da37ddee-0a3a-403e-aee9-d45c9af8a488": {
    "folders": [
@@ -14057,6 +14111,12 @@
     "essenceThiefTracker"
    ],
    "version": "1.0.5"
+  },
+  "e67de641-75bf-4db4-a98c-86b854bc23f6": {
+   "folders": [
+    "GroupBearings"
+   ],
+   "version": "0.1.1"
   },
   "e6bacf32-d124-4c92-bc87-b477e7611861": {
    "folders": [

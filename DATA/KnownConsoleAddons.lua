@@ -18,6 +18,7 @@ AbilityIDToolkit		v0.0.05	101050	TEST 03	BMGxSancho	ccd8ba3a-f81c-4f99-98fd-84f9
 AboveMe	771	v0.0.02	101050	Above Me Icon Browser	BMGxSancho	c1746be9-5c6a-4516-aa21-e54bd8e5a25e
 AccountHold	26101700	26101701	101049 101050	[Beta]Gear_Manage	newhite70	b630804a-0ccd-4828-8c9e-945790ec3774
 AdditionalReminders	1	1.0	101050	Additional Reminders	M0R	301799ca-d139-4097-8799-022ef07985ad
+AddKillCounter	10304	1.3.4	101051	AddKillCounter	FiNk3F13	145d6efe-63bc-46fb-bf64-f0bf0b063de0
 AddonInsights	180	0.10	101049 101047	AddonInsights	spoqster	11249dc8-1df3-4342-a040-ec0aaccef76d
 AddonLoadMonitor		1.0.0	101047 101048	Addon Load Time Monitor	code65536	a89e4472-1774-4182-bc32-05d04d19ca06
 AddonLoadouts	1	1.5	101049 101050	Addon Loadouts	Dack.Janiels	1ff1b2cd-ba65-4264-a11d-2c55b57eb158
@@ -162,7 +163,7 @@ DeadMarker2	10203	1.2.3	101048 101047	DeadMarker2	Fredgu3	6f38e877-6d9e-464c-a1c
 DeadMarker_Holodeck	59	0.0.59	101048 101047	DeadMarker Holodeck	Fredgu3	87237de2-d657-4844-8498-ed9136ff45cc
 DeskUI	6	0.6.0	101050 101051	Xbox-PCUI	ItsCraniBaby1	8e0c89af-87a5-4154-b9cd-1d1e5ed943a5
 Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b-bd58-5dcec8942b9d
-DevSandbox3	41902	DevSandbox3-4.19.2-2026-10-17T150333	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
+DevSandbox3	42000	DevSandbox3-4.20.0-2026-11-10T154943	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
 DLCRoulette	5	1.1.3	101051	DLC Roulette	-Chin	0f2a1db4-049e-454b-96b8-52c65ff6cb85
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
@@ -234,9 +235,11 @@ GoldNation		1.1.1		Gold Nation	SvlphvryVoid	a168ff84-818b-4e00-9168-0c0c80a6d5af
 gorethiefTracker		1.1.3	101051	Gorethief Tracker	codeWarrior82	6077d87d-fafc-431b-9380-f25348d7b430
 GoronDev		0.0.2	101047 101048	Goron Dev	goron_spice	4ff8232a-3b96-4a66-8401-dad48e8b5301
 GottaOpenEmAll		1.0.1	101048 101049	Gotta Open 'em all!	Eldibabalo	c8456e9d-2e93-40d9-a266-88d0ad1f9332
+GroupBearings	1	0.1.1	101051 101052	Group Bearings	absolventR3M	e67de641-75bf-4db4-a98c-86b854bc23f6
 GroupBuffPanels	203030	2.3.3	101050 101051	Group Buff Panels	code65536	da882875-d281-47d4-b525-aa19f4f40875
 GroupEncore		0.1.3	101049 101050	GroupEncore	SugaComa	6a072e95-965d-4368-9c0f-196d198ad5dd
 GroupFinderAlerts		1.6.5	101050 101051	Group Finder Alerts	murphyx	8e142999-8113-4317-9868-a6be8e0a34cc
+GroupFrames	2	2.0.0	101048 101049	Vixen's Group Frames	Vixen_Hunny	81245a8d-0a99-4036-a4dc-52c4f82a9803
 GroupFullDante	110	v1.1	101051	learn how to count	j.hhh	2c70f704-e9aa-42d3-8c65-894ef085a9ea
 GroupKillFeed		1.6.2	101049 101050	Group Kill Feed	SugaComa	e281d0bf-a7b6-4b0c-b4ff-78e38a6ed2f6
 GroupProxyDet	79	2	101050	Procseason	DaveeMafiaa	79d34de4-5c42-452f-9ce7-b03858b6b1e1
@@ -258,7 +261,7 @@ H8Ball	23	1.1.0	101050 101051	H8 Ball	absolventR3M	615c0033-710a-411c-83a1-a3a45
 HarvestMapConsole	316005	3.16.6	101048	HarvestMap	Shinni42	f552385a-cc51-4031-bf63-43abd2709e70
 Hazel	4057	0.4.0	101051	Hazel	TheGreyWolf98	cf1db8e3-57a8-40a1-b6ff-000333801e4c
 HealingBuffUptime		1.0.0	101050	Healing Buff Uptime	satuve	c68c0503-c262-44d6-97a9-d2e8ee77ee72
-HeavyAttackTapTarget	1	1.0.0	101048 101049 101050	Heavy Attack Tap Marker	Vixen_Hunny	927489b3-77bf-45d1-9b05-9d60e2102770
+HeavyAttackTapTarget	1	2.0.0	101048 101049 101050	Heavy Attack Tap Marker	Vixen_Hunny	927489b3-77bf-45d1-9b05-9d60e2102770
 HelloGoodbye		1.2.3	101050 101051	Hello, goodbye	murphyx	80a0dbcb-9e84-4f98-8d1d-d2fd78129f82
 HelloWorld		0.0.6	101047	HelloWorld	ReliktKoala	d3514a63-e01b-4267-ab25-f1b8e79aa586
 HerosCompass		1.4.2	101050 101051	Hero's Compass	murphyx	282169ec-5b28-4744-bed7-c866d07adb4a
@@ -293,7 +296,7 @@ KhajiitVoice		4.2	101049	Speak Like Khajiit	YFNatey	8edcdae2-d71b-4fb8-b99c-7d1f
 KillCount	3100	new	101049 101050	Kill Count	Dreadazar	29b689fc-d75c-432c-adfa-691d46ddf847
 LazyAlchemyLearner	116.1	4	101051 101052	Beta Dolg Alch	Dolgubon	2711aec8-a92b-4dae-97c9-096e8d72bf16
 LazyConfirm		1.0.4	101045 101046	Lazy Confirm (and delete)	Dolgubon	8fbbe7ae-8178-4e35-9755-3cafefd42095
-LazyCrown	14	0.4.1	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
+LazyCrown	14	0.4.2	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
 LazyHorseFeed		1.0.5	101045 101046	Lazy Horse Trainer	Dolgubon	dd337340-e6c9-4835-8e50-ba68c7e949e4
 LazyOverlandChallenger		1.1	101051	Lazy Overland Challenger	Lykeion+	da61ba59-9a71-4945-9af6-c39f6b8fa393
 LCMDemo		1.1.7	101050 101051	LCM Demo	Fluazinam	e27e2f85-110a-4725-ab46-5f878649b8a3
@@ -419,7 +422,7 @@ MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08
 MyCombatText		5.0.3	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
 MyExtras		3.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
-MyFontSwitcher		1.0	101046	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
+MyFontSwitcher		2.0	101046	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
@@ -456,7 +459,7 @@ PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Be
 PBsCyrodiilAlert		2.8.0	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsEmoteSynchronizer		0.1.0	101050 101051	PinkB's EmoteSynchronizer	PinkBanther	6b42fd29-e6c4-4aec-8f92-e5c54de4c28c
-PBsEquipmentChanger	7	0.7.0	101050 101051	PinkB's EquipmentChanger with Yonechi	PinkBanther	18130d34-73cc-4a58-be8c-a9f9ba92d4ed
+PBsEquipmentChanger	8	0.8.0	101050 101051	PinkB's EquipmentChanger with Yonechi	PinkBanther	18130d34-73cc-4a58-be8c-a9f9ba92d4ed
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
 PBsFurnitureEditor		1.0.7	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
@@ -489,11 +492,11 @@ PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a8
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
-PlayerMascotHealth	136	v1.3.6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth	140	v1.4.0	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
-PreviewAnywhere	10300	PreviewAnywhere-1.3.0-2026-10-26T170437	101050 101051	Preview Anywhere	clubwratt	b5cc1fef-6afb-46ca-a772-f1b71c39530c
+PreviewAnywhere	10301	PreviewAnywhere-1.3.1-2026-11-10T151512	101050 101051	Preview Anywhere	clubwratt	b5cc1fef-6afb-46ca-a772-f1b71c39530c
 PriorityBunny	400	0.4.0	101050	Priority Bunny	Jokergrrrrl	fa4ee6fb-c601-4163-998f-801078e1eac0
 ProcReminder	1.0.0	1.0.2	101049	Proc Reminder	Vixen_Hunny	541ab871-9386-4990-a3c7-32563ded9243
 ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-43cd-84b3-63ed659b9248
@@ -615,7 +618,7 @@ TitleLoop	1008	1.0.8	101050	Title Loop	Copper0	5e051775-8c73-4e96-bb6b-dcaa188dc
 TorigaCam		1.0.0	101050	TorigaCam	Master-Antonio	8c834a42-03cd-4110-8b81-7847f13944b6
 TorigaHUD		1.0.0	101050 101051	TorigaHUD	Master-Antonio	ac816501-4787-4c8b-942f-574aa8ea6c01
 TrackersByJH	1106	v2.3	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
-TradeQR	1	0.1.0	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
+TradeQR	3	0.2.1	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
 TraderFilter		1.0.6	101043	TraderFilter	wh0c4r35ab0utth15	44df98e8-01a5-48d2-903d-41d3516f3289
 TradeSkills	12	1.0	101042	Trade Skills	Necis	6062f2e4-8b5a-48e5-9327-cf8de18eb5e5
 TraitCraft	243	2.4.3	101050 101051	TraitCraft	saranicole1980	6214b947-f6ff-4d1b-b443-987daf528ecb
