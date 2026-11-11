@@ -700,6 +700,20 @@
    "updatedAt": 1789757571,
    "version": "1.0.10"
   },
+  "114d9b29-d8d7-4dde-a962-edcf1670fb91/AAMemoryWatch": {
+   "addOnVersion": "1",
+   "addonId": "114d9b29-d8d7-4dde-a962-edcf1670fb91",
+   "apiVersion": "101051",
+   "author": "Khazaril",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "AAMemoryWatch",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Add-On Memory Watch",
+   "updatedAt": 1794370224,
+   "version": "1.0.0"
+  },
   "1156c297-4c51-44e7-8267-9f934307f36e/MuchSmarterAutoLoot": {
    "addOnVersion": "80312",
    "addonId": "1156c297-4c51-44e7-8267-9f934307f36e",
@@ -1294,13 +1308,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 27,
+   "downloads": 29,
    "folder": "PBsCyrodiilAlert",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CyrodiilAlert(Beta)",
-   "updatedAt": 1792891462,
-   "version": "2.8.0"
+   "updatedAt": 1794399182,
+   "version": "2.8.1"
   },
   "23989a49-5901-4ccb-9b71-6e848d4bceee/BetterCharacterOverview": {
    "addOnVersion": "11100",
@@ -2610,13 +2624,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 243,
+   "downloads": 248,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "dev sandbox",
-   "updatedAt": 1792796736,
-   "version": "PvPUAPatch-5.6.0-2026-10-23T160527"
+   "updatedAt": 1794360785,
+   "version": "PvPUAPatch-5.6.2-2026-11-10T173255"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -3198,13 +3212,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 304,
+   "downloads": 383,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "PvP UA (Patch)",
-   "updatedAt": 1792824157,
-   "version": "PvPUAPatch-5.6.1-2026-10-23T234227"
+   "updatedAt": 1794360772,
+   "version": "PvPUAPatch-5.6.1-2026-11-10T173243"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9/Update47Tweaker": {
    "addOnVersion": "",
@@ -3557,18 +3571,18 @@
    "version": "0.2.4"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
-   "addOnVersion": "140",
+   "addOnVersion": "136",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 21,
+   "downloads": 22,
    "folder": "PlayerMascotHealth",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1794352357,
-   "version": "v1.4.0"
+   "updatedAt": 1794397360,
+   "version": "v1.3.6"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -4957,18 +4971,18 @@
    "version": "2026.08.15"
   },
   "81245a8d-0a99-4036-a4dc-52c4f82a9803/GroupFrames": {
-   "addOnVersion": "2",
+   "addOnVersion": "3",
    "addonId": "81245a8d-0a99-4036-a4dc-52c4f82a9803",
    "apiVersion": "101048 101049",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0>=38",
-   "downloads": 1,
+   "downloads": 6,
    "folder": "GroupFrames",
    "isLibrary": "",
-   "optionalDependsOn": "LibGroupBroadcast LibGroupResources LibGroupCombatStats",
+   "optionalDependsOn": "LibHarvensAddonSettings LibGroupBroadcast LibGroupResources LibGroupCombatStats",
    "title": "Vixen's Group Frames",
-   "updatedAt": 1794350280,
-   "version": "2.0.0"
+   "updatedAt": 1794399241,
+   "version": "3.2.0"
   },
   "81a06296-da7a-447d-8784-8b2116d37dbf/PBsProcSetTimer": {
    "addOnVersion": "",
@@ -7549,16 +7563,16 @@
   "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50/MyFontSwitcher": {
    "addOnVersion": "",
    "addonId": "c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50",
-   "apiVersion": "101046",
+   "apiVersion": "101051",
    "author": "Eskiodoe",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 8,
+   "downloads": 11,
    "folder": "MyFontSwitcher",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Eskiodoe's Font Switcher",
-   "updatedAt": 1794353970,
-   "version": "2.0"
+   "updatedAt": 1794380036,
+   "version": "1.0"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -7757,18 +7771,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000112",
+   "addOnVersion": "01000113",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 19009,
+   "downloads": 19366,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1794283214,
-   "version": "1.0.112"
+   "updatedAt": 1794369614,
+   "version": "1.0.113"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8330,6 +8344,20 @@
    "updatedAt": 1781386839,
    "version": "2.0.31"
   },
+  "d747dd7e-77c4-4e3c-9004-4d31188c184f/RolePlayMod": {
+   "addOnVersion": "",
+   "addonId": "d747dd7e-77c4-4e3c-9004-4d31188c184f",
+   "apiVersion": "101051",
+   "author": "ZorrinoTV",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "RolePlayMod",
+   "isLibrary": "",
+   "optionalDependsOn": "LibGPS",
+   "title": "RolePlay Mod",
+   "updatedAt": 1794399406,
+   "version": "1.2.3-alpha.25-ps5.1"
+  },
   "d761d228-adae-40b7-8320-6e4504e2d2ec/PBsHudManager": {
    "addOnVersion": "",
    "addonId": "d761d228-adae-40b7-8320-6e4504e2d2ec",
@@ -8518,13 +8546,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 100,
+   "downloads": 127,
    "folder": "PBsCyrodiilAlert",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CyrodiilAlert",
-   "updatedAt": 1792892512,
-   "version": "2.8.0"
+   "updatedAt": 1794399219,
+   "version": "2.8.1"
   },
   "da93c9ce-04e0-4acf-a62a-16e23c1e8d06/LibQRCode": {
    "addOnVersion": "046",
@@ -10415,6 +10443,12 @@
    ],
    "version": "1.0.10"
   },
+  "114d9b29-d8d7-4dde-a962-edcf1670fb91": {
+   "folders": [
+    "AAMemoryWatch"
+   ],
+   "version": "1.0.0"
+  },
   "1156c297-4c51-44e7-8267-9f934307f36e": {
    "folders": [
     "MuchSmarterAutoLoot"
@@ -10683,7 +10717,7 @@
    "folders": [
     "PBsCyrodiilAlert"
    ],
-   "version": "2.8.0"
+   "version": "2.8.1"
   },
   "23989a49-5901-4ccb-9b71-6e848d4bceee": {
    "folders": [
@@ -11245,9 +11279,9 @@
   },
   "436f6695-4798-423f-b276-d8c46cbd938e": {
    "folders": [
-    "BetterCharacterOverview"
+    "PvPUAPatch"
    ],
-   "version": "BetterCharacterOverview-1.11.0-2026-10-25T204711"
+   "version": "PvPUAPatch-5.6.2-2026-11-10T173255"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -11512,7 +11546,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.6.1-2026-10-23T234227"
+   "version": "PvPUAPatch-5.6.1-2026-11-10T173243"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9": {
    "folders": [
@@ -11673,7 +11707,7 @@
    "folders": [
     "PlayerMascotHealth"
    ],
-   "version": "v1.4.0"
+   "version": "v1.3.6"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -12284,7 +12318,7 @@
    "folders": [
     "GroupFrames"
    ],
-   "version": "2.0.0"
+   "version": "3.2.0"
   },
   "81a06296-da7a-447d-8784-8b2116d37dbf": {
    "folders": [
@@ -13432,7 +13466,7 @@
    "folders": [
     "MyFontSwitcher"
    ],
-   "version": "2.0"
+   "version": "1.0"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
@@ -13530,7 +13564,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.112"
+   "version": "1.0.113"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -13786,6 +13820,12 @@
    ],
    "version": "2.0.31"
   },
+  "d747dd7e-77c4-4e3c-9004-4d31188c184f": {
+   "folders": [
+    "RolePlayMod"
+   ],
+   "version": "1.2.3-alpha.25-ps5.1"
+  },
   "d761d228-adae-40b7-8320-6e4504e2d2ec": {
    "folders": [
     "PBsHudManager"
@@ -13868,7 +13908,7 @@
    "folders": [
     "PBsCyrodiilAlert"
    ],
-   "version": "2.8.0"
+   "version": "2.8.1"
   },
   "da93c9ce-04e0-4acf-a62a-16e23c1e8d06": {
    "folders": [

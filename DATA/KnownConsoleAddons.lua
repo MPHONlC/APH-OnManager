@@ -13,6 +13,7 @@ AoM.KnownConsoleAddons = AoM.CreateConsoleTable([==[
 702sCraftCompletionistList		Version 2.4.3.4	101048 101049	702's Craft Completionist List	The702Guy	b3b32522-0ed3-419e-b20d-ef4b651bc013
 AA_Profiler	100	0.09	101043	AA_Profiler	spoqster	66400ef3-3d78-4737-a158-c48633706a83
 AAA_RuntimeWatch	1	0.1.0	101050 101051	Runtime Watch	TheGreyWolf98	4fda2eee-1b8d-4a0b-94c2-e748543364b9
+AAMemoryWatch	1	1.0.0	101051	Add-On Memory Watch	Khazaril	114d9b29-d8d7-4dde-a962-edcf1670fb91
 AbahsAppraiser	15106	1.51.06	101051	Auto Sell Junk - Abah's Appraiser	xbutch	2d6ff530-edbc-4425-be68-daadbc3c0afa
 AbilityIDToolkit		v0.0.05	101050	TEST 03	BMGxSancho	ccd8ba3a-f81c-4f99-98fd-84f9ce3c76f0
 AboveMe	771	v0.0.02	101050	Above Me Icon Browser	BMGxSancho	c1746be9-5c6a-4516-aa21-e54bd8e5a25e
@@ -239,7 +240,7 @@ GroupBearings	1	0.1.1	101051 101052	Group Bearings	absolventR3M	e67de641-75bf-4d
 GroupBuffPanels	203030	2.3.3	101050 101051	Group Buff Panels	code65536	da882875-d281-47d4-b525-aa19f4f40875
 GroupEncore		0.1.3	101049 101050	GroupEncore	SugaComa	6a072e95-965d-4368-9c0f-196d198ad5dd
 GroupFinderAlerts		1.6.5	101050 101051	Group Finder Alerts	murphyx	8e142999-8113-4317-9868-a6be8e0a34cc
-GroupFrames	2	2.0.0	101048 101049	Vixen's Group Frames	Vixen_Hunny	81245a8d-0a99-4036-a4dc-52c4f82a9803
+GroupFrames	3	3.2.0	101048 101049	Vixen's Group Frames	Vixen_Hunny	81245a8d-0a99-4036-a4dc-52c4f82a9803
 GroupFullDante	110	v1.1	101051	learn how to count	j.hhh	2c70f704-e9aa-42d3-8c65-894ef085a9ea
 GroupKillFeed		1.6.2	101049 101050	Group Kill Feed	SugaComa	e281d0bf-a7b6-4b0c-b4ff-78e38a6ed2f6
 GroupProxyDet	79	2	101050	Procseason	DaveeMafiaa	79d34de4-5c42-452f-9ce7-b03858b6b1e1
@@ -373,7 +374,7 @@ LiveBuffUptime		2.5.0	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000112	1.0.112	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000113	1.0.113	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -422,7 +423,7 @@ MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08
 MyCombatText		5.0.3	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
 MyExtras		3.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
-MyFontSwitcher		2.0	101046	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
+MyFontSwitcher		1.0	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
@@ -456,7 +457,7 @@ PBsCompanionAffinity	51	0.5.1	101050 101051	PinkB's CompanionAffinity(Beta)	Pink
 PBsCompass	120	1.1.0	101050 101051	PinkB's Compass	PinkBanther	9cf7a466-7ad1-4e05-b1d9-093450347229
 PBsConsoleHudCustomizer		1.27.18	101050 101051	PinkB's ResourceAndSkillBarCustomizer	PinkBanther	51bd8b59-40b0-4e2f-b31d-527bb63f0bfc
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
-PBsCyrodiilAlert		2.8.0	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
+PBsCyrodiilAlert		2.8.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
 PBsEmoteSynchronizer		0.1.0	101050 101051	PinkB's EmoteSynchronizer	PinkBanther	6b42fd29-e6c4-4aec-8f92-e5c54de4c28c
 PBsEquipmentChanger	8	0.8.0	101050 101051	PinkB's EquipmentChanger with Yonechi	PinkBanther	18130d34-73cc-4a58-be8c-a9f9ba92d4ed
@@ -492,7 +493,7 @@ PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a8
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
-PlayerMascotHealth	140	v1.4.0	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth	136	v1.3.6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
@@ -510,7 +511,7 @@ PvPCooldownTracker	121	25.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
 PvPTargetInfo	114	V2.5.0	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
 PvPUA		5.4	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
-PvPUAPatch		PvPUAPatch-5.6.1-2026-10-23T234227	101048 101049 101050 101051	PvP UA (Patch)	clubwratt	5079d9ce-7098-43fd-8b50-42b172512fd7
+PvPUAPatch		PvPUAPatch-5.6.2-2026-11-10T173255	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
@@ -533,6 +534,7 @@ riposteTracker		1.0.6	101051	Riposte Tracker	codeWarrior82	491c3ac5-72b5-4579-80
 RoaringOpportunist	020501	2.5.1	101051	RoaringOpportunist	tmbrinks	f8e59501-116b-422a-90e9-f57cf2dc7b9d
 RockGroveAlkoshTimer		1.0.3	101048	RockGrove Alkosh Timer	Phamo1000	d8edb913-8af4-455a-939f-5bbd598eeff7
 RodZillaTraderStats	10	0.1.10	101050	RodZilla's Trader Stats	TeamRodZillaLLC	910cac85-d8d4-4788-949b-2954e8ee9215
+RolePlayMod		1.2.3-alpha.25-ps5.1	101051	RolePlay Mod	ZorrinoTV	d747dd7e-77c4-4e3c-9004-4d31188c184f
 Rolodex	1	1.0	101050	Rolodex	dicen9	fba4016e-4c55-48b5-9f38-f169d2190581
 Roomba		2026.08.15	101050 101051	Roomba	Masteroshi430	80e548e3-0d72-47fa-9ef8-f6966b42ee75
 RotationHelper		1.0.52	101046 101047	Rotation Helper	RipleyZepher	183094f4-334c-48ea-abb9-14add7fbbbd7

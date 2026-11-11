@@ -98,7 +98,7 @@ GamepadHUDCustomizer	LibAddonMenu-2.0	LibHarvensAddonSettings
 GamepadInventoryTweaks	LibDebugLogger	LibGamepad
 GamepadUITweaks	LibGamepad
 gorethiefTracker	LibNotify
-GroupFrames	LibGroupBroadcast	LibGroupCombatStats	LibGroupResources
+GroupFrames	LibGroupBroadcast	LibGroupCombatStats	LibGroupResources	LibHarvensAddonSettings
 H8Ball	LibHarvensAddonSettings
 HarvestMapConsole	AUI	LibMapPins-1.0	MiniMap	VotansMiniMap
 Hazel	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
@@ -216,6 +216,7 @@ RainbowAOE	LibAddonMenu-2.0
 rallyingCryTracker	LibNotify
 RideAlong	LibConsoleLogger
 riposteTracker	LibNotify
+RolePlayMod	LibGPS
 Rolodex	LibAddonMenu-2.0
 RotationHelper	LibAddonMenu-2.0
 rushOfAgonyTracker	LibNotify
