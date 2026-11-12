@@ -840,6 +840,20 @@
    "updatedAt": 1794353905,
    "version": "1.3.4"
   },
+  "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascotDiag": {
+   "addOnVersion": "1",
+   "addonId": "1496058e-eb41-4f99-bc99-591195752a8e",
+   "apiVersion": "101048 101049",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "CombatMascotDiag",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Combat Mascot",
+   "updatedAt": 1794479744,
+   "version": "V0"
+  },
   "153e64a6-b621-4c91-b84a-c2ae48778142/Tauntless": {
    "addOnVersion": "6",
    "addonId": "153e64a6-b621-4c91-b84a-c2ae48778142",
@@ -2001,6 +2015,20 @@
    "title": "Reticle Rainbow",
    "updatedAt": 1774611924,
    "version": "1.3"
+  },
+  "311a560b-a6b2-4545-ba13-2c6142e34001/CustomQueueSoundsConsole": {
+   "addOnVersion": "1",
+   "addonId": "311a560b-a6b2-4545-ba13-2c6142e34001",
+   "apiVersion": "101048 101049 101050",
+   "author": "Vixen_Hunny",
+   "dependsOn": "LibAddonMenu-2.0>=40",
+   "downloads": 1,
+   "folder": "CustomQueueSoundsConsole",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Queue Sounds",
+   "updatedAt": 1794500010,
+   "version": "1.0.0"
   },
   "31353ae2-3899-477e-935e-69f9756c9d60/SimpleGroupDPS": {
    "addOnVersion": "",
@@ -4822,13 +4850,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 16,
+   "downloads": 17,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1794459025,
-   "version": "4.1"
+   "updatedAt": 1794478659,
+   "version": "5.1"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -5004,13 +5032,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 17,
+   "downloads": 23,
    "folder": "PBsProcSetTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
-   "title": "PBsProcSetTimer(Beta)",
-   "updatedAt": 1793918065,
-   "version": "0.7.0"
+   "title": "PinkB's ProcSetTimer(Beta)",
+   "updatedAt": 1794476813,
+   "version": "0.7.1"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce/CanITravelBack": {
    "addOnVersion": "1",
@@ -5704,13 +5732,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 63,
+   "downloads": 113,
    "folder": "PBsProcSetTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's ProcSetTimer",
-   "updatedAt": 1793918096,
-   "version": "0.7.0"
+   "updatedAt": 1794476855,
+   "version": "0.7.1"
   },
   "9244a9ac-fb16-46cf-a7e5-e15c98fdd7a6/PBsLowestPriceFinder": {
    "addOnVersion": "",
@@ -5788,13 +5816,13 @@
    "apiVersion": "101051 101052",
    "author": "Gamer_sa22",
    "dependsOn": "LibAddonMenu-2.0>=43 LibPrice>=70000 LibLazyCrafting>=4038 LibSets>=9020 LibCharacterKnowledge>=300040",
-   "downloads": 2127,
+   "downloads": 2245,
    "folder": "WritWorthy",
    "isLibrary": "",
    "optionalDependsOn": "LibCustomMenu AwesomeGuildStore LibSlashCommander LibDebugLogger HomeStationMarker",
    "title": "Gamer_sa22 Addon Testing",
-   "updatedAt": 1793840448,
-   "version": "ww2"
+   "updatedAt": 1794495896,
+   "version": "ww12"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a/CraftMaterialAssistant": {
    "addOnVersion": "",
@@ -6359,16 +6387,16 @@
   "a3bda6e6-a854-4387-825a-dccb05d706d8/Persona": {
    "addOnVersion": "",
    "addonId": "a3bda6e6-a854-4387-825a-dccb05d706d8",
-   "apiVersion": "101051",
+   "apiVersion": "101051 101050",
    "author": "SugaComa",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 812,
+   "downloads": 1049,
    "folder": "Persona",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Persona",
-   "updatedAt": 1792758631,
-   "version": "1.2.0"
+   "updatedAt": 1794486890,
+   "version": "1.3.3"
   },
   "a3daf4c1-aa98-4c59-9eca-7832fa036029/TamrielHello": {
    "addOnVersion": "1",
@@ -6455,18 +6483,18 @@
    "version": "0.5.1"
   },
   "a76fc220-27fb-4174-8821-27351c50fea5/LibUser562": {
-   "addOnVersion": "6",
+   "addOnVersion": "7",
    "addonId": "a76fc220-27fb-4174-8821-27351c50fea5",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "",
-   "downloads": 4666,
+   "downloads": 5280,
    "folder": "LibUser562",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibUser562",
-   "updatedAt": 1794459885,
-   "version": "1.5"
+   "updatedAt": 1794465907,
+   "version": "1.6"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3/StyleNewCleaner": {
    "addOnVersion": "000100000",
@@ -6712,13 +6740,13 @@
    "apiVersion": "101047 101048",
    "author": "Vixen_Hunny",
    "dependsOn": "LibFights>=10000",
-   "downloads": 711,
+   "downloads": 753,
    "folder": "HPSMeter",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Bloom HPS",
-   "updatedAt": 1794090788,
-   "version": "5.0.1 Bug fix"
+   "updatedAt": 1794488977,
+   "version": "Fixed UI hide 6.5.3"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43/PBsLuaMemoryMonitor": {
    "addOnVersion": "",
@@ -7580,13 +7608,13 @@
    "apiVersion": "101051",
    "author": "Eskiodoe",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 11,
+   "downloads": 13,
    "folder": "MyFontSwitcher",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Eskiodoe's Font Switcher",
-   "updatedAt": 1794380036,
-   "version": "1.0"
+   "updatedAt": 1794505150,
+   "version": "2.3"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -9913,18 +9941,18 @@
    "version": "1.0.0"
   },
   "fc7e18ca-ae50-4284-8b26-df8f05312495/PBsWayPoint": {
-   "addOnVersion": "9",
+   "addOnVersion": "10",
    "addonId": "fc7e18ca-ae50-4284-8b26-df8f05312495",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 8,
+   "downloads": 12,
    "folder": "PBsWayPoint",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint(Beta)",
-   "updatedAt": 1794460900,
-   "version": "0.5.0"
+   "updatedAt": 1794463879,
+   "version": "0.5.1"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c/LibDateTime": {
    "addOnVersion": "32",
@@ -10405,10 +10433,8 @@
    "version": "1.1.3"
   },
   "0f87c2f6-55c7-4450-b93b-d6395ac2004d": {
-   "folders": [
-    "KDStatTracker"
-   ],
-   "version": "4.0.0"
+   "folders": [],
+   "version": "X, Y position and Menu fix 5.0.2"
   },
   "0fa32336-8528-4747-9b01-ccba9408f654": {
    "folders": [
@@ -10535,6 +10561,12 @@
   "148076b2-9d29-46c7-aff5-da6dad6bc20d": {
    "folders": [],
    "version": "eerfsf"
+  },
+  "1496058e-eb41-4f99-bc99-591195752a8e": {
+   "folders": [
+    "CombatMascotDiag"
+   ],
+   "version": "V0"
   },
   "153e64a6-b621-4c91-b84a-c2ae48778142": {
    "folders": [
@@ -11047,6 +11079,12 @@
     "ReticleRainbow"
    ],
    "version": "1.3"
+  },
+  "311a560b-a6b2-4545-ba13-2c6142e34001": {
+   "folders": [
+    "CustomQueueSoundsConsole"
+   ],
+   "version": "1.0.0"
   },
   "31353ae2-3899-477e-935e-69f9756c9d60": {
    "folders": [
@@ -12286,7 +12324,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "4.1"
+   "version": "5.1"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -12358,7 +12396,7 @@
    "folders": [
     "PBsProcSetTimer"
    ],
-   "version": "0.7.0"
+   "version": "0.7.1"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce": {
    "folders": [
@@ -12675,7 +12713,7 @@
    "folders": [
     "PBsProcSetTimer"
    ],
-   "version": "0.7.0"
+   "version": "0.7.1"
   },
   "9244a9ac-fb16-46cf-a7e5-e15c98fdd7a6": {
    "folders": [
@@ -12711,7 +12749,7 @@
    "folders": [
     "WritWorthy"
    ],
-   "version": "ww2"
+   "version": "ww12"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a": {
    "folders": [
@@ -12960,7 +12998,7 @@
    "folders": [
     "Persona"
    ],
-   "version": "1.2.0"
+   "version": "1.3.3"
   },
   "a3daf4c1-aa98-4c59-9eca-7832fa036029": {
    "folders": [
@@ -13003,7 +13041,7 @@
    "folders": [
     "LibUser562"
    ],
-   "version": "1.5"
+   "version": "1.6"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3": {
    "folders": [
@@ -13113,7 +13151,7 @@
    "folders": [
     "HPSMeter"
    ],
-   "version": "5.0.1 Bug fix"
+   "version": "Fixed UI hide 6.5.3"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43": {
    "folders": [
@@ -13500,7 +13538,7 @@
    "folders": [
     "MyFontSwitcher"
    ],
-   "version": "1.0"
+   "version": "2.3"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
@@ -13568,7 +13606,7 @@
   },
   "c8ab1f8d-4c10-4310-a76f-473ac11c3d05": {
    "folders": [],
-   "version": "4.0.0 BETA"
+   "version": "5.0.0 FULL RELEASE"
   },
   "c8c74e10-f091-4e38-b894-20bb194c9b87": {
    "folders": [
@@ -14563,7 +14601,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.5.0"
+   "version": "0.5.1"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c": {
    "folders": [

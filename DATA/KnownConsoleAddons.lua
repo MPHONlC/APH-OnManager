@@ -131,6 +131,7 @@ CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
 CombatAlerts	206090	2.6.9	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
+CombatMascotDiag	1	V0	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
 CombatTopHealthbar		2025.05.29	101046	CombatTopHealthbar	Masteroshi430	7c18ff01-65ca-424a-9797-987227ea3ac6
@@ -156,6 +157,7 @@ CruxTracker-2.0		2.7.1	101040	CruxTracker-2.0	akbosser	aef7e9f0-ed11-4b67-99f7-c
 CTest	2606272	260627.2	101050	Calamath's Test Site	Calamath	23ee5193-1c27-4b42-b005-05c3f28ad835
 CurvedHUD		1.1.3	101050 101051 101052	Curved Resource HUD	Kaos_Arbiter	bc307fb6-b7b8-4905-b81a-1b33b24c8662
 CustomCompassPins	137	1.37	101045 101046	CustomCompassPins	Sharlikran	3c805ef7-47fe-43a7-b480-52342549e9f4
+CustomQueueSoundsConsole	1	1.0.0	101048 101049 101050	Queue Sounds	Vixen_Hunny	311a560b-a6b2-4545-ba13-2c6142e34001
 CyroAlerts		3.1.5	101050	Cyrodiil Alerts	codeWarrior82	37bd7159-8611-4d29-8767-08434d4fe209
 DailyQuestTracker		3.3.7	101050	Daily Quest Tracker	Eldibabalo	a84f8a0c-210f-481a-b8a7-6dc95bff7664
 DarkConvergenceTimer	1.0.4	1.0.4	101049 101050	Dark Convergence Timer	SaintAres97	2709a81d-caea-4f77-a89d-0d83661bf7ee
@@ -275,7 +277,7 @@ HouseHotkey	182	1.8.2	101050 101051	House Hotkey	saranicole1980	256dc81e-d505-4e
 HousingForge	1400	1.4.0	101050	Test suite 2	Tekatsu	e1fa49c2-830c-41dc-9927-0d013ba1f21d
 HousingFPSBooster	10102	1.1.3	101050 101051	Tetsu's Housing FPS Booster	Tetsurion	febdb84e-a3d4-46d5-b70c-e9b1e491be5f
 HousingVote	19	0.4.1	101050 101051	HousingVote	yodased-mods	f78047ed-9eb4-471b-953c-3fdab2282231
-HPSMeter	4	5.0.1 Bug fix	101047 101048	Bloom HPS	Vixen_Hunny	adeb7cae-c7d2-4f05-9f6b-398235624c33
+HPSMeter	4	Fixed UI hide 6.5.3	101047 101048	Bloom HPS	Vixen_Hunny	adeb7cae-c7d2-4f05-9f6b-398235624c33
 IAHelper		50.09	101050	Infinite Archive Helper	Gamer_sa22	fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8
 IFG		1.1.15	101049	IFG	FIG_BOT	869cd684-8dba-4750-bdf3-9b3be03ecdc6
 ImperialCityBossTimers	10400	5.0.0	101050 101051	Imperial City Boss Timers	ParanoidGaming	6684c311-afc5-48de-8ced-f86edbe863f1
@@ -366,7 +368,7 @@ LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-4
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
-LibUser562	6	1.5	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
+LibUser562	7	1.6	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
 LibVotansAddonList	11001	1.10.1	101051 101052	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
@@ -422,8 +424,8 @@ MurfTreasures		1.2.7	101050 101051	Murf's Treasures	murphyx	4c4e9010-a3ef-435d-b
 MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08e4ae
 MyCombatText		5.0.3	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
-MyExtras		4.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
-MyFontSwitcher		1.0	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
+MyExtras		5.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
+MyFontSwitcher		2.3	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
@@ -473,7 +475,7 @@ PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4
 PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371fcd02-ae32-4937-a1d4-de4f33b01870
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
-PBsProcSetTimer		0.7.0	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
+PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsReticle	110	1.1.0	101050 101051	PinkB's Reticle	PinkBanther	0308c3b9-4770-4548-939d-cc4550f58fcc
 PBsScreenshotModeShortcut		1.3.1	101050 101051	PinkB's ScreenshotModeShortcut	PinkBanther	f092f755-7f1e-43bf-b184-f2a9871a86ea
@@ -483,12 +485,12 @@ PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanthe
 PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
 PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f00e5b13-5452-4284-98f7-2bdbe3caff63
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
-PBsWayPoint	9	0.5.0	101050 101051	PinkB's WayPoint(Beta)	PinkBanther	fc7e18ca-ae50-4284-8b26-df8f05312495
+PBsWayPoint	10	0.5.1	101050 101051	PinkB's WayPoint(Beta)	PinkBanther	fc7e18ca-ae50-4284-8b26-df8f05312495
 PBsWeaveBlockTrainer		1.4.0	101050 101051	PinkB's WeaveBlockTrainer	PinkBanther	79482b3e-9063-4aa7-a50f-81fedd155fc5
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
 PermMemento	26101801	2026.10.18.01.41	101051 101052	Permanent Memento	APH0NlC	2aa223e9-ba88-45f7-90d3-0a47002c720c
-Persona		1.2.0	101051	Persona	SugaComa	a3bda6e6-a854-4387-825a-dccb05d706d8
+Persona		1.3.3	101051 101050	Persona	SugaComa	a3bda6e6-a854-4387-825a-dccb05d706d8
 PersonalDpsTracker	21007	2.1.7	101050 101051	Personal Dps Tracker	Shienar	c9b85989-bab6-4000-a3fc-80ed49e25e87
 PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a86588cd787
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
@@ -680,7 +682,7 @@ WizardsWardrobe	402	0.4.2	101048	Wizard's Wardrobe	STUDLETON	645213de-645d-4170-
 WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	RagePhoenix96	f6c4019b-59cf-4a0b-8550-0e83c807df18
 wretchedVitalityTracker		1.4.5	101051	Wretched Vitality Tracker	codeWarrior82	af0511e3-aa4e-4d26-8665-e486da04c1cd
 WritReady	2	2.13	101050	MWeyes	dicen9	0bb2a403-2da7-4c0d-8546-7957cbc8735b
-WritWorthy	070509	ww2	101051 101052	Gamer_sa22 Addon Testing	Gamer_sa22	93ab810e-7b13-4feb-8bb9-ecfadf17dace
+WritWorthy	070509	ww12	101051 101052	Gamer_sa22 Addon Testing	Gamer_sa22	93ab810e-7b13-4feb-8bb9-ecfadf17dace
 YeOldeInfos	202	2.0.2	101049	YeOlde-Infos	YeOldeDragon	1987390f-3dbd-407c-996d-aa3ef3ad9773
 Zaji	3	1.0.2	101050 101051	Zaji	TheGreyWolf98	ee217f7c-81b5-40dc-beb5-a6a184260d9d
 ZoneMountSwitcher	110	1.1.0	101046 101047	Zone Mount and Pet Switcher	MadeByQwerty	03172246-c90c-4b8b-9821-06a74a01ce96
