@@ -931,6 +931,7 @@ AoM.SuggestedCategories = {
 	["KDialogueHistory"] = "Chat Mods",
 	["KeepDoor"] = "PvP",
 	["KeepOne4Research"] = "TradeSkill Mods",
+	["KelaPadUIEnhanced"] = "Game Controller",
 	["KeybindCombos"] = "Miscellaneous",
 	["KeybindDoubleTapDodge"] = "Miscellaneous",
 	["KeybindHolidayMemento"] = "Miscellaneous",

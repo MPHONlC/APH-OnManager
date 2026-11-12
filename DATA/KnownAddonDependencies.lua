@@ -280,6 +280,7 @@ AoM.KnownAddonDependencies = {
 	["JunkHotkey"] = { "FCOCompanion" },
 	["KaleidoAchievementItems"] = { "LibCustomMenu" },
 	["KayzarUI"] = { "FancyTitles" },
+	["KelaPadUIEnhanced"] = { "ArkadiusTradeTools", "LibCharacterKnowledge", "LibCustomMenu", "LibDebugLogger", "LibItemLink", "PersonalAssistant", "TamrielTradeCentre", "USPF" },
 	["KwibusRandomThings"] = { "LibSkillBlocker" },
 	["KyzderpsDerps"] = { "BuffTheGroup", "CrutchAlerts", "HarvestMap", "HodorReflexes", "JoGroup", "LibFilteredChatPanel", "LibGroupCombatStats", "LibLootSummary", "LibRadialMenu", "LuiExtended", "OdySupportIcons" },
 	["LazyAlchemyLearner"] = { "LibPrice" },
