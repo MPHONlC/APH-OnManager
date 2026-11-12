@@ -2582,13 +2582,13 @@
    "apiVersion": "101051 101052",
    "author": "Lykeion+",
    "dependsOn": "LibAddonMenu-2.0>=43",
-   "downloads": 1972,
+   "downloads": 2201,
    "folder": "LykeionsAwareWolf",
    "isLibrary": "",
    "optionalDependsOn": "LibCombatAlerts",
    "title": "Lykeion's Aware Wolf",
-   "updatedAt": 1793457621,
-   "version": "2.6"
+   "updatedAt": 1794448231,
+   "version": "2.7"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25/CanThisBeCraftedAtHome": {
    "addOnVersion": "",
@@ -2745,18 +2745,18 @@
    "version": "1.5"
   },
   "46afefc4-e422-4c9f-a163-3b7ed6c11a84/TradeQR": {
-   "addOnVersion": "3",
+   "addOnVersion": "4",
    "addonId": "46afefc4-e422-4c9f-a163-3b7ed6c11a84",
    "apiVersion": "101051",
    "author": "RereRongonui",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 5,
    "folder": "TradeQR",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "TradeQR",
-   "updatedAt": 1794352043,
-   "version": "0.2.1"
+   "updatedAt": 1794441199,
+   "version": "0.3.0"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed/CooldownTracker": {
    "addOnVersion": "",
@@ -4827,8 +4827,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1794187040,
-   "version": "3.1"
+   "updatedAt": 1794459025,
+   "version": "4.1"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -6455,18 +6455,18 @@
    "version": "0.5.1"
   },
   "a76fc220-27fb-4174-8821-27351c50fea5/LibUser562": {
-   "addOnVersion": "3",
+   "addOnVersion": "6",
    "addonId": "a76fc220-27fb-4174-8821-27351c50fea5",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "",
-   "downloads": 1847,
+   "downloads": 4666,
    "folder": "LibUser562",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibUser562",
-   "updatedAt": 1792812077,
-   "version": "1.2"
+   "updatedAt": 1794459885,
+   "version": "1.5"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3/StyleNewCleaner": {
    "addOnVersion": "000100000",
@@ -7785,18 +7785,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000113",
+   "addOnVersion": "01000114",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 19366,
+   "downloads": 19576,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1794369614,
-   "version": "1.0.113"
+   "updatedAt": 1794456014,
+   "version": "1.0.114"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -9912,6 +9912,20 @@
    "updatedAt": 1781138585,
    "version": "1.0.0"
   },
+  "fc7e18ca-ae50-4284-8b26-df8f05312495/PBsWayPoint": {
+   "addOnVersion": "9",
+   "addonId": "fc7e18ca-ae50-4284-8b26-df8f05312495",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 8,
+   "folder": "PBsWayPoint",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
+   "title": "PinkB's WayPoint(Beta)",
+   "updatedAt": 1794460900,
+   "version": "0.5.0"
+  },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c/LibDateTime": {
    "addOnVersion": "32",
    "addonId": "fc98f3c0-0b5a-4797-aaa4-379955c3310c",
@@ -11146,7 +11160,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.573"
+   "version": "0.0.575"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -11283,7 +11297,7 @@
    "folders": [
     "LykeionsAwareWolf"
    ],
-   "version": "2.6"
+   "version": "2.7"
   },
   "434ce5ca-211a-4a6b-8682-21f39dcb2d25": {
    "folders": [
@@ -11355,7 +11369,7 @@
    "folders": [
     "TradeQR"
    ],
-   "version": "0.2.1"
+   "version": "0.3.0"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed": {
    "folders": [
@@ -12272,7 +12286,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "3.1"
+   "version": "4.1"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -12989,7 +13003,7 @@
    "folders": [
     "LibUser562"
    ],
-   "version": "1.2"
+   "version": "1.5"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3": {
    "folders": [
@@ -13584,7 +13598,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.113"
+   "version": "1.0.114"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -14544,6 +14558,12 @@
     "SatiatedHunger"
    ],
    "version": "1.0.0"
+  },
+  "fc7e18ca-ae50-4284-8b26-df8f05312495": {
+   "folders": [
+    "PBsWayPoint"
+   ],
+   "version": "0.5.0"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c": {
    "folders": [

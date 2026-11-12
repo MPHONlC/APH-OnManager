@@ -366,7 +366,7 @@ LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-4
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
-LibUser562	3	1.2	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
+LibUser562	6	1.5	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
 LibVotansAddonList	11001	1.10.1	101051 101052	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
@@ -374,7 +374,7 @@ LiveBuffUptime		2.5.0	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000113	1.0.113	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000114	1.0.114	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -384,7 +384,7 @@ LuXhrysLibExtendedInventory	008	0.8a	101050	LibExtendedInventory	Xhrysanth	28dff
 LuXhrysLibItemLinkPreview	001	0.1a	101050	LibItemLinkPreview	Xhrysanth	075222fe-7845-484e-a060-69ddb8d571d8
 LuXhrysVaultAndCoffer	005	0.5a	101050	Vault and Coffer	Xhrysanth	d5a2661e-4b51-4601-aa8f-84e97fc445ab
 LycanMeter		2025.05.29	101046	LycanMeter	Masteroshi430	529cf85a-e597-4945-86c4-654d2a32a7bc
-LykeionsAwareWolf		2.6	101051 101052	Lykeion's Aware Wolf	Lykeion+	42a55498-b21a-4657-86ba-bdb954f7a09d
+LykeionsAwareWolf		2.7	101051 101052	Lykeion's Aware Wolf	Lykeion+	42a55498-b21a-4657-86ba-bdb954f7a09d
 LykeionsHomeSweetHome		1.0.2	101048	Lykeion's Home Sweet Home - Dedicated Slash Command & Keybinding jumping to Sugar Bowl Suite	Lykeion+	339e95fd-5cd9-46ec-b4b1-3512364698e0
 M0RCameraSensitivity	101	1.1	101047	More Camera Sensitivity	M0R	c12b4c6f-c657-4d0b-ac4e-77374335877c
 M0RMarkers	222	2.2.2	101050	More Markers	M0R	c41f5a50-974f-45e6-a218-e99590da3841
@@ -422,7 +422,7 @@ MurfTreasures		1.2.7	101050 101051	Murf's Treasures	murphyx	4c4e9010-a3ef-435d-b
 MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08e4ae
 MyCombatText		5.0.3	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
-MyExtras		3.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
+MyExtras		4.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
 MyFontSwitcher		1.0	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
@@ -483,6 +483,7 @@ PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanthe
 PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
 PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f00e5b13-5452-4284-98f7-2bdbe3caff63
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
+PBsWayPoint	9	0.5.0	101050 101051	PinkB's WayPoint(Beta)	PinkBanther	fc7e18ca-ae50-4284-8b26-df8f05312495
 PBsWeaveBlockTrainer		1.4.0	101050 101051	PinkB's WeaveBlockTrainer	PinkBanther	79482b3e-9063-4aa7-a50f-81fedd155fc5
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
@@ -621,7 +622,7 @@ TitleLoop	1008	1.0.8	101050	Title Loop	Copper0	5e051775-8c73-4e96-bb6b-dcaa188dc
 TorigaCam		1.0.0	101050	TorigaCam	Master-Antonio	8c834a42-03cd-4110-8b81-7847f13944b6
 TorigaHUD		1.0.0	101050 101051	TorigaHUD	Master-Antonio	ac816501-4787-4c8b-942f-574aa8ea6c01
 TrackersByJH	1106	v2.3	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
-TradeQR	3	0.2.1	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
+TradeQR	4	0.3.0	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
 TraderFilter		1.0.6	101043	TraderFilter	wh0c4r35ab0utth15	44df98e8-01a5-48d2-903d-41d3516f3289
 TradeSkills	12	1.0	101042	Trade Skills	Necis	6062f2e4-8b5a-48e5-9327-cf8de18eb5e5
 TraitCraft	243	2.4.3	101050 101051	TraitCraft	saranicole1980	6214b947-f6ff-4d1b-b443-987daf528ecb

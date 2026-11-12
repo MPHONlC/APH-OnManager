@@ -199,6 +199,7 @@ PBsTargetPlayer	LibHarvensAddonSettings
 PBsTetris	LibGroupBroadcast
 PBsTranslate	LibGroupBroadcast	LibHarvensAddonSettings
 PBsWarTable	LibGroupBroadcast
+PBsWayPoint	LibGroupBroadcast	LibHarvensAddonSettings
 PBsWeaveBlockTrainer	LibHarvensAddonSettings
 PerCharacterMounts	LibAddonMenu-2.0	LibHarvensAddonSettings
 PermMemento	LibAddonMenu-2.0	LibGroupBroadcast	LibHarvensAddonSettings
