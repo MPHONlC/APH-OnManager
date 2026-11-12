@@ -550,6 +550,7 @@ AoM.SuggestedCategories = {
 	["EsoAR"] = "Unofficial game translations",
 	["EsoBR_Reforged"] = "Utility Mods",
 	["EsoCombatLock"] = "Character Advancement",
+	["ESOCombatWatch"] = "PvP",
 	["ESODatabaseExport"] = "Data Mods",
 	["ESODatabaseGameDataExport"] = "Data Mods",
 	["ESODatabaseLeaderboardExport"] = "Data Mods",

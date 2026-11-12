@@ -116,7 +116,7 @@ LibFonts	10000	1.0.0	4004	101044	LibFonts	LibFonts
 LibFoodDrinkBuff	19	19	1902	101049 101050	LibFoodDrinkBuff	LibFoodDrinkBuff
 LibFurnitureCatalogue	1003000	1.3.0	4804	101051 101052	LibFurnitureCatalogue	LibFurnitureCatalogue
 LibGamepad	107	1.0.8	4441	101049	LibGamepad	LibGamepad
-LibGamepadContextMenuBridge	152	1.5.2	4432	101048 101049	[Beta] LibGamepadContextMenuBridge v1.5.1 - gamepad context actions for LibCustomMenu	LibGamepadContextMenuBridge
+LibGamepadContextMenuBridge	154	1.5.4	4432	101051	[Beta] LibGamepadContextMenuBridge v1.5.1 - gamepad context actions for LibCustomMenu	LibGamepadContextMenuBridge
 LibGamepadOptions	7	0.2.4	4614	101049 101050	LibGamepadOptions	LibGamepadOptions
 LibGetText	12	1.0.3	2276	101045 101046	LibGetText	LibGetText
 LibGPS	73	3.3.3	601	101045 101046	LibGPS	LibGPS
