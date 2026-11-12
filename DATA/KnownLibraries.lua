@@ -31,7 +31,7 @@ blox		1.0.0	4004		LibFonts	blox
 CombatInsightsFightData	10200	1.2.2	3730	101046	CombatInsightsFightData	CombatInsightsFightData
 CombatMetricsFightData	22	1.7.8	1360	101048	CombatMetricsFightData	CombatMetricsFightData
 CustomCompassPins	138	1.38	185	101045 101046	CustomCompassPins	CustomCompassPins
-DariansUtilities	10807	1.7.7	2373	101051	Combat Metronome (GCD Tracker) - beta	DariansUtilities
+DariansUtilities	10808	1.7.8 - beta	3987	101051	Combat Metronome (GCD Tracker) - beta	DariansUtilities
 DsRPlayerDBData	100	2026.04.29	3776	101048 101049	DsR GuildRoster (Loot-/ Inventory, Stickerbook, PvP, PersonalAssistant, BuffTracker and more)	DsRPlayerDBData
 esoa_datastore	110	2.00.10	2070	100030 100031	ElderScrollsOfAlts	esoa_datastore
 FCOAccessibility	20300	2.3	3586	101050 101051	FCO Accessibility	FCOAccessibility
@@ -116,7 +116,7 @@ LibFonts	10000	1.0.0	4004	101044	LibFonts	LibFonts
 LibFoodDrinkBuff	19	19	1902	101049 101050	LibFoodDrinkBuff	LibFoodDrinkBuff
 LibFurnitureCatalogue	1003000	1.3.0	4804	101051 101052	LibFurnitureCatalogue	LibFurnitureCatalogue
 LibGamepad	107	1.0.8	4441	101049	LibGamepad	LibGamepad
-LibGamepadContextMenuBridge	154	1.5.4	4432	101051	[Beta] LibGamepadContextMenuBridge v1.5.1 - gamepad context actions for LibCustomMenu	LibGamepadContextMenuBridge
+LibGamepadContextMenuBridge	155	1.5.5	4432	101051	[Beta] LibGamepadContextMenuBridge v1.5.1 - gamepad context actions for LibCustomMenu	LibGamepadContextMenuBridge
 LibGamepadOptions	7	0.2.4	4614	101049 101050	LibGamepadOptions	LibGamepadOptions
 LibGetText	12	1.0.3	2276	101045 101046	LibGetText	LibGetText
 LibGPS	73	3.3.3	601	101045 101046	LibGPS	LibGPS

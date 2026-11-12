@@ -510,6 +510,7 @@ AoM.KnownAddonDependencies = {
 	["SurveyResetter"] = { "LibRadialMenu" },
 	["SwissKnife"] = { "FCOItemSaver", "LibChatMessage" },
 	["TaichouIconHighlight"] = { "LibAddonMenu-2.0" },
+	["TamrielicTongues"] = { "pChat" },
 	["TamrielTomes_MapPins"] = { "CustomCompassPins" },
 	["TamrielTradeCentre"] = { "AwesomeGuildStore", "LibHistoire" },
 	["TamrielTradeCentre-KR-Minion"] = { "TamrielKR" },
