@@ -132,7 +132,7 @@ LibHandler	3	0.0.3	3156	101033 101034	LibHandler	LibHandler
 LibHarvensAddonSettings	20201	2.2.1	584	101051 101052	LibHarvensAddonSettings	LHAS
 LibHistoire	1105	2.7.2	2817	101050 101051	LibHistoire	LibHistoire
 LibId64	28	1.0.1	3585	101045 101046	LibId64	LibId64
-LibImplex	24	24	4108	101049	LibImplex	LibImplex
+LibImplex	25	25	4108	101049	LibImplex	LibImplex
 LibInteriorDetection	44	1.3.7	4816	101051 101052	LibInteriorDetection	LibInteriorDetection
 LibItemLink	940	9.4.0	3855	100031 100032	LibItemLink	LibItemLink
 LibItemLinkDecoder	103	1.03	3265	101049 101050	LibItemLinkDecoder	LibItemLinkDecoder
@@ -209,7 +209,7 @@ LibSprint	20260522	2026.05.03	3827	101050	LibSprint	LibSprint
 LibStatic	210	2.1.0	4367	101049	LibStatic	LibStatic
 LibStub	7	1.0 r7	44	100030 100031	LibStub	LibStub
 LibSubzones	1	v22	4112	101048	ImperialCartographer	LibSubzones
-LibSurfaceTools	8	8	4584	101049	LibSurfaceTools	LibSurfaceTools
+LibSurfaceTools	9	9	4584	101051	LibSurfaceTools	LibSurfaceTools
 LibTableFunctions-1.0	101	1.0.1	2624	100030	LibTableFunctions-1.0	LibTableFunctions-1.0
 LibTarget		1.0.0	4830	101049	LibTarget	LibTarget
 LibTeamShadows	10303	1.3.3	4669	101050 101051	LibTeamshadows	LibTeamShadows

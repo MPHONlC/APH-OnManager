@@ -943,6 +943,7 @@ AoM.SuggestedCategories = {
 	["KillZaeler"] = "Data Mods",
 	["KindlerBeggarLiarThief"] = "Info, Plug-in Bars",
 	["KMailMaterials"] = "Utility Mods",
+	["KnownVendorFilter"] = "Auction House & Vendors",
 	["KozyEsoBuildPort"] = "Utility Mods",
 	["KWerewolfTracker"] = "Casting Bars, Cooldowns",
 	["KwibusRandomThings"] = "Miscellaneous",

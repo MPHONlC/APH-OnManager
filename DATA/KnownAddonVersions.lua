@@ -185,7 +185,7 @@ BanditsGuildhall		1.7	3176	101040
 BanditsUserInterface		4.440	1643	101051
 BanditsUserInterfaceZHPatch		4.413	3909	101042
 BankDataExporter		1.0.3.1	3825	101046 101047
-Bankir		2.9.3	4535	101051
+Bankir		2.9.5	4535	101051
 BankManagerRevived	1600	16.00	2333	101051 101052
 BankManagerTESO	1	1	4072	101041
 BannerTracker	1	1.0.5	4003	101044
@@ -423,7 +423,7 @@ DBGN	10109	1.1.9	1563	101046 101047 101048 101049
 DeadMansTally	100	1.0.0	4595	101049
 DeathCounter	5	1.05	4592	101050
 DeBluedIcons	1	1	5006	101051 101052
-DebuffTracker		3.3a	4030	101046
+DebuffTracker	5217	5.21.7	4030	101050 101051
 DebuggerConsole	1	0.3.2	3782	101040
 DeconOrSell		1.1.3	3972	101047
 DeconSelectAll	110	1.1.0	4873	101051 101050
@@ -479,7 +479,7 @@ DungeonQuestReminder		1.7	4346	101051
 DungeonQueue4Stickerbook		1.2.8	3254	101048 101049
 DungeonScores	538	0.5.38	5005	101051
 DungeonScoresRecords	515	0.5.38	5005	101051
-DungeonSetTracker	10100	1.1.0	4942	101051
+DungeonSetTracker	10200	1.2.0	4942	101051
 DungeonStrats	1	0.2.1	4525	101049 101050
 DungeonTimer		1.0.16	2262	101041
 DungeonTracker		1.48	1552	101044 101045
@@ -817,7 +817,7 @@ ImprovedAttributeBars	103000	1.3.0	4884	101051
 ImprovedDeathRecap	10002	1.0.2	1319	100048
 ImprovedGoldenPursuits		1.6.0	4005	101051
 ImprovedNightMarketHUD	100030	1.0.3	4560	101049 101050
-ImprovedPvPUI	1175000	1.7.5	4035	101050
+ImprovedPvPUI	1177000	1.7.7	4035	101051
 ImprovedTitleizer		1.16	3542	101049
 ImprovedTomesUI	6	6	4496	101050
 IncombatWearHelmet		1047.251018	1687	101047 101048
@@ -875,7 +875,7 @@ KattsCryptIcons	18	1.7.2	3818	101050 101051
 KayzarUI	2	1.2	4387	101047 101048
 KeepDoor		1.0.6	3620	101049 101050
 KeepOne4Research		0.0.3	4605	101050
-KelaPadUIEnhanced	20800	2.8.0	5044	101051
+KelaPadUIEnhanced	20801	2.8.1	5044	101051
 KeybindCombos		1.0.0	4615	101049 101050
 KeybindDoubleTapDodge		1.0.9	2292	100034
 KeybindHolidayMemento		2.0.0	2310	101041
@@ -886,6 +886,7 @@ KillFeedFilter		1.4.5	4268	101041
 Killz	118	1.10.7	3572	101050
 KillZaeler	16	1.7.0	4543	101042
 KindlerBeggarLiarThief		1.2	4321	101048 101048
+KnownVendorFilter	5	1.0.4	5049	101051
 KozyEsoBuildPort	1002	0.10.2	4938	101051 101052
 KwibusRandomThings		1.5.0	4450	101050 101051
 KwibusReset	110101	1.11.0	4281	101047
@@ -995,7 +996,7 @@ Meterskull		1.6.1	3941	101051
 MiatsTickTracker	115	1.15	4240	101047
 MidTrialMechs	1	1.0.1	4907	101050 101051
 MightyExperienceBar		1.1.0	3126	101041
-MiniMap		2026.11.10	3384	101052
+MiniMap		2026.11.13	3384	101052
 MinimapCoords	100	1.03	5045	101052
 MiniStats	1	0.1.0	4222	101046
 MinistryOfNormalWalks		1.0.0	4022	101044
@@ -1042,7 +1043,7 @@ NearSkillBlocker	3100	3.10.0	3483	101045
 NearSkillBlockerBanner	102	1.0.2	4066	101046
 NearSkillRanks	140	1.4.0	3745	101047
 NeatExperienceInfo		1.15.1	1581	101045
-NecroCat	30006	3.0.7	4174	101051 101052
+NecroCat	30007	3.0.7	4174	101051 101052
 NecroCatIcons	10503	1.5.3	4835	101050 101051
 NecromancerTracker		1.3.3.1	2795	101045
 NeltharionsCamControl	15	1.14	3480	101046
@@ -1577,7 +1578,7 @@ VendorScanner	1	1.0.0		101046
 VEQ		2026.11.12	3228	101052
 Verdant	11	2.6.0	4557	101051 101050
 Verditer	1	0.9.0	4651	101049 101050
-Vermilion	10	1.2.1	4616	101051 101050
+Vermilion	11	2.0.0	4616	101051 101050
 VersesAndVisions		2026.09.29	3761	101051
 VestigeMirror		1.4.1	4564	101051
 VeterancyAutoClaim	10002	1.0.2	4759	101050
@@ -1633,7 +1634,7 @@ WerewolfRave		1.3.9	4739	101051
 WerewolfTimerBar	310	3.10	3814	101051 101052
 WerewolfTrackersAndQOL		1.1.1	4698	101050
 WerrasGuildAddons		1.0	3982	101044
-WeylandHuntsmansWarmaskTracker	10001	1.0.1	5040	101051
+WeylandHuntsmansWarmaskTracker	10007	1.0.7	5040	101051
 WeylandVampireStageTracker	12002	1.2.2	5035	101051
 WhatDropsHere	4	0.3.1	5030	101051 101052
 WhereIsMyOlorime		1.0.1	3680	101040
