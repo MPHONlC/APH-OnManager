@@ -185,7 +185,7 @@ BanditsUserInterface		4.440	1643	101051
 BanditsUserInterfaceZHPatch		4.413	3909	101042
 BankDataExporter		1.0.3.1	3825	101046 101047
 Bankir		2.9.3	4535	101051
-BankManagerRevived		15.13	2333	101051 101050
+BankManagerRevived	1600	16.00	2333	101051 101052
 BankManagerTESO	1	1	4072	101041
 BannerTracker	1	1.0.5	4003	101044
 BardCombatStance		1.2.1	4365	101048 101049
@@ -288,7 +288,7 @@ ChaoticTools	1	2.171	3686	101040
 CharacterBoundItemHider	26101801	2026.10.18.01.41	4922	101051 101052
 CharacterGearUI	407	0.4.7	4743	101050 101051
 CharacterHomes	1	1.4.0	4654	101051
-CharacterKnowledge	301040	3.1.4	2938	101051
+CharacterKnowledge	301050	3.1.5	2938	101051 101052
 CharacterKnowledgeZHPatch	201000	2.1.02	3900	101042
 CharacterMarkdown	20260803	2.3.0	4279	101050 101049
 Chat Emotes	10022	2.6	3658	101042
@@ -317,12 +317,12 @@ CloudrestMiniHelper		1.1	3015	100034
 CloudrestPortalSafe		1.0.5	3784	101046 101047
 cmpqt		1.0.2	4695	101050
 CogsAssistants	5	0.1.5	4687	101050 101051
-CollectiblesTracker	306040	3.6.4	2588	101051
+CollectiblesTracker	306050	3.6.5	2588	101051 101052
 CollectiblesTrackerAllTheThings	2	2.2	4638	101051 101052
 Colorblind		2026.11.07	5032	101042
 ColorBlindMode		1.0.12	2981	101042
 ColorfulMapAreas		1.2.0	3393	101037
-CombatAlerts	206090	2.6.9	1855	101051 101052
+CombatAlerts	207000	2.7.0	1855	101051 101052
 CombatAlertsExtended		1.0.5	3439	101038 101039
 CombatAlertsZHPatch	200081	2.0.8.1	3911	101042
 CombatInsights	10202	1.2.2	3730	101046
@@ -755,7 +755,7 @@ HideGroupNecro		1.5.1	3472	101047 101048
 HideLoginNotice		1.0.3	4248	101048
 HideMOTD		26.11.11	5033	101045
 HidePlayerMapMarker		1.0.2	4249	101048
-HideResearchableIcon	112	1.1.2	5016	101051 101050
+HideResearchableIcon	113	1.1.3	5016	101051 101050
 HideReticleMounted		1.0.1	4332	101048
 HideScryingTooltips		1.0.1	4782	101050
 HideUI		1.0	4083	101045 101046
@@ -845,7 +845,7 @@ IsOverloadOn	170	1.7.0	4915	101050 101051
 IsTargetGuildie		2026.07.06	3717	101050
 ItalianScrollsOnline		166	2854	101042
 ItemAlert	10102	1.1.2	3954	101044
-ItemBrowser	407012	4.7.1.2	1480	101050 101051
+ItemBrowser	407020	4.7.2	1480	101051 101052
 ItemCooldownTracker	52	5.2	2823	101050 101051
 ItemSaverLite		2.4	4335	101051
 ItemSetCollectionTracker	41	0.4.1	2816	101041
@@ -930,7 +930,7 @@ LogToggler		0.2.1	4192	101046
 LogWindow		1.0.0	3206	101031
 LongPressCtrlToInteract		2026.07.19	3273	101050
 LootDrop		4.65	2660	101050 101051
-LootLog	410060	4.10.6	1455	101051
+LootLog	410070	4.10.7	1455	101051 101052
 LootReader		0.3	4327	101049
 LootSanitizer	20	0.20.0	4189	101047
 LootTrackerSolution	1	1.0.40	3810	101040
@@ -995,6 +995,7 @@ MiatsTickTracker	115	1.15	4240	101047
 MidTrialMechs	1	1.0.1	4907	101050 101051
 MightyExperienceBar		1.1.0	3126	101041
 MiniMap		2026.11.10	3384	101052
+MinimapCoords	100	1.03	5045	101052
 MiniStats	1	0.1.0	4222	101046
 MinistryOfNormalWalks		1.0.0	4022	101044
 MiraclesBetterScoreboard	11	Version 2	5013	101051
@@ -1231,7 +1232,7 @@ RadiantRange	5	1.0.5	4868	101050 101051
 RaffleGold	265100	26.51.00	3826	101050 101051
 RaffleGoldTally		2.0	1423	100019
 raggsz-attributes	3	3	4665	101050 101051
-Raidificator	408020	4.8.2	1101	101051
+Raidificator	408030	4.8.3	1101	101051 101052
 RaidNotifier	230	2.30	1355	101046
 RaidNotifierZHPatch		2.28.1	3912	101041
 RajinesExpLeft	1	1.0	4636	101050

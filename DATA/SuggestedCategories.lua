@@ -1233,6 +1233,7 @@ AoM.SuggestedCategories = {
 	["MidTrialMechs"] = "Raid Mods",
 	["MightyExperienceBar"] = "Character Advancement",
 	["MiniMap"] = "Map, Coords, Compasses",
+	["MinimapCoords"] = "Map, Coords, Compasses",
 	["MiniStats"] = "Character Advancement",
 	["MinistryOfNormalWalks"] = "RolePlay",
 	["MiraclesBetterScoreboard"] = "PvP",
