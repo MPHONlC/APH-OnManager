@@ -39,6 +39,7 @@ BattleScrollsNameColours	LibHarvensAddonSettings
 BattleStats	LibHarvensAddonSettings
 BeamMeUp	BanditsUserInterface	LibChatMenuButton	LibCustomMenu	LibMapPing	LibSets	LibSlashCommander	MorrowindStyleUI	PortToFriendsHouse
 BetterEffectViewer	LibAddonMenu-2.0
+BetterGroupFinderConsole	LibAddonMenu-2.0	LibHarvensAddonSettings
 BoostTimer	LibAddonMenu-2.0
 BuildForge	LibAddonMenu-2.0
 CadenceCoach	LibHarvensAddonSettings
@@ -193,6 +194,7 @@ PBsLuaMemoryMonitor	LibHarvensAddonSettings
 PBsMailerExtension	LibHarvensAddonSettings
 PBsOmikuji	LibHarvensAddonSettings
 PBsProcSetTimer	LibHarvensAddonSettings
+PBsQuickChat	LibHarvensAddonSettings
 PBsReticle	LibHarvensAddonSettings
 PBsScreenshotModeShortcut	LibHarvensAddonSettings
 PBsTargetPlayer	LibHarvensAddonSettings
@@ -221,7 +223,7 @@ RolePlayMod	LibGPS
 Rolodex	LibAddonMenu-2.0
 RotationHelper	LibAddonMenu-2.0
 rushOfAgonyTracker	LibNotify
-SatchelExchange	LibConsoleLogger
+SatchelExchange	LibConsoleLogger	LibRadialMenu
 SatuveRotationTrainer	LibGamepad
 SatuveXboxUI	LibDebugLogger	LibStub
 SavedChatMessages	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary

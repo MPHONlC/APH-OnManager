@@ -994,6 +994,20 @@
    "updatedAt": 1791026945,
    "version": "SnipersFriend-0.8.0-2026-10-03T042857"
   },
+  "18f58bd9-6671-4da3-9a9e-fb27a4cec897/PBsQuickChat": {
+   "addOnVersion": "1",
+   "addonId": "18f58bd9-6671-4da3-9a9e-fb27a4cec897",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsQuickChat",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's QuickChat(Beta)",
+   "updatedAt": 1794528394,
+   "version": "0.1.0"
+  },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773/YeOldeInfos": {
    "addOnVersion": "202",
    "addonId": "1987390f-3dbd-407c-996d-aa3ef3ad9773",
@@ -1217,6 +1231,20 @@
    "title": "Addon Loadouts",
    "updatedAt": 1777687743,
    "version": "1.5"
+  },
+  "20837ea1-4531-40f4-b11b-d2658a48fa8e/BetterGroupFinderConsole": {
+   "addOnVersion": "100",
+   "addonId": "20837ea1-4531-40f4-b11b-d2658a48fa8e",
+   "apiVersion": "101049 101050",
+   "author": "Vixen_Hunny",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "BetterGroupFinderConsole",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0>=40 LibHarvensAddonSettings",
+   "title": "Better Group Finder",
+   "updatedAt": 1794519303,
+   "version": "1.0.0"
   },
   "20cda1ba-c4a4-4f82-9dcb-81e274222d9e/PBsOmikuji": {
    "addOnVersion": "",
@@ -2652,13 +2680,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 248,
+   "downloads": 250,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "dev sandbox",
-   "updatedAt": 1794360785,
-   "version": "PvPUAPatch-5.6.2-2026-11-10T173255"
+   "updatedAt": 1794524967,
+   "version": "PvPUAPatch-5.7.0-2026-11-12T150917"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -2773,18 +2801,18 @@
    "version": "1.5"
   },
   "46afefc4-e422-4c9f-a163-3b7ed6c11a84/TradeQR": {
-   "addOnVersion": "4",
+   "addOnVersion": "5",
    "addonId": "46afefc4-e422-4c9f-a163-3b7ed6c11a84",
    "apiVersion": "101051",
    "author": "RereRongonui",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 7,
    "folder": "TradeQR",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "TradeQR",
-   "updatedAt": 1794441199,
-   "version": "0.3.0"
+   "updatedAt": 1794523624,
+   "version": "0.4.0"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed/CooldownTracker": {
    "addOnVersion": "",
@@ -2883,6 +2911,20 @@
    "title": "Scryer\u2019s Ledger",
    "updatedAt": 1794427852,
    "version": "1.0.3"
+  },
+  "485900c9-f745-42fa-a0f4-d0bc09f8bc3c/AutoAcceptQ": {
+   "addOnVersion": "4",
+   "addonId": "485900c9-f745-42fa-a0f4-d0bc09f8bc3c",
+   "apiVersion": "101048 101049",
+   "author": "Vixen_Hunny",
+   "dependsOn": "LibAddonMenu-2.0>=32",
+   "downloads": 2,
+   "folder": "AutoAcceptQ",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "AutoAcceptQ",
+   "updatedAt": 1794517120,
+   "version": "1.3.0"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6/LibAlchemy": {
    "addOnVersion": "18",
@@ -3254,13 +3296,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 383,
+   "downloads": 423,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "PvP UA (Patch)",
-   "updatedAt": 1794360772,
-   "version": "PvPUAPatch-5.6.1-2026-11-10T173243"
+   "updatedAt": 1794523986,
+   "version": "PvPUAPatch-5.6.2-2026-11-12T145257"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9/Update47Tweaker": {
    "addOnVersion": "",
@@ -4850,13 +4892,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 17,
+   "downloads": 18,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1794478659,
-   "version": "5.1"
+   "updatedAt": 1794520581,
+   "version": "5.3"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -5811,18 +5853,18 @@
    "version": "2.2"
   },
   "93ab810e-7b13-4feb-8bb9-ecfadf17dace/WritWorthy": {
-   "addOnVersion": "070509",
+   "addOnVersion": "070602",
    "addonId": "93ab810e-7b13-4feb-8bb9-ecfadf17dace",
    "apiVersion": "101051 101052",
    "author": "Gamer_sa22",
-   "dependsOn": "LibAddonMenu-2.0>=43 LibPrice>=70000 LibLazyCrafting>=4038 LibSets>=9020 LibCharacterKnowledge>=300040",
-   "downloads": 2245,
+   "dependsOn": "LibAddonMenu-2.0>=43 LibPrice>=70530 LibLazyCrafting>=4038 LibSets>=9020 LibCharacterKnowledge>=300040",
+   "downloads": 2264,
    "folder": "WritWorthy",
    "isLibrary": "",
    "optionalDependsOn": "LibCustomMenu AwesomeGuildStore LibSlashCommander LibDebugLogger HomeStationMarker",
    "title": "Gamer_sa22 Addon Testing",
-   "updatedAt": 1794495896,
-   "version": "ww12"
+   "updatedAt": 1794522753,
+   "version": "ww13"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a/CraftMaterialAssistant": {
    "addOnVersion": "",
@@ -5956,13 +5998,13 @@
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 308,
+   "downloads": 498,
    "folder": "SatchelExchange",
    "isLibrary": "",
-   "optionalDependsOn": "LibConsoleLogger",
+   "optionalDependsOn": "LibConsoleLogger LibRadialMenu",
    "title": "Satchel Exchange",
-   "updatedAt": 1785120364,
-   "version": "SatchelExchange-0.9.3-2026-07-26T194551"
+   "updatedAt": 1794526915,
+   "version": "SatchelExchange-0.10.0-2026-11-12T154142"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
    "addOnVersion": "9",
@@ -7265,6 +7307,20 @@
    "title": "dev sandbox 2",
    "updatedAt": 1793057360,
    "version": "PreviewAnywhere-1.3.0-2026-10-26T162909"
+  },
+  "bc6b3b76-f701-4533-9492-c50acb1783bc/SatchelExchange": {
+   "addOnVersion": "",
+   "addonId": "bc6b3b76-f701-4533-9492-c50acb1783bc",
+   "apiVersion": "101050",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 292,
+   "folder": "SatchelExchange",
+   "isLibrary": "",
+   "optionalDependsOn": "LibConsoleLogger LibRadialMenu",
+   "title": "dev sandbox 2",
+   "updatedAt": 1794520836,
+   "version": "SatchelExchange-0.10.0-2026-11-12T140025"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/VaultCategories": {
    "addOnVersion": "100",
@@ -10630,6 +10686,12 @@
    ],
    "version": "SnipersFriend-0.8.0-2026-10-03T042857"
   },
+  "18f58bd9-6671-4da3-9a9e-fb27a4cec897": {
+   "folders": [
+    "PBsQuickChat"
+   ],
+   "version": "0.1.0"
+  },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773": {
    "folders": [
     "YeOldeInfos"
@@ -10730,6 +10792,12 @@
     "AddonLoadouts"
    ],
    "version": "1.5"
+  },
+  "20837ea1-4531-40f4-b11b-d2658a48fa8e": {
+   "folders": [
+    "BetterGroupFinderConsole"
+   ],
+   "version": "1.0.0"
   },
   "20cda1ba-c4a4-4f82-9dcb-81e274222d9e": {
    "folders": [
@@ -11347,7 +11415,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.6.2-2026-11-10T173255"
+   "version": "PvPUAPatch-5.7.0-2026-11-12T150917"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -11407,7 +11475,7 @@
    "folders": [
     "TradeQR"
    ],
-   "version": "0.3.0"
+   "version": "0.4.0"
   },
   "4700c5de-fb02-411e-b563-1f326352b4ed": {
    "folders": [
@@ -11454,6 +11522,12 @@
     "ScryersLedger"
    ],
    "version": "1.0.3"
+  },
+  "485900c9-f745-42fa-a0f4-d0bc09f8bc3c": {
+   "folders": [
+    "AutoAcceptQ"
+   ],
+   "version": "1.3.0"
   },
   "48762aef-8240-473f-aef5-17d1b5d5b9b6": {
    "folders": [
@@ -11618,7 +11692,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.6.1-2026-11-10T173243"
+   "version": "PvPUAPatch-5.6.2-2026-11-12T145257"
   },
   "50a4c919-aff0-4475-8614-eb2576d6b6d9": {
    "folders": [
@@ -12324,7 +12398,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "5.1"
+   "version": "5.3"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -12749,7 +12823,7 @@
    "folders": [
     "WritWorthy"
    ],
-   "version": "ww12"
+   "version": "ww13"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a": {
    "folders": [
@@ -12811,7 +12885,7 @@
    "folders": [
     "SatchelExchange"
    ],
-   "version": "SatchelExchange-0.9.3-2026-07-26T194551"
+   "version": "SatchelExchange-0.10.0-2026-11-12T154142"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214": {
    "folders": [
@@ -13383,9 +13457,9 @@
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc": {
    "folders": [
-    "PreviewAnywhere"
+    "SatchelExchange"
    ],
-   "version": "PreviewAnywhere-1.3.0-2026-10-26T162909"
+   "version": "SatchelExchange-0.10.0-2026-11-12T140025"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [

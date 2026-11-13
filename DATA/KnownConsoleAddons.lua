@@ -65,6 +65,7 @@ AsylumTimers	10303	1.3.5	101048 101049	Asylum Timers	Shienar	b95c419b-3f27-4214-
 Atlas	10008	1.0.8	101051	Atlas	TheGreyWolf98	f01417b0-7ff1-43e7-9d6e-9ff9e62279b3
 AtlasMiniMap	9	1.0.6	101050 101051	Atlas Mini Map	TheGreyWolf98	56cfaf14-f344-4808-bed0-fa69138769fd
 atronachTracker		1.1.3	101051	Storm Atronach Tracker	codeWarrior82	a70e4425-99f9-4fdb-85da-dc21b578e10f
+AutoAcceptQ	4	1.3.0	101048 101049	AutoAcceptQ	Vixen_Hunny	485900c9-f745-42fa-a0f4-d0bc09f8bc3c
 AutoClaimGoldenPursuits	200010	2.0.1	101050	Auto-Claim or Hide Golden Pursuits	code65536	48b63611-befb-44e1-b87a-1bac567ee234
 AutoClaimTomePoints	200010	2.0.1	101050 101051	Auto-Claim or Hide Tome Challenges	code65536	910446ca-4e83-47c8-8c9b-a5d99bcec73e
 AutoComplete		1.0.2	101045 101046	Auto Complete	Dolgubon	e1ed5f61-10b6-43bf-baaf-3da81a8c26a3
@@ -93,6 +94,7 @@ BetterBars	2	v0.0.03	101050	Better Bars	BMGxSancho	784b8f46-2797-426a-ab85-f1e5b
 BetterBuffs	317	v0.3.17	101050	Better Buffs	BMGxSancho	ecd02472-565e-4f7f-83ce-812e8a5b0bde
 BetterCharacterOverview	11100	BetterCharacterOverview-1.11.0-2026-10-26T121613	101050 101051	BetterCharacterOverview (Patch)	clubwratt	23989a49-5901-4ccb-9b71-6e848d4bceee
 BetterEffectViewer	20	5.0.0	101048	Vixen's Effect Viewer	Vixen_Hunny	7a48fb7e-4903-4ff4-8d74-c6050c85363a
+BetterGroupFinderConsole	100	1.0.0	101049 101050	Better Group Finder	Vixen_Hunny	20837ea1-4531-40f4-b11b-d2658a48fa8e
 BetterScoreboard	50	5.0	101046	Better Scoreboard	M0R	bb565e61-5481-49e2-9550-7c8aa18aa17a
 BetterTwins	6	v0.0.01-dev6	101048 101049 101050	Test01 Better Twins	BMGxSancho	4dd951d1-312d-470c-b02c-f1961618b998
 BeyondTheMap	15100	1.51.00	101051	Beyond The Map	xbutch	1f42735d-8e9b-47ab-a1a7-f70de8bef493
@@ -424,7 +426,7 @@ MurfTreasures		1.2.7	101050 101051	Murf's Treasures	murphyx	4c4e9010-a3ef-435d-b
 MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08e4ae
 MyCombatText		5.0.3	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
-MyExtras		5.1	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
+MyExtras		5.3	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
 MyFontSwitcher		2.3	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
@@ -477,6 +479,7 @@ PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
+PBsQuickChat	1	0.1.0	101050 101051	PinkB's QuickChat(Beta)	PinkBanther	18f58bd9-6671-4da3-9a9e-fb27a4cec897
 PBsReticle	110	1.1.0	101050 101051	PinkB's Reticle	PinkBanther	0308c3b9-4770-4548-939d-cc4550f58fcc
 PBsScreenshotModeShortcut		1.3.1	101050 101051	PinkB's ScreenshotModeShortcut	PinkBanther	f092f755-7f1e-43bf-b184-f2a9871a86ea
 PBsTargetPlayer		1.7.0	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
@@ -514,7 +517,7 @@ PvPCooldownTracker	121	25.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
 PvPTargetInfo	114	V2.5.0	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
 PvPUA		5.4	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
-PvPUAPatch		PvPUAPatch-5.6.2-2026-11-10T173255	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
+PvPUAPatch		PvPUAPatch-5.7.0-2026-11-12T150917	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
@@ -542,7 +545,7 @@ Rolodex	1	1.0	101050	Rolodex	dicen9	fba4016e-4c55-48b5-9f38-f169d2190581
 Roomba		2026.08.15	101050 101051	Roomba	Masteroshi430	80e548e3-0d72-47fa-9ef8-f6966b42ee75
 RotationHelper		1.0.52	101046 101047	Rotation Helper	RipleyZepher	183094f4-334c-48ea-abb9-14add7fbbbd7
 rushOfAgonyTracker		1.0.9	101051	Rush of Agony Tracker	codeWarrior82	03e3b721-0ccb-4e27-9f1c-ae0e6bf96be5
-SatchelExchange		SatchelExchange-0.9.3-2026-07-26T194551	101050	Satchel Exchange	clubwratt	979371c6-2e58-4b2f-84af-cc9276c86b94
+SatchelExchange		SatchelExchange-0.10.0-2026-11-12T154142	101050	Satchel Exchange	clubwratt	979371c6-2e58-4b2f-84af-cc9276c86b94
 SatiatedHunger	1	1.0.0	101050	Satiated Hunger	Kyzeragon	fba77669-8221-43e5-b44d-31ced9546f8b
 SatuveRotationTrainer		1.2.6	101050	Rotation Trainer v1	satuve	dc853c4f-c4b9-4948-9774-c0093a25d836
 SatuveXboxUI		2.0.4	101050 101051	Bandit Xbox UI	satuve	63900961-28c3-49d2-8576-476e5906e80b
@@ -624,7 +627,7 @@ TitleLoop	1008	1.0.8	101050	Title Loop	Copper0	5e051775-8c73-4e96-bb6b-dcaa188dc
 TorigaCam		1.0.0	101050	TorigaCam	Master-Antonio	8c834a42-03cd-4110-8b81-7847f13944b6
 TorigaHUD		1.0.0	101050 101051	TorigaHUD	Master-Antonio	ac816501-4787-4c8b-942f-574aa8ea6c01
 TrackersByJH	1106	v2.3	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
-TradeQR	4	0.3.0	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
+TradeQR	5	0.4.0	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
 TraderFilter		1.0.6	101043	TraderFilter	wh0c4r35ab0utth15	44df98e8-01a5-48d2-903d-41d3516f3289
 TradeSkills	12	1.0	101042	Trade Skills	Necis	6062f2e4-8b5a-48e5-9327-cf8de18eb5e5
 TraitCraft	243	2.4.3	101050 101051	TraitCraft	saranicole1980	6214b947-f6ff-4d1b-b443-987daf528ecb
@@ -682,7 +685,7 @@ WizardsWardrobe	402	0.4.2	101048	Wizard's Wardrobe	STUDLETON	645213de-645d-4170-
 WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	RagePhoenix96	f6c4019b-59cf-4a0b-8550-0e83c807df18
 wretchedVitalityTracker		1.4.5	101051	Wretched Vitality Tracker	codeWarrior82	af0511e3-aa4e-4d26-8665-e486da04c1cd
 WritReady	2	2.13	101050	MWeyes	dicen9	0bb2a403-2da7-4c0d-8546-7957cbc8735b
-WritWorthy	070509	ww12	101051 101052	Gamer_sa22 Addon Testing	Gamer_sa22	93ab810e-7b13-4feb-8bb9-ecfadf17dace
+WritWorthy	070602	ww13	101051 101052	Gamer_sa22 Addon Testing	Gamer_sa22	93ab810e-7b13-4feb-8bb9-ecfadf17dace
 YeOldeInfos	202	2.0.2	101049	YeOlde-Infos	YeOldeDragon	1987390f-3dbd-407c-996d-aa3ef3ad9773
 Zaji	3	1.0.2	101050 101051	Zaji	TheGreyWolf98	ee217f7c-81b5-40dc-beb5-a6a184260d9d
 ZoneMountSwitcher	110	1.1.0	101046 101047	Zone Mount and Pet Switcher	MadeByQwerty	03172246-c90c-4b8b-9821-06a74a01ce96
