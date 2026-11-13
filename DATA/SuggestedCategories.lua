@@ -60,6 +60,7 @@ AoM.SuggestedCategories = {
 	["AlabuzyaUI"] = "Graphic UI Mods",
 	["ALCBenchmark"] = "Plug-Ins & Patches",
 	["Alchemiewerk"] = "TradeSkill Mods",
+	["AlchemyFavoritePotions"] = "TradeSkill Mods",
 	["AlchemyQuantityInput"] = "Utility Mods",
 	["AlchemyTooltips"] = "Bags, Bank, Inventory",
 	["AlignGrid"] = "Graphic UI Mods",
