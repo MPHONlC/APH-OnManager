@@ -131,9 +131,9 @@ CleanLeadsUI		1.0.0	101040	CleanLeadsUI	akbosser	2150f7ed-d4e8-426c-b6e0-2df807f
 ClearSight		1.2.6	101050	ClearSight	SugaComa	c720ddc7-a982-4027-ac83-204540d2b013
 CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f0c-9c9c-48e1a355c970
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
-CombatAlerts	206090	2.6.9	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
+CombatAlerts	207000	2.7.0	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
-CombatMascotDiag	1	V0	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
+CombatMascotDiag	2	v1	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
 CombatTopHealthbar		2025.05.29	101046	CombatTopHealthbar	Masteroshi430	7c18ff01-65ca-424a-9797-987227ea3ac6
@@ -193,7 +193,7 @@ ESOAssistant	10008	1.0.8	101048 101049	ESO Assistant by ESO-hub.com	ESO-Hub	3b05
 EsoBR		1.3.1	101051	Tradução Português - ESOBR	frooke	2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5
 ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4dbd3-8273-4fc3-8416-f6c79eeb76ab
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
-ESOCKeepMyCrafts	6	2.3.1	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
+ESOCKeepMyCrafts	9	2.5.1	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
@@ -207,7 +207,7 @@ EWPFinder	1	4.0.3 Removed Constant return	101046	EWPFinder	Vixen_Hunny	bf9cbf1c-
 ExoYsCruxTracker		v1.3	101050	Crux Tracker	j.hhh	7c2543a8-c08b-4c48-b4bf-47d2463b616f
 EyeOnKeep		1.2.0	101051	EyeOnKeep	SugaComa	4c644add-5991-49a0-ad77-6b91a5ffee42
 EyesOfTheUndaunted	15103	1.51.03	101051	Eyes of the Undaunted	xbutch	b22ade94-a817-47da-bc4f-cfa7e1dd25ff
-FancyActionBarPlus	21908	2.19.8	101050	Fancy Action Bar+	acastanza	922792c1-1d90-4415-ada5-c356757e857f
+FancyActionBarPlus	21909	2.18.9	101050	Fancy Action Bar+	acastanza	922792c1-1d90-4415-ada5-c356757e857f
 FashionMount		1.1.2	101049 101050 101051	Fashion Mount	SugaComa	91a5e014-74ee-4d3b-a612-b2b05dd223d8
 FavOptions		1.2.5	101050 101051	FavOptions	murphyx	d13d8dac-6694-4ebe-8685-ce038ec06a1e
 FavoriteGuildCycler	131	v1.3.1	101051 101050 101049 101048	Favorite Guild Cycler	Lucky38Tech	0a76b1e2-2754-4c05-8647-04f6f0216c0d
@@ -316,11 +316,11 @@ LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
 LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
 LibAsync	30105	3.1.5	101049 101050	LibAsync	votan73	72c475de-1f9e-433f-8047-57f7fb4ff786
-LibCharacterKnowledge	301020	3.1.2	101050 101051	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
+LibCharacterKnowledge	301030	3.1.3	101051 101052	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
 LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8b84-097b6d7ee558
 LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df04d0
-LibCombatAlerts	8060	0.8.6	101051	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
+LibCombatAlerts	9000	0.9.0	101051 101052	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibCombatSkills	1	1.0.13	101049 101050	LibCombatSkills	SugaComa	4500daea-ed3f-4071-822c-24329a5831e3
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
 LibConsoleLogger	400	LibConsoleLogger-0.4.0-2026-10-23T160515	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
@@ -378,7 +378,7 @@ LiveBuffUptime		2.5.0	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-d
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000114	1.0.114	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000115	1.0.115	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -479,7 +479,7 @@ PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
-PBsQuickChat	1	0.1.0	101050 101051	PinkB's QuickChat(Beta)	PinkBanther	18f58bd9-6671-4da3-9a9e-fb27a4cec897
+PBsQuickChat	1	0.2.0	101050 101051	PinkB's QuickChat	PinkBanther	e71bb4da-eb0c-4506-a479-9a4260b65fd9
 PBsReticle	110	1.1.0	101050 101051	PinkB's Reticle	PinkBanther	0308c3b9-4770-4548-939d-cc4550f58fcc
 PBsScreenshotModeShortcut		1.3.1	101050 101051	PinkB's ScreenshotModeShortcut	PinkBanther	f092f755-7f1e-43bf-b184-f2a9871a86ea
 PBsTargetPlayer		1.7.0	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
@@ -488,7 +488,7 @@ PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanthe
 PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
 PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f00e5b13-5452-4284-98f7-2bdbe3caff63
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
-PBsWayPoint	10	0.5.1	101050 101051	PinkB's WayPoint(Beta)	PinkBanther	fc7e18ca-ae50-4284-8b26-df8f05312495
+PBsWayPoint	12	0.6.0	101050 101051	PinkB's WayPoint(Beta)	PinkBanther	fc7e18ca-ae50-4284-8b26-df8f05312495
 PBsWeaveBlockTrainer		1.4.0	101050 101051	PinkB's WeaveBlockTrainer	PinkBanther	79482b3e-9063-4aa7-a50f-81fedd155fc5
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
@@ -499,7 +499,7 @@ PetHealth	1.15.1	1.15.1	101048	Pet Health	Gamer_sa22	d8639f08-8c9a-4f4c-af6d-5a8
 PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd now	NamesJacks	64f89b81-db7d-4b9c-9027-3f6185a2d96c
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
-PlayerMascotHealth	136	v1.3.6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth	150	v1.5.1	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
@@ -515,9 +515,9 @@ Puma	1	2.0.0	101046	Puma	Vixen_Hunny	5fcc6401-3a36-427e-acd5-9611fb589e78
 PVPBuddy		0.1.0	101050	PVP Buddy	Alpha-AC	643e39fa-2b3f-46f8-aef4-eee9ff92360d
 PvPCooldownTracker	121	25.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-494d-bbfe-64c8be868720
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
-PvPTargetInfo	114	V2.5.0	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
+PvPTargetInfo	115	v2.5.1	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
 PvPUA		5.4	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
-PvPUAPatch		PvPUAPatch-5.7.0-2026-11-12T150917	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
+PvPUAPatch		PvPUAPatch-5.8.1-2026-11-12T220737	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QcellDreadsailReefHelper		2.0.3	101049	No function	FiNk3F13	710b2a6c-f46d-4d5f-aee2-9cc4d0267de0
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
@@ -685,7 +685,6 @@ WizardsWardrobe	402	0.4.2	101048	Wizard's Wardrobe	STUDLETON	645213de-645d-4170-
 WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	RagePhoenix96	f6c4019b-59cf-4a0b-8550-0e83c807df18
 wretchedVitalityTracker		1.4.5	101051	Wretched Vitality Tracker	codeWarrior82	af0511e3-aa4e-4d26-8665-e486da04c1cd
 WritReady	2	2.13	101050	MWeyes	dicen9	0bb2a403-2da7-4c0d-8546-7957cbc8735b
-WritWorthy	070602	ww13	101051 101052	Gamer_sa22 Addon Testing	Gamer_sa22	93ab810e-7b13-4feb-8bb9-ecfadf17dace
 YeOldeInfos	202	2.0.2	101049	YeOlde-Infos	YeOldeDragon	1987390f-3dbd-407c-996d-aa3ef3ad9773
 Zaji	3	1.0.2	101050 101051	Zaji	TheGreyWolf98	ee217f7c-81b5-40dc-beb5-a6a184260d9d
 ZoneMountSwitcher	110	1.1.0	101046 101047	Zone Mount and Pet Switcher	MadeByQwerty	03172246-c90c-4b8b-9821-06a74a01ce96

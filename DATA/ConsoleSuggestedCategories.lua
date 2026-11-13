@@ -223,7 +223,6 @@ VotansFisherman	TradeSkill Mods
 VotansMiniMap	Map, Coords, Compasses
 WeaveDelays	Action Bar Mods
 WizardsWardrobe	Action Bar Mods
-WritWorthy	TradeSkill Mods
 YeOldeInfos	Info, Plug-in Bars
 ZoneMountSwitcher	RolePlay
 ]==])

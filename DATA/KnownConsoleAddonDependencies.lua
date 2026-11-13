@@ -277,5 +277,4 @@ WhereIsIt	TSCPriceFetcher2
 WizardsHelper	LibRadialMenu
 wretchedVitalityTracker	LibNotify
 WritReady	LibAddonMenu-2.0
-WritWorthy	AwesomeGuildStore	HomeStationMarker	LibCustomMenu	LibDebugLogger	LibSlashCommander
 ]==])
