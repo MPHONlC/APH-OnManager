@@ -213,7 +213,6 @@ PreviewAnywhere	LibConsoleLogger
 PVPBuddy	LibAddonMenu-2.0
 PvPUA	LibGroupBroadcast
 PvPUAPatch	LibConsoleLogger	LibGroupBroadcast
-QcellDreadsailReefHelper	CombatAlerts	LibAddonMenu-2.0	M0RMarkers	OdySupportIcons
 RagsToRiches	LibHarvensAddonSettings
 RainbowAOE	LibAddonMenu-2.0
 rallyingCryTracker	LibNotify

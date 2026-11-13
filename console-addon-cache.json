@@ -1065,18 +1065,18 @@
    "version": "Beta"
   },
   "1a7bde87-8418-49dc-accc-d7b6cc6313bd/ESOCKeepMyCrafts": {
-   "addOnVersion": "9",
+   "addOnVersion": "10",
    "addonId": "1a7bde87-8418-49dc-accc-d7b6cc6313bd",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 13,
+   "downloads": 16,
    "folder": "ESOCKeepMyCrafts",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Quartermaster",
-   "updatedAt": 1794558957,
-   "version": "2.5.1"
+   "updatedAt": 1794574542,
+   "version": "2.6.0"
   },
   "1ac2188b-1200-476b-a90c-6561a7d3b52a/LibSideQuestPins": {
    "addOnVersion": "",
@@ -1273,6 +1273,20 @@
    "title": "CleanLeadsUI",
    "updatedAt": 1752251700,
    "version": "1.0.0"
+  },
+  "21a2a61f-e085-4a88-b299-587a33bff1f5/WWDpad": {
+   "addOnVersion": "12",
+   "addonId": "21a2a61f-e085-4a88-b299-587a33bff1f5",
+   "apiVersion": "101052",
+   "author": "FiNk3F13",
+   "dependsOn": "WizardsWardrobe LibRadialMenu",
+   "downloads": 9,
+   "folder": "WWDpad",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "DontD",
+   "updatedAt": 1794597781,
+   "version": "0.5.0"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
    "addOnVersion": "22802",
@@ -4451,20 +4465,6 @@
    "title": "ItemHound",
    "updatedAt": 1792946675,
    "version": "0.8.2"
-  },
-  "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0/QcellDreadsailReefHelper": {
-   "addOnVersion": "",
-   "addonId": "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0",
-   "apiVersion": "101049",
-   "author": "FiNk3F13",
-   "dependsOn": "",
-   "downloads": 16,
-   "folder": "QcellDreadsailReefHelper",
-   "isLibrary": "",
-   "optionalDependsOn": "CombatAlerts LibAddonMenu-2.0 OdySupportIcons M0RMarkers",
-   "title": "No function",
-   "updatedAt": 1776101166,
-   "version": "2.0.3"
   },
   "7121f08a-1fe7-4a77-b582-ad1815dcb6e6/LuiExecuteIcon": {
    "addOnVersion": "10001",
@@ -7650,13 +7650,13 @@
    "apiVersion": "101051",
    "author": "Eskiodoe",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 13,
+   "downloads": 20,
    "folder": "MyFontSwitcher",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Eskiodoe's Font Switcher",
-   "updatedAt": 1794505150,
-   "version": "2.3"
+   "updatedAt": 1794603993,
+   "version": "3.0"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -10724,7 +10724,7 @@
    "folders": [
     "ESOCKeepMyCrafts"
    ],
-   "version": "2.5.1"
+   "version": "2.6.0"
   },
   "1ac2188b-1200-476b-a90c-6561a7d3b52a": {
    "folders": [
@@ -10810,6 +10810,12 @@
     "CleanLeadsUI"
    ],
    "version": "1.0.0"
+  },
+  "21a2a61f-e085-4a88-b299-587a33bff1f5": {
+   "folders": [
+    "WWDpad"
+   ],
+   "version": "0.5.0"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574": {
    "folders": [
@@ -12192,12 +12198,6 @@
     "ItemHound"
    ],
    "version": "0.8.2"
-  },
-  "710b2a6c-f46d-4d5f-aee2-9cc4d0267de0": {
-   "folders": [
-    "QcellDreadsailReefHelper"
-   ],
-   "version": "2.0.3"
   },
   "7121f08a-1fe7-4a77-b582-ad1815dcb6e6": {
    "folders": [
@@ -13606,7 +13606,7 @@
    "folders": [
     "MyFontSwitcher"
    ],
-   "version": "2.3"
+   "version": "3.0"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [

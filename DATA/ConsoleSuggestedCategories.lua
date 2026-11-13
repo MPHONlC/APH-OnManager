@@ -188,7 +188,6 @@ PreviewAnywhere	Graphic UI Mods
 ProvisioningWatcher	Buff, Debuff, Spell
 PullCard	Raid Mods
 QAutoConfirm	Discontinued & Outdated
-QcellDreadsailReefHelper	Combat Mods
 queueNextWrit	TradeSkill Mods
 RanckorsBaggage	Bags, Bank, Inventory
 RareFishTracker	Info, Plug-in Bars
