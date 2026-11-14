@@ -135,7 +135,6 @@ CombatAlerts	207010	2.7.1	101051 101052	Code's Combat Alerts	code65536	fe065445-
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
 CombatMascot	1	V3	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatMascotDiag	3	v2	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
-CombatMetrics2	1070901	1.7.7	101051 101052	Test	FiNk3F13	5d54d232-188f-4ee1-a2fa-61c641f2538b
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
 CombatTopHealthbar		2025.05.29	101046	CombatTopHealthbar	Masteroshi430	7c18ff01-65ca-424a-9797-987227ea3ac6
@@ -345,7 +344,7 @@ LibGroupPotionCooldowns	20260111	2026-01-11-fix	101046 101047	LibGroupPotionCool
 LibGroupResources	95	2.0.0	101048 101049	LibGroupResources	sirinsidiator	f55094d7-29e8-4a43-a3f5-bd748dda7c09
 LibGroupUIReload	95	2.0.0	101048 101049	LibGroupUIReload	sirinsidiator	e06117c8-dc48-479b-aa35-08555712f2ef
 LibHarvensAddonSettings	20200	2.2.0	101049 101050	LibHarvensAddonSettings	votan73	ff73a91e-28b3-476c-be2b-ac5e47d079eb
-LibHistoire	1105	2.7.2	101050 101051	LibHistoire	sirinsidiator	f7fc3e7c-b17d-47bd-915b-40c09291efb0
+LibHistoire	1112	2.8.0	101051 101052	LibHistoire	sirinsidiator	f7fc3e7c-b17d-47bd-915b-40c09291efb0
 LibId64	28	1.0.1	101045 101046	LibId64	sirinsidiator	0faeb5c6-5fc7-48bc-91c6-61d863d7bf6e
 LibItemLinkDecoder	103	1.03	101049 101050	LibItemLinkDecoder	Delte	03b27b8e-253d-4288-ba88-4340d56faeac
 LibItemSets	100010	1.0.1	101050 101051	LibItemSets	code65536	d85860ca-4b0a-47c6-8a0b-45472e2f1878

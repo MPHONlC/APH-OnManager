@@ -3724,20 +3724,6 @@
    "updatedAt": 1794021367,
    "version": "v6"
   },
-  "5d54d232-188f-4ee1-a2fa-61c641f2538b/CombatMetrics2": {
-   "addOnVersion": "1070901",
-   "addonId": "5d54d232-188f-4ee1-a2fa-61c641f2538b",
-   "apiVersion": "101051 101052",
-   "author": "FiNk3F13",
-   "dependsOn": "",
-   "downloads": 5,
-   "folder": "CombatMetrics2",
-   "isLibrary": "",
-   "optionalDependsOn": "LibRadialMenu LibCombat2",
-   "title": "Test",
-   "updatedAt": 1794683569,
-   "version": "1.7.7"
-  },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
    "addonId": "5d612b95-1149-48f4-b359-2aaee406bd86",
@@ -9927,18 +9913,18 @@
    "version": "1.6"
   },
   "f7fc3e7c-b17d-47bd-915b-40c09291efb0/LibHistoire": {
-   "addOnVersion": "1105",
+   "addOnVersion": "1112",
    "addonId": "f7fc3e7c-b17d-47bd-915b-40c09291efb0",
-   "apiVersion": "101050 101051",
+   "apiVersion": "101051 101052",
    "author": "sirinsidiator",
    "dependsOn": "LibDebugLogger LibAsync LibAddonMenu-2.0",
-   "downloads": 234598,
+   "downloads": 258861,
    "folder": "LibHistoire",
    "isLibrary": "true",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "Taneth",
    "title": "LibHistoire",
-   "updatedAt": 1792342268,
-   "version": "2.7.2"
+   "updatedAt": 1794694108,
+   "version": "2.8.0"
   },
   "f82fbe8f-39a8-4cad-b1ba-8e3a586c41a0/NGear": {
    "addOnVersion": "41",
@@ -11922,12 +11908,6 @@
     "PlayerMascotHealth"
    ],
    "version": "v1.5.1"
-  },
-  "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
-   "folders": [
-    "CombatMetrics2"
-   ],
-   "version": "1.7.7"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -14695,7 +14675,7 @@
    "folders": [
     "LibHistoire"
    ],
-   "version": "2.7.2"
+   "version": "2.8.0"
   },
   "f82fbe8f-39a8-4cad-b1ba-8e3a586c41a0": {
    "folders": [
