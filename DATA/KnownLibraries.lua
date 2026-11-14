@@ -10,22 +10,22 @@
 assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.KnownLibraries = AoM.CreateKnownTable([==[
-ArkadiusTradeToolsSalesData01	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData01
-ArkadiusTradeToolsSalesData02	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData02
-ArkadiusTradeToolsSalesData03	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData03
-ArkadiusTradeToolsSalesData04	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData04
-ArkadiusTradeToolsSalesData05	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData05
-ArkadiusTradeToolsSalesData06	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData06
-ArkadiusTradeToolsSalesData07	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData07
-ArkadiusTradeToolsSalesData08	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData08
-ArkadiusTradeToolsSalesData09	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData09
-ArkadiusTradeToolsSalesData10	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData10
-ArkadiusTradeToolsSalesData11	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData11
-ArkadiusTradeToolsSalesData12	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData12
-ArkadiusTradeToolsSalesData13	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData13
-ArkadiusTradeToolsSalesData14	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData14
-ArkadiusTradeToolsSalesData15	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData15
-ArkadiusTradeToolsSalesData16	20000	2.0.0	1752	101041	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData16
+ArkadiusTradeToolsSalesData01	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData01
+ArkadiusTradeToolsSalesData02	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData02
+ArkadiusTradeToolsSalesData03	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData03
+ArkadiusTradeToolsSalesData04	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData04
+ArkadiusTradeToolsSalesData05	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData05
+ArkadiusTradeToolsSalesData06	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData06
+ArkadiusTradeToolsSalesData07	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData07
+ArkadiusTradeToolsSalesData08	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData08
+ArkadiusTradeToolsSalesData09	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData09
+ArkadiusTradeToolsSalesData10	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData10
+ArkadiusTradeToolsSalesData11	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData11
+ArkadiusTradeToolsSalesData12	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData12
+ArkadiusTradeToolsSalesData13	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData13
+ArkadiusTradeToolsSalesData14	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData14
+ArkadiusTradeToolsSalesData15	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData15
+ArkadiusTradeToolsSalesData16	30000	3.0.0	1752	101051	Arkadius' Trade Tools	ArkadiusTradeToolsSalesData16
 AUI_FightData		3.993	919	101051	AUI - Advanced UI	AUI_FightData
 blox		1.0.0	4004		LibFonts	blox
 CombatInsightsFightData	10200	1.2.2	3730	101046	CombatInsightsFightData	CombatInsightsFightData

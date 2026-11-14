@@ -1720,6 +1720,7 @@ AoM.SuggestedCategories = {
 	["SurveyMapTeleport"] = "Bags, Bank, Inventory",
 	["SurveyResetMarker"] = "Map, Coords, Compasses",
 	["SurveyResetter"] = "TradeSkill Mods",
+	["SurveySidekick"] = "Utility Mods",
 	["SustainMonitor"] = "Casting Bars, Cooldowns",
 	["SwissKnife"] = "Miscellaneous",
 	["SynergyCooldown"] = "Combat Mods",

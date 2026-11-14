@@ -25,7 +25,7 @@ AchievementInfo		4.17	350	101044
 AchievementPeek		1.0.0	4930	101051
 ActionBarLabels	1	1.0	4348	101048
 ActionBarSkillStyles	4	0.0.4	3928	101044
-ActionDurationReminder	31730	3.173	1536	101051 101052
+ActionDurationReminder	31740	3.174	1536	101051 101052
 ActivityFinderPlus		1.0.2	4676	101050
 ADawgsFlipWorthy	40	1.1.0	4563	101049 101050
 ADawgsGroupManager	137	1.1.1	4561	101049 101050
@@ -60,7 +60,7 @@ AIResearchGrid	110505	11.5.05	4996	101051
 AlabuzyaUI	10101	1.1.1	4881	101050
 ALCBenchmark	26101514	2026.10.18.01.41	4960	101051 101052
 Alchemiewerk	102	1.0.2	4912	101051 101050
-AlchemyFavoritePotions	2	1.1.0	5046	101051
+AlchemyFavoritePotions	3	1.2.0	5046	101051
 AlchemyQuantityInput		1.0	4520	101049
 AlchemyTooltips	132	1.32	2531	101051 101052
 AlignGrid		1.4.4	1292	101040
@@ -115,11 +115,11 @@ ArdysOBTracker	162	1.6.2	4879	101051 101052
 AreWeMounted		1.0.0	4134	101046
 AriesLogsEncounter		1.0.1	4633	101050
 ArkaCruX		1.6	4467	101049
-ArkadiusTradeTools	20000	2.0.0	1752	101041
-ArkadiusTradeToolsExports	20000	2.0.0	1752	101041
-ArkadiusTradeToolsPurchases	20000	2.0.0	1752	101041
-ArkadiusTradeToolsSales	20000	2.0.0	1752	101041
-ArkadiusTradeToolsStatistics	20000	2.0.0	1752	101041
+ArkadiusTradeTools	30000	3.0.0	1752	101051
+ArkadiusTradeToolsExports	30000	3.0.0	1752	101051
+ArkadiusTradeToolsPurchases	30000	3.0.0	1752	101051
+ArkadiusTradeToolsSales	30000	3.0.0	1752	101051
+ArkadiusTradeToolsStatistics	30000	3.0.0	1752	101051
 ArkasisBlocker		1.0.4	4048	101045
 ArkaysDonationReminder	206	2.0.6	2679	101048 101049
 Armorskull		1.11	3129	101050 101051
@@ -886,7 +886,7 @@ KillFeedFilter		1.4.5	4268	101041
 Killz	118	1.10.7	3572	101050
 KillZaeler	16	1.7.0	4543	101042
 KindlerBeggarLiarThief		1.2	4321	101048 101048
-KnownVendorFilter	5	1.0.4	5049	101051
+KnownVendorFilter	14	1.1	5049	101051
 KozyEsoBuildPort	1002	0.10.2	4938	101051 101052
 KwibusRandomThings		1.5.0	4450	101050 101051
 KwibusReset	110101	1.11.0	4281	101047
@@ -914,7 +914,7 @@ Leadz	10107	1.1.7	3771	101050
 LeoAltholic	1940	1.9.4	3596	101046 101047
 LeoTrainer	223	2.2.3	2162	100035
 LesserIcons	10	1.0	4231	101047
-LethalPVPInsights	284	1.10.4	5037	101047 101048
+LethalPVPInsights	285	1.10.5	5037	101047 101048
 LetsTalkLater		0.1.4	4304	101049
 LibGuildHistory		2.0	1423	100015 1000016
 LibVotansAddonList	11001	1.10.1	2094	101051 101052
@@ -1459,6 +1459,7 @@ SurveyAndWritCountWarnings	100	1.0.2	3835	101042
 SurveyMapTeleport	100	1.2.0	4593	101050 101049
 SurveyResetMarker	20209	2.2.9	4237	101051
 SurveyResetter		1.0	5001	101052
+SurveySidekick	203	0.2.3-beta	5050	101051
 SustainMonitor	14	1.5.4	4396	101048 101049
 SwissKnife	1067	1.06.7	3349	101050
 SynergyCooldown	20101	2.1.1	3141	101050
@@ -1512,7 +1513,7 @@ TimEmote		3.3	4696	101050
 TimeToHeal	1	1.0.8	2712	101034
 TinydogsCraftingCalculator		1.23.42	1240	101042
 TiradilGuildAssistant	22	1.5.2	4817	101050 101051
-TodoList		1.1	5051	101051
+TodoList	121	1.2.1	5051	101051
 ToggleFPSandPing		1.001	3812	101047 101048
 ToggleGroupFrame		1.5.1	3698	101047
 ToggleQuestTracker		1.2.2	3809	101047
@@ -1644,7 +1645,7 @@ WheresMyGuildHall	49	2.13.8	1757	101052 101051
 WhiskersButterflyCounter		1.2	4393	101042
 WhisperNotifier		1.0.1	4089	101045
 Whoison		1.0.0	4079	101045
-WhoWantsSpaulder		1.2	4052	101045
+WhoWantsSpaulder	210	2.1.0	4052	101050 101051
 WideTooltips		1.0.1	3785	101040
 WifeyDPSPositions	17	1.7	4861	101050 101051
 WifeyRyticMagmaTracker	3	1.2	4821	101050 101051
