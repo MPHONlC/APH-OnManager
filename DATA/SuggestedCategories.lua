@@ -1776,6 +1776,7 @@ AoM.SuggestedCategories = {
 	["TimeToKill"] = "Combat Mods",
 	["TinydogsCraftingCalculator"] = "TradeSkill Mods",
 	["TiradilGuildAssistant"] = "Group, Guild & Friends",
+	["TodoList"] = "Utility Mods",
 	["ToggleFPSandPing"] = "UI Media",
 	["ToggleGroupFrame"] = "Unit Mods",
 	["ToggleQuestTracker"] = "Character Advancement",
