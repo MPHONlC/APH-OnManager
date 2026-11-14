@@ -130,7 +130,7 @@ LibGuildRoster	104	1.0.4	2784	101049 101050	LibGuildRoster	LibGuildRoster
 LibGuildStore	105	3.8.34	2753	101049 101050	Master Merchant 3.0	LibGuildStore
 LibHandler	3	0.0.3	3156	101033 101034	LibHandler	LibHandler
 LibHarvensAddonSettings	20201	2.2.1	584	101051 101052	LibHarvensAddonSettings	LHAS
-LibHistoire	1105	2.7.2	2817	101050 101051	LibHistoire	LibHistoire
+LibHistoire	1112	2.8.0	2817	101051 101052	LibHistoire	LibHistoire
 LibId64	28	1.0.1	3585	101045 101046	LibId64	LibId64
 LibImplex	25	25	4108	101049	LibImplex	LibImplex
 LibInteriorDetection	44	1.3.7	4816	101051 101052	LibInteriorDetection	LibInteriorDetection

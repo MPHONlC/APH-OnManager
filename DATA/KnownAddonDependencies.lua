@@ -323,6 +323,7 @@ AoM.KnownAddonDependencies = {
 	["LibGroupResources"] = { "Taneth" },
 	["LibGroupUIReload"] = { "Taneth" },
 	["LibGuildStore"] = { "AwesomeGuildStore", "DebugLogViewer" },
+	["LibHistoire"] = { "Taneth" },
 	["LibId64"] = { "Taneth" },
 	["LibImplex"] = { "LibAddonMenu-2.0", "LibDebugLogger", "LibSubzones" },
 	["LibKeepTooltip"] = { "LibDebugLogger" },
