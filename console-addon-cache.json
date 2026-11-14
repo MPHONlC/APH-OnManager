@@ -1275,18 +1275,18 @@
    "version": "1.0.0"
   },
   "21a2a61f-e085-4a88-b299-587a33bff1f5/WWDpad": {
-   "addOnVersion": "12",
+   "addOnVersion": "14",
    "addonId": "21a2a61f-e085-4a88-b299-587a33bff1f5",
    "apiVersion": "101052",
    "author": "FiNk3F13",
    "dependsOn": "WizardsWardrobe LibRadialMenu",
-   "downloads": 9,
+   "downloads": 12,
    "folder": "WWDpad",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "DontD",
-   "updatedAt": 1794597781,
-   "version": "0.5.0"
+   "updatedAt": 1794610139,
+   "version": "0.6.1"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
    "addOnVersion": "22802",
@@ -2694,13 +2694,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 250,
+   "downloads": 251,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "dev sandbox",
-   "updatedAt": 1794550065,
-   "version": "PvPUAPatch-5.8.1-2026-11-12T220737"
+   "updatedAt": 1794628488,
+   "version": "PvPUAPatch-5.9.0-2026-11-13T195437"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -2857,18 +2857,18 @@
    "version": "2.0.0"
   },
   "475ce77b-6d09-4c75-8c28-95fff8f907c9/NQOL-dev": {
-   "addOnVersion": "366",
+   "addOnVersion": "369",
    "addonId": "475ce77b-6d09-4c75-8c28-95fff8f907c9",
    "apiVersion": "101050 101051",
    "author": "unacntble",
    "dependsOn": "",
-   "downloads": 374,
+   "downloads": 384,
    "folder": "NQOL-dev",
    "isLibrary": "",
-   "optionalDependsOn": "LibFoodDrinkBuff LibCustomNames LibGPS>=73 LibQRC>=046 LibLazyCrafting>=4035 DolgubonsLazyWritCreator",
+   "optionalDependsOn": "LibFoodDrinkBuff LibCustomNames LibGPS>=73 LibQRC>=046 LibLazyCrafting>=4035 DolgubonsLazyWritCreator AddonLoadouts",
    "title": "NQOL-dev",
-   "updatedAt": 1791309575,
-   "version": "366"
+   "updatedAt": 1794614367,
+   "version": "369"
   },
   "47608f50-4be4-46b1-833f-575274a7dbf2/ChatKeeper": {
    "addOnVersion": "13",
@@ -5153,18 +5153,18 @@
    "version": "0.0.7"
   },
   "842f6e57-44cf-436d-b2fb-b38615f20346/NGear-dev": {
-   "addOnVersion": "32",
+   "addOnVersion": "40",
    "addonId": "842f6e57-44cf-436d-b2fb-b38615f20346",
    "apiVersion": "101050 101051",
    "author": "unacntble",
-   "dependsOn": "LibHarvensAddonSettings>=20109",
-   "downloads": 29,
+   "dependsOn": "",
+   "downloads": 32,
    "folder": "NGear-dev",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20109",
    "title": "NGear-dev",
-   "updatedAt": 1786170078,
-   "version": "32"
+   "updatedAt": 1794608925,
+   "version": "40"
   },
   "844b3c4f-aa76-42d6-8ef7-dcf6dec3b447/Forpl-KDA-Bar": {
    "addOnVersion": "100",
@@ -7650,13 +7650,13 @@
    "apiVersion": "101051",
    "author": "Eskiodoe",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 20,
+   "downloads": 24,
    "folder": "MyFontSwitcher",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Eskiodoe's Font Switcher",
-   "updatedAt": 1794603993,
-   "version": "3.0"
+   "updatedAt": 1794629324,
+   "version": "4.0.8"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -7855,18 +7855,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000115",
+   "addOnVersion": "01000116",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 19964,
+   "downloads": 20154,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1794542415,
-   "version": "1.0.115"
+   "updatedAt": 1794628823,
+   "version": "1.0.116"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -9885,18 +9885,18 @@
    "version": "2.7.2"
   },
   "f82fbe8f-39a8-4cad-b1ba-8e3a586c41a0/NGear": {
-   "addOnVersion": "36",
+   "addOnVersion": "41",
    "addonId": "f82fbe8f-39a8-4cad-b1ba-8e3a586c41a0",
    "apiVersion": "101050 101051",
    "author": "unacntble",
-   "dependsOn": "LibHarvensAddonSettings>=20109",
-   "downloads": 142,
+   "dependsOn": "",
+   "downloads": 308,
    "folder": "NGear",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20109",
    "title": "NGear",
-   "updatedAt": 1785861027,
-   "version": "36"
+   "updatedAt": 1794609341,
+   "version": "41"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d/RoaringOpportunist": {
    "addOnVersion": "020501",
@@ -10095,18 +10095,18 @@
    "version": "1.2.51"
   },
   "fe065445-3217-4a76-8932-23a0a1c9c16c/CombatAlerts": {
-   "addOnVersion": "207000",
+   "addOnVersion": "207010",
    "addonId": "fe065445-3217-4a76-8932-23a0a1c9c16c",
    "apiVersion": "101051 101052",
    "author": "code65536",
    "dependsOn": "LibCombatAlerts>=9000",
-   "downloads": 428389,
+   "downloads": 434019,
    "folder": "CombatAlerts",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Code's Combat Alerts",
-   "updatedAt": 1794536769,
-   "version": "2.7.0"
+   "updatedAt": 1794613749,
+   "version": "2.7.1"
   },
   "fe11caef-4426-405c-bb46-3c3ca893703b/LibMapPins-1.0": {
    "addOnVersion": "10047",
@@ -10815,7 +10815,7 @@
    "folders": [
     "WWDpad"
    ],
-   "version": "0.5.0"
+   "version": "0.6.1"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574": {
    "folders": [
@@ -11421,7 +11421,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.8.1-2026-11-12T220737"
+   "version": "PvPUAPatch-5.9.0-2026-11-13T195437"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -11499,7 +11499,7 @@
    "folders": [
     "NQOL-dev"
    ],
-   "version": "366"
+   "version": "369"
   },
   "47608f50-4be4-46b1-833f-575274a7dbf2": {
    "folders": [
@@ -12506,7 +12506,7 @@
    "folders": [
     "NGear-dev"
    ],
-   "version": "32"
+   "version": "40"
   },
   "844b3c4f-aa76-42d6-8ef7-dcf6dec3b447": {
    "folders": [
@@ -13606,7 +13606,7 @@
    "folders": [
     "MyFontSwitcher"
    ],
-   "version": "3.0"
+   "version": "4.0.8"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
@@ -13704,7 +13704,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.115"
+   "version": "1.0.116"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -14627,7 +14627,7 @@
    "folders": [
     "NGear"
    ],
-   "version": "36"
+   "version": "41"
   },
   "f8e59501-116b-422a-90e9-f57cf2dc7b9d": {
    "folders": [
@@ -14722,7 +14722,7 @@
    "folders": [
     "CombatAlerts"
    ],
-   "version": "2.7.0"
+   "version": "2.7.1"
   },
   "fe11caef-4426-405c-bb46-3c3ca893703b": {
    "folders": [

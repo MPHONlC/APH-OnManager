@@ -167,9 +167,11 @@ MultiMark	LibAddonMenu-2.0
 MyUI	CrutchAlerts	LibAddonMenu-2.0	LibGamepad	LibStub
 Nemesis	LibHarvensAddonSettings	LibVotans
 NewQuestAssist	LibAddonMenu-2.0
+NGear	LibHarvensAddonSettings
+NGear-dev	LibHarvensAddonSettings
 NoTargetFrame	LibAddonMenu-2.0
 NQOL	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	LibGPS	LibLazyCrafting	LibQRC
-NQOL-dev	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	LibGPS	LibLazyCrafting	LibQRC
+NQOL-dev	AddonLoadouts	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	LibGPS	LibLazyCrafting	LibQRC
 OffBalanceTracker	LibAddonMenu-2.0
 OneAPHaTime	LibAPH	LibAddonMenu-2.0	LibHarvensAddonSettings
 OneMorRockgrove	Breadcrumbs
