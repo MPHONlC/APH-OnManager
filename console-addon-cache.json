@@ -841,18 +841,18 @@
    "version": "1.3.4"
   },
   "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascotDiag": {
-   "addOnVersion": "2",
+   "addOnVersion": "3",
    "addonId": "1496058e-eb41-4f99-bc99-591195752a8e",
    "apiVersion": "101048 101049",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 3,
    "folder": "CombatMascotDiag",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Combat Mascot",
-   "updatedAt": 1794566493,
-   "version": "v1"
+   "updatedAt": 1794640326,
+   "version": "v2"
   },
   "153e64a6-b621-4c91-b84a-c2ae48778142/Tauntless": {
    "addOnVersion": "6",
@@ -3262,6 +3262,20 @@
    "updatedAt": 1789002214,
    "version": "1.4.1"
   },
+  "4f27162e-d1c9-4d60-ba2b-1d33d0645a33/PBsWayPoint": {
+   "addOnVersion": "12",
+   "addonId": "4f27162e-d1c9-4d60-ba2b-1d33d0645a33",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsWayPoint",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
+   "title": "PinkB's WayPoint",
+   "updatedAt": 1794640618,
+   "version": "0.6.0"
+  },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab/NedsGroupManager": {
    "addOnVersion": "",
    "addonId": "4f86b7c8-8fb6-432c-a1b9-2004263244ab",
@@ -4038,13 +4052,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibCombat2",
-   "downloads": 87,
+   "downloads": 95,
    "folder": "LiveBuffUptime",
    "isLibrary": "",
    "optionalDependsOn": "LibCombat",
    "title": "Live Buff Uptime",
-   "updatedAt": 1794329942,
-   "version": "2.5.0"
+   "updatedAt": 1794653725,
+   "version": "2.5.1"
   },
   "656edbf4-6ad8-4faf-8bd8-25f06199c990/PBsFurnitureEditor": {
    "addOnVersion": "",
@@ -7650,13 +7664,13 @@
    "apiVersion": "101051",
    "author": "Eskiodoe",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 24,
+   "downloads": 25,
    "folder": "MyFontSwitcher",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Eskiodoe's Font Switcher",
-   "updatedAt": 1794629324,
-   "version": "4.0.8"
+   "updatedAt": 1794643572,
+   "version": "1.0.1"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72/HealingBuffUptime": {
    "addOnVersion": "",
@@ -10622,7 +10636,7 @@
    "folders": [
     "CombatMascotDiag"
    ],
-   "version": "v1"
+   "version": "v2"
   },
   "153e64a6-b621-4c91-b84a-c2ae48778142": {
    "folders": [
@@ -11672,6 +11686,12 @@
    ],
    "version": "1.4.1"
   },
+  "4f27162e-d1c9-4d60-ba2b-1d33d0645a33": {
+   "folders": [
+    "PBsWayPoint"
+   ],
+   "version": "0.6.0"
+  },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab": {
    "folders": [
     "NedsGroupManager"
@@ -12015,7 +12035,7 @@
    "folders": [
     "LiveBuffUptime"
    ],
-   "version": "2.5.0"
+   "version": "2.5.1"
   },
   "656edbf4-6ad8-4faf-8bd8-25f06199c990": {
    "folders": [
@@ -13606,7 +13626,7 @@
    "folders": [
     "MyFontSwitcher"
    ],
-   "version": "4.0.8"
+   "version": "1.0.1"
   },
   "c68c0503-c262-44d6-97a9-d2e8ee77ee72": {
    "folders": [
