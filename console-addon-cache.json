@@ -840,6 +840,20 @@
    "updatedAt": 1794353905,
    "version": "1.3.4"
   },
+  "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascot": {
+   "addOnVersion": "1",
+   "addonId": "1496058e-eb41-4f99-bc99-591195752a8e",
+   "apiVersion": "101048 101049",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "CombatMascot",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Combat Mascot",
+   "updatedAt": 1794675100,
+   "version": "V3"
+  },
   "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascotDiag": {
    "addOnVersion": "3",
    "addonId": "1496058e-eb41-4f99-bc99-591195752a8e",
@@ -3710,6 +3724,20 @@
    "updatedAt": 1794021367,
    "version": "v6"
   },
+  "5d54d232-188f-4ee1-a2fa-61c641f2538b/CombatMetrics2": {
+   "addOnVersion": "1070901",
+   "addonId": "5d54d232-188f-4ee1-a2fa-61c641f2538b",
+   "apiVersion": "101051 101052",
+   "author": "FiNk3F13",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "CombatMetrics2",
+   "isLibrary": "",
+   "optionalDependsOn": "LibRadialMenu LibCombat2",
+   "title": "Test",
+   "updatedAt": 1794683569,
+   "version": "1.7.7"
+  },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
    "addonId": "5d612b95-1149-48f4-b359-2aaee406bd86",
@@ -5865,6 +5893,20 @@
    "title": "cChat",
    "updatedAt": 1786385850,
    "version": "2.2"
+  },
+  "937915ef-c930-46a4-ad1d-baf147c74e87/LiveBuffUptime2": {
+   "addOnVersion": "",
+   "addonId": "937915ef-c930-46a4-ad1d-baf147c74e87",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings LibCombat2",
+   "downloads": 2,
+   "folder": "LiveBuffUptime2",
+   "isLibrary": "",
+   "optionalDependsOn": "LibCombat",
+   "title": "Testo",
+   "updatedAt": 1794683688,
+   "version": "2.4.13"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a/CraftMaterialAssistant": {
    "addOnVersion": "",
@@ -10634,9 +10676,9 @@
   },
   "1496058e-eb41-4f99-bc99-591195752a8e": {
    "folders": [
-    "CombatMascotDiag"
+    "CombatMascot"
    ],
-   "version": "v2"
+   "version": "V3"
   },
   "153e64a6-b621-4c91-b84a-c2ae48778142": {
    "folders": [
@@ -11881,6 +11923,12 @@
    ],
    "version": "v1.5.1"
   },
+  "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
+   "folders": [
+    "CombatMetrics2"
+   ],
+   "version": "1.7.7"
+  },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
     "ItalianScrollsOnline",
@@ -12838,6 +12886,12 @@
     "cChat"
    ],
    "version": "2.2"
+  },
+  "937915ef-c930-46a4-ad1d-baf147c74e87": {
+   "folders": [
+    "LiveBuffUptime2"
+   ],
+   "version": "2.4.13"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a": {
    "folders": [

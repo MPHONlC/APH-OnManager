@@ -51,6 +51,7 @@ cChat	LibAsync
 ChatBeGone	LibAddonMenu-2.0	LibChatMessage	LibHarvensAddonSettings	pChat	rChat
 ClearSight	LibHarvensAddonSettings
 CombatAlerts	LibAddonMenu-2.0
+CombatMetrics2	LibCombat2	LibRadialMenu
 CompanionPerkTracker	LibAddonMenu-2.0
 ConsoleMetrics	LMB	LibAddonMenu-2.0	LibConsoleDialogs	LibFights	LibHarvensAddonSettings	PvPCooldownTracker
 ContainerHighlighter	LibAddonMenu-2.0	LibQRCode
@@ -144,6 +145,7 @@ LibVotansAddonList	AddonCategory	AddonSelector
 LibZone	LibSlashCommander
 LiveAchiever	LibVotans
 LiveBuffUptime	LibCombat
+LiveBuffUptime2	LibCombat
 LootLog	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
 LoreBooks	DebugLogViewer	LibDebugLogger
 LoreLibrary	AUI	LibHarvensAddonSettings	MiniMap	VotansMiniMap
