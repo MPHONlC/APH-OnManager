@@ -52,6 +52,7 @@ ChatBeGone	LibAddonMenu-2.0	LibChatMessage	LibHarvensAddonSettings	pChat	rChat
 ClearSight	LibHarvensAddonSettings
 CombatAlerts	LibAddonMenu-2.0
 CombatMascot	LibAddonMenu-2.0
+CombatMetrics2	LibRadialMenu
 CompanionPerkTracker	LibAddonMenu-2.0
 ConsoleMetrics	LMB	LibAddonMenu-2.0	LibConsoleDialogs	LibFights	LibHarvensAddonSettings	PvPCooldownTracker
 ContainerHighlighter	LibAddonMenu-2.0	LibQRCode
@@ -146,7 +147,6 @@ LibVotansAddonList	AddonCategory	AddonSelector
 LibZone	LibSlashCommander
 LiveAchiever	LibVotans
 LiveBuffUptime	LibCombat
-LiveBuffUptime2	LibCombat
 LootLog	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
 LoreBooks	DebugLogViewer	LibDebugLogger
 LoreLibrary	AUI	LibHarvensAddonSettings	MiniMap	VotansMiniMap
@@ -173,7 +173,7 @@ NewQuestAssist	LibAddonMenu-2.0
 NGear	LibHarvensAddonSettings
 NGear-dev	LibHarvensAddonSettings
 NoTargetFrame	LibAddonMenu-2.0
-NQOL	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	LibGPS	LibLazyCrafting	LibQRC
+NQOL	AddonLoadouts	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	LibGPS	LibLazyCrafting	LibQRC
 NQOL-dev	AddonLoadouts	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	LibGPS	LibLazyCrafting	LibQRC
 OffBalanceTracker	LibAddonMenu-2.0
 OneAPHaTime	LibAPH	LibAddonMenu-2.0	LibHarvensAddonSettings

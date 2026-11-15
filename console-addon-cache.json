@@ -2713,8 +2713,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "dev sandbox",
-   "updatedAt": 1794704320,
-   "version": "PvPUAPatch-5.10.0-2026-11-14T165829"
+   "updatedAt": 1794737183,
+   "version": "PvPUAPatch-5.10.1-2026-11-15T020612"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -2871,18 +2871,18 @@
    "version": "2.0.0"
   },
   "475ce77b-6d09-4c75-8c28-95fff8f907c9/NQOL-dev": {
-   "addOnVersion": "369",
+   "addOnVersion": "370",
    "addonId": "475ce77b-6d09-4c75-8c28-95fff8f907c9",
    "apiVersion": "101050 101051",
    "author": "unacntble",
    "dependsOn": "",
-   "downloads": 384,
+   "downloads": 388,
    "folder": "NQOL-dev",
    "isLibrary": "",
    "optionalDependsOn": "LibFoodDrinkBuff LibCustomNames LibGPS>=73 LibQRC>=046 LibLazyCrafting>=4035 DolgubonsLazyWritCreator AddonLoadouts",
    "title": "NQOL-dev",
-   "updatedAt": 1794614367,
-   "version": "369"
+   "updatedAt": 1794722636,
+   "version": "370"
   },
   "47608f50-4be4-46b1-833f-575274a7dbf2/ChatKeeper": {
    "addOnVersion": "13",
@@ -3408,13 +3408,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 57,
+   "downloads": 60,
    "folder": "esoReport",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "eso Report",
-   "updatedAt": 1791771902,
-   "version": "1.5.5"
+   "updatedAt": 1794742985,
+   "version": "1.5.9"
   },
   "53c19565-2bb9-4872-a40f-90825e736a2f/GoldLedger": {
    "addOnVersion": "8",
@@ -3562,13 +3562,13 @@
    "apiVersion": "101049 101050 101051",
    "author": "XANTOSTR",
    "dependsOn": "",
-   "downloads": 394,
+   "downloads": 477,
    "folder": "EsoTR",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "T\u00fcrk\u00e7e \u00e7eviri - ESOTR",
-   "updatedAt": 1790885374,
-   "version": "Rahaad1.0.6a"
+   "updatedAt": 1794738466,
+   "version": "Rahaaden1.0.7"
   },
   "56cfaf14-f344-4808-bed0-fa69138769fd/AtlasMiniMap": {
    "addOnVersion": "9",
@@ -3723,6 +3723,20 @@
    "title": "Mascot",
    "updatedAt": 1794021367,
    "version": "v6"
+  },
+  "5d54d232-188f-4ee1-a2fa-61c641f2538b/CombatMetrics2": {
+   "addOnVersion": "1071001",
+   "addonId": "5d54d232-188f-4ee1-a2fa-61c641f2538b",
+   "apiVersion": "101051 101052",
+   "author": "FiNk3F13",
+   "dependsOn": "",
+   "downloads": 8,
+   "folder": "CombatMetrics2",
+   "isLibrary": "",
+   "optionalDependsOn": "LibRadialMenu",
+   "title": "Test",
+   "updatedAt": 1794741280,
+   "version": "1.7.10"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
@@ -4271,18 +4285,18 @@
    "version": "1.0"
   },
   "6987c48d-827e-4583-a5a7-6cb748174190/NQOL": {
-   "addOnVersion": "367",
+   "addOnVersion": "371",
    "addonId": "6987c48d-827e-4583-a5a7-6cb748174190",
    "apiVersion": "101050 101051",
    "author": "unacntble",
    "dependsOn": "",
-   "downloads": 19244,
+   "downloads": 20900,
    "folder": "NQOL",
    "isLibrary": "",
-   "optionalDependsOn": "LibFoodDrinkBuff LibCustomNames LibGPS>=73 LibQRC>=046 LibLazyCrafting>=4035 DolgubonsLazyWritCreator",
+   "optionalDependsOn": "LibFoodDrinkBuff LibCustomNames LibGPS>=73 LibQRC>=046 LibLazyCrafting>=4035 DolgubonsLazyWritCreator AddonLoadouts",
    "title": "NQOL",
-   "updatedAt": 1791310602,
-   "version": "367"
+   "updatedAt": 1794723283,
+   "version": "371"
   },
   "6a072e95-965d-4368-9c0f-196d198ad5dd/GroupEncore": {
    "addOnVersion": "",
@@ -4397,18 +4411,18 @@
    "version": "1.9.10"
   },
   "6bd5f4ac-b518-489a-b1b8-31811650b446/LibConsoleLogger": {
-   "addOnVersion": "400",
+   "addOnVersion": "500",
    "addonId": "6bd5f4ac-b518-489a-b1b8-31811650b446",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 99,
+   "downloads": 127,
    "folder": "LibConsoleLogger",
    "isLibrary": "true",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "LibConsoleLogger",
-   "updatedAt": 1792796723,
-   "version": "LibConsoleLogger-0.4.0-2026-10-23T160515"
+   "updatedAt": 1794737220,
+   "version": "LibConsoleLogger-0.5.0-2026-11-15T020652"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665/StaggerTracker": {
    "addOnVersion": "",
@@ -4920,13 +4934,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 18,
+   "downloads": 21,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1794520581,
-   "version": "5.3"
+   "updatedAt": 1794731620,
+   "version": "5.6"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -5885,14 +5899,14 @@
    "addonId": "937915ef-c930-46a4-ad1d-baf147c74e87",
    "apiVersion": "101051",
    "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibCombat2",
-   "downloads": 2,
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 5,
    "folder": "LiveBuffUptime2",
    "isLibrary": "",
-   "optionalDependsOn": "LibCombat",
+   "optionalDependsOn": "",
    "title": "Testo",
-   "updatedAt": 1794683688,
-   "version": "2.4.13"
+   "updatedAt": 1794741125,
+   "version": "2.4.15"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a/CraftMaterialAssistant": {
    "addOnVersion": "",
@@ -7155,18 +7169,18 @@
    "version": "1.2"
   },
   "b6cb7ba1-4505-427c-811d-0a008aeb4e79/ESOFantasy": {
-   "addOnVersion": "18",
+   "addOnVersion": "30.0.0",
    "addonId": "b6cb7ba1-4505-427c-811d-0a008aeb4e79",
-   "apiVersion": "101051",
+   "apiVersion": "2.1.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 22,
    "folder": "ESOFantasy",
    "isLibrary": "",
    "optionalDependsOn": "",
-   "title": "ESO Fantasy",
-   "updatedAt": 1794716556,
-   "version": "v0.9.2 FIX"
+   "title": "Fantasy ESO",
+   "updatedAt": 1794730636,
+   "version": "v1.7.2"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3/AutoImproveGear": {
    "addOnVersion": "",
@@ -7216,13 +7230,13 @@
    "apiVersion": "101049 101050 101051",
    "author": "XANTOSTR",
    "dependsOn": "",
-   "downloads": 167,
+   "downloads": 198,
    "folder": "EsoTR_Lite",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "T\u00fcrk\u00e7e \u00e7eviri - ESOTR_Lite",
-   "updatedAt": 1790885186,
-   "version": "RahaadLite1.0.4a"
+   "updatedAt": 1794738430,
+   "version": "RahaadenLite1.0.5"
   },
   "b7f8c335-5c64-42cf-813e-c178bb11a1e5/warmaskTracker": {
    "addOnVersion": "",
@@ -11477,7 +11491,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.10.0-2026-11-14T165829"
+   "version": "PvPUAPatch-5.10.1-2026-11-15T020612"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -11555,7 +11569,7 @@
    "folders": [
     "NQOL-dev"
    ],
-   "version": "369"
+   "version": "370"
   },
   "47608f50-4be4-46b1-833f-575274a7dbf2": {
    "folders": [
@@ -11794,7 +11808,7 @@
    "folders": [
     "esoReport"
    ],
-   "version": "1.5.5"
+   "version": "1.5.9"
   },
   "53c19565-2bb9-4872-a40f-90825e736a2f": {
    "folders": [
@@ -11861,7 +11875,7 @@
    "folders": [
     "EsoTR"
    ],
-   "version": "Rahaad1.0.6a"
+   "version": "Rahaaden1.0.7"
   },
   "56cfaf14-f344-4808-bed0-fa69138769fd": {
    "folders": [
@@ -11922,6 +11936,12 @@
     "PlayerMascotHealth"
    ],
    "version": "v1.5.1"
+  },
+  "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
+   "folders": [
+    "CombatMetrics2"
+   ],
+   "version": "1.7.10"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -12167,7 +12187,7 @@
    "folders": [
     "NQOL"
    ],
-   "version": "367"
+   "version": "371"
   },
   "6a072e95-965d-4368-9c0f-196d198ad5dd": {
    "folders": [
@@ -12221,7 +12241,7 @@
    "folders": [
     "LibConsoleLogger"
    ],
-   "version": "LibConsoleLogger-0.4.0-2026-10-23T160515"
+   "version": "LibConsoleLogger-0.5.0-2026-11-15T020652"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665": {
    "folders": [
@@ -12460,7 +12480,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "5.3"
+   "version": "5.6"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -12885,7 +12905,7 @@
    "folders": [
     "LiveBuffUptime2"
    ],
-   "version": "2.4.13"
+   "version": "2.4.15"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a": {
    "folders": [
@@ -13445,7 +13465,7 @@
    "folders": [
     "ESOFantasy"
    ],
-   "version": "v0.9.2 FIX"
+   "version": "v1.7.2"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3": {
    "folders": [
@@ -13469,7 +13489,7 @@
    "folders": [
     "EsoTR_Lite"
    ],
-   "version": "RahaadLite1.0.4a"
+   "version": "RahaadenLite1.0.5"
   },
   "b7f8c335-5c64-42cf-813e-c178bb11a1e5": {
    "folders": [

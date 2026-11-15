@@ -135,6 +135,7 @@ CombatAlerts	207010	2.7.1	101051 101052	Code's Combat Alerts	code65536	fe065445-
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
 CombatMascot	20	v3	101048 101049 101050 101051	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatMascotDiag	3	v2	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
+CombatMetrics2	1071001	1.7.10	101051 101052	Test	FiNk3F13	5d54d232-188f-4ee1-a2fa-61c641f2538b
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
 CombatTopHealthbar		2025.05.29	101046	CombatTopHealthbar	Masteroshi430	7c18ff01-65ca-424a-9797-987227ea3ac6
@@ -196,13 +197,13 @@ ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4d
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
 ESOCKeepMyCrafts	10	2.6.0	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
-ESOFantasy	18	v0.9.2 FIX	101051	ESO Fantasy	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
+ESOFantasy	30.0.0	v1.7.2	2.1.3.0	Fantasy ESO	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
-esoReport		1.5.5	101051	eso Report	codeWarrior82	52e26019-7e65-4ad8-9af6-bfdf51ef2bce
-EsoTR		Rahaad1.0.6a	101049 101050 101051	Türkçe çeviri - ESOTR	XANTOSTR	56b19964-a32d-4e97-b922-6d446ff6b6fc
-EsoTR_Lite		RahaadLite1.0.4a	101049 101050 101051	Türkçe çeviri - ESOTR_Lite	XANTOSTR	b7f56e79-7bdd-41c5-89d4-a0b61b7719af
+esoReport		1.5.9	101051	eso Report	codeWarrior82	52e26019-7e65-4ad8-9af6-bfdf51ef2bce
+EsoTR		Rahaaden1.0.7	101049 101050 101051	Türkçe çeviri - ESOTR	XANTOSTR	56b19964-a32d-4e97-b922-6d446ff6b6fc
+EsoTR_Lite		RahaadenLite1.0.5	101049 101050 101051	Türkçe çeviri - ESOTR_Lite	XANTOSTR	b7f56e79-7bdd-41c5-89d4-a0b61b7719af
 essenceThiefTracker		1.0.5	101051	Essence Thief Tracker	codeWarrior82	e6634e8a-1c51-45d7-ba7b-f062e50e5ee8
 Ev	20002	1.1	101047 101046	Ev	Mr_tee21	dd556dbe-ac20-41a5-8dba-9ba37eb97347
 EWPFinder	1	4.0.3 Removed Constant return	101046	EWPFinder	Vixen_Hunny	bf9cbf1c-54ac-48f3-b489-a2aeda4996e8
@@ -325,7 +326,7 @@ LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df0
 LibCombatAlerts	9000	0.9.0	101051 101052	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibCombatSkills	1	1.0.13	101049 101050	LibCombatSkills	SugaComa	4500daea-ed3f-4071-822c-24329a5831e3
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
-LibConsoleLogger	400	LibConsoleLogger-0.4.0-2026-10-23T160515	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
+LibConsoleLogger	500	LibConsoleLogger-0.5.0-2026-11-15T020652	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea
@@ -377,7 +378,7 @@ LibVotansAddonList	11001	1.10.1	101051 101052	Votan's Addon List	votan73	e0ba98a
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
 LiveBuffUptime		2.5.1	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
-LiveBuffUptime2		2.4.13	101051	Testo	FiNk3F13	937915ef-c930-46a4-ad1d-baf147c74e87
+LiveBuffUptime2		2.4.15	101051	Testo	FiNk3F13	937915ef-c930-46a4-ad1d-baf147c74e87
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
@@ -429,7 +430,7 @@ MurfTreasures		1.2.7	101050 101051	Murf's Treasures	murphyx	4c4e9010-a3ef-435d-b
 MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08e4ae
 MyCombatText		5.0.3	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
-MyExtras		5.3	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
+MyExtras		5.6	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
 MyFontSwitcher		1.0.1	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
@@ -443,8 +444,8 @@ NGear	41	41	101050 101051	NGear	unacntble	f82fbe8f-39a8-4cad-b1ba-8e3a586c41a0
 NGear-dev	40	40	101050 101051	NGear-dev	unacntble	842f6e57-44cf-436d-b2fb-b38615f20346
 NoM0RErrors	101	1.0.1	101046	No More Errors	M0R	91c0799a-d1f2-46e3-9ef6-2c470d6869f6
 NoTargetFrame	110	Final version	101050	Hide Targetframe by JH	j.hhh	b1bf0d35-ce24-4850-a553-507da6b0e5e5
-NQOL	367	367	101050 101051	NQOL	unacntble	6987c48d-827e-4583-a5a7-6cb748174190
-NQOL-dev	369	369	101050 101051	NQOL-dev	unacntble	475ce77b-6d09-4c75-8c28-95fff8f907c9
+NQOL	371	371	101050 101051	NQOL	unacntble	6987c48d-827e-4583-a5a7-6cb748174190
+NQOL-dev	370	370	101050 101051	NQOL-dev	unacntble	475ce77b-6d09-4c75-8c28-95fff8f907c9
 NumbersOnDummyOnly		2025.05.29	101046	NumbersOnDummyOnly	Masteroshi430	7dd87315-5f9a-4644-887f-a38632d7f70e
 ObsidianHUD	755	0.8.3	101051	Trest	FiNk3F13	74e3cf1b-47f3-44c7-ac72-290efc19e8f3
 OffBalanceTracker	0005	20260914-0005	101050	Off Balance Tracker - incl. Smart Tracking Mode	DuesentriebESO	ee431f44-2522-4944-ad58-8916644ec121
@@ -520,7 +521,7 @@ PvPCooldownTracker	121	25.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
 PvPTargetInfo	115	v2.5.1	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
 PvPUA		5.4	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
-PvPUAPatch		PvPUAPatch-5.10.0-2026-11-14T165829	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
+PvPUAPatch		PvPUAPatch-5.10.1-2026-11-15T020612	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
 queueNextWrit	300	3	101051 101052	queueNextWrit	Dack.Janiels	2ea327f5-7b87-49e2-a306-9e7ce0021db9
