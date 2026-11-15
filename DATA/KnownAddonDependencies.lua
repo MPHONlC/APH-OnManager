@@ -81,6 +81,7 @@ AoM.KnownAddonDependencies = {
 	["BureauOfPrivateDispatches"] = { "pChat" },
 	["CAddonDiagnosis"] = { "LibDebugLogger" },
 	["CameraAlter"] = { "LibAddonMenu-2.0" },
+	["CaracMarchandise"] = { "TamrielTradeCentre" },
 	["CarosLootList"] = { "CraftStoreFixedAndImproved", "FCOItemSaver", "IIfA", "LibAddonMenu-2.0", "LibCustomMenu", "WritWorthy" },
 	["CarosPreCrafter"] = { "AwesomeGuildStore", "CraftStoreFixedAndImproved", "LibLazyCrafting", "LibPrice" },
 	["CarosSkillPointSaver"] = { "AlphaGear", "DressingRoom", "LibLazyCrafting", "LibSets" },

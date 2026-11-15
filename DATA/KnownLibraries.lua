@@ -66,7 +66,7 @@ LibAlchemyStation	345	3.4.5	2628	101037 101038	LibAlchemyStation	LAS
 LibAnimation-1.0	23	2.3	54	101032 101033	LibAnimation-1.0	LibAnimation-1.0
 LibAPH	26101801	2026.10.18.01.41	4917	101051 101052	LibAPH	LibAPH
 LibArmorInsulation	22	2.7.11	4709	101050 101051	LibArmorInsulation	LibArmorInsulation
-LibAsync	30105	3.1.5	2125	101051 101052	LibAsync	LibAsync
+LibAsync	30106	3.1.6	2125	101051 101052	LibAsync	LibAsync
 LibBase64		1.0	3795	101040	LibBase64	LibBase64
 LibBinaryEncode	34	1.34	1647	101033	LibBinaryEncode	LBE
 LibBitSet	1	0.0.1	3960	101043	LibBitSet	LibBitSet
