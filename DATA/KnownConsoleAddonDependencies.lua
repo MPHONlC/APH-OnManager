@@ -51,6 +51,7 @@ cChat	LibAsync
 ChatBeGone	LibAddonMenu-2.0	LibChatMessage	LibHarvensAddonSettings	pChat	rChat
 ClearSight	LibHarvensAddonSettings
 CombatAlerts	LibAddonMenu-2.0
+CombatMascot	LibAddonMenu-2.0
 CompanionPerkTracker	LibAddonMenu-2.0
 ConsoleMetrics	LMB	LibAddonMenu-2.0	LibConsoleDialogs	LibFights	LibHarvensAddonSettings	PvPCooldownTracker
 ContainerHighlighter	LibAddonMenu-2.0	LibQRCode
