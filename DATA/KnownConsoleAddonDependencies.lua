@@ -202,6 +202,7 @@ PBsLowestPriceFinder	LibHarvensAddonSettings
 PBsLuaMemoryMonitor	LibHarvensAddonSettings
 PBsMailerExtension	LibHarvensAddonSettings
 PBsOmikuji	LibHarvensAddonSettings
+PBsOnlineStatusAlert	LibHarvensAddonSettings
 PBsProcSetTimer	LibHarvensAddonSettings
 PBsQuickChat	LibHarvensAddonSettings
 PBsReticle	LibHarvensAddonSettings
@@ -242,6 +243,7 @@ ShogrinUI	LibAddonMenu-2.0	LibSlashCommander
 ShowEquipped	LibHarvensAddonSettings
 SiegeReminder	LibHarvensAddonSettings
 SimpleGroupDPS	BattleScrolls
+SimpleGroupDPS2	BattleScrolls
 SimpleOffBalanceTracker	LibHarvensAddonSettings
 SkyShards	DebugLogViewer	LibDebugLogger
 SlayansBossTimer	LibChatMessage

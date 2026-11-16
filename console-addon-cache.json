@@ -841,18 +841,18 @@
    "version": "1.3.4"
   },
   "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascot": {
-   "addOnVersion": "25",
+   "addOnVersion": "29",
    "addonId": "1496058e-eb41-4f99-bc99-591195752a8e",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 14,
+   "downloads": 15,
    "folder": "CombatMascot",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Combat Mascot",
-   "updatedAt": 1794796171,
-   "version": "v4.2"
+   "updatedAt": 1794834244,
+   "version": "v5.1"
   },
   "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascotDiag": {
    "addOnVersion": "3",
@@ -1289,18 +1289,18 @@
    "version": "1.0.0"
   },
   "21a2a61f-e085-4a88-b299-587a33bff1f5/WWDpad": {
-   "addOnVersion": "14",
+   "addOnVersion": "15",
    "addonId": "21a2a61f-e085-4a88-b299-587a33bff1f5",
    "apiVersion": "101052",
    "author": "FiNk3F13",
    "dependsOn": "WizardsWardrobe LibRadialMenu",
-   "downloads": 12,
+   "downloads": 13,
    "folder": "WWDpad",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "DontD",
-   "updatedAt": 1794610139,
-   "version": "0.6.1"
+   "updatedAt": 1794827267,
+   "version": "0.7.0"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
    "addOnVersion": "22802",
@@ -2708,13 +2708,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 255,
+   "downloads": 256,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "dev sandbox",
-   "updatedAt": 1794789235,
-   "version": "PvPUAPatch-5.11.0-2026-11-15T163343"
+   "updatedAt": 1794804900,
+   "version": "PvPUAPatch-5.12.0-2026-11-15T205448"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -3219,6 +3219,20 @@
    "title": "Necro Tracker",
    "updatedAt": 1793654302,
    "version": "1.4.5"
+  },
+  "4d5ab3e7-7762-40f6-bbb8-a64c1696dbde/PBsAutoLoot": {
+   "addOnVersion": "5",
+   "addonId": "4d5ab3e7-7762-40f6-bbb8-a64c1696dbde",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "PBsAutoLoot",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's AutoLoot",
+   "updatedAt": 1794803861,
+   "version": "0.1.4"
   },
   "4dd951d1-312d-470c-b02c-f1961618b998/BetterTwins": {
    "addOnVersion": "6",
@@ -3725,18 +3739,18 @@
    "version": "v6"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b/CombatMetrics2": {
-   "addOnVersion": "1071300",
+   "addOnVersion": "1071700",
    "addonId": "5d54d232-188f-4ee1-a2fa-61c641f2538b",
    "apiVersion": "101051 101052",
    "author": "FiNk3F13",
    "dependsOn": "",
-   "downloads": 10,
+   "downloads": 13,
    "folder": "CombatMetrics2",
    "isLibrary": "",
    "optionalDependsOn": "LibRadialMenu",
    "title": "Test",
-   "updatedAt": 1794771002,
-   "version": "1.7.13"
+   "updatedAt": 1794831347,
+   "version": "1.7.17"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
@@ -3823,18 +3837,18 @@
    "version": "0.3.0"
   },
   "5eaa0d91-47f8-4c5e-8673-db3ab518a752/LibCustomNames": {
-   "addOnVersion": "20261109",
+   "addOnVersion": "20261116",
    "addonId": "5eaa0d91-47f8-4c5e-8673-db3ab518a752",
    "apiVersion": "101049 101050",
    "author": "m00nyONE",
    "dependsOn": "",
-   "downloads": 321842,
+   "downloads": 326968,
    "folder": "LibCustomNames",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibCustomNames",
-   "updatedAt": 1794188602,
-   "version": "2026-11-09"
+   "updatedAt": 1794818615,
+   "version": "2026-11-16"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78/Puma": {
    "addOnVersion": "1",
@@ -4886,6 +4900,20 @@
    "updatedAt": 1794096696,
    "version": "5.0.0"
   },
+  "7a5d051d-6b7c-4117-8748-0b3ec7a3c234/SimpleGroupDPS2": {
+   "addOnVersion": "",
+   "addonId": "7a5d051d-6b7c-4117-8748-0b3ec7a3c234",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
+   "downloads": 2,
+   "folder": "SimpleGroupDPS2",
+   "isLibrary": "",
+   "optionalDependsOn": "BattleScrolls",
+   "title": "Buggy DontD",
+   "updatedAt": 1794834686,
+   "version": "1.9.25"
+  },
   "7b383e7f-a85f-491d-b950-dffc87bcec10/ArchdruidTracker": {
    "addOnVersion": "010101",
    "addonId": "7b383e7f-a85f-491d-b950-dffc87bcec10",
@@ -4934,13 +4962,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 21,
+   "downloads": 25,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1794731620,
-   "version": "5.6"
+   "updatedAt": 1794818730,
+   "version": "7"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -6049,18 +6077,18 @@
    "version": "SatchelExchange-0.10.0-2026-11-12T154142"
   },
   "981d34f1-c0ba-4bc4-afa2-490348db8c16/PBsAutoLoot": {
-   "addOnVersion": "3",
+   "addOnVersion": "5",
    "addonId": "981d34f1-c0ba-4bc4-afa2-490348db8c16",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 2,
    "folder": "PBsAutoLoot",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
-   "title": "PinkB's AutoLoot",
-   "updatedAt": 1794802693,
-   "version": "0.1.2"
+   "title": "PinkB's AutoLoot(Beta)",
+   "updatedAt": 1794803677,
+   "version": "0.1.4"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
    "addOnVersion": "9",
@@ -7643,6 +7671,20 @@
    "title": "Antiquities Tracker",
    "updatedAt": 1783028178,
    "version": "2.3.6"
+  },
+  "c27b406e-b19f-441b-876b-260e195df26d/PBsOnlineStatusAlert": {
+   "addOnVersion": "1",
+   "addonId": "c27b406e-b19f-441b-876b-260e195df26d",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsOnlineStatusAlert",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PBsOnlineStatusAlert(Beta)",
+   "updatedAt": 1794809871,
+   "version": "0.1.0"
   },
   "c2c3621e-0b20-4fae-9195-05862d266eef/PBsFurnitureEditor": {
    "addOnVersion": "",
@@ -10720,7 +10762,7 @@
    "folders": [
     "CombatMascot"
    ],
-   "version": "v4.2"
+   "version": "v5.1"
   },
   "153e64a6-b621-4c91-b84a-c2ae48778142": {
    "folders": [
@@ -10913,7 +10955,7 @@
    "folders": [
     "WWDpad"
    ],
-   "version": "0.6.1"
+   "version": "0.7.0"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574": {
    "folders": [
@@ -11519,7 +11561,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.11.0-2026-11-15T163343"
+   "version": "PvPUAPatch-5.12.0-2026-11-15T205448"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -11741,6 +11783,12 @@
     "necroTracker"
    ],
    "version": "1.4.5"
+  },
+  "4d5ab3e7-7762-40f6-bbb8-a64c1696dbde": {
+   "folders": [
+    "PBsAutoLoot"
+   ],
+   "version": "0.1.4"
   },
   "4d619dbf-92df-4bda-aac1-b5dbec806fca": {
    "folders": [],
@@ -11969,7 +12017,7 @@
    "folders": [
     "CombatMetrics2"
    ],
-   "version": "1.7.13"
+   "version": "1.7.17"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -12012,7 +12060,7 @@
    "folders": [
     "LibCustomNames"
    ],
-   "version": "2026-11-09"
+   "version": "2026-11-16"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78": {
    "folders": [
@@ -12485,6 +12533,12 @@
    ],
    "version": "5.0.0"
   },
+  "7a5d051d-6b7c-4117-8748-0b3ec7a3c234": {
+   "folders": [
+    "SimpleGroupDPS2"
+   ],
+   "version": "1.9.25"
+  },
   "7b383e7f-a85f-491d-b950-dffc87bcec10": {
    "folders": [
     "ArchdruidTracker"
@@ -12508,7 +12562,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "5.6"
+   "version": "7"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -13001,7 +13055,7 @@
    "folders": [
     "PBsAutoLoot"
    ],
-   "version": "0.1.2"
+   "version": "0.1.4"
   },
   "989b1df5-3c15-479c-b13d-a42ed8b45214": {
    "folders": [
@@ -13689,6 +13743,12 @@
   "c2664980-589b-4f81-a99e-02204268cab3": {
    "folders": [],
    "version": "1"
+  },
+  "c27b406e-b19f-441b-876b-260e195df26d": {
+   "folders": [
+    "PBsOnlineStatusAlert"
+   ],
+   "version": "0.1.0"
   },
   "c2c3621e-0b20-4fae-9195-05862d266eef": {
    "folders": [
