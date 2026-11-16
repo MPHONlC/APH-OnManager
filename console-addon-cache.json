@@ -841,18 +841,18 @@
    "version": "1.3.4"
   },
   "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascot": {
-   "addOnVersion": "20",
+   "addOnVersion": "25",
    "addonId": "1496058e-eb41-4f99-bc99-591195752a8e",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 6,
+   "downloads": 14,
    "folder": "CombatMascot",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Combat Mascot",
-   "updatedAt": 1794702403,
-   "version": "v3"
+   "updatedAt": 1794796171,
+   "version": "v4.2"
   },
   "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascotDiag": {
    "addOnVersion": "3",
@@ -1826,13 +1826,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 1498,
+   "downloads": 2994,
    "folder": "LibNotify",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibNotify",
-   "updatedAt": 1791406114,
-   "version": "1.4.3"
+   "updatedAt": 1794793465,
+   "version": "1.5.2"
   },
   "2c70f704-e9aa-42d3-8c65-894ef085a9ea/GroupFullDante": {
    "addOnVersion": "110",
@@ -2313,16 +2313,16 @@
   "37bd7159-8611-4d29-8767-08434d4fe209/CyroAlerts": {
    "addOnVersion": "",
    "addonId": "37bd7159-8611-4d29-8767-08434d4fe209",
-   "apiVersion": "101050",
+   "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42 LibMapPins-1.0>=47",
-   "downloads": 3677,
+   "downloads": 5394,
    "folder": "CyroAlerts",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibNotify",
    "title": "Cyrodiil Alerts",
-   "updatedAt": 1789307923,
-   "version": "3.1.5"
+   "updatedAt": 1794792960,
+   "version": "3.4.0"
   },
   "37f459c1-e6dc-4d21-afd7-eaceb68cfd82/ScreenshotModeEnhanced": {
    "addOnVersion": "10104",
@@ -2423,18 +2423,18 @@
    "version": "1.0.1"
   },
   "3a04382d-3f1c-4340-9fa5-abd6af19a2af/FindMyStuff": {
-   "addOnVersion": "",
+   "addOnVersion": "110",
    "addonId": "3a04382d-3f1c-4340-9fa5-abd6af19a2af",
    "apiVersion": "101049 101050",
    "author": "Vixen_Hunny",
-   "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 18,
+   "dependsOn": "",
+   "downloads": 50,
    "folder": "FindMyStuff",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibAddonMenu-2.0>=40 LibHarvensAddonSettings",
    "title": "Find My Stuff",
-   "updatedAt": 1784916603,
-   "version": "1.2.0"
+   "updatedAt": 1794782230,
+   "version": "2.5.0"
   },
   "3a4024fc-1465-4e5e-a96f-6d6b6a781497/DevSandbox3": {
    "addOnVersion": "42000",
@@ -2708,13 +2708,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 253,
+   "downloads": 255,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "dev sandbox",
-   "updatedAt": 1794737183,
-   "version": "PvPUAPatch-5.10.1-2026-11-15T020612"
+   "updatedAt": 1794789235,
+   "version": "PvPUAPatch-5.11.0-2026-11-15T163343"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -3195,16 +3195,16 @@
   "4c644add-5991-49a0-ad77-6b91a5ffee42/EyeOnKeep": {
    "addOnVersion": "",
    "addonId": "4c644add-5991-49a0-ad77-6b91a5ffee42",
-   "apiVersion": "101051",
+   "apiVersion": "101051 101050",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 5206,
+   "downloads": 6319,
    "folder": "EyeOnKeep",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "EyeOnKeep",
-   "updatedAt": 1790032433,
-   "version": "1.2.0"
+   "updatedAt": 1794770775,
+   "version": "1.3.2"
   },
   "4cd1ecbb-8d25-48e5-a67e-28b408761f77/necroTracker": {
    "addOnVersion": "",
@@ -3725,18 +3725,18 @@
    "version": "v6"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b/CombatMetrics2": {
-   "addOnVersion": "1071001",
+   "addOnVersion": "1071300",
    "addonId": "5d54d232-188f-4ee1-a2fa-61c641f2538b",
    "apiVersion": "101051 101052",
    "author": "FiNk3F13",
    "dependsOn": "",
-   "downloads": 8,
+   "downloads": 10,
    "folder": "CombatMetrics2",
    "isLibrary": "",
    "optionalDependsOn": "LibRadialMenu",
    "title": "Test",
-   "updatedAt": 1794741280,
-   "version": "1.7.10"
+   "updatedAt": 1794771002,
+   "version": "1.7.13"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86/ItalianScrollsOnline": {
    "addOnVersion": "",
@@ -4551,18 +4551,18 @@
    "version": "30.02"
   },
   "72c475de-1f9e-433f-8047-57f7fb4ff786/LibAsync": {
-   "addOnVersion": "30105",
+   "addOnVersion": "30106",
    "addonId": "72c475de-1f9e-433f-8047-57f7fb4ff786",
-   "apiVersion": "101049 101050",
+   "apiVersion": "101051 101052",
    "author": "votan73",
    "dependsOn": "",
-   "downloads": 1088126,
+   "downloads": 1223872,
    "folder": "LibAsync",
    "isLibrary": "true",
    "optionalDependsOn": "LibDebugLogger Taneth",
    "title": "LibAsync",
-   "updatedAt": 1791116666,
-   "version": "3.1.5"
+   "updatedAt": 1794753961,
+   "version": "3.1.6"
   },
   "72f3b989-5d83-4337-8114-fa1c23d38d9e/PBsLowestPriceFinder": {
    "addOnVersion": "",
@@ -6048,6 +6048,20 @@
    "updatedAt": 1794526915,
    "version": "SatchelExchange-0.10.0-2026-11-12T154142"
   },
+  "981d34f1-c0ba-4bc4-afa2-490348db8c16/PBsAutoLoot": {
+   "addOnVersion": "3",
+   "addonId": "981d34f1-c0ba-4bc4-afa2-490348db8c16",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsAutoLoot",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's AutoLoot",
+   "updatedAt": 1794802693,
+   "version": "0.1.2"
+  },
   "989b1df5-3c15-479c-b13d-a42ed8b45214/CombatRecap": {
    "addOnVersion": "9",
    "addonId": "989b1df5-3c15-479c-b13d-a42ed8b45214",
@@ -7171,16 +7185,16 @@
   "b6cb7ba1-4505-427c-811d-0a008aeb4e79/ESOFantasy": {
    "addOnVersion": "30.0.0",
    "addonId": "b6cb7ba1-4505-427c-811d-0a008aeb4e79",
-   "apiVersion": "2.1.3.0",
+   "apiVersion": "2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 22,
+   "downloads": 45,
    "folder": "ESOFantasy",
    "isLibrary": "",
    "optionalDependsOn": "",
-   "title": "Fantasy ESO",
-   "updatedAt": 1794730636,
-   "version": "v1.7.2"
+   "title": "Fantasy ESO Battleground Stats",
+   "updatedAt": 1794799737,
+   "version": "v2.2"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3/AutoImproveGear": {
    "addOnVersion": "",
@@ -7293,6 +7307,20 @@
    "title": "StoneTalker",
    "updatedAt": 1793136628,
    "version": "1.1.1"
+  },
+  "ba60ddff-639b-4bc0-8874-4fb3a3d200a7/1vXHelper": {
+   "addOnVersion": "100",
+   "addonId": "ba60ddff-639b-4bc0-8874-4fb3a3d200a7",
+   "apiVersion": "101048 101049",
+   "author": "Vixen_Hunny",
+   "dependsOn": "LibAddonMenu-2.0>=32",
+   "downloads": 5,
+   "folder": "1vXHelper",
+   "isLibrary": "",
+   "optionalDependsOn": "LibMapPins-1.0",
+   "title": "1vX Helper [BETA]",
+   "updatedAt": 1794797314,
+   "version": "1.0.3"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a/BetterScoreboard": {
    "addOnVersion": "50",
@@ -7925,18 +7953,18 @@
    "version": "2.1.7"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000117",
+   "addOnVersion": "01000118",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 20451,
+   "downloads": 20747,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1794715216,
-   "version": "1.0.117"
+   "updatedAt": 1794801625,
+   "version": "1.0.118"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -10692,7 +10720,7 @@
    "folders": [
     "CombatMascot"
    ],
-   "version": "v3"
+   "version": "v4.2"
   },
   "153e64a6-b621-4c91-b84a-c2ae48778142": {
    "folders": [
@@ -11119,7 +11147,7 @@
    "folders": [
     "LibNotify"
    ],
-   "version": "1.4.3"
+   "version": "1.5.2"
   },
   "2c70f704-e9aa-42d3-8c65-894ef085a9ea": {
    "folders": [
@@ -11332,7 +11360,7 @@
    "folders": [
     "CyroAlerts"
    ],
-   "version": "3.1.5"
+   "version": "3.4.0"
   },
   "37f459c1-e6dc-4d21-afd7-eaceb68cfd82": {
    "folders": [
@@ -11342,7 +11370,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.575"
+   "version": "0.0.576"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -11384,7 +11412,7 @@
    "folders": [
     "FindMyStuff"
    ],
-   "version": "1.2.0"
+   "version": "2.5.0"
   },
   "3a4024fc-1465-4e5e-a96f-6d6b6a781497": {
    "folders": [
@@ -11491,7 +11519,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.10.1-2026-11-15T020612"
+   "version": "PvPUAPatch-5.11.0-2026-11-15T163343"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -11706,7 +11734,7 @@
    "folders": [
     "EyeOnKeep"
    ],
-   "version": "1.2.0"
+   "version": "1.3.2"
   },
   "4cd1ecbb-8d25-48e5-a67e-28b408761f77": {
    "folders": [
@@ -11941,7 +11969,7 @@
    "folders": [
     "CombatMetrics2"
    ],
-   "version": "1.7.10"
+   "version": "1.7.13"
   },
   "5d612b95-1149-48f4-b359-2aaee406bd86": {
    "folders": [
@@ -12303,7 +12331,7 @@
    "folders": [
     "LibAsync"
    ],
-   "version": "3.1.5"
+   "version": "3.1.6"
   },
   "72f3b989-5d83-4337-8114-fa1c23d38d9e": {
    "folders": [
@@ -12969,6 +12997,12 @@
    ],
    "version": "SatchelExchange-0.10.0-2026-11-12T154142"
   },
+  "981d34f1-c0ba-4bc4-afa2-490348db8c16": {
+   "folders": [
+    "PBsAutoLoot"
+   ],
+   "version": "0.1.2"
+  },
   "989b1df5-3c15-479c-b13d-a42ed8b45214": {
    "folders": [
     "CombatRecap"
@@ -13465,7 +13499,7 @@
    "folders": [
     "ESOFantasy"
    ],
-   "version": "v1.7.2"
+   "version": "v2.2"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3": {
    "folders": [
@@ -13514,6 +13548,12 @@
     "StoneTalker"
    ],
    "version": "1.1.1"
+  },
+  "ba60ddff-639b-4bc0-8874-4fb3a3d200a7": {
+   "folders": [
+    "1vXHelper"
+   ],
+   "version": "1.0.3"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a": {
    "folders": [
@@ -13798,7 +13838,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.117"
+   "version": "1.0.118"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [

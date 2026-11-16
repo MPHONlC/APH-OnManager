@@ -10,6 +10,7 @@
 assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.KnownConsoleAddons = AoM.CreateConsoleTable([==[
+1vXHelper	100	1.0.3	101048 101049	1vX Helper [BETA]	Vixen_Hunny	ba60ddff-639b-4bc0-8874-4fb3a3d200a7
 702sCraftCompletionistList		Version 2.4.3.4	101048 101049	702's Craft Completionist List	The702Guy	b3b32522-0ed3-419e-b20d-ef4b651bc013
 AA_Profiler	100	0.09	101043	AA_Profiler	spoqster	66400ef3-3d78-4737-a158-c48633706a83
 AAA_RuntimeWatch	1	0.1.0	101050 101051	Runtime Watch	TheGreyWolf98	4fda2eee-1b8d-4a0b-94c2-e748543364b9
@@ -133,9 +134,9 @@ CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
 CombatAlerts	207010	2.7.1	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
-CombatMascot	20	v3	101048 101049 101050 101051	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
+CombatMascot	25	v4.2	101048 101049 101050 101051	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatMascotDiag	3	v2	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
-CombatMetrics2	1071001	1.7.10	101051 101052	Test	FiNk3F13	5d54d232-188f-4ee1-a2fa-61c641f2538b
+CombatMetrics2	1071300	1.7.13	101051 101052	Test	FiNk3F13	5d54d232-188f-4ee1-a2fa-61c641f2538b
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
 CombatTopHealthbar		2025.05.29	101046	CombatTopHealthbar	Masteroshi430	7c18ff01-65ca-424a-9797-987227ea3ac6
@@ -162,7 +163,7 @@ CTest	2606272	260627.2	101050	Calamath's Test Site	Calamath	23ee5193-1c27-4b42-b
 CurvedHUD		1.1.3	101050 101051 101052	Curved Resource HUD	Kaos_Arbiter	bc307fb6-b7b8-4905-b81a-1b33b24c8662
 CustomCompassPins	137	1.37	101045 101046	CustomCompassPins	Sharlikran	3c805ef7-47fe-43a7-b480-52342549e9f4
 CustomQueueSoundsConsole	1	1.0.0	101048 101049 101050	Queue Sounds	Vixen_Hunny	311a560b-a6b2-4545-ba13-2c6142e34001
-CyroAlerts		3.1.5	101050	Cyrodiil Alerts	codeWarrior82	37bd7159-8611-4d29-8767-08434d4fe209
+CyroAlerts		3.4.0	101051	Cyrodiil Alerts	codeWarrior82	37bd7159-8611-4d29-8767-08434d4fe209
 DailyQuestTracker		3.3.7	101050	Daily Quest Tracker	Eldibabalo	a84f8a0c-210f-481a-b8a7-6dc95bff7664
 DarkConvergenceTimer	1.0.4	1.0.4	101049 101050	Dark Convergence Timer	SaintAres97	2709a81d-caea-4f77-a89d-0d83661bf7ee
 darkConvergenceTracker		1.0.8	101051	Dark Convergence Tracker	codeWarrior82	8dff29ed-8886-46e4-ad37-c73add153c3f
@@ -197,7 +198,7 @@ ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4d
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
 ESOCKeepMyCrafts	10	2.6.0	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
-ESOFantasy	30.0.0	v1.7.2	2.1.3.0	Fantasy ESO	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
+ESOFantasy	30.0.0	v2.2	2.5.3.0	Fantasy ESO Battleground Stats	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -208,7 +209,7 @@ essenceThiefTracker		1.0.5	101051	Essence Thief Tracker	codeWarrior82	e6634e8a-1
 Ev	20002	1.1	101047 101046	Ev	Mr_tee21	dd556dbe-ac20-41a5-8dba-9ba37eb97347
 EWPFinder	1	4.0.3 Removed Constant return	101046	EWPFinder	Vixen_Hunny	bf9cbf1c-54ac-48f3-b489-a2aeda4996e8
 ExoYsCruxTracker		v1.3	101050	Crux Tracker	j.hhh	7c2543a8-c08b-4c48-b4bf-47d2463b616f
-EyeOnKeep		1.2.0	101051	EyeOnKeep	SugaComa	4c644add-5991-49a0-ad77-6b91a5ffee42
+EyeOnKeep		1.3.2	101051 101050	EyeOnKeep	SugaComa	4c644add-5991-49a0-ad77-6b91a5ffee42
 EyesOfTheUndaunted	15103	1.51.03	101051	Eyes of the Undaunted	xbutch	b22ade94-a817-47da-bc4f-cfa7e1dd25ff
 FancyActionBarPlus	21909	2.18.9	101050	Fancy Action Bar+	acastanza	922792c1-1d90-4415-ada5-c356757e857f
 FashionMount		1.1.2	101049 101050 101051	Fashion Mount	SugaComa	91a5e014-74ee-4d3b-a612-b2b05dd223d8
@@ -217,7 +218,7 @@ FavoriteGuildCycler	131	v1.3.1	101051 101050 101049 101048	Favorite Guild Cycler
 FavoriteHomeTeleports		1.5	101049	Favorite Home Teleporter	codeman1734	fc9f4f62-3d31-41cd-b9ee-e1a0ea0f6ecb
 FCOLockpicker	003100	0.31	101050 101051	FCO Lockpicker	Baertram_ESOUI	f141edd7-7b4f-4b3e-b32e-9e6df1ec228b
 feedingFrenzyTracker		1.3.6	101051	Feeding Frenzy Tracker	codeWarrior82	9526cff9-d7f1-4c3c-a96b-aecfb0daa347
-FindMyStuff		1.2.0	101049 101050	Find My Stuff	Vixen_Hunny	3a04382d-3f1c-4340-9fa5-abd6af19a2af
+FindMyStuff	110	2.5.0	101049 101050	Find My Stuff	Vixen_Hunny	3a04382d-3f1c-4340-9fa5-abd6af19a2af
 FishingMap		52.01	101051 101052	Fishing Map	Gamer_sa22	4b76af9c-bb6e-4eab-b0dc-c8c4e5c7c226
 Flexatron	19	0.8.6	101050	Flexatron	-Chin	cf03f2d9-c234-46ee-a20b-ae75c678e225
 FlexibleBars	100	1.0.0	101047	Flexible Bars	M0R	4be7617d-7e6d-42bf-bcbb-921e37ace7bc
@@ -318,7 +319,7 @@ LibAbilityLogger	3.0.0	LAB 7.0.0	101046	LibAbilityLogger	Vixen_Hunny	e4b71317-92
 LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9c-4b14-aa0e-d841090d128c
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
 LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
-LibAsync	30105	3.1.5	101049 101050	LibAsync	votan73	72c475de-1f9e-433f-8047-57f7fb4ff786
+LibAsync	30106	3.1.6	101051 101052	LibAsync	votan73	72c475de-1f9e-433f-8047-57f7fb4ff786
 LibCharacterKnowledge	301030	3.1.3	101051 101052	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
 LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8b84-097b6d7ee558
@@ -358,7 +359,7 @@ LibMediaProvider	39	1.1 r39	101051	LibMediaProvider	Calamath	0fa32336-8528-4747-
 LibMessagePlugin	110	1.1.31	101049 101050	LibMessagePlugin	SugaComa	90c97baa-6170-421f-bd23-7fd88500168d
 LibMousePointer	10000	1.0.0	101049 101050	LibMousePointer	votan73	de9c92f2-729c-45e6-8071-0155852da2c0
 LibNotification	15	1.1.0	101045 101046	LibNotification	sirinsidiator	68111c3f-410f-4318-b9ec-582b8c68c374
-LibNotify		1.4.3	101051	LibNotify	codeWarrior82	2c6301b6-2c09-4282-9496-84ffcb7577ce
+LibNotify		1.5.2	101051	LibNotify	codeWarrior82	2c6301b6-2c09-4282-9496-84ffcb7577ce
 LibPrice	70460	7.46	101045 101046	LibPrice	Sharlikran	0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d
 LibPromises	40	2.0.0	101051 101052	LibPromises	sirinsidiator	eb221fca-fa24-44ac-9fab-6ee0f8cba1e0
 LibQRCode	046	1.0.8	101046	LibQRCode	RoyalTonberry	da93c9ce-04e0-4acf-a62a-16e23c1e8d06
@@ -382,7 +383,7 @@ LiveBuffUptime2		2.4.15	101051	Testo	FiNk3F13	937915ef-c930-46a4-ad1d-baf147c74e
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000117	1.0.117	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000118	1.0.118	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -458,6 +459,7 @@ OsseinAssist		0.0.11	101048 101049	Ossein Assist	goron_spice	fea36b82-af6d-4ba4-
 PacketByteExporter	105	0.1.5	101050 101051	PacketByte Exporter	packetloss404	96620ecb-ccf7-4298-9215-636f4075695b
 PairsWellWithCheese	029	0.2.9	101050 101051	PairsWellWithCheese	saranicole1980	b57202fe-9b3a-4021-ad86-f2db8dfe0c5e
 PatronsLedger	100	2.2	101050	Patron's Ledger	svammy	e6627cb6-5e78-4443-86bc-4340210a5684
+PBsAutoLoot	3	0.1.2	101050 101051	PinkB's AutoLoot	PinkBanther	981d34f1-c0ba-4bc4-afa2-490348db8c16
 PBsChatAssistant		1.31.0	101050 101051	PinkB's ChatAssistant	PinkBanther	416eb892-aa32-4a10-8d1a-7ba7cf27cedf
 PBsChatWindowCustomizer		1.3.2	101050 101051	PinkB's ChatWindowCustomizer	PinkBanther	095b24d1-d035-4472-ae1d-9da85c61cb99
 PBsClock		1.3.1	101050 101051	PinkB's Clock(Beta)	PinkBanther	61641950-b365-49c6-bb98-dff4fa7bcc01
@@ -521,7 +523,7 @@ PvPCooldownTracker	121	25.0	101046	PvPCooldownTracker	Vixen_Hunny	b3a44425-48ff-
 PvpReadyEmotes		1.1		Pvp Ready Emotes	Architectofmusic	2d86078c-b982-4ffc-a7f0-7905e41c2354
 PvPTargetInfo	115	v2.5.1	101050	PvP Target Info	Bucketmore	a5490d07-2b02-4714-bf07-a18820977a3c
 PvPUA		5.4	101048 101049 101050 101051	PvP UA!	user562x	a453b6d3-5eb9-42cb-812d-605c297e8e87
-PvPUAPatch		PvPUAPatch-5.10.1-2026-11-15T020612	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
+PvPUAPatch		PvPUAPatch-5.11.0-2026-11-15T163343	101048 101049 101050 101051	dev sandbox	clubwratt	436f6695-4798-423f-b276-d8c46cbd938e
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
 queueNextWrit	300	3	101051 101052	queueNextWrit	Dack.Janiels	2ea327f5-7b87-49e2-a306-9e7ce0021db9

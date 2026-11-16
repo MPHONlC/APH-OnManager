@@ -14,7 +14,7 @@ CustomCompassPins	137	1.37	101045 101046	CustomCompassPins	Sharlikran	3c805ef7-4
 LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9c-4b14-aa0e-d841090d128c
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
 LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
-LibAsync	30105	3.1.5	101049 101050	LibAsync	votan73	72c475de-1f9e-433f-8047-57f7fb4ff786
+LibAsync	30106	3.1.6	101051 101052	LibAsync	votan73	72c475de-1f9e-433f-8047-57f7fb4ff786
 LibCharacterKnowledge	301030	3.1.3	101051 101052	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
 LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8b84-097b6d7ee558

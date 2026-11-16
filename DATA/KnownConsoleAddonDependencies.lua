@@ -10,6 +10,7 @@
 assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.KnownConsoleAddonDependencies = AoM.CreateConsoleListTable([==[
+1vXHelper	LibMapPins-1.0
 702sCraftCompletionistList	LibQRCode
 AdditionalReminders	LibAddonMenu-2.0
 advancingYokedaTracker	LibNotify
@@ -61,6 +62,7 @@ CraftMaterialAssistant	LibResearch
 CritTracker	LibRadialMenu
 CrutchAlerts	LibCustomIcons	LibFilteredChatPanel	LibGroupBroadcast	OdySupportIcons
 CurvedHUD	LibAddonMenu-2.0	LibHarvensAddonSettings
+CyroAlerts	LibNotify
 darkConvergenceTracker	LibNotify
 DeadMarker2	LibAddonMenu-2.0	LibAddonMenu2	LibStub
 DeadMarker_Holodeck	LibAddonMenu-2.0	LibAddonMenu2	LibStub
@@ -92,6 +94,7 @@ FancyActionBarPlus	ActionBarSkillStyles	Untaunted
 FashionMount	LibHarvensAddonSettings
 FavoriteGuildCycler	LibHarvensAddonSettings
 feedingFrenzyTracker	LibNotify
+FindMyStuff	LibAddonMenu-2.0	LibHarvensAddonSettings
 FlexibleBars	LibCombatAlerts
 Forpl-KDA-Bar	LibAddonMenu-2.0
 FrenziedMomentumTracker	LibNotify
@@ -179,6 +182,7 @@ OffBalanceTracker	LibAddonMenu-2.0
 OneAPHaTime	LibAPH	LibAddonMenu-2.0	LibHarvensAddonSettings
 OneMorRockgrove	Breadcrumbs
 PacketByteExporter	LibAddonMenu-2.0
+PBsAutoLoot	LibHarvensAddonSettings
 PBsChatWindowCustomizer	LibHarvensAddonSettings
 PBsClock	LibHarvensAddonSettings
 PBsCompanionAffinity	LibHarvensAddonSettings
