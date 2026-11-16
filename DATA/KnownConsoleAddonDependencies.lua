@@ -98,6 +98,7 @@ FindMyStuff	LibAddonMenu-2.0	LibHarvensAddonSettings
 FlexibleBars	LibCombatAlerts
 Forpl-KDA-Bar	LibAddonMenu-2.0
 FrenziedMomentumTracker	LibNotify
+FurnishingCatalog	LibConsoleLogger
 FurnitureFinder	LibCharacterKnowledge
 GamePadHelper	LibPriceCache	TSCPriceDataAPIPSEU	TSCPriceDataAPIPSNA	TSCPriceDataAPIXBEU	TSCPriceDataAPIXBNA	TamrielTradeCentre
 GamepadHUDCustomizer	LibAddonMenu-2.0	LibHarvensAddonSettings

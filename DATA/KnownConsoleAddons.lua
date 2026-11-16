@@ -136,7 +136,7 @@ CombatAlerts	207010	2.7.1	101051 101052	Code's Combat Alerts	code65536	fe065445-
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
 CombatMascot	29	v5.1	101048 101049 101050 101051	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatMascotDiag	3	v2	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
-CombatMetrics2	1071700	1.7.17	101051 101052	Test	FiNk3F13	5d54d232-188f-4ee1-a2fa-61c641f2538b
+CombatMetrics2	1071800	1.7.18	101051 101052	Test	FiNk3F13	5d54d232-188f-4ee1-a2fa-61c641f2538b
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
 CombatStatus-Console	0.1	0.1	101040	CombatStatus-Console	The_SkyNomad	669db721-3682-4957-9a09-a06172f0b3e0
 CombatTopHealthbar		2025.05.29	101046	CombatTopHealthbar	Masteroshi430	7c18ff01-65ca-424a-9797-987227ea3ac6
@@ -225,6 +225,7 @@ FlexibleBars	100	1.0.0	101047	Flexible Bars	M0R	4be7617d-7e6d-42bf-bcbb-921e37ac
 Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6dec3b447
 FrenziedMomentumTracker		1.2.0	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
 FunKillFeed		1.4.8	101049 101050	FunKillFeed	SugaComa	08954d6b-1604-4daf-9cf3-99b327dd7afd
+FurnishingCatalog	100	FurnishingCatalog-0.1.0-2026-11-16T153602	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
 FurnishingTracker		1.0.18	101050	Furnishing Tracker	Eldibabalo	c49eb98c-6821-47de-9cb2-10b972d1a55f
 FurnitureBuilder	12	V0.5.5	101051	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
 FurnitureFinder	3	V0.3.1	101051 101052	Furniture Finder	killerkev77	2b591c30-b518-46da-978a-c1a788963735
@@ -359,7 +360,7 @@ LibMediaProvider	39	1.1 r39	101051	LibMediaProvider	Calamath	0fa32336-8528-4747-
 LibMessagePlugin	110	1.1.31	101049 101050	LibMessagePlugin	SugaComa	90c97baa-6170-421f-bd23-7fd88500168d
 LibMousePointer	10000	1.0.0	101049 101050	LibMousePointer	votan73	de9c92f2-729c-45e6-8071-0155852da2c0
 LibNotification	15	1.1.0	101045 101046	LibNotification	sirinsidiator	68111c3f-410f-4318-b9ec-582b8c68c374
-LibNotify		1.5.2	101051	LibNotify	codeWarrior82	2c6301b6-2c09-4282-9496-84ffcb7577ce
+LibNotify		1.5.3	101051	LibNotify	codeWarrior82	2c6301b6-2c09-4282-9496-84ffcb7577ce
 LibPrice	70460	7.46	101045 101046	LibPrice	Sharlikran	0a54c8f7-e3e1-46e5-ab7f-3c7ee2bb5e7d
 LibPromises	40	2.0.0	101051 101052	LibPromises	sirinsidiator	eb221fca-fa24-44ac-9fab-6ee0f8cba1e0
 LibQRCode	046	1.0.8	101046	LibQRCode	RoyalTonberry	da93c9ce-04e0-4acf-a62a-16e23c1e8d06
@@ -572,7 +573,7 @@ SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26
 SiegeReminder	110	2.0.31	101049 101050	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
 SimpleGroupDPS		2.0.1	101051	SimpleGroupDPS	FiNk3F13	31353ae2-3899-477e-935e-69f9756c9d60
-SimpleGroupDPS2		1.9.25	101051	Buggy DontD	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
+SimpleGroupDPS2		1.9.31	101051	Buggy DontD	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
 SimpleWarhornTimer		1.6.3	101051	SimpleWarhornTimer	FiNk3F13	543e2fe8-def0-4dc1-a833-07518e6432eb
@@ -649,7 +650,7 @@ TrueExploration	203	2.3	101046	True Exploration	Shinni42	a095f0da-9f45-4dde-a150
 TrueFlagCaptureMover		1.2	101051	True Flag Capture Mover	Toudidef	4c1cca0d-7e48-40ed-bd8f-1c87ac158341
 TrueOptionsPannelMover		1.0.8	101051	True Options Pannel Mover	Toudidef	e432e963-6c1d-4e4c-b9b9-491f51ff8d07
 TruePvPRatio		1.15	101051	True PvP Ratio	Toudidef	309e8628-9a7c-45a6-8a1d-c87738ff8757
-TrueRessourceBars		0.25	101051	True Ressource Bars	Toudidef	047a332e-1f48-4610-ac9c-72fc6b0fabc7
+TrueRessourceBars		0.26	101051	True Ressource Bars	Toudidef	047a332e-1f48-4610-ac9c-72fc6b0fabc7
 TrueReticle		1.3	101051	TrueReticle	Toudidef	f9506e69-c90e-42e8-bef8-115490c59348
 TrueReticle2		2.2	101051	True Reticle 2.0	Toudidef	2e985373-cd04-4a3e-855f-4f8a4ada4d76
 TrueSynergiesMover		1.4	101051	True Synergies Mover	Toudidef	d16fe7aa-9938-433f-bac9-3a808f810ae7
@@ -676,7 +677,7 @@ VestigeMirror		v1.0.1	101049	Vestige Mirror	Wrynch	76fce7e2-297a-472f-bdf6-3e807
 VotansFisherman		1.16.4	101051 101052	Votan's Fisherman	votan73	033f7a4a-8918-4753-be5b-2874afa50230
 VotansMiniMap		2.3.0	101051 101052	Votan's Minimap	votan73	afe5bbbc-a2e0-48de-965a-29eff222393f
 WardrobeShortcutHUD	5	0.1.4	101051	Wardrobe Shortcut HUD	wildskiller	bfec3ddc-e9fa-4766-a474-22cb11325ac7
-wardTracker		1.1.0	101050	Hardened Ward Tracker	codeWarrior82	268f4e04-0e98-4b2c-874e-c9da484f991e
+wardTracker		1.2.0	101051	Hardened Ward Tracker	codeWarrior82	268f4e04-0e98-4b2c-874e-c9da484f991e
 warHornTracker		1.4.7	101051	WarHorn Tracker	codeWarrior82	d978b81f-b679-4aa8-b9a2-6d1b0511c3b3
 warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-813e-c178bb11a1e5
 WarmasktrackerByJH		1.5	101051 101050	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
@@ -692,7 +693,7 @@ WizardsWardrobe	402	0.4.2	101048	Wizard's Wardrobe	STUDLETON	645213de-645d-4170-
 WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	RagePhoenix96	f6c4019b-59cf-4a0b-8550-0e83c807df18
 wretchedVitalityTracker		1.4.5	101051	Wretched Vitality Tracker	codeWarrior82	af0511e3-aa4e-4d26-8665-e486da04c1cd
 WritReady	2	2.13	101050	MWeyes	dicen9	0bb2a403-2da7-4c0d-8546-7957cbc8735b
-WWDpad	15	0.7.0	101052	DontD	FiNk3F13	21a2a61f-e085-4a88-b299-587a33bff1f5
+WWDpad	16	0.7.1	101052	DontD	FiNk3F13	21a2a61f-e085-4a88-b299-587a33bff1f5
 YeOldeInfos	202	2.0.2	101049	YeOlde-Infos	YeOldeDragon	1987390f-3dbd-407c-996d-aa3ef3ad9773
 Zaji	3	1.0.2	101050 101051	Zaji	TheGreyWolf98	ee217f7c-81b5-40dc-beb5-a6a184260d9d
 ZoneMountSwitcher	110	1.1.0	101046 101047	Zone Mount and Pet Switcher	MadeByQwerty	03172246-c90c-4b8b-9821-06a74a01ce96
