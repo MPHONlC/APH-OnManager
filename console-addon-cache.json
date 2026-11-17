@@ -379,18 +379,18 @@
    "version": "7.46"
   },
   "0a76b1e2-2754-4c05-8647-04f6f0216c0d/FavoriteGuildCycler": {
-   "addOnVersion": "131",
+   "addOnVersion": "140",
    "addonId": "0a76b1e2-2754-4c05-8647-04f6f0216c0d",
    "apiVersion": "101051 101050 101049 101048",
-   "author": "Lucky38Tech",
+   "author": "Animosiityy",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 45,
    "folder": "FavoriteGuildCycler",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20000",
    "title": "Favorite Guild Cycler",
-   "updatedAt": 1793298680,
-   "version": "v1.3.1"
+   "updatedAt": 1794901014,
+   "version": "1.4.0"
   },
   "0ac5fe21-6f1a-4c14-8b9f-be1a308a9619/CrownAndCrux": {
    "addOnVersion": "1.3.7",
@@ -841,18 +841,18 @@
    "version": "1.3.4"
   },
   "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascot": {
-   "addOnVersion": "29",
+   "addOnVersion": "30",
    "addonId": "1496058e-eb41-4f99-bc99-591195752a8e",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 15,
+   "downloads": 20,
    "folder": "CombatMascot",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Combat Mascot",
-   "updatedAt": 1794834244,
-   "version": "v5.1"
+   "updatedAt": 1794923873,
+   "version": "v5.2"
   },
   "1496058e-eb41-4f99-bc99-591195752a8e/CombatMascotDiag": {
    "addOnVersion": "3",
@@ -2106,13 +2106,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 47,
+   "downloads": 79,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "SimpleGroupDPS",
-   "updatedAt": 1794164314,
-   "version": "2.0.1"
+   "updatedAt": 1794926678,
+   "version": "2.0.2"
   },
   "32111121-29be-4447-ba40-3c064d28680e/PowerLashTracker": {
    "addOnVersion": "1.0.0",
@@ -3752,6 +3752,20 @@
    "updatedAt": 1794567410,
    "version": "v1.5.1"
   },
+  "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth2": {
+   "addOnVersion": "201",
+   "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
+   "apiVersion": "101048 101049 101050 101051",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 32,
+   "folder": "PlayerMascotHealth2",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
+   "title": "Mascot",
+   "updatedAt": 1794916133,
+   "version": "v2.0.2"
+  },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
@@ -4626,13 +4640,13 @@
    "apiVersion": "101051 101050",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 859,
+   "downloads": 899,
    "folder": "CallToArm",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibConsoleDialogs",
    "title": "Call To Arms",
-   "updatedAt": 1794058617,
-   "version": "1.2.2"
+   "updatedAt": 1794915405,
+   "version": "1.3.1"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b/LibConsoleDialogs": {
    "addOnVersion": "10004",
@@ -4928,6 +4942,20 @@
    "updatedAt": 1794096696,
    "version": "5.0.0"
   },
+  "7a5d051d-6b7c-4117-8748-0b3ec7a3c234/SimpleGroupDPS": {
+   "addOnVersion": "",
+   "addonId": "7a5d051d-6b7c-4117-8748-0b3ec7a3c234",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
+   "downloads": 18,
+   "folder": "SimpleGroupDPS",
+   "isLibrary": "",
+   "optionalDependsOn": "BattleScrolls",
+   "title": "SimpleGroupDPS2",
+   "updatedAt": 1794939765,
+   "version": "2.0.4"
+  },
   "7a5d051d-6b7c-4117-8748-0b3ec7a3c234/SimpleGroupDPS2": {
    "addOnVersion": "",
    "addonId": "7a5d051d-6b7c-4117-8748-0b3ec7a3c234",
@@ -5193,6 +5221,20 @@
    "title": "PinkB's ProcSetTimer(Beta)",
    "updatedAt": 1794476813,
    "version": "0.7.1"
+  },
+  "823e66a9-7ebc-4bae-9ec7-7ddd5990b40c/WeavePulse": {
+   "addOnVersion": "15101",
+   "addonId": "823e66a9-7ebc-4bae-9ec7-7ddd5990b40c",
+   "apiVersion": "101051",
+   "author": "xbutch",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "WeavePulse",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Weave Pulse",
+   "updatedAt": 1794940379,
+   "version": "1.51.01"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce/CanITravelBack": {
    "addOnVersion": "1",
@@ -7272,13 +7314,13 @@
    "apiVersion": "2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 61,
+   "downloads": 65,
    "folder": "ESOFantasy",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Battle Ground Rating (BGR)",
-   "updatedAt": 1794885450,
-   "version": "v3.1"
+   "updatedAt": 1794919041,
+   "version": "v3.3"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3/AutoImproveGear": {
    "addOnVersion": "",
@@ -8625,18 +8667,18 @@
    "version": "2.3.5"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616/SiegeReminder": {
-   "addOnVersion": "110",
+   "addOnVersion": "214",
    "addonId": "d6deaeae-2a87-4b88-a5a6-d290aee5e616",
-   "apiVersion": "101049 101050",
+   "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 836,
+   "downloads": 957,
    "folder": "SiegeReminder",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Siege Reminder",
-   "updatedAt": 1781386839,
-   "version": "2.0.31"
+   "updatedAt": 1794911534,
+   "version": "2.1.4"
   },
   "d747dd7e-77c4-4e3c-9004-4d31188c184f/RolePlayMod": {
    "addOnVersion": "",
@@ -9884,6 +9926,20 @@
    "updatedAt": 1789917764,
    "version": "1.3.7"
   },
+  "f37f4ff0-234f-4447-9240-7e21298e6a89/TrueDeathStalker": {
+   "addOnVersion": "",
+   "addonId": "f37f4ff0-234f-4447-9240-7e21298e6a89",
+   "apiVersion": "101051",
+   "author": "Toudidef",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "TrueDeathStalker",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0",
+   "title": "True Death Stalker",
+   "updatedAt": 1794917235,
+   "version": "0.2"
+  },
   "f386385b-2805-4720-8481-1d87d1cd1d0c/PinAutoResizer": {
    "addOnVersion": "",
    "addonId": "f386385b-2805-4720-8481-1d87d1cd1d0c",
@@ -10657,7 +10713,7 @@
    "folders": [
     "FavoriteGuildCycler"
    ],
-   "version": "v1.3.1"
+   "version": "1.4.0"
   },
   "0ac5fe21-6f1a-4c14-8b9f-be1a308a9619": {
    "folders": [
@@ -10860,7 +10916,7 @@
    "folders": [
     "CombatMascot"
    ],
-   "version": "v5.1"
+   "version": "v5.2"
   },
   "153e64a6-b621-4c91-b84a-c2ae48778142": {
    "folders": [
@@ -11408,7 +11464,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "2.0.1"
+   "version": "2.0.2"
   },
   "32111121-29be-4447-ba40-3c064d28680e": {
    "folders": [
@@ -12119,9 +12175,9 @@
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a": {
    "folders": [
-    "PlayerMascotHealth"
+    "PlayerMascotHealth2"
    ],
-   "version": "v1.5.1"
+   "version": "v2.0.2"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
    "folders": [
@@ -12501,7 +12557,7 @@
    "folders": [
     "CallToArm"
    ],
-   "version": "1.2.2"
+   "version": "1.3.1"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b": {
    "folders": [
@@ -12645,9 +12701,9 @@
   },
   "7a5d051d-6b7c-4117-8748-0b3ec7a3c234": {
    "folders": [
-    "SimpleGroupDPS2"
+    "SimpleGroupDPS"
    ],
-   "version": "1.9.31"
+   "version": "2.0.4"
   },
   "7b383e7f-a85f-491d-b950-dffc87bcec10": {
    "folders": [
@@ -12751,6 +12807,12 @@
     "PBsProcSetTimer"
    ],
    "version": "0.7.1"
+  },
+  "823e66a9-7ebc-4bae-9ec7-7ddd5990b40c": {
+   "folders": [
+    "WeavePulse"
+   ],
+   "version": "1.51.01"
   },
   "8289722e-8e80-4a3d-ba1a-31ae1194ffce": {
    "folders": [
@@ -13675,7 +13737,7 @@
    "folders": [
     "ESOFantasy"
    ],
-   "version": "v3.1"
+   "version": "v3.3"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3": {
    "folders": [
@@ -14274,7 +14336,7 @@
    "folders": [
     "SiegeReminder"
    ],
-   "version": "2.0.31"
+   "version": "2.1.4"
   },
   "d747dd7e-77c4-4e3c-9004-4d31188c184f": {
    "folders": [
@@ -14848,6 +14910,12 @@
   "f2ed8662-096e-46fa-bed1-9a73691c8f8f": {
    "folders": [],
    "version": "2.0"
+  },
+  "f37f4ff0-234f-4447-9240-7e21298e6a89": {
+   "folders": [
+    "TrueDeathStalker"
+   ],
+   "version": "0.2"
   },
   "f386385b-2805-4720-8481-1d87d1cd1d0c": {
    "folders": [

@@ -222,6 +222,7 @@ PersonalDpsTracker	LibHarvensAddonSettings
 PetHealth	LibAddonMenu-2.0	LibAddonMenuOrderListBox	LibHarvensAddonSettings	LibSlashCommander
 PinAutoResizer	LibGPS
 PlayerMascotHealth	LibAddonMenu-2.0
+PlayerMascotHealth2	LibAddonMenu-2.0
 PreviewAnywhere	LibConsoleLogger
 PVPBuddy	LibAddonMenu-2.0
 PvPUA	LibGroupBroadcast
@@ -271,6 +272,7 @@ TraitCraft	LibDynamicMail	LibLazyCrafting	LibTextFormat
 TraitScout	LibAddonMenu-2.0
 TrialTagger	LibAddonMenu-2.0
 TrueCombatText	LibAddonMenu-2.0
+TrueDeathStalker	LibAddonMenu-2.0
 TrueExploration	AUI	LibDebugLogger
 turningTideTracker	LibNotify
 UnchainedHelper	LibAddonMenu-2.0

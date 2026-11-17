@@ -111,7 +111,7 @@ BuildAdvisor	5	0.1.6	101050 101051	BuildAdvisor	yodased-mods	c0db4e1c-b7ae-4821-
 BuildForge	1617	1.6.17	101050	Test suite	Tekatsu	dc420d92-00cf-428d-8c89-a7cb5ceecd44
 BulkBuy		1.8.2	101047	Bulk buy	Copper0	0ad00225-1c8b-4f4a-8e95-ca8986209a7f
 CadenceCoach		0.0.7	101049 101050	CadenceCoach	SugaComa	09535f7c-d041-4d75-963a-167fa47d3df2
-CallToArm		1.2.2	101051 101050	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
+CallToArm		1.3.1	101051 101050	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
 CanCraftMasterWrit	10300	1.3.0	101051	Can Craft Master Writ	xSuperSlayan	008cd443-6347-421a-bfcf-ddc830e8cfef
 CanITravelBack	1	0.3.6	101046	Can I Travel Back?	Xarador	8289722e-8e80-4a3d-ba1a-31ae1194ffce
 CanThisBeCraftedAtHome		2025.05.29	101046	CanThisBeCraftedAtHome	Masteroshi430	434ce5ca-211a-4a6b-8682-21f39dcb2d25
@@ -135,7 +135,7 @@ CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
 CombatAlerts	207020	2.7.2	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
-CombatMascot	29	v5.1	101048 101049 101050 101051	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
+CombatMascot	30	v5.2	101048 101049 101050 101051	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatMascotDiag	3	v2	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatMetrics2	1071800	1.7.18	101051 101052	Test	FiNk3F13	5d54d232-188f-4ee1-a2fa-61c641f2538b
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
@@ -199,7 +199,7 @@ ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4d
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
 ESOCKeepMyCrafts	10	2.6.0	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
-ESOFantasy	30.0.0	v3.1	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
+ESOFantasy	30.0.0	v3.3	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -215,7 +215,7 @@ EyesOfTheUndaunted	15103	1.51.03	101051	Eyes of the Undaunted	xbutch	b22ade94-a8
 FancyActionBarPlus	21909	2.18.9	101050	Fancy Action Bar+	acastanza	922792c1-1d90-4415-ada5-c356757e857f
 FashionMount		1.1.2	101049 101050 101051	Fashion Mount	SugaComa	91a5e014-74ee-4d3b-a612-b2b05dd223d8
 FavOptions		1.2.5	101050 101051	FavOptions	murphyx	d13d8dac-6694-4ebe-8685-ce038ec06a1e
-FavoriteGuildCycler	131	v1.3.1	101051 101050 101049 101048	Favorite Guild Cycler	Lucky38Tech	0a76b1e2-2754-4c05-8647-04f6f0216c0d
+FavoriteGuildCycler	140	1.4.0	101051 101050 101049 101048	Favorite Guild Cycler	Animosiityy	0a76b1e2-2754-4c05-8647-04f6f0216c0d
 FavoriteHomeTeleports		1.5	101049	Favorite Home Teleporter	codeman1734	fc9f4f62-3d31-41cd-b9ee-e1a0ea0f6ecb
 FCOLockpicker	003100	0.31	101050 101051	FCO Lockpicker	Baertram_ESOUI	f141edd7-7b4f-4b3e-b32e-9e6df1ec228b
 feedingFrenzyTracker		1.3.6	101051	Feeding Frenzy Tracker	codeWarrior82	9526cff9-d7f1-4c3c-a96b-aecfb0daa347
@@ -512,6 +512,7 @@ PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd no
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
 PlayerMascotHealth	150	v1.5.1	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth2	201	v2.0.2	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
@@ -574,9 +575,9 @@ ShowBagSpace		1.0	101050	ShowBagSpace	TankiestTank	b288ca12-6f96-416d-8cc1-13397
 ShowCP	4	v0.0.04	101050	Show CP	BMGxSancho	e6bacf32-d124-4c92-bc87-b477e7611861
 ShowEquipped	10601	1.6.3	101048 101049	Show Equips	Shienar	7d3a20ff-160a-4988-b8d0-991681394db8
 SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26b16bd23b8d
-SiegeReminder	110	2.0.31	101049 101050	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
+SiegeReminder	214	2.1.4	101050 101051	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
-SimpleGroupDPS		2.0.1	101051	SimpleGroupDPS	FiNk3F13	31353ae2-3899-477e-935e-69f9756c9d60
+SimpleGroupDPS		2.0.4	101051	SimpleGroupDPS2	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
 SimpleGroupDPS2		1.9.31	101051	Buggy DontD	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
@@ -649,6 +650,7 @@ TrialArenaTracker		2.0.3	101047	Trials & Arenas Tracker	Eldibabalo	49b41fa8-a5b3
 TrialTagger	1	0.1.1	101050 101051	Discord Trial Tagger	greeneca	097d0094-d2c0-4e8c-be4e-016e8046d655
 TrueCombatText		1.3	101051	True Combat Text	Toudidef	9c4d5a13-410a-4a89-9024-319578ddd3a4
 TrueDarkConvergencetimer		1.5	101048	True DarkConvergence timer	Toudidef	b73a092a-bcf8-4b42-9833-97402a32ed87
+TrueDeathStalker		0.2	101051	True Death Stalker	Toudidef	f37f4ff0-234f-4447-9240-7e21298e6a89
 TrueDebuffsBars		2.11	101051	True (De)Buffs Bars	Toudidef	c3d7fa6e-9024-4480-a02b-a9672c9da86e
 TrueExploration	203	2.3	101046	True Exploration	Shinni42	a095f0da-9f45-4dde-a150-2c9b09ba7317
 TrueFlagCaptureMover		1.2	101051	True Flag Capture Mover	Toudidef	4c1cca0d-7e48-40ed-bd8f-1c87ac158341
@@ -686,6 +688,7 @@ warHornTracker		1.4.7	101051	WarHorn Tracker	codeWarrior82	d978b81f-b679-4aa8-b9
 warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-813e-c178bb11a1e5
 WarmasktrackerByJH		1.5	101051 101050	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
 WeaveDelays	105	1.0.5	101050	WeaveDelays	ThePsiioniic	1428d8ab-7f1f-4741-833a-93180287dd09
+WeavePulse	15101	1.51.01	101051	Weave Pulse	xbutch	823e66a9-7ebc-4bae-9ec7-7ddd5990b40c
 WeavingMetronome	101066	2.0.5	101051	Weaving Metronome	FiNk3F13	c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5
 WhatsMissing	15110	1.51.10	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
 WhatsMyBuildAgain	005005004	5.0.5	101050	What's My Build Again	Eldibabalo	61ffae27-7976-4d4b-a9fa-0fafb387434a
