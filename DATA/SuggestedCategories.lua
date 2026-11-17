@@ -329,6 +329,7 @@ AoM.SuggestedCategories = {
 	["Chess"] = "Chat Mods",
 	["ChestFarmer"] = "Data Mods",
 	["ChillGiveaway"] = "Chat Mods",
+	["ChillItemShare"] = "Chat Mods",
 	["Chorus"] = "Combat Mods",
 	["Chronos"] = "Graphic UI Mods",
 	["Chuhaister"] = "Plug-Ins & Patches",
