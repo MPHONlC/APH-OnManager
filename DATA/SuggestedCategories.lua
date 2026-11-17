@@ -1623,6 +1623,7 @@ AoM.SuggestedCategories = {
 	["ShoppingList"] = "Libraries",
 	["ShosPvPBanker"] = "Bags, Bank, Inventory",
 	["ShowRepairCosts"] = "Miscellaneous",
+	["ShowTooltip"] = "ToolTip",
 	["ShowTTCPrice"] = "Auction House & Vendors",
 	["ShoyHouse"] = "Homestead",
 	["ShoyruClassicCP"] = "Graphic UI Mods",
