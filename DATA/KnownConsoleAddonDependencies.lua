@@ -98,8 +98,9 @@ FindMyStuff	LibAddonMenu-2.0	LibHarvensAddonSettings
 FlexibleBars	LibCombatAlerts
 Forpl-KDA-Bar	LibAddonMenu-2.0
 FrenziedMomentumTracker	LibNotify
-FurnishingCatalog	LibConsoleLogger
+FurnishingCatalog	JumpToSearch	LibConsoleLogger
 FurnitureFinder	LibCharacterKnowledge
+FurnitureFinderLite	FurnitureFinder	LibConsoleLogger
 GamePadHelper	LibPriceCache	TSCPriceDataAPIPSEU	TSCPriceDataAPIPSNA	TSCPriceDataAPIXBEU	TSCPriceDataAPIXBNA	TamrielTradeCentre
 GamepadHUDCustomizer	LibAddonMenu-2.0	LibHarvensAddonSettings
 GamepadInventoryTweaks	LibDebugLogger	LibGamepad
@@ -111,6 +112,7 @@ HarvestMapConsole	AUI	LibMapPins-1.0	MiniMap	VotansMiniMap
 Hazel	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
 HeavyAttackTapTarget	LibAddonMenu-2.0	LibGroupBroadcast
 HodorReflexes	LibCombat2	LibCustomIcons	LibCustomNames	LibRadialMenu
+HomeAfterPvP	LibConsoleLogger
 HouseHotkey	LibRadialMenu
 HousingForge	LibAddonMenu-2.0
 HPSMeter	LibAddonMenu-2.0

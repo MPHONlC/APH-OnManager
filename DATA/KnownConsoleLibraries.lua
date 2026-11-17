@@ -19,7 +19,7 @@ LibCharacterKnowledge	301030	3.1.3	101051 101052	LibCharacterKnowledge	code65536
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
 LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8b84-097b6d7ee558
 LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df04d0
-LibCombatAlerts	9000	0.9.0	101051 101052	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
+LibCombatAlerts	9010	0.9.1	101051 101052	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
 LibConsoleLogger	500	LibConsoleLogger-0.5.0-2026-11-15T020652	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
