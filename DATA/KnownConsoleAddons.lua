@@ -135,7 +135,7 @@ CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
 CombatAlerts	207020	2.7.2	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
-CombatMascot	30	v5.2	101048 101049 101050 101051	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
+CombatMascot	32	V6.1	101048 101049 101050 101051	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatMascotDiag	3	v2	101048 101049	Combat Mascot	Bucketmore	1496058e-eb41-4f99-bc99-591195752a8e
 CombatMetrics2	1071800	1.7.18	101051 101052	Test	FiNk3F13	5d54d232-188f-4ee1-a2fa-61c641f2538b
 CombatRecap	9	1.0.2	101050 101051	Combat Recap	TheGreyWolf98	989b1df5-3c15-479c-b13d-a42ed8b45214
@@ -199,7 +199,7 @@ ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4d
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
 ESOCKeepMyCrafts	10	2.6.0	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
-ESOFantasy	30.0.0	v3.3	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
+ESOFantasy	30.0.0	v3.6	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -226,7 +226,7 @@ FlexibleBars	100	1.0.0	101047	Flexible Bars	M0R	4be7617d-7e6d-42bf-bcbb-921e37ac
 Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6dec3b447
 FrenziedMomentumTracker		1.2.0	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
 FunKillFeed		1.4.8	101049 101050	FunKillFeed	SugaComa	08954d6b-1604-4daf-9cf3-99b327dd7afd
-FurnishingCatalog	10000	FurnishingCatalog-1.0.0-2026-11-16T200857	101050 101051	Furnishing Catalog	clubwratt	8124da21-73b8-4387-a07f-9e01e44fc052
+FurnishingCatalog	10000	FurnishingCatalog-1.6.0-2026-11-17T175004	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
 FurnishingTracker		1.0.18	101050	Furnishing Tracker	Eldibabalo	c49eb98c-6821-47de-9cb2-10b972d1a55f
 FurnitureBuilder	12	V0.5.5	101051	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
 FurnitureFinder	3	V0.3.1	101051 101052	Furniture Finder	killerkev77	2b591c30-b518-46da-978a-c1a788963735
@@ -488,7 +488,7 @@ PBsLuaMemoryMonitor		0.5.0	101050 101051	PinkB's LuaMemoryMonitor	PinkBanther	f4
 PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371fcd02-ae32-4937-a1d4-de4f33b01870
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
-PBsOnlineStatusAlert	1	0.1.0	101050 101051	PBsOnlineStatusAlert(Beta)	PinkBanther	c27b406e-b19f-441b-876b-260e195df26d
+PBsOnlineStatusAlert	1	0.1.0	101050 101051	PinkB's OnlineStatusAlert	PinkBanther	acc220d2-3d92-4f47-8eae-979714894059
 PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsQuickChat	1	0.2.0	101050 101051	PinkB's QuickChat	PinkBanther	e71bb4da-eb0c-4506-a479-9a4260b65fd9
@@ -512,7 +512,7 @@ PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd no
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
 PlayerMascotHealth	150	v1.5.1	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
-PlayerMascotHealth2	201	v2.0.2	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth2	201	v2.0.1g	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
@@ -688,7 +688,6 @@ warHornTracker		1.4.7	101051	WarHorn Tracker	codeWarrior82	d978b81f-b679-4aa8-b9
 warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-813e-c178bb11a1e5
 WarmasktrackerByJH		1.5	101051 101050	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
 WeaveDelays	105	1.0.5	101050	WeaveDelays	ThePsiioniic	1428d8ab-7f1f-4741-833a-93180287dd09
-WeavePulse	15101	1.51.01	101051	Weave Pulse	xbutch	823e66a9-7ebc-4bae-9ec7-7ddd5990b40c
 WeavingMetronome	101066	2.0.5	101051	Weaving Metronome	FiNk3F13	c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5
 WhatsMissing	15110	1.51.10	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
 WhatsMyBuildAgain	005005004	5.0.5	101050	What's My Build Again	Eldibabalo	61ffae27-7976-4d4b-a9fa-0fafb387434a
