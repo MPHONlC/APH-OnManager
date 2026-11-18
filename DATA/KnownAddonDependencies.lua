@@ -31,6 +31,7 @@ AoM.KnownAddonDependencies = {
 	["AltGroupFrames"] = { "OdySupportIcons", "PlayerRoleIndicator" },
 	["ALTHI"] = { "ArkadiusTradeTools", "AwesomeGuildStore", "LibAddonMenu-2.0", "LibHistoire", "MasterMerchant", "TamrielTradeCentre" },
 	["AnimatedActionBarPlus"] = { "AlphaGear", "Azurah", "FancyActionBar+", "FancyTitles", "LuiExtended" },
+	["AntiquityAtlas"] = { "HarvestMap", "MapPins" },
 	["AntiquityDealIntel"] = { "LibLeadDrop" },
 	["AntiquityLeadsExpiryWarnings"] = { "LibSlashCommander" },
 	["APH-Follow"] = { "APH-Search-MapData", "LibAddonMenu-2.0", "LibGroupBroadcast", "LibHarvensAddonSettings", "LibImplex" },
