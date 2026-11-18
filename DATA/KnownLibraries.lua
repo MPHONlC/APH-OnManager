@@ -176,7 +176,7 @@ LibObserve		1.0	3922	101042	LibObserve	LibObserve
 LibOT	3	3.3.5	2254	101049 101050	SnapShot [ DEPRECATED]	LibOT
 LibPanicida	2000000	2.0.0	4349	101048	LibPanicida	LibPanicida
 LibPotionBuff	3	2.2.2	2475		RdK Group Tool	LibPotionBuff
-LibPrice	70540	7.54	2204	101051 101052	LibPrice	LibPrice
+LibPrice	70550	7.55	2204	101051 101052	LibPrice	LibPrice
 LibPriceCache	10105	v.1.1.7	4494	101049	LibPriceCache	LibPriceCache
 LibPromises	40	2.0.0	2274	101051 101052	LibPromises	LibPromises
 LibQRCode	46	1.0.8	4102	101046	LibQRCode	LibQRCode
