@@ -11,7 +11,7 @@ assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.KnownConsoleAddons = AoM.CreateConsoleTable([==[
 0NEUP	1	V 0.1	101049 101050 101051	0NEUP Composition	jRaidz	234cc4ca-99c3-4aa0-be89-edbeee2ee743
-1vXHelper	100	1.0.3	101048 101049	1vX Helper [BETA]	Vixen_Hunny	ba60ddff-639b-4bc0-8874-4fb3a3d200a7
+1vXHelper	100	2.0.0	101048 101049	1vX Helper [BETA]	Vixen_Hunny	ba60ddff-639b-4bc0-8874-4fb3a3d200a7
 702sCraftCompletionistList		Version 2.4.3.4	101048 101049	702's Craft Completionist List	The702Guy	b3b32522-0ed3-419e-b20d-ef4b651bc013
 AA_Profiler	100	0.09	101043	AA_Profiler	spoqster	66400ef3-3d78-4737-a158-c48633706a83
 AAA_RuntimeWatch	1	0.1.0	101050 101051	Runtime Watch	TheGreyWolf98	4fda2eee-1b8d-4a0b-94c2-e748543364b9
@@ -112,7 +112,7 @@ BuildForge	1617	1.6.17	101050	Test suite	Tekatsu	dc420d92-00cf-428d-8c89-a7cb5ce
 BulkBuy		1.8.2	101047	Bulk buy	Copper0	0ad00225-1c8b-4f4a-8e95-ca8986209a7f
 CadenceCoach		0.0.7	101049 101050	CadenceCoach	SugaComa	09535f7c-d041-4d75-963a-167fa47d3df2
 CallToArm		1.3.2	101051 101050	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
-CameraAngles	100	CameraAngles-0.1.0-2026-11-17T190450	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
+CameraAngles	10001	CameraAngles-1.0.1-2026-11-18T132834	101050 101051	Camera Angles	clubwratt	1adfc207-cad7-41d9-b92b-11ec9ee16c24
 CanCraftMasterWrit	10300	1.3.0	101051	Can Craft Master Writ	xSuperSlayan	008cd443-6347-421a-bfcf-ddc830e8cfef
 CanITravelBack	1	0.3.6	101046	Can I Travel Back?	Xarador	8289722e-8e80-4a3d-ba1a-31ae1194ffce
 CanThisBeCraftedAtHome		2025.05.29	101046	CanThisBeCraftedAtHome	Masteroshi430	434ce5ca-211a-4a6b-8682-21f39dcb2d25
@@ -206,7 +206,7 @@ EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
 esoReport		1.5.9	101051	eso Report	codeWarrior82	52e26019-7e65-4ad8-9af6-bfdf51ef2bce
 EsoTR		Rahaaden1.0.7	101049 101050 101051	Türkçe çeviri - ESOTR	XANTOSTR	56b19964-a32d-4e97-b922-6d446ff6b6fc
-EsoTR_Lite		RahaadenLite1.0.5	101049 101050 101051	Türkçe çeviri - ESOTR_Lite	XANTOSTR	b7f56e79-7bdd-41c5-89d4-a0b61b7719af
+EsoTR_Lite		TEST	101049 101050 101051	ESOTR_TEST_MODUL	XANTOSTR	cbc2e748-501a-4137-8faa-cabf349da2d7
 essenceThiefTracker		1.0.5	101051	Essence Thief Tracker	codeWarrior82	e6634e8a-1c51-45d7-ba7b-f062e50e5ee8
 Ev	20002	1.1	101047 101046	Ev	Mr_tee21	dd556dbe-ac20-41a5-8dba-9ba37eb97347
 EWPFinder	1	4.0.3 Removed Constant return	101046	EWPFinder	Vixen_Hunny	bf9cbf1c-54ac-48f3-b489-a2aeda4996e8
@@ -227,7 +227,7 @@ FlexibleBars	100	1.0.0	101047	Flexible Bars	M0R	4be7617d-7e6d-42bf-bcbb-921e37ac
 Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6dec3b447
 FrenziedMomentumTracker		1.2.0	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
 FunKillFeed		1.4.8	101049 101050	FunKillFeed	SugaComa	08954d6b-1604-4daf-9cf3-99b327dd7afd
-FurnishingCatalog	10000	FurnishingCatalog-1.6.0-2026-11-17T181042	101050 101051	Furnishing Catalog	clubwratt	8124da21-73b8-4387-a07f-9e01e44fc052
+FurnishingCatalog	10000	FurnishingCatalog-1.7.0-2026-11-18T122442	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
 FurnishingTracker		1.0.18	101050	Furnishing Tracker	Eldibabalo	c49eb98c-6821-47de-9cb2-10b972d1a55f
 FurnitureBuilder	12	V0.5.5	101051	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
 FurnitureFinder	3	V0.3.1	101051 101052	Furniture Finder	killerkev77	2b591c30-b518-46da-978a-c1a788963735
@@ -257,6 +257,7 @@ GroupFrames	3	3.2.0	101048 101049	Vixen's Group Frames	Vixen_Hunny	81245a8d-0a99
 GroupFullDante	110	v1.1	101051	learn how to count	j.hhh	2c70f704-e9aa-42d3-8c65-894ef085a9ea
 GroupKillFeed		1.6.2	101049 101050	Group Kill Feed	SugaComa	e281d0bf-a7b6-4b0c-b4ff-78e38a6ed2f6
 GroupProxyDet	79	2	101050	Procseason	DaveeMafiaa	79d34de4-5c42-452f-9ce7-b03858b6b1e1
+GroupReset	2	0.1.1	101052	Buggy	FiNk3F13	358b7452-c5b6-44d4-b562-da05e5dd4ed1
 GroupResources	56	0.10.0	101048 101049	Group Resources	sirinsidiator	3d1bd08c-876b-4248-b347-1a5fd451912d
 GroupScout	100	0.1.0-beta	101051	Group Scout (Beta)	xbutch	aa4be285-0c03-47b8-8ee1-a2e3992d9460
 GroupUIMover		50.01	101048 101049	Group UI Mover	Gamer_sa22	4b9ce0b1-712c-4e43-9b41-d913d2772634
@@ -393,7 +394,7 @@ LoreLibrary	01000119	1.0.119	101051 101050	Lore Book Locations	Shinni42	ca0d62e7
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
-LuiExtended	7279	7.2.7.9	101051 101052	LuiExtended	Dack.Janiels	198814e6-46ba-4bb3-b368-ba1a2af67c52
+LuiExtended	7282	7.2.8.2	101051 101052	LuiExtended	Dack.Janiels	198814e6-46ba-4bb3-b368-ba1a2af67c52
 LuiMedia	7134	7.1.3.4	101051 101052	LuiMedia	Dack.Janiels	0b695623-5ffb-4700-835c-fa628fdcb1ba
 LuXhrysLibExtendedInventory	008	0.8a	101050	LibExtendedInventory	Xhrysanth	28dff940-503c-4c6c-8921-044ad6e35a86
 LuXhrysLibItemLinkPreview	001	0.1a	101050	LibItemLinkPreview	Xhrysanth	075222fe-7845-484e-a060-69ddb8d571d8
@@ -490,6 +491,7 @@ PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371f
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsOnlineStatusAlert	1	0.1.0	101050 101051	PinkB's OnlineStatusAlert	PinkBanther	acc220d2-3d92-4f47-8eae-979714894059
+PBsPlayerMarkerExtension	2	0.2.0	101050 101051	PinkB's PlayerMarkerExtension(Beta)	PinkBanther	a65f7431-18ba-4958-a2e4-c2b14621d1b3
 PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsQuickChat	1	0.2.0	101050 101051	PinkB's QuickChat	PinkBanther	e71bb4da-eb0c-4506-a479-9a4260b65fd9
@@ -564,7 +566,7 @@ SatuveRotationTrainer		1.2.6	101050	Rotation Trainer v1	satuve	dc853c4f-c4b9-494
 SatuveXboxUI		2.0.4	101050 101051	Bandit Xbox UI	satuve	63900961-28c3-49d2-8576-476e5906e80b
 SavedChatMessages		0.3.7	101047	Saved Chat Messages	ReliktKoala	b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277
 ScoreboardFixXbox	201	0.2.1	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46-49bb-a578-54569ddb865b
-ScoreboardRemastered	130	7.0.0	101051	Scoreboard Remastered [BETA]	Vixen_Hunny	0798cfcd-e028-41a6-a40d-fb1654087be8
+ScoreboardRemastered	192	15.0.0	101051	Scoreboard Remastered [BETA]	Vixen_Hunny	0798cfcd-e028-41a6-a40d-fb1654087be8
 ScreenshotModeEnhanced	10104	1.1.4	101051	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
 ScryersLedger		1.0.3	101050 101051 101052	Scryer’s Ledger	SugaComa	47f8828e-c68c-4a8d-ba6f-69a87c8539b8
 ScryMaster		1.0.1	101051	Skill Point Finder	TheGreyWolf98	427000e9-72c4-4fc9-b9b6-3cca4f863607

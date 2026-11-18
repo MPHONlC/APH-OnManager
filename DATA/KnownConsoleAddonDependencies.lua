@@ -107,6 +107,7 @@ GamepadInventoryTweaks	LibDebugLogger	LibGamepad
 GamepadUITweaks	LibGamepad
 gorethiefTracker	LibNotify
 GroupFrames	LibGroupBroadcast	LibGroupCombatStats	LibGroupResources	LibHarvensAddonSettings
+GroupReset	HodorReflexes
 H8Ball	LibHarvensAddonSettings
 HarvestMapConsole	AUI	LibMapPins-1.0	MiniMap	VotansMiniMap
 Hazel	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
@@ -206,6 +207,7 @@ PBsLuaMemoryMonitor	LibHarvensAddonSettings
 PBsMailerExtension	LibHarvensAddonSettings
 PBsOmikuji	LibHarvensAddonSettings
 PBsOnlineStatusAlert	LibHarvensAddonSettings
+PBsPlayerMarkerExtension	LibGroupBroadcast	LibHarvensAddonSettings
 PBsProcSetTimer	LibHarvensAddonSettings
 PBsQuickChat	LibHarvensAddonSettings
 PBsReticle	LibHarvensAddonSettings

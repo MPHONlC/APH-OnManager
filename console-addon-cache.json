@@ -225,18 +225,18 @@
    "version": "0.1a"
   },
   "0798cfcd-e028-41a6-a40d-fb1654087be8/ScoreboardRemastered": {
-   "addOnVersion": "130",
+   "addOnVersion": "192",
    "addonId": "0798cfcd-e028-41a6-a40d-fb1654087be8",
    "apiVersion": "101051",
    "author": "Vixen_Hunny",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 14,
    "folder": "ScoreboardRemastered",
    "isLibrary": "",
    "optionalDependsOn": "LibFights LibAddonMenu-2.0 LibHarvensAddonSettings",
    "title": "Scoreboard Remastered [BETA]",
-   "updatedAt": 1795008519,
-   "version": "7.0.0"
+   "updatedAt": 1795033042,
+   "version": "15.0.0"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1/PBsGammaAdjuster": {
    "addOnVersion": "",
@@ -1051,18 +1051,18 @@
    "version": "2.0.2"
   },
   "198814e6-46ba-4bb3-b368-ba1a2af67c52/LuiExtended": {
-   "addOnVersion": "7279",
+   "addOnVersion": "7282",
    "addonId": "198814e6-46ba-4bb3-b368-ba1a2af67c52",
    "apiVersion": "101051 101052",
    "author": "Dack.Janiels",
    "dependsOn": "LuiMedia>=7134 LuiData>=7231",
-   "downloads": 25778,
+   "downloads": 26830,
    "folder": "LuiExtended",
    "isLibrary": "",
    "optionalDependsOn": "LibCustomNames>=20261019 LibCustomIcons>=20261019",
    "title": "LuiExtended",
-   "updatedAt": 1793706082,
-   "version": "7.2.7.9"
+   "updatedAt": 1795017299,
+   "version": "7.2.8.2"
   },
   "1a29fcf8-992f-4334-bf0a-088cc4ac73a7/GamepadInventoryTweaks": {
    "addOnVersion": "041",
@@ -1119,6 +1119,20 @@
    "title": "Side Quests",
    "updatedAt": 1772936304,
    "version": "v4"
+  },
+  "1adfc207-cad7-41d9-b92b-11ec9ee16c24/CameraAngles": {
+   "addOnVersion": "10001",
+   "addonId": "1adfc207-cad7-41d9-b92b-11ec9ee16c24",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "CameraAngles",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Camera Angles",
+   "updatedAt": 1795037327,
+   "version": "CameraAngles-1.0.1-2026-11-18T132834"
   },
   "1d8faf08-ce78-4d71-8e33-81d704e62fc5/CompanionRapport": {
    "addOnVersion": "221",
@@ -2197,6 +2211,20 @@
    "title": "LibLoreLibraryCesarska",
    "updatedAt": 1777229991,
    "version": "1.0.1"
+  },
+  "358b7452-c5b6-44d4-b562-da05e5dd4ed1/GroupReset": {
+   "addOnVersion": "2",
+   "addonId": "358b7452-c5b6-44d4-b562-da05e5dd4ed1",
+   "apiVersion": "101052",
+   "author": "FiNk3F13",
+   "dependsOn": "LibGroupBroadcast>=95 LibRadialMenu",
+   "downloads": 2,
+   "folder": "GroupReset",
+   "isLibrary": "",
+   "optionalDependsOn": "HodorReflexes",
+   "title": "Buggy",
+   "updatedAt": 1795019882,
+   "version": "0.1.1"
   },
   "35920898-3b27-4e32-9f59-c0d8fee0b3bb/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
@@ -6664,6 +6692,20 @@
    "updatedAt": 1794566486,
    "version": "v2.5.1"
   },
+  "a65f7431-18ba-4958-a2e4-c2b14621d1b3/PBsPlayerMarkerExtension": {
+   "addOnVersion": "2",
+   "addonId": "a65f7431-18ba-4958-a2e4-c2b14621d1b3",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "PBsPlayerMarkerExtension",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
+   "title": "PinkB's PlayerMarkerExtension(Beta)",
+   "updatedAt": 1795035895,
+   "version": "0.2.0"
+  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
    "addonId": "a6c22156-8b52-467d-ab02-287e5731a1fb",
@@ -7468,13 +7510,13 @@
    "apiVersion": "101048 101049",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0>=32",
-   "downloads": 5,
+   "downloads": 10,
    "folder": "1vXHelper",
    "isLibrary": "",
    "optionalDependsOn": "LibMapPins-1.0",
    "title": "1vX Helper [BETA]",
-   "updatedAt": 1794797314,
-   "version": "1.0.3"
+   "updatedAt": 1795038012,
+   "version": "2.0.0"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a/BetterScoreboard": {
    "addOnVersion": "50",
@@ -7552,13 +7594,13 @@
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 313,
+   "downloads": 317,
    "folder": "FurnishingCatalog",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger JumpToSearch",
    "title": "dev sandbox 2",
-   "updatedAt": 1794966613,
-   "version": "FurnishingCatalog-1.6.0-2026-11-17T175004"
+   "updatedAt": 1795033493,
+   "version": "FurnishingCatalog-1.7.0-2026-11-18T122442"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/PreviewAnywhere": {
    "addOnVersion": "10300",
@@ -8189,6 +8231,20 @@
    "title": "Under Pressure",
    "updatedAt": 1793857418,
    "version": "0.5.14"
+  },
+  "cbc2e748-501a-4137-8faa-cabf349da2d7/EsoTR_Lite": {
+   "addOnVersion": "",
+   "addonId": "cbc2e748-501a-4137-8faa-cabf349da2d7",
+   "apiVersion": "101049 101050 101051",
+   "author": "XANTOSTR",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "EsoTR_Lite",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "ESOTR_TEST_MODUL",
+   "updatedAt": 1795029907,
+   "version": "TEST"
   },
   "cbd43537-05b7-405f-b75d-511a3ceb083b/ESOCompanionQRTest": {
    "addOnVersion": "17",
@@ -10684,7 +10740,7 @@
    "folders": [
     "ScoreboardRemastered"
    ],
-   "version": "7.0.0"
+   "version": "15.0.0"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1": {
    "folders": [
@@ -11044,7 +11100,7 @@
    "folders": [
     "LuiExtended"
    ],
-   "version": "7.2.7.9"
+   "version": "7.2.8.2"
   },
   "19ce6fa1-98c2-458e-b92b-c47fc6f55b55": {
    "folders": [],
@@ -11073,6 +11129,12 @@
     "LibSideQuestPins"
    ],
    "version": "v4"
+  },
+  "1adfc207-cad7-41d9-b92b-11ec9ee16c24": {
+   "folders": [
+    "CameraAngles"
+   ],
+   "version": "CameraAngles-1.0.1-2026-11-18T132834"
   },
   "1d8faf08-ce78-4d71-8e33-81d704e62fc5": {
    "folders": [
@@ -11545,6 +11607,12 @@
    ],
    "version": "1.0.1"
   },
+  "358b7452-c5b6-44d4-b562-da05e5dd4ed1": {
+   "folders": [
+    "GroupReset"
+   ],
+   "version": "0.1.1"
+  },
   "35920898-3b27-4e32-9f59-c0d8fee0b3bb": {
    "folders": [
     "PBsQuestTrackerFontChanger"
@@ -11626,7 +11694,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.580"
+   "version": "0.0.583"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -13488,6 +13556,12 @@
    ],
    "version": "v2.5.1"
   },
+  "a65f7431-18ba-4958-a2e4-c2b14621d1b3": {
+   "folders": [
+    "PBsPlayerMarkerExtension"
+   ],
+   "version": "0.2.0"
+  },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
     "SynergyCooldown"
@@ -13845,7 +13919,7 @@
    "folders": [
     "1vXHelper"
    ],
-   "version": "1.0.3"
+   "version": "2.0.0"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a": {
    "folders": [
@@ -13877,9 +13951,9 @@
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc": {
    "folders": [
-    "CameraAngles"
+    "FurnishingCatalog"
    ],
-   "version": "CameraAngles-0.1.0-2026-11-17T190450"
+   "version": "FurnishingCatalog-1.7.0-2026-11-18T122442"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
@@ -14149,6 +14223,12 @@
     "UnderPressure"
    ],
    "version": "0.5.14"
+  },
+  "cbc2e748-501a-4137-8faa-cabf349da2d7": {
+   "folders": [
+    "EsoTR_Lite"
+   ],
+   "version": "TEST"
   },
   "cbd43537-05b7-405f-b75d-511a3ceb083b": {
    "folders": [
