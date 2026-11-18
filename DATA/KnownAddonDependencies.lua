@@ -337,6 +337,7 @@ AoM.KnownAddonDependencies = {
 	["LibMultiAccountCollectibles"] = { "AdvancedFilters", "LibAddonMenu-2.0", "LibExtendedJournal" },
 	["LibMultiAccountSets"] = { "LibAddonMenu-2.0" },
 	["LibPotionBuff"] = { "LibChatMessage>=100" },
+	["LibPrice"] = { "ArkadiusTradeTools", "ArkadiusTradeToolsSales", "LibFurnitureCatalogue", "MasterMerchant", "TSCPriceFetcher2", "TamrielTradeCentre" },
 	["LibPromises"] = { "LibDebugLogger", "Taneth" },
 	["LibQuestData"] = { "DebugLogViewer", "LibChatMessage", "LibDebugLogger", "LibMapPing" },
 	["LibQuestStatus"] = { "LibAddonMenu-2.0" },
