@@ -224,6 +224,20 @@
    "updatedAt": 1785395353,
    "version": "0.1a"
   },
+  "0798cfcd-e028-41a6-a40d-fb1654087be8/ScoreboardRemastered": {
+   "addOnVersion": "130",
+   "addonId": "0798cfcd-e028-41a6-a40d-fb1654087be8",
+   "apiVersion": "101051",
+   "author": "Vixen_Hunny",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "ScoreboardRemastered",
+   "isLibrary": "",
+   "optionalDependsOn": "LibFights LibAddonMenu-2.0 LibHarvensAddonSettings",
+   "title": "Scoreboard Remastered [BETA]",
+   "updatedAt": 1795008519,
+   "version": "7.0.0"
+  },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1/PBsGammaAdjuster": {
    "addOnVersion": "",
    "addonId": "07ad2fa8-6b34-4021-bcb1-886119449ac1",
@@ -1289,18 +1303,18 @@
    "version": "1.0.0"
   },
   "21a2a61f-e085-4a88-b299-587a33bff1f5/WWDpad": {
-   "addOnVersion": "16",
+   "addOnVersion": "21",
    "addonId": "21a2a61f-e085-4a88-b299-587a33bff1f5",
    "apiVersion": "101052",
    "author": "FiNk3F13",
    "dependsOn": "WizardsWardrobe LibRadialMenu",
-   "downloads": 15,
+   "downloads": 18,
    "folder": "WWDpad",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "DontD",
-   "updatedAt": 1794849027,
-   "version": "0.7.1"
+   "updatedAt": 1795008630,
+   "version": "0.7.6"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
    "addOnVersion": "22802",
@@ -1471,18 +1485,18 @@
    "version": "1.27.18"
   },
   "242aa937-0c55-4d1f-b667-0716e81eb4e7/BattleScrolls": {
-   "addOnVersion": "10000",
+   "addOnVersion": "10003",
    "addonId": "242aa937-0c55-4d1f-b667-0716e81eb4e7",
-   "apiVersion": "101049 101050",
+   "apiVersion": "101050 101051",
    "author": "SugaComa",
-   "dependsOn": "LibAsync>=30100",
-   "downloads": 202,
+   "dependsOn": "",
+   "downloads": 776,
    "folder": "BattleScrolls",
    "isLibrary": "False",
    "optionalDependsOn": "",
    "title": "BattleScrollBV",
-   "updatedAt": 1787269798,
-   "version": "1.0.0"
+   "updatedAt": 1794993553,
+   "version": "1.0.3"
   },
   "247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da/GrumpysLarcenistTracker": {
    "addOnVersion": "",
@@ -4304,13 +4318,13 @@
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 3116,
+   "downloads": 3272,
    "folder": "RagsToRiches",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Rags To Riches",
-   "updatedAt": 1794013996,
-   "version": "1.6.3"
+   "updatedAt": 1794990390,
+   "version": "1.6.4"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374/LibNotification": {
    "addOnVersion": "15",
@@ -4640,13 +4654,13 @@
    "apiVersion": "101051 101050",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 899,
+   "downloads": 916,
    "folder": "CallToArm",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibConsoleDialogs",
    "title": "Call To Arms",
-   "updatedAt": 1794915405,
-   "version": "1.3.1"
+   "updatedAt": 1794991329,
+   "version": "1.3.2"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b/LibConsoleDialogs": {
    "addOnVersion": "10004",
@@ -5200,13 +5214,13 @@
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 6,
+   "downloads": 8,
    "folder": "FurnishingCatalog",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger JumpToSearch",
    "title": "Furnishing Catalog",
-   "updatedAt": 1794966279,
-   "version": "FurnishingCatalog-1.5.0-2026-11-17T174425"
+   "updatedAt": 1794967855,
+   "version": "FurnishingCatalog-1.6.0-2026-11-17T181042"
   },
   "81a06296-da7a-447d-8784-8b2116d37dbf/PBsProcSetTimer": {
    "addOnVersion": "",
@@ -6426,6 +6440,20 @@
    "updatedAt": 1791796805,
    "version": "1.3.0"
   },
+  "9f8c1cfd-92de-4268-8f2a-2e5cfbbc8fab/WeavePulse": {
+   "addOnVersion": "15101",
+   "addonId": "9f8c1cfd-92de-4268-8f2a-2e5cfbbc8fab",
+   "apiVersion": "101051",
+   "author": "xbutch",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "WeavePulse",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Weave Pulse",
+   "updatedAt": 1794971681,
+   "version": "1.51.01"
+  },
   "a020fed1-e58d-4c59-8ec5-6fb71e8ee9cc/AltGroupFrames": {
    "addOnVersion": "30",
    "addonId": "a020fed1-e58d-4c59-8ec5-6fb71e8ee9cc",
@@ -6992,13 +7020,13 @@
    "apiVersion": "101049 101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 3155,
+   "downloads": 3458,
    "folder": "BackBarTimer",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "BackBarTimer",
-   "updatedAt": 1793739993,
-   "version": "2.1.1"
+   "updatedAt": 1794992486,
+   "version": "2.1.4"
   },
   "aef7e9f0-ed11-4b67-99f7-c500cdc0b343/CruxTracker-2.0": {
    "addOnVersion": "",
@@ -7314,13 +7342,13 @@
    "apiVersion": "2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 73,
+   "downloads": 80,
    "folder": "ESOFantasy",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Battle Ground Rating (BGR)",
-   "updatedAt": 1794964602,
-   "version": "v3.6"
+   "updatedAt": 1794969575,
+   "version": "v4.0"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3/AutoImproveGear": {
    "addOnVersion": "",
@@ -7503,6 +7531,20 @@
    "title": "Curved Resource HUD",
    "updatedAt": 1790967162,
    "version": "1.1.3"
+  },
+  "bc6b3b76-f701-4533-9492-c50acb1783bc/CameraAngles": {
+   "addOnVersion": "100",
+   "addonId": "bc6b3b76-f701-4533-9492-c50acb1783bc",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 314,
+   "folder": "CameraAngles",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "dev sandbox 2",
+   "updatedAt": 1794971098,
+   "version": "CameraAngles-0.1.0-2026-11-17T190450"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/FurnishingCatalog": {
    "addOnVersion": "10000",
@@ -8667,18 +8709,18 @@
    "version": "2.3.5"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616/SiegeReminder": {
-   "addOnVersion": "214",
+   "addOnVersion": "215",
    "addonId": "d6deaeae-2a87-4b88-a5a6-d290aee5e616",
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 957,
+   "downloads": 977,
    "folder": "SiegeReminder",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Siege Reminder",
-   "updatedAt": 1794911534,
-   "version": "2.1.4"
+   "updatedAt": 1794989716,
+   "version": "2.1.5"
   },
   "d747dd7e-77c4-4e3c-9004-4d31188c184f/RolePlayMod": {
    "addOnVersion": "",
@@ -9932,13 +9974,13 @@
    "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 9,
    "folder": "TrueDeathStalker",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "True Death Stalker",
-   "updatedAt": 1794917235,
-   "version": "0.2"
+   "updatedAt": 1795006501,
+   "version": "0.5"
   },
   "f386385b-2805-4720-8481-1d87d1cd1d0c/PinAutoResizer": {
    "addOnVersion": "",
@@ -10639,8 +10681,10 @@
    "version": "1.2.1"
   },
   "0798cfcd-e028-41a6-a40d-fb1654087be8": {
-   "folders": [],
-   "version": "1.0.0"
+   "folders": [
+    "ScoreboardRemastered"
+   ],
+   "version": "7.0.0"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1": {
    "folders": [
@@ -11113,7 +11157,7 @@
    "folders": [
     "WWDpad"
    ],
-   "version": "0.7.1"
+   "version": "0.7.6"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574": {
    "folders": [
@@ -11192,7 +11236,7 @@
    "folders": [
     "BattleScrolls"
    ],
-   "version": "1.0.0"
+   "version": "1.0.3"
   },
   "247c8a28-fdfb-4ffc-9bb8-21c4fd1a01da": {
    "folders": [
@@ -12415,7 +12459,7 @@
    "folders": [
     "RagsToRiches"
    ],
-   "version": "1.6.3"
+   "version": "1.6.4"
   },
   "68111c3f-410f-4318-b9ec-582b8c68c374": {
    "folders": [
@@ -12561,7 +12605,7 @@
    "folders": [
     "CallToArm"
    ],
-   "version": "1.3.1"
+   "version": "1.3.2"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b": {
    "folders": [
@@ -12804,7 +12848,7 @@
    "folders": [
     "FurnishingCatalog"
    ],
-   "version": "FurnishingCatalog-1.5.0-2026-11-17T174425"
+   "version": "FurnishingCatalog-1.6.0-2026-11-17T181042"
   },
   "81a06296-da7a-447d-8784-8b2116d37dbf": {
    "folders": [
@@ -13347,6 +13391,12 @@
    ],
    "version": "1.3.0"
   },
+  "9f8c1cfd-92de-4268-8f2a-2e5cfbbc8fab": {
+   "folders": [
+    "WeavePulse"
+   ],
+   "version": "1.51.01"
+  },
   "a020fed1-e58d-4c59-8ec5-6fb71e8ee9cc": {
    "folders": [
     "AltGroupFrames"
@@ -13595,7 +13645,7 @@
    "folders": [
     "BackBarTimer"
    ],
-   "version": "2.1.1"
+   "version": "2.1.4"
   },
   "aef7e9f0-ed11-4b67-99f7-c500cdc0b343": {
    "folders": [
@@ -13741,7 +13791,7 @@
    "folders": [
     "ESOFantasy"
    ],
-   "version": "v3.6"
+   "version": "v4.0"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3": {
    "folders": [
@@ -13827,9 +13877,9 @@
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc": {
    "folders": [
-    "FurnishingCatalog"
+    "CameraAngles"
    ],
-   "version": "FurnishingCatalog-1.6.0-2026-11-17T175004"
+   "version": "CameraAngles-0.1.0-2026-11-17T190450"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
@@ -14340,7 +14390,7 @@
    "folders": [
     "SiegeReminder"
    ],
-   "version": "2.1.4"
+   "version": "2.1.5"
   },
   "d747dd7e-77c4-4e3c-9004-4d31188c184f": {
    "folders": [
@@ -14919,7 +14969,7 @@
    "folders": [
     "TrueDeathStalker"
    ],
-   "version": "0.2"
+   "version": "0.5"
   },
   "f386385b-2805-4720-8481-1d87d1cd1d0c": {
    "folders": [

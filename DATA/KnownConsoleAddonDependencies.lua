@@ -240,6 +240,7 @@ SatchelExchange	LibConsoleLogger	LibRadialMenu
 SatuveRotationTrainer	LibGamepad
 SatuveXboxUI	LibDebugLogger	LibStub
 SavedChatMessages	LibHarvensAddonSettings	LibRadialMenu-ConsoleLibrary
+ScoreboardRemastered	LibAddonMenu-2.0	LibFights	LibHarvensAddonSettings
 ScryersLedger	LibHarvensAddonSettings
 Seamstress	LibHarvensAddonSettings
 SetTracker	LibHarvensAddonSettings-1.0

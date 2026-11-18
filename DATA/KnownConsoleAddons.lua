@@ -83,11 +83,11 @@ AutoResearch		3.1.2	101046	Auto Research	Dolgubon	6694e6d4-7ae0-4eb8-9a61-e1c53a
 AutoRoll	1.0.0	AR 1.0.0 LAM UPDATE	101046	bugfixxxxx	Vixen_Hunny	b057d22b-1ffd-455c-834a-af582e3e270a
 AwesomeGuildStore	3282	1.7.8	101050	AwesomeGuildStore	sirinsidiator	28cfc719-5113-4b1f-aab6-570be159ab81
 BaasWritCrafter	4057	v1.1	101049 101050	Baas-Writ-Crafter	D5rkSh5dow	173a593f-d0c6-473b-a865-5c8961942c06
-BackBarTimer		2.1.1	101049 101050 101051	BackBarTimer	SugaComa	ae6c1833-5a02-4baf-8bf6-d18c7c8d33d8
+BackBarTimer		2.1.4	101049 101050 101051	BackBarTimer	SugaComa	ae6c1833-5a02-4baf-8bf6-d18c7c8d33d8
 BagSpaceIndicator		3.49.0	101048 101049	Bag Space Indicator	lordrichter	5af6522d-980d-4335-9328-4e5077cee058
 BAHelp		3.0.0	101045 101046	Bound Armaments Help	dacu	6681b779-77ba-4212-ba6d-2d20e6e08ee7
 BannerStatus		1.0.6	101047	Banner Status	Phamo1000	608b7ab5-db64-423a-af5c-2438027f0eed
-BattleScrolls	10000	1.0.0	101049 101050	BattleScrollBV	SugaComa	242aa937-0c55-4d1f-b667-0716e81eb4e7
+BattleScrolls	10003	1.0.3	101050 101051	BattleScrollBV	SugaComa	242aa937-0c55-4d1f-b667-0716e81eb4e7
 BattleScrollsNameColours	17	1.4	101048 101049 101050	Battle Scrolls Name Colors	BLKx777	92b1ef68-e576-4bf5-9ffe-f636c9d1c36f
 BattleStats		1.2.51	101049 101050	Battle Stats	SugaComa	fda40288-dadf-45a1-a4c5-005fa0319b93
 BeamMeUp	405031	4.0.5.031	101049 101050	BeamMeUp	beammeupbot	d2c9bb50-7161-423e-ab74-38b8353ace04
@@ -111,7 +111,8 @@ BuildAdvisor	5	0.1.6	101050 101051	BuildAdvisor	yodased-mods	c0db4e1c-b7ae-4821-
 BuildForge	1617	1.6.17	101050	Test suite	Tekatsu	dc420d92-00cf-428d-8c89-a7cb5ceecd44
 BulkBuy		1.8.2	101047	Bulk buy	Copper0	0ad00225-1c8b-4f4a-8e95-ca8986209a7f
 CadenceCoach		0.0.7	101049 101050	CadenceCoach	SugaComa	09535f7c-d041-4d75-963a-167fa47d3df2
-CallToArm		1.3.1	101051 101050	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
+CallToArm		1.3.2	101051 101050	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
+CameraAngles	100	CameraAngles-0.1.0-2026-11-17T190450	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
 CanCraftMasterWrit	10300	1.3.0	101051	Can Craft Master Writ	xSuperSlayan	008cd443-6347-421a-bfcf-ddc830e8cfef
 CanITravelBack	1	0.3.6	101046	Can I Travel Back?	Xarador	8289722e-8e80-4a3d-ba1a-31ae1194ffce
 CanThisBeCraftedAtHome		2025.05.29	101046	CanThisBeCraftedAtHome	Masteroshi430	434ce5ca-211a-4a6b-8682-21f39dcb2d25
@@ -199,7 +200,7 @@ ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4d
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
 ESOCKeepMyCrafts	10	2.6.0	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
-ESOFantasy	30.0.0	v3.6	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
+ESOFantasy	30.0.0	v4.0	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -226,7 +227,7 @@ FlexibleBars	100	1.0.0	101047	Flexible Bars	M0R	4be7617d-7e6d-42bf-bcbb-921e37ac
 Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6dec3b447
 FrenziedMomentumTracker		1.2.0	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
 FunKillFeed		1.4.8	101049 101050	FunKillFeed	SugaComa	08954d6b-1604-4daf-9cf3-99b327dd7afd
-FurnishingCatalog	10000	FurnishingCatalog-1.6.0-2026-11-17T175004	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
+FurnishingCatalog	10000	FurnishingCatalog-1.6.0-2026-11-17T181042	101050 101051	Furnishing Catalog	clubwratt	8124da21-73b8-4387-a07f-9e01e44fc052
 FurnishingTracker		1.0.18	101050	Furnishing Tracker	Eldibabalo	c49eb98c-6821-47de-9cb2-10b972d1a55f
 FurnitureBuilder	12	V0.5.5	101051	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
 FurnitureFinder	3	V0.3.1	101051 101052	Furniture Finder	killerkev77	2b591c30-b518-46da-978a-c1a788963735
@@ -534,7 +535,7 @@ PvPUAPatch		PvPUAPatch-5.14.0-2026-11-16T193757	101048 101049 101050 101051	dev 
 QAutoConfirm	1	1.0 Stable	101046	QAutoConfirm	Synkronist	9b9ff236-58fe-4815-8f7c-4b8c41245568
 QuestMover		51.03	101051	Quest Mover	Gamer_sa22	9a439c8a-322c-472e-99f9-e05a6f76532b
 queueNextWrit	300	3	101051 101052	queueNextWrit	Dack.Janiels	2ea327f5-7b87-49e2-a306-9e7ce0021db9
-RagsToRiches		1.6.3	101050 101051	Rags To Riches	SugaComa	67c87375-bbf1-4841-933b-9beec7f88155
+RagsToRiches		1.6.4	101050 101051	Rags To Riches	SugaComa	67c87375-bbf1-4841-933b-9beec7f88155
 RainbowAOE		0.1.3	101050	Rainbow AOE	Alpha-AC	f74afae1-50fc-4e7f-8883-573992187a63
 rallyingCryTracker		1.1.0	101051	Rallying Cry Tracker	codeWarrior82	cec19621-d3f2-4b43-b391-5d028918cfb4
 RanckorsBaggage	3.1.2	3.1.1	101050	Ranckor's Baggage	Ranckor90	a17836b4-17ec-478f-91a6-f0c59e123e2a
@@ -563,6 +564,7 @@ SatuveRotationTrainer		1.2.6	101050	Rotation Trainer v1	satuve	dc853c4f-c4b9-494
 SatuveXboxUI		2.0.4	101050 101051	Bandit Xbox UI	satuve	63900961-28c3-49d2-8576-476e5906e80b
 SavedChatMessages		0.3.7	101047	Saved Chat Messages	ReliktKoala	b72f36c7-bbd2-4b35-9deb-4d0bd2a7f277
 ScoreboardFixXbox	201	0.2.1	101051	Scoreboard Fix Xbox BETA	RUSKlI	0e9f8669-fa46-49bb-a578-54569ddb865b
+ScoreboardRemastered	130	7.0.0	101051	Scoreboard Remastered [BETA]	Vixen_Hunny	0798cfcd-e028-41a6-a40d-fb1654087be8
 ScreenshotModeEnhanced	10104	1.1.4	101051	Screenshot Mode Enhanced	Calamath	37f459c1-e6dc-4d21-afd7-eaceb68cfd82
 ScryersLedger		1.0.3	101050 101051 101052	Scryer’s Ledger	SugaComa	47f8828e-c68c-4a8d-ba6f-69a87c8539b8
 ScryMaster		1.0.1	101051	Skill Point Finder	TheGreyWolf98	427000e9-72c4-4fc9-b9b6-3cca4f863607
@@ -575,7 +577,7 @@ ShowBagSpace		1.0	101050	ShowBagSpace	TankiestTank	b288ca12-6f96-416d-8cc1-13397
 ShowCP	4	v0.0.04	101050	Show CP	BMGxSancho	e6bacf32-d124-4c92-bc87-b477e7611861
 ShowEquipped	10601	1.6.3	101048 101049	Show Equips	Shienar	7d3a20ff-160a-4988-b8d0-991681394db8
 SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26b16bd23b8d
-SiegeReminder	214	2.1.4	101050 101051	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
+SiegeReminder	215	2.1.5	101050 101051	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
 SimpleGroupDPS		2.0.4	101051	SimpleGroupDPS2	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
 SimpleGroupDPS2		1.9.31	101051	Buggy DontD	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
@@ -650,7 +652,7 @@ TrialArenaTracker		2.0.3	101047	Trials & Arenas Tracker	Eldibabalo	49b41fa8-a5b3
 TrialTagger	1	0.1.1	101050 101051	Discord Trial Tagger	greeneca	097d0094-d2c0-4e8c-be4e-016e8046d655
 TrueCombatText		1.3	101051	True Combat Text	Toudidef	9c4d5a13-410a-4a89-9024-319578ddd3a4
 TrueDarkConvergencetimer		1.5	101048	True DarkConvergence timer	Toudidef	b73a092a-bcf8-4b42-9833-97402a32ed87
-TrueDeathStalker		0.2	101051	True Death Stalker	Toudidef	f37f4ff0-234f-4447-9240-7e21298e6a89
+TrueDeathStalker		0.5	101051	True Death Stalker	Toudidef	f37f4ff0-234f-4447-9240-7e21298e6a89
 TrueDebuffsBars		2.11	101051	True (De)Buffs Bars	Toudidef	c3d7fa6e-9024-4480-a02b-a9672c9da86e
 TrueExploration	203	2.3	101046	True Exploration	Shinni42	a095f0da-9f45-4dde-a150-2c9b09ba7317
 TrueFlagCaptureMover		1.2	101051	True Flag Capture Mover	Toudidef	4c1cca0d-7e48-40ed-bd8f-1c87ac158341
@@ -688,6 +690,7 @@ warHornTracker		1.4.7	101051	WarHorn Tracker	codeWarrior82	d978b81f-b679-4aa8-b9
 warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-813e-c178bb11a1e5
 WarmasktrackerByJH		1.5	101051 101050	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
 WeaveDelays	105	1.0.5	101050	WeaveDelays	ThePsiioniic	1428d8ab-7f1f-4741-833a-93180287dd09
+WeavePulse	15101	1.51.01	101051	Weave Pulse	xbutch	9f8c1cfd-92de-4268-8f2a-2e5cfbbc8fab
 WeavingMetronome	101066	2.0.5	101051	Weaving Metronome	FiNk3F13	c1b4f7e7-7899-4d68-ab6a-6ce46c563cc5
 WhatsMissing	15110	1.51.10	101051	What's Missing? - Skill Point Tracker	xbutch	ea5313bb-c034-4b91-8816-546e4d37a355
 WhatsMyBuildAgain	005005004	5.0.5	101050	What's My Build Again	Eldibabalo	61ffae27-7976-4d4b-a9fa-0fafb387434a
@@ -699,7 +702,7 @@ WizardsWardrobe	402	0.4.2	101048	Wizard's Wardrobe	STUDLETON	645213de-645d-4170-
 WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	RagePhoenix96	f6c4019b-59cf-4a0b-8550-0e83c807df18
 wretchedVitalityTracker		1.4.5	101051	Wretched Vitality Tracker	codeWarrior82	af0511e3-aa4e-4d26-8665-e486da04c1cd
 WritReady	2	2.13	101050	MWeyes	dicen9	0bb2a403-2da7-4c0d-8546-7957cbc8735b
-WWDpad	16	0.7.1	101052	DontD	FiNk3F13	21a2a61f-e085-4a88-b299-587a33bff1f5
+WWDpad	21	0.7.6	101052	DontD	FiNk3F13	21a2a61f-e085-4a88-b299-587a33bff1f5
 YeOldeInfos	202	2.0.2	101049	YeOlde-Infos	YeOldeDragon	1987390f-3dbd-407c-996d-aa3ef3ad9773
 Zaji	3	1.0.2	101050 101051	Zaji	TheGreyWolf98	ee217f7c-81b5-40dc-beb5-a6a184260d9d
 ZoneMountSwitcher	110	1.1.0	101046 101047	Zone Mount and Pet Switcher	MadeByQwerty	03172246-c90c-4b8b-9821-06a74a01ce96
