@@ -630,7 +630,7 @@ FurnitureCatalogue	8001000	8.1.0	1617	101051 101052
 FurnitureCatalogue_DevUtility		8.1.0	1617	101051 101052
 FurnitureCatalogue_Export		8.1.0	1617	101051 101052
 FurnitureFilter	2	1.0.1	4986	101051
-FurysGuildToolset	41	0.4.18	5063	101051 101052
+FurysGuildToolset	48	0.4.25	5063	101051 101052
 GamePadHelper	10619	1.06.19	3268	101051
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -840,7 +840,7 @@ InstantSwap		1.2	2987	100034
 InstaQ	1	1.2 Stable	4164	101046
 Inventory2	106	1.0.6	5009	101051
 InventoryAssistant		1.21.261002-beta	2015	101051
-InventoryCompanion	10603	1.6.3	4997	101051
+InventoryCompanion	10702	1.7.2	4997	101051
 InventoryManagerTESO		1.0.2	4071	101041
 InventoryPulse	3	1.0.2	5012	101051 101052
 InventoryUpkeep	1700	1.8.0.0	1045	101050 101051
@@ -1013,7 +1013,7 @@ MinistryOfNormalWalks		1.0.0	4022	101044
 MiraclesBetterScoreboard	11	Version 2	5013	101051
 MirrorlandGuildHalls		2.0.0	3016	101049 101050
 MitigationFilter		1.00	4767	101046
-MonsterCofferHelper	10001	1.0.1	4752	101051
+MonsterCofferHelper	10100	1.1.0	4752	101051
 MonsterSetShoulderCollector		1.4.5	2860	101041
 MoreColourfulGroupFrames	1	1	4607	101049
 MoreTargetInformation		3.49	1189	101048 101049
