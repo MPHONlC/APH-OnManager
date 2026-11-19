@@ -186,6 +186,7 @@ DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a5
 DreadVision	602	A	101049 101050	Dread Vision	Dreadazar	0db118b4-92d1-4b06-b81a-64a67e477e60
 DryzlerElderGeekNetLore		1.15	101047 101048	Dryzler's LoreBooks	Sharlikran	747e5279-71c7-4d0b-8db8-5c7552b2ed65
 DuelResults	300	2.0.0	101046	Duel Results	Vixen_Hunny	47568dd9-5328-4e2a-9862-c59932473a4b
+DungeonRating	11	v0.8	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
 DungeonTrialTracker		2.0.4	101047	Dungeon Tracker	Eldibabalo	75746296-2f24-4d95-8fb5-1954d00fc1d6
 DVDScreenSaver		1.3.1	101048	DVD ScreenSaver	Phamo1000	f0561a3c-bea9-49e8-926e-53825934fb7e
 DWAllianceRankProgress	19	1.18	101048 101049	Alliance Rank Progress	Dusty-Warehouse	8e880053-fe2b-4934-9745-a0670e1e12d6
@@ -290,7 +291,7 @@ HouseHotkey	182	1.8.2	101050 101051	House Hotkey	saranicole1980	256dc81e-d505-4e
 HousingForge	1400	1.4.0	101050	Test suite 2	Tekatsu	e1fa49c2-830c-41dc-9927-0d013ba1f21d
 HousingFPSBooster	10102	1.1.3	101050 101051	Tetsu's Housing FPS Booster	Tetsurion	febdb84e-a3d4-46d5-b70c-e9b1e491be5f
 HousingVote	19	0.4.1	101050 101051	HousingVote	yodased-mods	f78047ed-9eb4-471b-953c-3fdab2282231
-HPSMeter	4	Fixed UI hide 6.5.3	101047 101048	Bloom HPS	Vixen_Hunny	adeb7cae-c7d2-4f05-9f6b-398235624c33
+HPSMeter	4	Include MPM instead of MPS	101047 101048	Bloom HPS	Vixen_Hunny	adeb7cae-c7d2-4f05-9f6b-398235624c33
 IAHelper		50.09	101050	Infinite Archive Helper	Gamer_sa22	fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8
 IFG		1.1.15	101049	IFG	FIG_BOT	869cd684-8dba-4750-bdf3-9b3be03ecdc6
 ImperialCityBossTimers	10400	5.0.0	101050 101051	Imperial City Boss Timers	ParanoidGaming	6684c311-afc5-48de-8ced-f86edbe863f1
@@ -390,7 +391,7 @@ LiveBuffUptime2		2.4.15	101051	Testo	FiNk3F13	937915ef-c930-46a4-ad1d-baf147c74e
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000119	1.0.119	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000120	1.0.120	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -491,10 +492,10 @@ PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371f
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsOnlineStatusAlert	1	0.1.0	101050 101051	PinkB's OnlineStatusAlert	PinkBanther	acc220d2-3d92-4f47-8eae-979714894059
-PBsPlayerMarkerExtension	2	0.2.0	101050 101051	PinkB's PlayerMarkerExtension(Beta)	PinkBanther	a65f7431-18ba-4958-a2e4-c2b14621d1b3
+PBsPlayerMarkerExtension	5	0.4.1	101050 101051	PinkB's PlayerMarkerExtension(Beta)	PinkBanther	a65f7431-18ba-4958-a2e4-c2b14621d1b3
 PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
-PBsQuickChat	1	0.2.0	101050 101051	PinkB's QuickChat	PinkBanther	e71bb4da-eb0c-4506-a479-9a4260b65fd9
+PBsQuickChat	1	0.3.0	101050 101051	PinkB's QuickChat	PinkBanther	e71bb4da-eb0c-4506-a479-9a4260b65fd9
 PBsReticle	110	1.1.0	101050 101051	PinkB's Reticle	PinkBanther	0308c3b9-4770-4548-939d-cc4550f58fcc
 PBsScreenshotModeShortcut		1.3.1	101050 101051	PinkB's ScreenshotModeShortcut	PinkBanther	f092f755-7f1e-43bf-b184-f2a9871a86ea
 PBsTargetPlayer		1.7.0	101050 101051	PinkB's TargetPlayer for AD Stalkers	PinkBanther	2bf3c6a5-adf1-407e-8e3a-47b49f92d9fc
@@ -503,7 +504,7 @@ PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanthe
 PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
 PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f00e5b13-5452-4284-98f7-2bdbe3caff63
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
-PBsWayPoint	12	0.6.0	101050 101051	PinkB's WayPoint	PinkBanther	4f27162e-d1c9-4d60-ba2b-1d33d0645a33
+PBsWayPoint	13	0.6.1	101050 101051	PinkB's WayPoint	PinkBanther	4f27162e-d1c9-4d60-ba2b-1d33d0645a33
 PBsWeaveBlockTrainer		1.4.0	101050 101051	PinkB's WeaveBlockTrainer	PinkBanther	79482b3e-9063-4aa7-a50f-81fedd155fc5
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
@@ -669,7 +670,7 @@ TSCDataHub	127	127	101050	TSC Data Hub	SavageTSC	df7e78bb-63a0-4221-a1f6-36c7ac0
 TSCPriceFetcher2	124	124	101051 101052	TSC Price Fetcher 2	SavageTSC	2a88cc14-8e8c-4b73-9605-2e1d7c764e23
 TurningTide	010101	1.1.1	101051	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c1f37e8a9a
 turningTideTracker		1.3.4	101051	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
-UnchainedHelper		1.8	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
+UnchainedHelper		2.0	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
 UnderPressure	25	0.5.14	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20402	2.4.2	101051 101052	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829

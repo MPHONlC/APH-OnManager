@@ -1028,13 +1028,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 3,
+   "downloads": 5,
    "folder": "PBsQuickChat",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's QuickChat(Beta)",
-   "updatedAt": 1794543537,
-   "version": "0.2.0"
+   "updatedAt": 1795063593,
+   "version": "0.3.0"
   },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773/YeOldeInfos": {
    "addOnVersion": "202",
@@ -3361,18 +3361,18 @@
    "version": "1.4.1"
   },
   "4f27162e-d1c9-4d60-ba2b-1d33d0645a33/PBsWayPoint": {
-   "addOnVersion": "12",
+   "addOnVersion": "13",
    "addonId": "4f27162e-d1c9-4d60-ba2b-1d33d0645a33",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 5,
    "folder": "PBsWayPoint",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint",
-   "updatedAt": 1794640618,
-   "version": "0.6.0"
+   "updatedAt": 1795063519,
+   "version": "0.6.1"
   },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab/NedsGroupManager": {
    "addOnVersion": "",
@@ -6692,19 +6692,33 @@
    "updatedAt": 1794566486,
    "version": "v2.5.1"
   },
+  "a5a47140-37bb-4fb8-a0be-2d8b424ad400/PBsPlayerMarkerExtension": {
+   "addOnVersion": "5",
+   "addonId": "a5a47140-37bb-4fb8-a0be-2d8b424ad400",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsPlayerMarkerExtension",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
+   "title": "PinkB's PlayerMarkerExtension",
+   "updatedAt": 1795047433,
+   "version": "0.4.1"
+  },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3/PBsPlayerMarkerExtension": {
-   "addOnVersion": "2",
+   "addOnVersion": "5",
    "addonId": "a65f7431-18ba-4958-a2e4-c2b14621d1b3",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 11,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension(Beta)",
-   "updatedAt": 1795035895,
-   "version": "0.2.0"
+   "updatedAt": 1795047479,
+   "version": "0.4.1"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -6992,13 +7006,13 @@
    "apiVersion": "101050",
    "author": "BLKx777",
    "dependsOn": "",
-   "downloads": 87,
+   "downloads": 125,
    "folder": "UnchainedHelper",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Unchained Helper",
-   "updatedAt": 1793399395,
-   "version": "1.8"
+   "updatedAt": 1795057817,
+   "version": "2.0"
   },
   "ad02eccd-a3f5-4375-8c13-e631101449c5/APH-FPSGraph": {
    "addOnVersion": "26101514",
@@ -7034,13 +7048,13 @@
    "apiVersion": "101047 101048",
    "author": "Vixen_Hunny",
    "dependsOn": "LibFights>=10000",
-   "downloads": 753,
+   "downloads": 786,
    "folder": "HPSMeter",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Bloom HPS",
-   "updatedAt": 1794488977,
-   "version": "Fixed UI hide 6.5.3"
+   "updatedAt": 1795065827,
+   "version": "Include MPM instead of MPS"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43/PBsLuaMemoryMonitor": {
    "addOnVersion": "",
@@ -8190,19 +8204,33 @@
    "updatedAt": 1781186108,
    "version": "2.1.7"
   },
+  "c9f9f38f-e155-4e81-ab38-40b20bc1f130/DungeonRating": {
+   "addOnVersion": "11",
+   "addonId": "c9f9f38f-e155-4e81-ab38-40b20bc1f130",
+   "apiVersion": "101051 101052",
+   "author": "m1lkst3ak",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "DungeonRating",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
+   "title": "Dungeon Buddy",
+   "updatedAt": 1795065718,
+   "version": "v0.8"
+  },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000119",
+   "addOnVersion": "01000120",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 21045,
+   "downloads": 21401,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1794888014,
-   "version": "1.0.119"
+   "updatedAt": 1795060815,
+   "version": "1.0.120"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -9568,13 +9596,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 8,
    "folder": "PBsQuickChat",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's QuickChat",
-   "updatedAt": 1794543570,
-   "version": "0.2.0"
+   "updatedAt": 1795063736,
+   "version": "0.3.0"
   },
   "e748a1af-bca6-470d-be77-d5e7ab432006/ZoomInFurther": {
    "addOnVersion": "",
@@ -10389,18 +10417,18 @@
    "version": "1.0.0"
   },
   "fc7e18ca-ae50-4284-8b26-df8f05312495/PBsWayPoint": {
-   "addOnVersion": "12",
+   "addOnVersion": "13",
    "addonId": "fc7e18ca-ae50-4284-8b26-df8f05312495",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 15,
+   "downloads": 17,
    "folder": "PBsWayPoint",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint(Beta)",
-   "updatedAt": 1794569192,
-   "version": "0.6.0"
+   "updatedAt": 1795063483,
+   "version": "0.6.1"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c/LibDateTime": {
    "addOnVersion": "32",
@@ -11088,7 +11116,7 @@
    "folders": [
     "PBsQuickChat"
    ],
-   "version": "0.2.0"
+   "version": "0.3.0"
   },
   "1987390f-3dbd-407c-996d-aa3ef3ad9773": {
    "folders": [
@@ -12104,7 +12132,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.6.0"
+   "version": "0.6.1"
   },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab": {
    "folders": [
@@ -13556,11 +13584,17 @@
    ],
    "version": "v2.5.1"
   },
+  "a5a47140-37bb-4fb8-a0be-2d8b424ad400": {
+   "folders": [
+    "PBsPlayerMarkerExtension"
+   ],
+   "version": "0.4.1"
+  },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3": {
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.2.0"
+   "version": "0.4.1"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -13689,7 +13723,7 @@
    "folders": [
     "UnchainedHelper"
    ],
-   "version": "1.8"
+   "version": "2.0"
   },
   "ad02eccd-a3f5-4375-8c13-e631101449c5": {
    "folders": [
@@ -13707,7 +13741,7 @@
    "folders": [
     "HPSMeter"
    ],
-   "version": "Fixed UI hide 6.5.3"
+   "version": "Include MPM instead of MPS"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43": {
    "folders": [
@@ -14206,11 +14240,17 @@
    ],
    "version": "2.1.7"
   },
+  "c9f9f38f-e155-4e81-ab38-40b20bc1f130": {
+   "folders": [
+    "DungeonRating"
+   ],
+   "version": "v0.8"
+  },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d": {
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.119"
+   "version": "1.0.120"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -14832,7 +14872,7 @@
    "folders": [
     "PBsQuickChat"
    ],
-   "version": "0.2.0"
+   "version": "0.3.0"
   },
   "e748a1af-bca6-470d-be77-d5e7ab432006": {
    "folders": [
@@ -15205,7 +15245,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.6.0"
+   "version": "0.6.1"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c": {
    "folders": [

@@ -76,6 +76,7 @@ DolgubonsLazyWritCreator	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHi
 DolmenRunner	LibHarvensAddonSettings
 DryzlerElderGeekNetLore	LibMOTD
 DuelResults	LibAddonMenu-2.0
+DungeonRating	LibAddonMenu-2.0	LibRadialMenu
 DWAllianceRankProgress	LibHarvensAddonSettings
 ESO_BuildForge	LibAddonMenu-2.0
 EsoAR	LibAddonMenu-2.0	LibHarvensAddonSettings
