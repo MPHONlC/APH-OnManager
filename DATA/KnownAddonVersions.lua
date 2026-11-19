@@ -347,6 +347,7 @@ CompanionRoster		2.4.0	4862	101051
 CompanionsCompanion	100	v2.4.0	3474	101040
 CompanionsCompanion_Updated	110	1.1.0	4125	101046
 CompanionsContainers		1.9	4143	101051
+CompanionSidekick	101	0.1.1-beta	5072	101051
 CompanionStuffTracker	10203	1.2.3	3986	101045
 CompassHide		0.5.2	4516	101049
 CompsWBTimer		1.0.2	3880	101042
@@ -403,7 +404,7 @@ CustomKillSound		5.0	4547	101043
 CustomNames		1.0	4515	101049
 CutthroatFocus	4	1.4	4820	101050 101051
 CyrHUD		2026.11.15	559	101052
-CyrodiilMapLabels		1.9.1	4361	101050 101051
+CyrodiilMapLabels		1.9.2	4361	101052 101053
 CyrodiilScoreViewer		0.5.0	3166	101040
 CyroQuestManager		2.1	4208	101046
 DacksUndefinedGlobalsCatcher		1	4073	101045 101046
@@ -629,7 +630,7 @@ FurnitureCatalogue	8001000	8.1.0	1617	101051 101052
 FurnitureCatalogue_DevUtility		8.1.0	1617	101051 101052
 FurnitureCatalogue_Export		8.1.0	1617	101051 101052
 FurnitureFilter	2	1.0.1	4986	101051
-FurysGuildToolset	34	0.4.11	5063	101051 101052
+FurysGuildToolset	41	0.4.18	5063	101051 101052
 GamePadHelper	10619	1.06.19	3268	101051
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -699,7 +700,7 @@ GroupModerationBlacklist		0.0.1	4880	101045
 GroupResources	56	0.10.0	1338	101048 101049
 GroupUserId	116	2026.07.09	2589	101055
 GrumpysLarcenistTracker		1.1.0	4531	101050
-GTA		2026.11.18	4590	101051
+GTA		2026.11.19	4590	101051
 GuardHelper		1.0.1	3553	101040
 GuardWarner	20250221	1.4.1	3590	101044
 GuildAdblockCustomized		1.0.2	4340
@@ -882,7 +883,7 @@ KattsCryptIcons	18	1.7.2	3818	101050 101051
 KayzarUI	2	1.2	4387	101047 101048
 KeepDoor		1.0.6	3620	101049 101050
 KeepOne4Research		0.0.3	4605	101050
-KelaPadUIEnhanced	20803	2.8.3	5044	101051
+KelaPadUIEnhanced	20900	2.9.0	5044	101051
 KeybindCombos		1.0.0	4615	101049 101050
 KeybindDoubleTapDodge		1.0.9	2292	100034
 KeybindHolidayMemento		2.0.0	2310	101041
@@ -902,7 +903,7 @@ Labyrinthe		0.8.2	3841	101045
 Lagerblick	202	2.0.2	4844	101050 101051
 LanguageManager		1.0.0	4466	101049
 LarvalTear	1503	1.5.0.3	4485	101051 101050
-LawfulNecromancyReborn	110	1.1	5064	101051 101052
+LawfulNecromancyReborn	111	1.1.1	5064	101051 101052
 LazyAlchemyLearner	115	1.1.5	2586	101051
 LazyCraftingCertification		1.0.0	3787	101040
 LazyDecon		0.6.1	3449	101050
@@ -919,7 +920,7 @@ LeadFilter		1.2.1	4469	101051
 LeadList		U51.0.1	4159	101051
 LeadsOrganizer	102040	1.4.0	4585	101049 101050
 Leadz	10107	1.1.7	3771	101050
-LeoAltholic	1940	1.9.4	3596	101046 101047
+LeoAltholic	1950	1.9.5	3596	101052 101053
 LeoTrainer	223	2.2.3	2162	100035
 LesserIcons	10	1.0	4231	101047
 LethalPVPInsights	290	1.11.3	5037	101048 101051
@@ -1012,7 +1013,7 @@ MinistryOfNormalWalks		1.0.0	4022	101044
 MiraclesBetterScoreboard	11	Version 2	5013	101051
 MirrorlandGuildHalls		2.0.0	3016	101049 101050
 MitigationFilter		1.00	4767	101046
-MonsterCofferHelper	10000	1.0	4752	101050
+MonsterCofferHelper	10001	1.0.1	4752	101051
 MonsterSetShoulderCollector		1.4.5	2860	101041
 MoreColourfulGroupFrames	1	1	4607	101049
 MoreTargetInformation		3.49	1189	101048 101049
@@ -1265,7 +1266,7 @@ RecallRotator		1.0	4765	101050
 Recharge	279	2.79	1091	101041 101042
 RecipePriceForWritWorthy	3	1.2.0	3625	101051
 ReconGearIcon	11	1.1	4976	101050 101051
-RedLedger	3	0.3	5070	101051 101052
+RedLedger	5	0.5	5070	101051 101052
 ReleaseTracker		2025.12	3713	101048
 ReloadUI	12	0.1.2	3685	101049 101048
 ReloadUITimer		1.0.5	4610	101049 101050

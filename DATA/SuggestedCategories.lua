@@ -375,6 +375,7 @@ AoM.SuggestedCategories = {
 	["CompanionsCompanion"] = "Miscellaneous",
 	["CompanionsCompanion_Updated"] = "Utility Mods",
 	["CompanionsContainers"] = "Bags, Bank, Inventory",
+	["CompanionSidekick"] = "Character Advancement",
 	["CompanionStuffTracker"] = "Bags, Bank, Inventory",
 	["CompassHide"] = "Map, Coords, Compasses",
 	["CompsWBTimer"] = "Info, Plug-in Bars",
