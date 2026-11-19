@@ -1163,18 +1163,18 @@
    "version": "1.0.0"
   },
   "1e6ecfd4-9947-49dc-9392-c5fab2256ab2/Rebar": {
-   "addOnVersion": "70",
+   "addOnVersion": "71",
    "addonId": "1e6ecfd4-9947-49dc-9392-c5fab2256ab2",
    "apiVersion": "101044",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0>=32",
-   "downloads": 1132,
+   "downloads": 1233,
    "folder": "Rebar",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Rebar",
-   "updatedAt": 1794096390,
-   "version": "REBAR"
+   "updatedAt": 1795083896,
+   "version": "REBAR 4.0.0"
   },
   "1e746db5-8418-4a6f-9f17-4449e0d7e3f0/TamrielMasterLedger": {
    "addOnVersion": "21683",
@@ -1602,13 +1602,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 28,
+   "downloads": 37,
    "folder": "wardTracker",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Hardened Ward Tracker",
-   "updatedAt": 1794872798,
-   "version": "1.2.2"
+   "updatedAt": 1795083838,
+   "version": "1.2.9"
   },
   "2709a81d-caea-4f77-a89d-0d83661bf7ee/DarkConvergenceTimer": {
    "addOnVersion": "1.0.4",
@@ -2134,13 +2134,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 79,
+   "downloads": 98,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "SimpleGroupDPS",
-   "updatedAt": 1794926678,
-   "version": "2.0.2"
+   "updatedAt": 1795088079,
+   "version": "2.0.6"
   },
   "32111121-29be-4447-ba40-3c064d28680e/PowerLashTracker": {
    "addOnVersion": "1.0.0",
@@ -3361,18 +3361,18 @@
    "version": "1.4.1"
   },
   "4f27162e-d1c9-4d60-ba2b-1d33d0645a33/PBsWayPoint": {
-   "addOnVersion": "13",
+   "addOnVersion": "15",
    "addonId": "4f27162e-d1c9-4d60-ba2b-1d33d0645a33",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 7,
    "folder": "PBsWayPoint",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint",
-   "updatedAt": 1795063519,
-   "version": "0.6.1"
+   "updatedAt": 1795112356,
+   "version": "0.6.3"
   },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab/NedsGroupManager": {
    "addOnVersion": "",
@@ -3492,13 +3492,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 60,
+   "downloads": 64,
    "folder": "esoReport",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "eso Report",
-   "updatedAt": 1794742985,
-   "version": "1.5.9"
+   "updatedAt": 1795080189,
+   "version": "1.6.1"
   },
   "53c19565-2bb9-4872-a40f-90825e736a2f/GoldLedger": {
    "addOnVersion": "8",
@@ -3795,18 +3795,18 @@
    "version": "v1.5.1"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth2": {
-   "addOnVersion": "201",
+   "addOnVersion": "202",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 32,
+   "downloads": 34,
    "folder": "PlayerMascotHealth2",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1794958422,
-   "version": "v2.0.1g"
+   "updatedAt": 1795102902,
+   "version": "V2.0.2"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -4990,13 +4990,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 18,
+   "downloads": 25,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "SimpleGroupDPS2",
-   "updatedAt": 1794939765,
-   "version": "2.0.4"
+   "updatedAt": 1795094865,
+   "version": "2.0.8"
   },
   "7a5d051d-6b7c-4117-8748-0b3ec7a3c234/SimpleGroupDPS2": {
    "addOnVersion": "",
@@ -6693,21 +6693,21 @@
    "version": "v2.5.1"
   },
   "a5a47140-37bb-4fb8-a0be-2d8b424ad400/PBsPlayerMarkerExtension": {
-   "addOnVersion": "5",
+   "addOnVersion": "7",
    "addonId": "a5a47140-37bb-4fb8-a0be-2d8b424ad400",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 0,
+   "downloads": 5,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension",
-   "updatedAt": 1795047433,
-   "version": "0.4.1"
+   "updatedAt": 1795113527,
+   "version": "0.4.3"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3/PBsPlayerMarkerExtension": {
-   "addOnVersion": "5",
+   "addOnVersion": "7",
    "addonId": "a65f7431-18ba-4958-a2e4-c2b14621d1b3",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
@@ -6717,8 +6717,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension(Beta)",
-   "updatedAt": 1795047479,
-   "version": "0.4.1"
+   "updatedAt": 1795113488,
+   "version": "0.4.3"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -7006,13 +7006,13 @@
    "apiVersion": "101050",
    "author": "BLKx777",
    "dependsOn": "",
-   "downloads": 125,
+   "downloads": 136,
    "folder": "UnchainedHelper",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Unchained Helper",
-   "updatedAt": 1795057817,
-   "version": "2.0"
+   "updatedAt": 1795069707,
+   "version": "2.1"
   },
   "ad02eccd-a3f5-4375-8c13-e631101449c5/APH-FPSGraph": {
    "addOnVersion": "26101514",
@@ -7613,8 +7613,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger JumpToSearch",
    "title": "dev sandbox 2",
-   "updatedAt": 1795033493,
-   "version": "FurnishingCatalog-1.7.0-2026-11-18T122442"
+   "updatedAt": 1795069060,
+   "version": "FurnishingCatalog-1.8.0-2026-11-18T221731"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/PreviewAnywhere": {
    "addOnVersion": "10300",
@@ -8210,13 +8210,13 @@
    "apiVersion": "101051 101052",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 12,
    "folder": "DungeonRating",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
    "title": "Dungeon Buddy",
-   "updatedAt": 1795065718,
-   "version": "v0.8"
+   "updatedAt": 1795071354,
+   "version": "v1.0"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
    "addOnVersion": "01000120",
@@ -10417,18 +10417,18 @@
    "version": "1.0.0"
   },
   "fc7e18ca-ae50-4284-8b26-df8f05312495/PBsWayPoint": {
-   "addOnVersion": "13",
+   "addOnVersion": "15",
    "addonId": "fc7e18ca-ae50-4284-8b26-df8f05312495",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 17,
+   "downloads": 21,
    "folder": "PBsWayPoint",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint(Beta)",
-   "updatedAt": 1795063483,
-   "version": "0.6.1"
+   "updatedAt": 1795112322,
+   "version": "0.6.3"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c/LibDateTime": {
    "addOnVersion": "32",
@@ -11181,7 +11181,7 @@
    "folders": [
     "Rebar"
    ],
-   "version": "REBAR"
+   "version": "REBAR 4.0.0"
   },
   "1e746db5-8418-4a6f-9f17-4449e0d7e3f0": {
    "folders": [
@@ -11368,7 +11368,7 @@
    "folders": [
     "wardTracker"
    ],
-   "version": "1.2.2"
+   "version": "1.2.9"
   },
   "2709a81d-caea-4f77-a89d-0d83661bf7ee": {
    "folders": [
@@ -11602,7 +11602,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "2.0.2"
+   "version": "2.0.6"
   },
   "32111121-29be-4447-ba40-3c064d28680e": {
    "folders": [
@@ -12132,7 +12132,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.6.1"
+   "version": "0.6.3"
   },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab": {
    "folders": [
@@ -12194,7 +12194,7 @@
    "folders": [
     "esoReport"
    ],
-   "version": "1.5.9"
+   "version": "1.6.1"
   },
   "53c19565-2bb9-4872-a40f-90825e736a2f": {
    "folders": [
@@ -12321,7 +12321,7 @@
    "folders": [
     "PlayerMascotHealth2"
    ],
-   "version": "v2.0.1g"
+   "version": "V2.0.2"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
    "folders": [
@@ -12847,7 +12847,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "2.0.4"
+   "version": "2.0.8"
   },
   "7b383e7f-a85f-491d-b950-dffc87bcec10": {
    "folders": [
@@ -13588,13 +13588,13 @@
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.1"
+   "version": "0.4.3"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3": {
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.1"
+   "version": "0.4.3"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -13723,7 +13723,7 @@
    "folders": [
     "UnchainedHelper"
    ],
-   "version": "2.0"
+   "version": "2.1"
   },
   "ad02eccd-a3f5-4375-8c13-e631101449c5": {
    "folders": [
@@ -13987,7 +13987,7 @@
    "folders": [
     "FurnishingCatalog"
    ],
-   "version": "FurnishingCatalog-1.7.0-2026-11-18T122442"
+   "version": "FurnishingCatalog-1.8.0-2026-11-18T221731"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
@@ -14244,7 +14244,7 @@
    "folders": [
     "DungeonRating"
    ],
-   "version": "v0.8"
+   "version": "v1.0"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d": {
    "folders": [
@@ -15245,7 +15245,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.6.1"
+   "version": "0.6.3"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c": {
    "folders": [

@@ -186,7 +186,7 @@ DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a5
 DreadVision	602	A	101049 101050	Dread Vision	Dreadazar	0db118b4-92d1-4b06-b81a-64a67e477e60
 DryzlerElderGeekNetLore		1.15	101047 101048	Dryzler's LoreBooks	Sharlikran	747e5279-71c7-4d0b-8db8-5c7552b2ed65
 DuelResults	300	2.0.0	101046	Duel Results	Vixen_Hunny	47568dd9-5328-4e2a-9862-c59932473a4b
-DungeonRating	11	v0.8	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
+DungeonRating	11	v1.0	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
 DungeonTrialTracker		2.0.4	101047	Dungeon Tracker	Eldibabalo	75746296-2f24-4d95-8fb5-1954d00fc1d6
 DVDScreenSaver		1.3.1	101048	DVD ScreenSaver	Phamo1000	f0561a3c-bea9-49e8-926e-53825934fb7e
 DWAllianceRankProgress	19	1.18	101048 101049	Alliance Rank Progress	Dusty-Warehouse	8e880053-fe2b-4934-9745-a0670e1e12d6
@@ -205,7 +205,7 @@ ESOFantasy	30.0.0	v4.0	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-450
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
-esoReport		1.5.9	101051	eso Report	codeWarrior82	52e26019-7e65-4ad8-9af6-bfdf51ef2bce
+esoReport		1.6.1	101051	eso Report	codeWarrior82	52e26019-7e65-4ad8-9af6-bfdf51ef2bce
 EsoTR		Rahaaden1.0.7	101049 101050 101051	Türkçe çeviri - ESOTR	XANTOSTR	56b19964-a32d-4e97-b922-6d446ff6b6fc
 EsoTR_Lite		TEST	101049 101050 101051	ESOTR_TEST_MODUL	XANTOSTR	cbc2e748-501a-4137-8faa-cabf349da2d7
 essenceThiefTracker		1.0.5	101051	Essence Thief Tracker	codeWarrior82	e6634e8a-1c51-45d7-ba7b-f062e50e5ee8
@@ -228,7 +228,7 @@ FlexibleBars	100	1.0.0	101047	Flexible Bars	M0R	4be7617d-7e6d-42bf-bcbb-921e37ac
 Forpl-KDA-Bar	100	v1.1.1	101050	Forpl-KDA-Bar	Forpl	844b3c4f-aa76-42d6-8ef7-dcf6dec3b447
 FrenziedMomentumTracker		1.2.0	101051	Frenzied Momentum Tracker	codeWarrior82	35f1d905-7f5e-4e44-90e8-b304454b4bc9
 FunKillFeed		1.4.8	101049 101050	FunKillFeed	SugaComa	08954d6b-1604-4daf-9cf3-99b327dd7afd
-FurnishingCatalog	10000	FurnishingCatalog-1.7.0-2026-11-18T122442	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
+FurnishingCatalog	10000	FurnishingCatalog-1.8.0-2026-11-18T221731	101050 101051	dev sandbox 2	clubwratt	bc6b3b76-f701-4533-9492-c50acb1783bc
 FurnishingTracker		1.0.18	101050	Furnishing Tracker	Eldibabalo	c49eb98c-6821-47de-9cb2-10b972d1a55f
 FurnitureBuilder	12	V0.5.5	101051	Furniture Placer	killerkev77	33acf830-6318-4dc0-8458-4a061eca1ad3
 FurnitureFinder	3	V0.3.1	101051 101052	Furniture Finder	killerkev77	2b591c30-b518-46da-978a-c1a788963735
@@ -492,7 +492,7 @@ PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371f
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsOnlineStatusAlert	1	0.1.0	101050 101051	PinkB's OnlineStatusAlert	PinkBanther	acc220d2-3d92-4f47-8eae-979714894059
-PBsPlayerMarkerExtension	5	0.4.1	101050 101051	PinkB's PlayerMarkerExtension(Beta)	PinkBanther	a65f7431-18ba-4958-a2e4-c2b14621d1b3
+PBsPlayerMarkerExtension	7	0.4.3	101050 101051	PinkB's PlayerMarkerExtension	PinkBanther	a5a47140-37bb-4fb8-a0be-2d8b424ad400
 PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsQuickChat	1	0.3.0	101050 101051	PinkB's QuickChat	PinkBanther	e71bb4da-eb0c-4506-a479-9a4260b65fd9
@@ -504,7 +504,7 @@ PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanthe
 PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
 PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f00e5b13-5452-4284-98f7-2bdbe3caff63
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
-PBsWayPoint	13	0.6.1	101050 101051	PinkB's WayPoint	PinkBanther	4f27162e-d1c9-4d60-ba2b-1d33d0645a33
+PBsWayPoint	15	0.6.3	101050 101051	PinkB's WayPoint	PinkBanther	4f27162e-d1c9-4d60-ba2b-1d33d0645a33
 PBsWeaveBlockTrainer		1.4.0	101050 101051	PinkB's WeaveBlockTrainer	PinkBanther	79482b3e-9063-4aa7-a50f-81fedd155fc5
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
@@ -516,7 +516,7 @@ PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd no
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
 PlayerMascotHealth	150	v1.5.1	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
-PlayerMascotHealth2	201	v2.0.1g	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth2	202	V2.0.2	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
@@ -545,7 +545,7 @@ RanckorsBaggage	3.1.2	3.1.1	101050	Ranckor's Baggage	Ranckor90	a17836b4-17ec-478
 RandoMote		1.6.3	101048 101049 101050	RandoMote	Springpeace2575	17d96254-a61a-4bb4-9409-d369f44e867f
 RandoMoteDev		1.8.0	101048 101049 101050	RandoMote (Dev)	Springpeace2575	b1a7539b-4888-4ad6-b04c-28000d99976d
 RareFishTracker		1.43.0	101049 101050	Rare Fish Tracker	votan73	8dc100fb-6c43-4ea7-ba01-1a23d306e216
-Rebar	70	REBAR	101044	Rebar	Vixen_Hunny	1e6ecfd4-9947-49dc-9392-c5fab2256ab2
+Rebar	71	REBAR 4.0.0	101044	Rebar	Vixen_Hunny	1e6ecfd4-9947-49dc-9392-c5fab2256ab2
 RecoveryTracker	1.0.0	1.6.1	101046	RecoveryTracker	Vixen_Hunny	c8397663-7bee-4e0b-89de-16dcf5c029d7
 ResearchTracker		1.2.1	101050	Research Tracker	Eldibabalo	54cf96b5-2fa3-481c-8c8f-80854b944e56
 ReticleRainbow		1.3	101049	Reticle Rainbow	FiNk3F13	30b30033-06cc-48b7-a0c6-7be8d27487cf
@@ -582,7 +582,7 @@ ShowEquipped	10601	1.6.3	101048 101049	Show Equips	Shienar	7d3a20ff-160a-4988-b8
 SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26b16bd23b8d
 SiegeReminder	215	2.1.5	101050 101051	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
-SimpleGroupDPS		2.0.4	101051	SimpleGroupDPS2	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
+SimpleGroupDPS		2.0.8	101051	SimpleGroupDPS2	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
 SimpleGroupDPS2		1.9.31	101051	Buggy DontD	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
 SimpleOffBalanceTracker	10501	1.5.3	101048 101049	Simple Off Balance Tracker	Shienar	a2157cd5-8974-464f-b688-df9b184b6350
 SimpleUltShare	1	1	101049	SimpleUltShare	M0R	6a159f04-1342-485c-be46-ea92c4b7c730
@@ -670,7 +670,7 @@ TSCDataHub	127	127	101050	TSC Data Hub	SavageTSC	df7e78bb-63a0-4221-a1f6-36c7ac0
 TSCPriceFetcher2	124	124	101051 101052	TSC Price Fetcher 2	SavageTSC	2a88cc14-8e8c-4b73-9605-2e1d7c764e23
 TurningTide	010101	1.1.1	101051	TurningTide	tmbrinks	853b60aa-f47b-4f79-bd43-88c1f37e8a9a
 turningTideTracker		1.3.4	101051	Turning Tide Tracker	codeWarrior82	54292201-deac-4b5d-a9ac-151313446029
-UnchainedHelper		2.0	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
+UnchainedHelper		2.1	101050	Unchained Helper	BLKx777	acfe07fa-8e20-4f70-b0be-6425a61c4fda
 UndauntedDaily	49	1.7.9	101045 101046	Undaunted Daily	sirinsidiator	db3e5212-7543-479f-a881-7cda2bd1a1c9
 UnderPressure	25	0.5.14	101051	Under Pressure	Th3rtythr33	cb26e578-84c4-4196-9aee-7e0e53f3d6a1
 UniversalEffectTracker	20402	2.4.2	101051 101052	Universal Effect Tracker	Shienar	0b7868ba-bd96-4cff-a633-8ad4ff7c5829
@@ -688,7 +688,7 @@ VestigeMirror		v1.0.1	101049	Vestige Mirror	Wrynch	76fce7e2-297a-472f-bdf6-3e807
 VotansFisherman		1.16.4	101051 101052	Votan's Fisherman	votan73	033f7a4a-8918-4753-be5b-2874afa50230
 VotansMiniMap		2.3.0	101051 101052	Votan's Minimap	votan73	afe5bbbc-a2e0-48de-965a-29eff222393f
 WardrobeShortcutHUD	5	0.1.4	101051	Wardrobe Shortcut HUD	wildskiller	bfec3ddc-e9fa-4766-a474-22cb11325ac7
-wardTracker		1.2.2	101051	Hardened Ward Tracker	codeWarrior82	268f4e04-0e98-4b2c-874e-c9da484f991e
+wardTracker		1.2.9	101051	Hardened Ward Tracker	codeWarrior82	268f4e04-0e98-4b2c-874e-c9da484f991e
 warHornTracker		1.4.7	101051	WarHorn Tracker	codeWarrior82	d978b81f-b679-4aa8-b9a2-6d1b0511c3b3
 warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-813e-c178bb11a1e5
 WarmasktrackerByJH		1.5	101051 101050	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
