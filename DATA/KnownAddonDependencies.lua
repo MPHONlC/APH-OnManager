@@ -296,6 +296,7 @@ AoM.KnownAddonDependencies = {
 	["LeadsOrganizer"] = { "BeamMeUp", "LibAddonMenu-2.0" },
 	["LeoTrainer"] = { "DolgubonsLazyWritCreator", "FCOItemSaver", "PersonalAssistant" },
 	["LethalPVPInsights"] = { "LibChatMessage" },
+	["LetsFurnish"] = { "LetsFurnish_Inbox", "TamrielTradeCentre" },
 	["libAddonKeybinds"] = { "LibAddonMenu-2.0", "LibHarvensAddonSettings" },
 	["LibAddonMenu-2.0"] = { "LibDebugLogger", "LibHarvensAddonSettings", "LibStub" },
 	["LibAkaUtils"] = { "LibChatMessage" },
