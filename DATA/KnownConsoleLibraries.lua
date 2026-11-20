@@ -29,6 +29,7 @@ LibCustomNames	20261116	2026-11-16	101049 101050	LibCustomNames	m00nyONE	5eaa0d9
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	329	2.7.1	101051 101052	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
+LibESQL	10000	1.0.00	101049 101050	LibESQL	Vixen_Hunny	358e5bc1-5cc6-461f-ac0f-fde2dfe327a3
 LibFights	10000	1.0.0	101047 101048	LibFights	Vixen_Hunny	8be171bd-c74f-44e8-811e-65bda3a42015
 LibFurnitureCatalogue	1002000	v1.2.0	101051 101052	LibFurnitureCatalogue	killerkev77	f3fd583d-fcc3-4b4b-a454-8f3743390934
 LibGamepad	107	1.0.8	101049	LibGamepad	YeOldeDragon	37661fa7-7702-4eeb-b3ed-7e840aa17647

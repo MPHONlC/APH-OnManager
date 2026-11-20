@@ -186,7 +186,7 @@ DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a5
 DreadVision	602	A	101049 101050	Dread Vision	Dreadazar	0db118b4-92d1-4b06-b81a-64a67e477e60
 DryzlerElderGeekNetLore		1.15	101047 101048	Dryzler's LoreBooks	Sharlikran	747e5279-71c7-4d0b-8db8-5c7552b2ed65
 DuelResults	300	2.0.0	101046	Duel Results	Vixen_Hunny	47568dd9-5328-4e2a-9862-c59932473a4b
-DungeonRating	11	v1.0	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
+DungeonRating	11	v1.2	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
 DungeonTrialTracker		2.0.4	101047	Dungeon Tracker	Eldibabalo	75746296-2f24-4d95-8fb5-1954d00fc1d6
 DVDScreenSaver		1.3.1	101048	DVD ScreenSaver	Phamo1000	f0561a3c-bea9-49e8-926e-53825934fb7e
 DWAllianceRankProgress	19	1.18	101048 101049	Alliance Rank Progress	Dusty-Warehouse	8e880053-fe2b-4934-9745-a0670e1e12d6
@@ -208,6 +208,7 @@ EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42
 esoReport		1.6.1	101051	eso Report	codeWarrior82	52e26019-7e65-4ad8-9af6-bfdf51ef2bce
 EsoTR		Rahaaden1.0.7	101049 101050 101051	Türkçe çeviri - ESOTR	XANTOSTR	56b19964-a32d-4e97-b922-6d446ff6b6fc
 EsoTR_Lite		TEST	101049 101050 101051	ESOTR_TEST_MODUL	XANTOSTR	cbc2e748-501a-4137-8faa-cabf349da2d7
+ESQL	10000	1.0.00	101049 101050	ESQL	Vixen_Hunny	87e2599d-75fd-4fc9-94cd-630ad0c04a8b
 essenceThiefTracker		1.0.5	101051	Essence Thief Tracker	codeWarrior82	e6634e8a-1c51-45d7-ba7b-f062e50e5ee8
 Ev	20002	1.1	101047 101046	Ev	Mr_tee21	dd556dbe-ac20-41a5-8dba-9ba37eb97347
 EWPFinder	1	4.0.3 Removed Constant return	101046	EWPFinder	Vixen_Hunny	bf9cbf1c-54ac-48f3-b489-a2aeda4996e8
@@ -246,6 +247,7 @@ GearTracker	204	1.10	101051	GearTracker	thewizadt	fa5da270-ccfe-454b-ba19-459999
 GildedUI		0.2.46	101050 101051	Gilded UI	Fluazinam	5dce8bc1-61a1-4273-a23e-f74372f36b40
 GoldLedger	8	1.5.1	101050	Gold Ledger	Eldibabalo	53c19565-2bb9-4872-a40f-90825e736a2f
 GoldNation		1.1.1		Gold Nation	SvlphvryVoid	a168ff84-818b-4e00-9168-0c0c80a6d5af
+GoldStandard		v0.5	101050	Gold Standard	m1lkst3ak	07abcedb-fa80-4064-afa8-408641a6e79e
 gorethiefTracker		1.1.3	101051	Gorethief Tracker	codeWarrior82	6077d87d-fafc-431b-9380-f25348d7b430
 GoronDev		0.0.2	101047 101048	Goron Dev	goron_spice	4ff8232a-3b96-4a66-8401-dad48e8b5301
 GottaOpenEmAll		1.0.1	101048 101049	Gotta Open 'em all!	Eldibabalo	c8456e9d-2e93-40d9-a266-88d0ad1f9332
@@ -343,6 +345,7 @@ LibCustomNames	20261116	2026-11-16	101049 101050	LibCustomNames	m00nyONE	5eaa0d9
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	329	2.7.1	101051 101052	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
+LibESQL	10000	1.0.00	101049 101050	LibESQL	Vixen_Hunny	358e5bc1-5cc6-461f-ac0f-fde2dfe327a3
 LibFights	10000	1.0.0	101047 101048	LibFights	Vixen_Hunny	8be171bd-c74f-44e8-811e-65bda3a42015
 LibFurnitureCatalogue	1002000	v1.2.0	101051 101052	LibFurnitureCatalogue	killerkev77	f3fd583d-fcc3-4b4b-a454-8f3743390934
 LibGamepad	107	1.0.8	101049	LibGamepad	YeOldeDragon	37661fa7-7702-4eeb-b3ed-7e840aa17647
@@ -492,7 +495,7 @@ PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371f
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsOnlineStatusAlert	1	0.1.0	101050 101051	PinkB's OnlineStatusAlert	PinkBanther	acc220d2-3d92-4f47-8eae-979714894059
-PBsPlayerMarkerExtension	7	0.4.3	101050 101051	PinkB's PlayerMarkerExtension	PinkBanther	a5a47140-37bb-4fb8-a0be-2d8b424ad400
+PBsPlayerMarkerExtension	8	0.4.4	101050 101051	PinkB's PlayerMarkerExtension	PinkBanther	a5a47140-37bb-4fb8-a0be-2d8b424ad400
 PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsQuickChat	1	0.3.0	101050 101051	PinkB's QuickChat	PinkBanther	e71bb4da-eb0c-4506-a479-9a4260b65fd9
@@ -518,9 +521,10 @@ PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d7
 PlayerMascotHealth	150	v1.5.1	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotHealth2	202	V2.0.2	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PMH2_Pack_Xmas2026	1	V2.0.2.x	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
 PowerLashTracker	1.0.0	PLT 2.0.0	101048	Power Lash Tracker	Vixen_Hunny	32111121-29be-4447-ba40-3c064d28680e
-PreviewAnywhere	10302	PreviewAnywhere-1.3.2-2026-11-16T171901	101050 101051	Preview Anywhere	clubwratt	b5cc1fef-6afb-46ca-a772-f1b71c39530c
+PreviewAnywhere	10303	PreviewAnywhere-1.3.3-2026-11-19T134959	101050 101051	Preview Anywhere	clubwratt	b5cc1fef-6afb-46ca-a772-f1b71c39530c
 PriorityBunny	400	0.4.0	101050	Priority Bunny	Jokergrrrrl	fa4ee6fb-c601-4163-998f-801078e1eac0
 ProcReminder	1.0.0	1.0.2	101049	Proc Reminder	Vixen_Hunny	541ab871-9386-4990-a3c7-32563ded9243
 ProvisioningWatcher		1.1	101042	Provisioning Watcher	PatientX_81	bb95b657-e191-43cd-84b3-63ed659b9248
@@ -593,6 +597,7 @@ SmartLooter	101020	1.1.2	101051	Smart Looter	code65536	09511722-e9f3-4e32-b5f9-d
 SmartTrader		SmartTrader-2.1.91-2026-07-28T215530	101043	Smart Trader	clubwratt	d9742ac5-f315-4712-8383-b1a170801ba9
 SnipersFriend		SnipersFriend-0.8.0-2026-10-03T042857	101049 101050	Snipers Friend	clubwratt	18d399f0-14ef-40a3-8f08-1aaa8cd0a5de
 SNR		v1.0.9	101049 101050	Smart Node Radar	rockintrumpet	923318b4-3671-40d4-93f3-49d2f9203093
+SortedDungeons	1	1	101051 101052	Sorted Dungeons	Dack.Janiels	a045f9eb-2dd4-4d17-8be7-ce5f6da4d386
 SpaulderNotifier	10302	1.3.4	101048 101049	Spaulder Notifier	Shienar	13e3ca65-dc26-4831-a1f1-e950fd465df9
 SPFLib		1.0.0	101048 101049 101050	SPFLib	Springpeace2575	9d474e3f-7d1b-46fc-9b81-3949ad0f70e5
 SpringPeaceDev		1.8.6	101048 101049 101050	SpringPeace (Dev)	Springpeace2575	992e3a70-4653-4937-9089-bfee29417439

@@ -238,6 +238,20 @@
    "updatedAt": 1795033042,
    "version": "15.0.0"
   },
+  "07abcedb-fa80-4064-afa8-408641a6e79e/GoldStandard": {
+   "addOnVersion": "",
+   "addonId": "07abcedb-fa80-4064-afa8-408641a6e79e",
+   "apiVersion": "101050",
+   "author": "m1lkst3ak",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "GoldStandard",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 TSCPriceDataAPI TSCPriceDataLite",
+   "title": "Gold Standard",
+   "updatedAt": 1795137225,
+   "version": "v0.5"
+  },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1/PBsGammaAdjuster": {
    "addOnVersion": "",
    "addonId": "07ad2fa8-6b34-4021-bcb1-886119449ac1",
@@ -2226,6 +2240,20 @@
    "updatedAt": 1795019882,
    "version": "0.1.1"
   },
+  "358e5bc1-5cc6-461f-ac0f-fde2dfe327a3/LibESQL": {
+   "addOnVersion": "10000",
+   "addonId": "358e5bc1-5cc6-461f-ac0f-fde2dfe327a3",
+   "apiVersion": "101049 101050",
+   "author": "Vixen_Hunny",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "LibESQL",
+   "isLibrary": "true",
+   "optionalDependsOn": "",
+   "title": "LibESQL",
+   "updatedAt": 1795133205,
+   "version": "1.0.00"
+  },
   "35920898-3b27-4e32-9f59-c0d8fee0b3bb/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
    "addonId": "35920898-3b27-4e32-9f59-c0d8fee0b3bb",
@@ -3779,6 +3807,20 @@
    "title": "Furniture Plan Search",
    "updatedAt": 1791313428,
    "version": "0.2.4"
+  },
+  "5d143529-b075-433f-b9b6-c5e28e44497a/PMH2_Pack_Xmas2026": {
+   "addOnVersion": "1",
+   "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
+   "apiVersion": "101048 101049 101050 101051",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 35,
+   "folder": "PMH2_Pack_Xmas2026",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Mascot",
+   "updatedAt": 1795130394,
+   "version": "V2.0.2.x"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth": {
    "addOnVersion": "150",
@@ -5474,6 +5516,20 @@
    "updatedAt": 1793039912,
    "version": "0.0.59"
   },
+  "87e2599d-75fd-4fc9-94cd-630ad0c04a8b/ESQL": {
+   "addOnVersion": "10000",
+   "addonId": "87e2599d-75fd-4fc9-94cd-630ad0c04a8b",
+   "apiVersion": "101049 101050",
+   "author": "Vixen_Hunny",
+   "dependsOn": "LibESQL>=10000",
+   "downloads": 0,
+   "folder": "ESQL",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "ESQL",
+   "updatedAt": 1795133346,
+   "version": "1.0.00"
+  },
   "88739d40-c764-4276-9157-ba0eb1d47805/Nemesis": {
    "addOnVersion": "100",
    "addonId": "88739d40-c764-4276-9157-ba0eb1d47805",
@@ -6510,6 +6566,20 @@
    "updatedAt": 1794332884,
    "version": "0.4.2"
   },
+  "a045f9eb-2dd4-4d17-8be7-ce5f6da4d386/SortedDungeons": {
+   "addOnVersion": "1",
+   "addonId": "a045f9eb-2dd4-4d17-8be7-ce5f6da4d386",
+   "apiVersion": "101051 101052",
+   "author": "Dack.Janiels",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "SortedDungeons",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Sorted Dungeons",
+   "updatedAt": 1795124147,
+   "version": "1"
+  },
   "a095f0da-9f45-4dde-a150-2c9b09ba7317/TrueExploration": {
    "addOnVersion": "203",
    "addonId": "a095f0da-9f45-4dde-a150-2c9b09ba7317",
@@ -6693,32 +6763,32 @@
    "version": "v2.5.1"
   },
   "a5a47140-37bb-4fb8-a0be-2d8b424ad400/PBsPlayerMarkerExtension": {
-   "addOnVersion": "7",
+   "addOnVersion": "8",
    "addonId": "a5a47140-37bb-4fb8-a0be-2d8b424ad400",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 5,
+   "downloads": 6,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension",
-   "updatedAt": 1795113527,
-   "version": "0.4.3"
+   "updatedAt": 1795115030,
+   "version": "0.4.4"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3/PBsPlayerMarkerExtension": {
-   "addOnVersion": "7",
+   "addOnVersion": "8",
    "addonId": "a65f7431-18ba-4958-a2e4-c2b14621d1b3",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 11,
+   "downloads": 14,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension(Beta)",
-   "updatedAt": 1795113488,
-   "version": "0.4.3"
+   "updatedAt": 1795114997,
+   "version": "0.4.4"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -7351,18 +7421,18 @@
    "version": "0.2.9"
   },
   "b5cc1fef-6afb-46ca-a772-f1b71c39530c/PreviewAnywhere": {
-   "addOnVersion": "10302",
+   "addOnVersion": "10303",
    "addonId": "b5cc1fef-6afb-46ca-a772-f1b71c39530c",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 142,
+   "downloads": 197,
    "folder": "PreviewAnywhere",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger",
    "title": "Preview Anywhere",
-   "updatedAt": 1794878354,
-   "version": "PreviewAnywhere-1.3.2-2026-11-16T171901"
+   "updatedAt": 1795125015,
+   "version": "PreviewAnywhere-1.3.3-2026-11-19T134959"
   },
   "b630804a-0ccd-4828-8c9e-945790ec3774/AccountHold": {
    "addOnVersion": "26101700",
@@ -8210,13 +8280,13 @@
    "apiVersion": "101051 101052",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 12,
+   "downloads": 14,
    "folder": "DungeonRating",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
    "title": "Dungeon Buddy",
-   "updatedAt": 1795071354,
-   "version": "v1.0"
+   "updatedAt": 1795133364,
+   "version": "v1.2"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
    "addOnVersion": "01000120",
@@ -10770,6 +10840,12 @@
    ],
    "version": "15.0.0"
   },
+  "07abcedb-fa80-4064-afa8-408641a6e79e": {
+   "folders": [
+    "GoldStandard"
+   ],
+   "version": "v0.5"
+  },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1": {
    "folders": [
     "PBsGammaAdjuster"
@@ -11641,6 +11717,12 @@
    ],
    "version": "0.1.1"
   },
+  "358e5bc1-5cc6-461f-ac0f-fde2dfe327a3": {
+   "folders": [
+    "LibESQL"
+   ],
+   "version": "1.0.00"
+  },
   "35920898-3b27-4e32-9f59-c0d8fee0b3bb": {
    "folders": [
     "PBsQuestTrackerFontChanger"
@@ -12319,9 +12401,9 @@
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a": {
    "folders": [
-    "PlayerMascotHealth2"
+    "PMH2_Pack_Xmas2026"
    ],
-   "version": "V2.0.2"
+   "version": "V2.0.2.x"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
    "folders": [
@@ -13048,6 +13130,12 @@
    ],
    "version": "0.0.59"
   },
+  "87e2599d-75fd-4fc9-94cd-630ad0c04a8b": {
+   "folders": [
+    "ESQL"
+   ],
+   "version": "1.0.00"
+  },
   "88739d40-c764-4276-9157-ba0eb1d47805": {
    "folders": [
     "Nemesis"
@@ -13505,6 +13593,12 @@
    ],
    "version": "0.4.2"
   },
+  "a045f9eb-2dd4-4d17-8be7-ce5f6da4d386": {
+   "folders": [
+    "SortedDungeons"
+   ],
+   "version": "1"
+  },
   "a095f0da-9f45-4dde-a150-2c9b09ba7317": {
    "folders": [
     "TrueExploration"
@@ -13588,13 +13682,13 @@
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.3"
+   "version": "0.4.4"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3": {
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.3"
+   "version": "0.4.4"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -13877,7 +13971,7 @@
    "folders": [
     "PreviewAnywhere"
    ],
-   "version": "PreviewAnywhere-1.3.2-2026-11-16T171901"
+   "version": "PreviewAnywhere-1.3.3-2026-11-19T134959"
   },
   "b5df6547-9de1-4e95-b67c-61a4cdd504e7": {
    "folders": [],
@@ -14244,7 +14338,7 @@
    "folders": [
     "DungeonRating"
    ],
-   "version": "v1.0"
+   "version": "v1.2"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d": {
    "folders": [

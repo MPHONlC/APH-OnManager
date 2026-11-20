@@ -88,6 +88,7 @@ EsoKR	AdvancedNameplates
 EsoPL	LibHarvensAddonSettings
 EsoTR	LibHarvensAddonSettings
 EsoTR_Lite	LibHarvensAddonSettings
+ESQL	LibHarvensAddonSettings
 essenceThiefTracker	LibNotify
 EyeOnKeep	LibHarvensAddonSettings
 EyesOfTheUndaunted	LibRadialMenu
@@ -106,6 +107,7 @@ GamePadHelper	LibPriceCache	TSCPriceDataAPIPSEU	TSCPriceDataAPIPSNA	TSCPriceData
 GamepadHUDCustomizer	LibAddonMenu-2.0	LibHarvensAddonSettings
 GamepadInventoryTweaks	LibDebugLogger	LibGamepad
 GamepadUITweaks	LibGamepad
+GoldStandard	LibAddonMenu-2.0	TSCPriceDataAPI	TSCPriceDataLite
 gorethiefTracker	LibNotify
 GroupFrames	LibGroupBroadcast	LibGroupCombatStats	LibGroupResources	LibHarvensAddonSettings
 GroupReset	HodorReflexes

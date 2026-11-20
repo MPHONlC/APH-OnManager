@@ -107,6 +107,7 @@ LibCustomNames	Libraries
 LibDateTime	Libraries
 LibDebugLogger	Libraries
 LibDynamicMail	Libraries
+LibESQL	Libraries
 LibFights	Libraries
 LibFurnitureCatalogue	Libraries
 LibGamepad	Libraries
