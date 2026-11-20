@@ -61,6 +61,7 @@ DWAllianceRankProgress	Character Advancement
 EsoAR	Unofficial game translations
 EsoKR	Unofficial game translations
 EsoTR	Unofficial game translations
+ESQL	Plug-Ins & Patches
 ExoYsCruxTracker	Arcanist
 EyeOnKeep	PvP
 FCOLockpicker	Miscellaneous

@@ -244,13 +244,13 @@
    "apiVersion": "101050",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 10,
    "folder": "GoldStandard",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 TSCPriceDataAPI TSCPriceDataLite",
    "title": "Gold Standard",
-   "updatedAt": 1795137225,
-   "version": "v0.5"
+   "updatedAt": 1795149086,
+   "version": "v1.01"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1/PBsGammaAdjuster": {
    "addOnVersion": "",
@@ -3837,18 +3837,18 @@
    "version": "v1.5.1"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth2": {
-   "addOnVersion": "202",
+   "addOnVersion": "205",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 34,
+   "downloads": 38,
    "folder": "PlayerMascotHealth2",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1795102902,
-   "version": "V2.0.2"
+   "updatedAt": 1795182330,
+   "version": "v2.0.5"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -6096,13 +6096,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 5,
+   "downloads": 7,
    "folder": "LiveBuffUptime2",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Testo",
-   "updatedAt": 1794741125,
-   "version": "2.4.15"
+   "updatedAt": 1795175233,
+   "version": "2.4.17"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a/CraftMaterialAssistant": {
    "addOnVersion": "",
@@ -8280,27 +8280,27 @@
    "apiVersion": "101051 101052",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 14,
+   "downloads": 18,
    "folder": "DungeonRating",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
    "title": "Dungeon Buddy",
-   "updatedAt": 1795133364,
-   "version": "v1.2"
+   "updatedAt": 1795157834,
+   "version": "v1.4"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000120",
+   "addOnVersion": "01000121",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 21401,
+   "downloads": 21760,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1795060815,
-   "version": "1.0.120"
+   "updatedAt": 1795147214,
+   "version": "1.0.121"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -9383,16 +9383,16 @@
   "e1710013-83a1-4e50-941a-5464d85d587c/AmIBlockingPlus": {
    "addOnVersion": "",
    "addonId": "e1710013-83a1-4e50-941a-5464d85d587c",
-   "apiVersion": "101051",
+   "apiVersion": "101051 101052",
    "author": "Lykeion+",
    "dependsOn": "",
-   "downloads": 63093,
+   "downloads": 69454,
    "folder": "AmIBlockingPlus",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Am I Blocking+",
-   "updatedAt": 1786039148,
-   "version": "3.14"
+   "updatedAt": 1795160971,
+   "version": "3.15"
   },
   "e1b107d5-082e-4ed1-9cfc-81b9a42e0528/AlkoshSynergyTracker": {
    "addOnVersion": "10",
@@ -10844,7 +10844,7 @@
    "folders": [
     "GoldStandard"
    ],
-   "version": "v0.5"
+   "version": "v1.01"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1": {
    "folders": [
@@ -12401,9 +12401,9 @@
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a": {
    "folders": [
-    "PMH2_Pack_Xmas2026"
+    "PlayerMascotHealth2"
    ],
-   "version": "V2.0.2.x"
+   "version": "v2.0.5"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
    "folders": [
@@ -13391,7 +13391,7 @@
    "folders": [
     "LiveBuffUptime2"
    ],
-   "version": "2.4.15"
+   "version": "2.4.17"
   },
   "949980bd-b411-4102-82d7-4e64ba17bc3a": {
    "folders": [
@@ -14338,13 +14338,13 @@
    "folders": [
     "DungeonRating"
    ],
-   "version": "v1.2"
+   "version": "v1.4"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d": {
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.120"
+   "version": "1.0.121"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -14840,7 +14840,7 @@
    "folders": [
     "AmIBlockingPlus"
    ],
-   "version": "3.14"
+   "version": "3.15"
   },
   "e17d8325-5ee4-4349-bae0-f777d0d9633b": {
    "folders": [],

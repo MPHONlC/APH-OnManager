@@ -42,7 +42,7 @@ AltBossBar		v3.4	101050 101051	Alternative Boss Bar	j.hhh	ab71c694-e122-4792-926
 AlternateDeathRecap	30200	3.3	101049 101050	AlternateDeathRecap	Shienar	9e55edc2-32f8-4c75-b87c-e921fd53e9cf
 AltGroupFrames	30	v1.3.2	101049 101050	Alternative Group Frames	j.hhh	a020fed1-e58d-4c59-8ec5-6fb71e8ee9cc
 AM0RAutoInv	100	1.0.0	101046	A More Automated Invite	M0R	44437e40-fb6e-46cb-9717-9b21c46fc1cf
-AmIBlockingPlus		3.14	101051	Am I Blocking+	Lykeion+	e1710013-83a1-4e50-941a-5464d85d587c
+AmIBlockingPlus		3.15	101051 101052	Am I Blocking+	Lykeion+	e1710013-83a1-4e50-941a-5464d85d587c
 An_Daghdha1233Inventory	8	0.4.1	101051	An_Daghdha1233 Inventory	ForiMonster	be795295-0a8b-40e3-9fc6-f3086e0f202c
 Andy	101100	1.1.2	101048	AddonAnalyzer (ANDY) - Checks for malicious, stolen, or other flagged content in addons!	CallMeLent	0495e6ed-49a8-4a03-b529-048fbc4b758a
 AntiAllCaps		1.1	101045 101046	Anti All Caps	Dolgubon	556512a1-fb7c-4558-9572-f7cf6fd8b171
@@ -186,7 +186,7 @@ DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a5
 DreadVision	602	A	101049 101050	Dread Vision	Dreadazar	0db118b4-92d1-4b06-b81a-64a67e477e60
 DryzlerElderGeekNetLore		1.15	101047 101048	Dryzler's LoreBooks	Sharlikran	747e5279-71c7-4d0b-8db8-5c7552b2ed65
 DuelResults	300	2.0.0	101046	Duel Results	Vixen_Hunny	47568dd9-5328-4e2a-9862-c59932473a4b
-DungeonRating	11	v1.2	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
+DungeonRating	11	v1.4	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
 DungeonTrialTracker		2.0.4	101047	Dungeon Tracker	Eldibabalo	75746296-2f24-4d95-8fb5-1954d00fc1d6
 DVDScreenSaver		1.3.1	101048	DVD ScreenSaver	Phamo1000	f0561a3c-bea9-49e8-926e-53825934fb7e
 DWAllianceRankProgress	19	1.18	101048 101049	Alliance Rank Progress	Dusty-Warehouse	8e880053-fe2b-4934-9745-a0670e1e12d6
@@ -247,7 +247,7 @@ GearTracker	204	1.10	101051	GearTracker	thewizadt	fa5da270-ccfe-454b-ba19-459999
 GildedUI		0.2.46	101050 101051	Gilded UI	Fluazinam	5dce8bc1-61a1-4273-a23e-f74372f36b40
 GoldLedger	8	1.5.1	101050	Gold Ledger	Eldibabalo	53c19565-2bb9-4872-a40f-90825e736a2f
 GoldNation		1.1.1		Gold Nation	SvlphvryVoid	a168ff84-818b-4e00-9168-0c0c80a6d5af
-GoldStandard		v0.5	101050	Gold Standard	m1lkst3ak	07abcedb-fa80-4064-afa8-408641a6e79e
+GoldStandard		v1.01	101050	Gold Standard	m1lkst3ak	07abcedb-fa80-4064-afa8-408641a6e79e
 gorethiefTracker		1.1.3	101051	Gorethief Tracker	codeWarrior82	6077d87d-fafc-431b-9380-f25348d7b430
 GoronDev		0.0.2	101047 101048	Goron Dev	goron_spice	4ff8232a-3b96-4a66-8401-dad48e8b5301
 GottaOpenEmAll		1.0.1	101048 101049	Gotta Open 'em all!	Eldibabalo	c8456e9d-2e93-40d9-a266-88d0ad1f9332
@@ -390,11 +390,11 @@ LibVotansAddonList	11001	1.10.1	101051 101052	Votan's Addon List	votan73	e0ba98a
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
 LiveBuffUptime		2.5.1	101051	Live Buff Uptime	FiNk3F13	656a56dd-1f9a-428e-a52e-dc72a77de425
-LiveBuffUptime2		2.4.15	101051	Testo	FiNk3F13	937915ef-c930-46a4-ad1d-baf147c74e87
+LiveBuffUptime2		2.4.17	101051	Testo	FiNk3F13	937915ef-c930-46a4-ad1d-baf147c74e87
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000120	1.0.120	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000121	1.0.121	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -519,7 +519,7 @@ PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd no
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
 PlayerMascotHealth	150	v1.5.1	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
-PlayerMascotHealth2	202	V2.0.2	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth2	205	v2.0.5	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PMH2_Pack_Xmas2026	1	V2.0.2.x	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
