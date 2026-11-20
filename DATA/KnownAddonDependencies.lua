@@ -180,6 +180,7 @@ AoM.KnownAddonDependencies = {
 	["EsoTR"] = { "LibAddonMenu-2.0", "LibHarvensAddonSettings" },
 	["EsoTradingHub"] = { "AwesomeGuildStore", "LibHistoire" },
 	["EsoUA"] = { "AwesomeGuildStore", "EasyTravel", "IIfA", "ItemBrowser", "TamrielTradeCentre", "Unboxer", "WishList" },
+	["ESQL"] = { "LibHarvensAddonSettings" },
 	["EssentialHousingTools"] = { "DecoTrack", "LibGPS", "LibMapPing" },
 	["EventTracker"] = { "LibSlashCommander" },
 	["ExoYsProcSetTimer"] = { "LuiExtended" },
