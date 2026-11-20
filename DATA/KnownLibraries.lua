@@ -72,7 +72,7 @@ LibBinaryEncode	34	1.34	1647	101033	LibBinaryEncode	LBE
 LibBitSet	1	0.0.1	3960	101043	LibBitSet	LibBitSet
 LibBSCWizardBridge	2	1.0.1	4644	101048 101049 101050	LibBSCWizardBridge	LibBSCWizardBridge
 LibCharacter	8	0.0.8	2806	100035 101031	LibCharacter	LibCharacter
-LibCharacterKnowledge	301030	3.1.3	3317	101051 101052	LibCharacterKnowledge	LCK
+LibCharacterKnowledge	301040	3.1.4	3317	101051 101052	LibCharacterKnowledge	LCK
 LibCharacterKnowledgeZHPatch	200001	2.0.0.1	3899	101042	LibCharacterKnowledgeZHPatch	LibCharacterKnowledgeZHPatch
 LibChatMenuButton	1006	1.6	3805	101042	LibChatMenuButton	LibChatMenuButton
 LibChatMessage	120	1.2.3	2382	101050	LibChatMessage	LCMsg
