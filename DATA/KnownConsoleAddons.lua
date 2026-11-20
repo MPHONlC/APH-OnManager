@@ -111,7 +111,7 @@ BuildAdvisor	5	0.1.6	101050 101051	BuildAdvisor	yodased-mods	c0db4e1c-b7ae-4821-
 BuildForge	1617	1.6.17	101050	Test suite	Tekatsu	dc420d92-00cf-428d-8c89-a7cb5ceecd44
 BulkBuy		1.8.2	101047	Bulk buy	Copper0	0ad00225-1c8b-4f4a-8e95-ca8986209a7f
 CadenceCoach		0.0.7	101049 101050	CadenceCoach	SugaComa	09535f7c-d041-4d75-963a-167fa47d3df2
-CallToArm		1.3.2	101051 101050	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
+CallToArm		1.3.3	101051 101050	Call To Arms	SugaComa	72f77b51-a84a-492e-a266-4f7175a53a71
 CameraAngles	10001	CameraAngles-1.0.1-2026-11-18T132834	101050 101051	Camera Angles	clubwratt	1adfc207-cad7-41d9-b92b-11ec9ee16c24
 CanCraftMasterWrit	10300	1.3.0	101051	Can Craft Master Writ	xSuperSlayan	008cd443-6347-421a-bfcf-ddc830e8cfef
 CanITravelBack	1	0.3.6	101046	Can I Travel Back?	Xarador	8289722e-8e80-4a3d-ba1a-31ae1194ffce
@@ -166,6 +166,7 @@ CurvedHUD		1.1.3	101050 101051 101052	Curved Resource HUD	Kaos_Arbiter	bc307fb6-
 CustomCompassPins	137	1.37	101045 101046	CustomCompassPins	Sharlikran	3c805ef7-47fe-43a7-b480-52342549e9f4
 CustomQueueSoundsConsole	1	1.0.0	101048 101049 101050	Queue Sounds	Vixen_Hunny	311a560b-a6b2-4545-ba13-2c6142e34001
 CyroAlerts		3.4.0	101051	Cyrodiil Alerts	codeWarrior82	37bd7159-8611-4d29-8767-08434d4fe209
+CyrodiilMercenary		v0.2	101049 101050	Cyrodiil Mercenary	m1lkst3ak	6ae238fd-705e-4e6d-8338-f8a7bb26d34a
 DailyQuestTracker		3.3.7	101050	Daily Quest Tracker	Eldibabalo	a84f8a0c-210f-481a-b8a7-6dc95bff7664
 DarkConvergenceTimer	1.0.4	1.0.4	101049 101050	Dark Convergence Timer	SaintAres97	2709a81d-caea-4f77-a89d-0d83661bf7ee
 darkConvergenceTracker		1.0.8	101051	Dark Convergence Tracker	codeWarrior82	8dff29ed-8886-46e4-ad37-c73add153c3f
@@ -186,7 +187,7 @@ DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a5
 DreadVision	602	A	101049 101050	Dread Vision	Dreadazar	0db118b4-92d1-4b06-b81a-64a67e477e60
 DryzlerElderGeekNetLore		1.15	101047 101048	Dryzler's LoreBooks	Sharlikran	747e5279-71c7-4d0b-8db8-5c7552b2ed65
 DuelResults	300	2.0.0	101046	Duel Results	Vixen_Hunny	47568dd9-5328-4e2a-9862-c59932473a4b
-DungeonRating	11	v1.4	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
+DungeonRating	12	v1.5	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
 DungeonTrialTracker		2.0.4	101047	Dungeon Tracker	Eldibabalo	75746296-2f24-4d95-8fb5-1954d00fc1d6
 DVDScreenSaver		1.3.1	101048	DVD ScreenSaver	Phamo1000	f0561a3c-bea9-49e8-926e-53825934fb7e
 DWAllianceRankProgress	19	1.18	101048 101049	Alliance Rank Progress	Dusty-Warehouse	8e880053-fe2b-4934-9745-a0670e1e12d6
@@ -201,14 +202,14 @@ ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4d
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
 ESOCKeepMyCrafts	10	2.6.0	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
-ESOFantasy	30.0.0	v4.0	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
+ESOFantasy	31.0.0	v4.0.1	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
 esoReport		1.6.1	101051	eso Report	codeWarrior82	52e26019-7e65-4ad8-9af6-bfdf51ef2bce
 EsoTR		Rahaaden1.0.7	101049 101050 101051	Türkçe çeviri - ESOTR	XANTOSTR	56b19964-a32d-4e97-b922-6d446ff6b6fc
 EsoTR_Lite		TEST	101049 101050 101051	ESOTR_TEST_MODUL	XANTOSTR	cbc2e748-501a-4137-8faa-cabf349da2d7
-ESQL	10000	1.0.00	101049 101050	ESQL	Vixen_Hunny	87e2599d-75fd-4fc9-94cd-630ad0c04a8b
+ESQL	10000	2.0.00	101049 101050	ESQL	Vixen_Hunny	87e2599d-75fd-4fc9-94cd-630ad0c04a8b
 essenceThiefTracker		1.0.5	101051	Essence Thief Tracker	codeWarrior82	e6634e8a-1c51-45d7-ba7b-f062e50e5ee8
 Ev	20002	1.1	101047 101046	Ev	Mr_tee21	dd556dbe-ac20-41a5-8dba-9ba37eb97347
 EWPFinder	1	4.0.3 Removed Constant return	101046	EWPFinder	Vixen_Hunny	bf9cbf1c-54ac-48f3-b489-a2aeda4996e8
@@ -247,7 +248,7 @@ GearTracker	204	1.10	101051	GearTracker	thewizadt	fa5da270-ccfe-454b-ba19-459999
 GildedUI		0.2.46	101050 101051	Gilded UI	Fluazinam	5dce8bc1-61a1-4273-a23e-f74372f36b40
 GoldLedger	8	1.5.1	101050	Gold Ledger	Eldibabalo	53c19565-2bb9-4872-a40f-90825e736a2f
 GoldNation		1.1.1		Gold Nation	SvlphvryVoid	a168ff84-818b-4e00-9168-0c0c80a6d5af
-GoldStandard		v1.01	101050	Gold Standard	m1lkst3ak	07abcedb-fa80-4064-afa8-408641a6e79e
+GoldStandard		v1.1	101050	Gold Standard	m1lkst3ak	07abcedb-fa80-4064-afa8-408641a6e79e
 gorethiefTracker		1.1.3	101051	Gorethief Tracker	codeWarrior82	6077d87d-fafc-431b-9380-f25348d7b430
 GoronDev		0.0.2	101047 101048	Goron Dev	goron_spice	4ff8232a-3b96-4a66-8401-dad48e8b5301
 GottaOpenEmAll		1.0.1	101048 101049	Gotta Open 'em all!	Eldibabalo	c8456e9d-2e93-40d9-a266-88d0ad1f9332
@@ -293,7 +294,7 @@ HouseHotkey	182	1.8.2	101050 101051	House Hotkey	saranicole1980	256dc81e-d505-4e
 HousingForge	1400	1.4.0	101050	Test suite 2	Tekatsu	e1fa49c2-830c-41dc-9927-0d013ba1f21d
 HousingFPSBooster	10102	1.1.3	101050 101051	Tetsu's Housing FPS Booster	Tetsurion	febdb84e-a3d4-46d5-b70c-e9b1e491be5f
 HousingVote	19	0.4.1	101050 101051	HousingVote	yodased-mods	f78047ed-9eb4-471b-953c-3fdab2282231
-HPSMeter	4	Include MPM instead of MPS	101047 101048	Bloom HPS	Vixen_Hunny	adeb7cae-c7d2-4f05-9f6b-398235624c33
+HPSMeter	4	Include crit healing and update	101047 101048	Bloom HPS	Vixen_Hunny	adeb7cae-c7d2-4f05-9f6b-398235624c33
 IAHelper		50.09	101050	Infinite Archive Helper	Gamer_sa22	fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8
 IFG		1.1.15	101049	IFG	FIG_BOT	869cd684-8dba-4750-bdf3-9b3be03ecdc6
 ImperialCityBossTimers	10400	5.0.0	101050 101051	Imperial City Boss Timers	ParanoidGaming	6684c311-afc5-48de-8ced-f86edbe863f1
@@ -330,7 +331,7 @@ LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
 LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
 LibAsync	30106	3.1.6	101051 101052	LibAsync	votan73	72c475de-1f9e-433f-8047-57f7fb4ff786
-LibCharacterKnowledge	301030	3.1.3	101051 101052	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
+LibCharacterKnowledge	301040	3.1.4	101051 101052	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
 LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8b84-097b6d7ee558
 LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df04d0
@@ -345,7 +346,7 @@ LibCustomNames	20261116	2026-11-16	101049 101050	LibCustomNames	m00nyONE	5eaa0d9
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	329	2.7.1	101051 101052	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
-LibESQL	10000	1.0.00	101049 101050	LibESQL	Vixen_Hunny	358e5bc1-5cc6-461f-ac0f-fde2dfe327a3
+LibESQL	10000	2.0.00	101049 101050	LibESQL	Vixen_Hunny	358e5bc1-5cc6-461f-ac0f-fde2dfe327a3
 LibFights	10000	1.0.0	101047 101048	LibFights	Vixen_Hunny	8be171bd-c74f-44e8-811e-65bda3a42015
 LibFurnitureCatalogue	1002000	v1.2.0	101051 101052	LibFurnitureCatalogue	killerkev77	f3fd583d-fcc3-4b4b-a454-8f3743390934
 LibGamepad	107	1.0.8	101049	LibGamepad	YeOldeDragon	37661fa7-7702-4eeb-b3ed-7e840aa17647
@@ -584,7 +585,7 @@ ShowBagSpace		1.0	101050	ShowBagSpace	TankiestTank	b288ca12-6f96-416d-8cc1-13397
 ShowCP	4	v0.0.04	101050	Show CP	BMGxSancho	e6bacf32-d124-4c92-bc87-b477e7611861
 ShowEquipped	10601	1.6.3	101048 101049	Show Equips	Shienar	7d3a20ff-160a-4988-b8d0-991681394db8
 SideQuestTracker		v30	101048	Side Quest Tracker	0mniX	10077c6b-b1fb-4c9d-9cfe-26b16bd23b8d
-SiegeReminder	215	2.1.5	101050 101051	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
+SiegeReminder	217	2.1.7	101050 101051	Siege Reminder	SugaComa	d6deaeae-2a87-4b88-a5a6-d290aee5e616
 SimpleFPSPing		1.0.4b	101051 101050	Simple FPS & Ping	Claise	ce31d856-17b4-4951-9802-820df96527e2
 SimpleGroupDPS		2.0.8	101051	SimpleGroupDPS2	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
 SimpleGroupDPS2		1.9.31	101051	Buggy DontD	FiNk3F13	7a5d051d-6b7c-4117-8748-0b3ec7a3c234
@@ -708,6 +709,7 @@ WhispersBeyond		1.0.6	101046	Whispers Beyond	Volcano_Beetle	5aa01879-0f7a-42e6-a
 WizardsHelper	2	0.1.1	101051	Wizard's Helper	xbutch	9dcd2732-49fe-45f8-b46e-86b0f938505f
 WizardsWardrobe	402	0.4.2	101048	Wizard's Wardrobe	STUDLETON	645213de-645d-4170-a4d0-0ee977090114
 WizardsWardrobeCompanion	10001	1.0.1	101048	Wizard's Wardrobe Console Companion	RagePhoenix96	f6c4019b-59cf-4a0b-8550-0e83c807df18
+WorldBossTimer	5	0.3.0	101050 101051	Beta	FiNk3F13	8fc4dbcc-bce3-471f-a036-2fb01acd6e4a
 wretchedVitalityTracker		1.4.5	101051	Wretched Vitality Tracker	codeWarrior82	af0511e3-aa4e-4d26-8665-e486da04c1cd
 WritReady	2	2.13	101050	MWeyes	dicen9	0bb2a403-2da7-4c0d-8546-7957cbc8735b
 WWDpad	21	0.7.6	101052	DontD	FiNk3F13	21a2a61f-e085-4a88-b299-587a33bff1f5

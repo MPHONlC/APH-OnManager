@@ -63,6 +63,7 @@ CritTracker	LibRadialMenu
 CrutchAlerts	LibCustomIcons	LibFilteredChatPanel	LibGroupBroadcast	OdySupportIcons
 CurvedHUD	LibAddonMenu-2.0	LibHarvensAddonSettings
 CyroAlerts	LibNotify
+CyrodiilMercenary	LibAddonMenu-2.0	LibRadialMenu
 darkConvergenceTracker	LibNotify
 DeadMarker2	LibAddonMenu-2.0	LibAddonMenu2	LibStub
 DeadMarker_Holodeck	LibAddonMenu-2.0	LibAddonMenu2	LibStub

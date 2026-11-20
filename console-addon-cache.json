@@ -244,13 +244,13 @@
    "apiVersion": "101050",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 10,
+   "downloads": 11,
    "folder": "GoldStandard",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 TSCPriceDataAPI TSCPriceDataLite",
    "title": "Gold Standard",
-   "updatedAt": 1795149086,
-   "version": "v1.01"
+   "updatedAt": 1795199497,
+   "version": "v1.1"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1/PBsGammaAdjuster": {
    "addOnVersion": "",
@@ -2251,8 +2251,8 @@
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibESQL",
-   "updatedAt": 1795133205,
-   "version": "1.0.00"
+   "updatedAt": 1795191332,
+   "version": "2.0.00"
   },
   "35920898-3b27-4e32-9f59-c0d8fee0b3bb/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
@@ -4494,6 +4494,20 @@
    "updatedAt": 1787752698,
    "version": "3212"
   },
+  "6ae238fd-705e-4e6d-8338-f8a7bb26d34a/CyrodiilMercenary": {
+   "addOnVersion": "",
+   "addonId": "6ae238fd-705e-4e6d-8338-f8a7bb26d34a",
+   "apiVersion": "101049 101050",
+   "author": "m1lkst3ak",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "CyrodiilMercenary",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
+   "title": "Cyrodiil Mercenary",
+   "updatedAt": 1795199501,
+   "version": "v0.2"
+  },
   "6afd8b79-471b-4c3d-b785-aaef8319bc4f/BlockItemUsage": {
    "addOnVersion": "",
    "addonId": "6afd8b79-471b-4c3d-b785-aaef8319bc4f",
@@ -4724,13 +4738,13 @@
    "apiVersion": "101051 101050",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 916,
+   "downloads": 945,
    "folder": "CallToArm",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibConsoleDialogs",
    "title": "Call To Arms",
-   "updatedAt": 1794991329,
-   "version": "1.3.2"
+   "updatedAt": 1795196055,
+   "version": "1.3.3"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b/LibConsoleDialogs": {
    "addOnVersion": "10004",
@@ -5527,8 +5541,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "ESQL",
-   "updatedAt": 1795133346,
-   "version": "1.0.00"
+   "updatedAt": 1795191386,
+   "version": "2.0.00"
   },
   "88739d40-c764-4276-9157-ba0eb1d47805/Nemesis": {
    "addOnVersion": "100",
@@ -5851,6 +5865,20 @@
    "title": "Lazy Confirm (and delete)",
    "updatedAt": 1746425820,
    "version": "1.0.4"
+  },
+  "8fc4dbcc-bce3-471f-a036-2fb01acd6e4a/WorldBossTimer": {
+   "addOnVersion": "5",
+   "addonId": "8fc4dbcc-bce3-471f-a036-2fb01acd6e4a",
+   "apiVersion": "101050 101051",
+   "author": "FiNk3F13",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "WorldBossTimer",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Beta",
+   "updatedAt": 1795206437,
+   "version": "0.3.0"
   },
   "90c97baa-6170-421f-bd23-7fd88500168d/LibMessagePlugin": {
    "addOnVersion": "110",
@@ -7118,13 +7146,13 @@
    "apiVersion": "101047 101048",
    "author": "Vixen_Hunny",
    "dependsOn": "LibFights>=10000",
-   "downloads": 786,
+   "downloads": 819,
    "folder": "HPSMeter",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Bloom HPS",
-   "updatedAt": 1795065827,
-   "version": "Include MPM instead of MPS"
+   "updatedAt": 1795192700,
+   "version": "Include crit healing and update"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43/PBsLuaMemoryMonitor": {
    "addOnVersion": "",
@@ -7463,18 +7491,18 @@
    "version": "1.2"
   },
   "b6cb7ba1-4505-427c-811d-0a008aeb4e79/ESOFantasy": {
-   "addOnVersion": "30.0.0",
+   "addOnVersion": "31.0.0",
    "addonId": "b6cb7ba1-4505-427c-811d-0a008aeb4e79",
    "apiVersion": "2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 80,
+   "downloads": 87,
    "folder": "ESOFantasy",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Battle Ground Rating (BGR)",
-   "updatedAt": 1794969575,
-   "version": "v4.0"
+   "updatedAt": 1795199512,
+   "version": "v4.0.1"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3/AutoImproveGear": {
    "addOnVersion": "",
@@ -8275,18 +8303,18 @@
    "version": "2.1.7"
   },
   "c9f9f38f-e155-4e81-ab38-40b20bc1f130/DungeonRating": {
-   "addOnVersion": "11",
+   "addOnVersion": "12",
    "addonId": "c9f9f38f-e155-4e81-ab38-40b20bc1f130",
    "apiVersion": "101051 101052",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 18,
+   "downloads": 20,
    "folder": "DungeonRating",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
    "title": "Dungeon Buddy",
-   "updatedAt": 1795157834,
-   "version": "v1.4"
+   "updatedAt": 1795199508,
+   "version": "v1.5"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
    "addOnVersion": "01000121",
@@ -8863,18 +8891,18 @@
    "version": "2.3.5"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616/SiegeReminder": {
-   "addOnVersion": "215",
+   "addOnVersion": "217",
    "addonId": "d6deaeae-2a87-4b88-a5a6-d290aee5e616",
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 977,
+   "downloads": 1007,
    "folder": "SiegeReminder",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Siege Reminder",
-   "updatedAt": 1794989716,
-   "version": "2.1.5"
+   "updatedAt": 1795199316,
+   "version": "2.1.7"
   },
   "d747dd7e-77c4-4e3c-9004-4d31188c184f/RolePlayMod": {
    "addOnVersion": "",
@@ -9829,18 +9857,18 @@
    "version": "2025.05.28"
   },
   "ec23fab6-f620-4366-90ab-82e8702a62bb/LibCharacterKnowledge": {
-   "addOnVersion": "301030",
+   "addOnVersion": "301040",
    "addonId": "ec23fab6-f620-4366-90ab-82e8702a62bb",
    "apiVersion": "101051 101052",
    "author": "code65536",
    "dependsOn": "",
-   "downloads": 514381,
+   "downloads": 532611,
    "folder": "LibCharacterKnowledge",
    "isLibrary": "true",
    "optionalDependsOn": "LibAddonMenu-2.0 LibHarvensAddonSettings",
    "title": "LibCharacterKnowledge",
-   "updatedAt": 1794536653,
-   "version": "3.1.3"
+   "updatedAt": 1795188697,
+   "version": "3.1.4"
   },
   "ec9ce729-a472-4150-8f3c-1df05a369ad0/BattleScrolls": {
    "addOnVersion": "30",
@@ -10844,7 +10872,7 @@
    "folders": [
     "GoldStandard"
    ],
-   "version": "v1.01"
+   "version": "v1.1"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1": {
    "folders": [
@@ -11721,7 +11749,7 @@
    "folders": [
     "LibESQL"
    ],
-   "version": "1.0.00"
+   "version": "2.0.00"
   },
   "35920898-3b27-4e32-9f59-c0d8fee0b3bb": {
    "folders": [
@@ -11804,7 +11832,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.583"
+   "version": "0.0.586"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12681,6 +12709,12 @@
    ],
    "version": "3212"
   },
+  "6ae238fd-705e-4e6d-8338-f8a7bb26d34a": {
+   "folders": [
+    "CyrodiilMercenary"
+   ],
+   "version": "v0.2"
+  },
   "6afd8b79-471b-4c3d-b785-aaef8319bc4f": {
    "folders": [
     "BlockItemUsage"
@@ -12783,7 +12817,7 @@
    "folders": [
     "CallToArm"
    ],
-   "version": "1.3.2"
+   "version": "1.3.3"
   },
   "73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b": {
    "folders": [
@@ -13134,7 +13168,7 @@
    "folders": [
     "ESQL"
    ],
-   "version": "1.0.00"
+   "version": "2.0.00"
   },
   "88739d40-c764-4276-9157-ba0eb1d47805": {
    "folders": [
@@ -13283,6 +13317,12 @@
     "LazyConfirm"
    ],
    "version": "1.0.4"
+  },
+  "8fc4dbcc-bce3-471f-a036-2fb01acd6e4a": {
+   "folders": [
+    "WorldBossTimer"
+   ],
+   "version": "0.3.0"
   },
   "90c97baa-6170-421f-bd23-7fd88500168d": {
    "folders": [
@@ -13835,7 +13875,7 @@
    "folders": [
     "HPSMeter"
    ],
-   "version": "Include MPM instead of MPS"
+   "version": "Include crit healing and update"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43": {
    "folders": [
@@ -13993,7 +14033,7 @@
    "folders": [
     "ESOFantasy"
    ],
-   "version": "v4.0"
+   "version": "v4.0.1"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3": {
    "folders": [
@@ -14338,7 +14378,7 @@
    "folders": [
     "DungeonRating"
    ],
-   "version": "v1.4"
+   "version": "v1.5"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d": {
    "folders": [
@@ -14604,7 +14644,7 @@
    "folders": [
     "SiegeReminder"
    ],
-   "version": "2.1.5"
+   "version": "2.1.7"
   },
   "d747dd7e-77c4-4e3c-9004-4d31188c184f": {
    "folders": [
@@ -15047,7 +15087,7 @@
    "folders": [
     "LibCharacterKnowledge"
    ],
-   "version": "3.1.3"
+   "version": "3.1.4"
   },
   "ec4c8920-d10e-46dd-9a4c-fddf44cbb43e": {
    "folders": [],

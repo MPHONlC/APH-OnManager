@@ -15,7 +15,7 @@ LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
 LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
 LibAsync	30106	3.1.6	101051 101052	LibAsync	votan73	72c475de-1f9e-433f-8047-57f7fb4ff786
-LibCharacterKnowledge	301030	3.1.3	101051 101052	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
+LibCharacterKnowledge	301040	3.1.4	101051 101052	LibCharacterKnowledge	code65536	ec23fab6-f620-4366-90ab-82e8702a62bb
 LibChatMessage	120	1.2.3	101050	LibChatMessage	sirinsidiator	37466506-930a-44cb-864d-2bd760f24da7
 LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8b84-097b6d7ee558
 LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df04d0
@@ -29,7 +29,7 @@ LibCustomNames	20261116	2026-11-16	101049 101050	LibCustomNames	m00nyONE	5eaa0d9
 LibDateTime	32	1.2.0	101045 101046	LibDateTime	sirinsidiator	fc98f3c0-0b5a-4797-aaa4-379955c3310c
 LibDebugLogger	329	2.7.1	101051 101052	LibDebugLogger	sirinsidiator	031ddfc1-c44d-4452-ab48-42b7c429bc81
 LibDynamicMail	024	0.2.4	101050 101051	LibDynamicMail	saranicole1980	d98298fa-549a-4a02-ad04-7c3f0dc92445
-LibESQL	10000	1.0.00	101049 101050	LibESQL	Vixen_Hunny	358e5bc1-5cc6-461f-ac0f-fde2dfe327a3
+LibESQL	10000	2.0.00	101049 101050	LibESQL	Vixen_Hunny	358e5bc1-5cc6-461f-ac0f-fde2dfe327a3
 LibFights	10000	1.0.0	101047 101048	LibFights	Vixen_Hunny	8be171bd-c74f-44e8-811e-65bda3a42015
 LibFurnitureCatalogue	1002000	v1.2.0	101051 101052	LibFurnitureCatalogue	killerkev77	f3fd583d-fcc3-4b4b-a454-8f3743390934
 LibGamepad	107	1.0.8	101049	LibGamepad	YeOldeDragon	37661fa7-7702-4eeb-b3ed-7e840aa17647
