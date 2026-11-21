@@ -95,6 +95,7 @@ LibDataShare	20250314	2025.03.14	3297	101044 101045	LibDataShare (deprecated)	Li
 LibDataStructures	20241206	2024.12.06	4001	101044	LibDataStructures	LibDataStructures
 LibDateTime	32	1.2.0	2277	101045 101046	LibDateTime	LDT
 LibDebugLogger	331	2.7.2	2275	101051 101052	LibDebugLogger	LDL
+LibDeconValue	120	1.2	5083	101051	LibDeconValue	LibDeconValue
 LibDelayedHandler	2	0.0.2	2807	100033 100034	LibDelayedHandler	LibDelayedHandler
 LibDialog	127	1.27	1931	101039 101040	LibDialog	LibDialog
 LibDungeonFinder	120	1.2.0	4600	101049 101050	LibDungeonFinder	LibDungeonFinder
@@ -102,7 +103,7 @@ LibDynamicMail	24	0.2.4	4379	101050 101051	LibDynamicMail	LibDynamicMail
 LibEmote	1013	1.13	3715	101049	LibEmote	LibEmote
 LibEnchantingStation	234	2.3.5	2437	100033 100034	LibEnchantingStation	LibEnchantingStation
 LibEsoHubPrices	20	2026.11.16.02.54	4095	101051	LibEsoHubPrices	LibEsoHubPrices
-LibESQL	10000	1.0.0	5073	101049 101050	LibESQL	LibESQL
+LibESQL	10000	3.0.0	5073	101049 101050	LibESQL	LibESQL
 LibEventHandler	1314	1.3.14	1452	101050 101051	LorePlay Forever	LibEventHandler
 LibExecutionQueue	202	3.8.34	2753	101049 101050	Master Merchant 3.0	LibExecutionQueue
 LibExoYsUtilities	9	9	3363	101049	LibExoYsUtilities	LibExoYsUtilities

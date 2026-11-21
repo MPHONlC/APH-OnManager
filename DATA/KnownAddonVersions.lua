@@ -206,6 +206,7 @@ BetterBGSounds		2.0	4807	101046
 BetterDungeonFinder	191	1.91	3824	101048 101049
 BetterGuard	29	2.9	3974	101051
 BetterScoreboard	8	4.2	3182	101044
+BetterSocialSearch		1.1	3371	101051
 BetterStealthText		1.10	4039	101046 101047
 BetterSynergy		1.4	4029	101044
 BetterUI		3.06	2013	101049
@@ -265,7 +266,7 @@ CampaignRewardTracker	10	1.0	3821	101040
 CanThisBeCraftedAtHome		2026.07.09	3966	101050
 CapybaraIcons	194	1.9.4	4176	101050 101051
 CaracBuffDebuff	10905	1.9.5	5002	101051
-CaracMarchandise		1.1	5052	101051
+CaracMarchandise	10200	1.2	5052	101051
 CaracTracker	10100	1.1	5038	101051
 CaracVentes	10300	1.3	4995	101051
 CardCombo	3	1.0.2	4512	101049 101050
@@ -543,13 +544,14 @@ EsoTR		1.0.7	4417	101049 101050 101051
 EsoTradingHub	205	0.2.5		101051
 EsoUA		1.4	4204	101047
 ESOXP		4	4078	101048
-ESQL	10000	1.0.0	5075	101049 101050
+ESQL	10000	2.0.0	5075	101049 101050
 EssentialHousingCommunity		1776	1959	101050
 EssentialHousingTools		1776	1959	101050
 EssentialHousingToolsSaver		1776	1959
 Eventor		1049.260402	2793	101049 101050
 EventTracker	2440	2.440	2504	101051
 ExcalibursMovableInventory	10100	1.1	4794	101050 101051
+ExecuteBlocker	230	2.3.0	5082	101051 101052
 ExecuteNow		0.5.0	4067	101045
 ExoYsAchievementAnonymizer		2.1	3328	101044
 ExoYsCruxTracker		2.2.0	3619	101051
@@ -632,8 +634,8 @@ FurnitureCatalogue	8001000	8.1.0	1617	101051 101052
 FurnitureCatalogue_DevUtility		8.1.0	1617	101051 101052
 FurnitureCatalogue_Export		8.1.0	1617	101051 101052
 FurnitureFilter	2	1.0.1	4986	101051
-FurysCharacterTracker	100	1.0.0	5078	101051 101052
-FurysGuildToolset	56	1.2.2	5063	101051 101052
+FurysCharacterTracker	120	1.2.0	5078	101052 101053
+FurysGuildToolset	59	1.2.5	5063	101051 101052
 GamePadHelper	10619	1.06.19	3268	101051
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -677,6 +679,7 @@ GravvyShoppingList	37	0.19.4	4775	101050 101051
 GreasyGrabbyMitts		0.2.0	4366
 Greed	9	1	4691	101050
 GreymindQuickSlotBar		v2.7.2.25	258	101036 101051
+GridBags	25	0.15.3-beta.1	5081	101051
 GridList		1.3.2	2341	101045
 GridPadInventory	167	1.45.3	4686	101051 101050
 GrimFocusCounter	10801	1.8.1	4776	101051
@@ -765,6 +768,7 @@ HideCompassDistances		1.0.3	4221	101047 101048
 HideCompassLabels		1.0		101040
 HideCompletedTomeChallenges		1.0	4811	101050
 HideGroupNecro		1.5.1	3472	101047 101048
+HideInventoryClutter		2.2.0	3247	101051
 HideLoginNotice		1.0.3	4248	101048
 HideMOTD		26.11.11	5033	101045
 HidePlayerMapMarker		1.0.2	4249	101048
@@ -1306,7 +1310,7 @@ Roomba		2026.08.15	402	101050 101051
 RoseGuilds		09.19.26	3345	101050 101051
 RPCompanion		1.0.0	4602	101049
 RPProfileViewer	1	1.7	2959	101046
-RPQuest	42	1.1.0	5080	101051
+RPQuest	42	1.1.3	5080	101051
 RSSThemeBars		1.3.0	4957	101050 101051
 RUClientFixFont		1.2.0	3829	101041
 RuESO		48.0	1347	101051 101052
@@ -1514,6 +1518,7 @@ TDAddon		2026.11.14	4194	101051
 TeamShadowsBuffs	10110	1.1.10	4673	101050 101051
 TeamShadowsManager	10120	1.1.20	4670	101050 101051
 TEB	120103	12.1.3	3075	101051
+Teleport		1.5.0	2781	101051
 TelvarSaver		1.9	3664	101050
 TemplarMastery	11	1.7	4827	101050 101051
 Tetris	17	1.7	3314	101040
