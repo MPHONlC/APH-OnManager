@@ -200,8 +200,9 @@ ESOAssistant	10008	1.0.8	101048 101049	ESO Assistant by ESO-hub.com	ESO-Hub	3b05
 EsoBR		1.3.1	101051	Tradução Português - ESOBR	frooke	2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5
 ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4dbd3-8273-4fc3-8416-f6c79eeb76ab
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
-ESOCKeepMyCrafts	10	2.6.0	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
+ESOCKeepMyCrafts	11	2.6.1	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
+ESOCSetHunter	21	2.9.3	101051	Set Hunter	Khazaril	eb2c190d-fe48-498a-baac-3db1a6ba979e
 ESOFantasy	31.0.0	v4.0.1	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
@@ -290,7 +291,7 @@ HodorReflexes	20261025	2026-10-25	101049 101050	HodorReflexes	m00nyONE	fef0db78-
 HomeAfterPvP		HomeAfterPvP-0.1.0-2026-11-16T155342	101050	dev sandbox 4	clubwratt	f16394fb-891b-4101-b0ac-d3611ec1b527
 HomeTourHistory		Beta	101035	House ID	Trunxrdm	1a4c7280-2bf3-4373-b9b5-6f872886f724
 HouseDirectory	5	1.0.1	101050 101051	House Directory	TheGreyWolf98	c42c61b1-af71-4aaf-9667-240aabc831e8
-HouseHotkey	182	1.8.2	101050 101051	House Hotkey	saranicole1980	256dc81e-d505-4eb6-9a51-1d7ffc360c69
+HouseHotkey	183	1.8.3	101051 101052	House Hotkey	saranicole1980	256dc81e-d505-4eb6-9a51-1d7ffc360c69
 HousingForge	1400	1.4.0	101050	Test suite 2	Tekatsu	e1fa49c2-830c-41dc-9927-0d013ba1f21d
 HousingFPSBooster	10102	1.1.3	101050 101051	Tetsu's Housing FPS Booster	Tetsurion	febdb84e-a3d4-46d5-b70c-e9b1e491be5f
 HousingVote	19	0.4.1	101050 101051	HousingVote	yodased-mods	f78047ed-9eb4-471b-953c-3fdab2282231
@@ -386,7 +387,7 @@ LibTextFilter	13	1.0.7	101045 101046	LibTextFilter	sirinsidiator	e2dbb014-9ae4-4
 LibTextFormat	019	0.1.9	101050 101051	LibTextFormat	saranicole1980	cec7b602-5dc0-4af0-a949-cd5483dc7329
 LibTraitResearch	105	1.05	101049 101050	LibTraitResearch	Delte	deb4d4a9-52ea-4c0d-b446-dbcf31a7d437
 LibUndauntedPledges	102020	1.2.2	101046 101047	LibUndauntedPledges	code65536	9a183ede-4e80-4f0b-bf0c-13843831d603
-LibUser562	7	1.6	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
+LibUser562	13	2.2	101048 101049 101050 101051	LibUser562	user562x	a76fc220-27fb-4174-8821-27351c50fea5
 LibVotansAddonList	11001	1.10.1	101051 101052	Votan's Addon List	votan73	e0ba98a7-7f17-4c46-8ef2-b2dfc1a2f1e1
 LibZone	0901	9.01	101051 101052	LibZone	Baertram_ESOUI	271c1d87-b92b-4c7e-b1c6-199f8a56c776
 LiveAchiever		1.0.7	101048 101049	LiveAchiever	tomkolp	25add1be-e5d5-4983-be9d-98b3739bd22c
@@ -443,7 +444,7 @@ MurfTreasures		1.2.7	101050 101051	Murf's Treasures	murphyx	4c4e9010-a3ef-435d-b
 MuteyPacrooti		0.3.0	101049	MuteyPacrooti	L_cky	5ea04c1b-93b5-42c8-9870-118a7b08e4ae
 MyCombatText		5.0.3	101048	Vixen's Combat Text	Vixen_Hunny	06c46d53-3301-44b3-92fe-8d19165f5d93
 MyDamageTracker		1.2	1049	My Damage Tracker	Architectofmusic	709a6cab-1710-4ae0-803a-1b4957a0a59a
-MyExtras		7.2	101048 101049 101050 101051	M-E	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
+MyExtras		7.6	101048 101049 101050 101051	MyExtras	user562x	7b985ca5-bafc-42c9-be94-041c712725d9
 MyFontSwitcher		1.0.1	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab0-8cfe-4f7f9e5f5f50
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
@@ -484,7 +485,7 @@ PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10
 PBsEmoteSynchronizer		0.1.0	101050 101051	PinkB's EmoteSynchronizer	PinkBanther	6b42fd29-e6c4-4aec-8f92-e5c54de4c28c
 PBsEquipmentChanger	8	0.8.0	101050 101051	PinkB's EquipmentChanger with Yonechi	PinkBanther	18130d34-73cc-4a58-be8c-a9f9ba92d4ed
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
-PBsFurnitureEditor		1.0.7	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
+PBsFurnitureEditor		1.0.8	101050 101051	PinkB's FurnitureEditor	PinkBanther	656edbf4-6ad8-4faf-8bd8-25f06199c990
 PBsGammaAdjuster		1.1.0	101050 101051	PinkB's GammaAdjuster	PinkBanther	612f9579-3c45-4ab4-84e0-6989fb59bd19
 PBsHpsChecker		0.6.4	101050 101051	PinkB's HpsChecker for AD Stalkers	PinkBanther	8012442a-7f50-4f29-b7aa-04dad2dc9e8b
 PBsHudManager		1.3.0	101050 101051	PinkB's HudManager	PinkBanther	9f445510-52db-43d8-bb0a-c6e497fce454
@@ -496,7 +497,7 @@ PBsMailerExtension		1.9.2	101050 101051	PinkB's MailerExtension	PinkBanther	371f
 PBsMiniMap		2.3.5	101050 101051	PinkB's MiniMap	PinkBanther	d636a31f-9393-47d7-b16f-8d932870cff3
 PBsOmikuji		1.1.0	101050 101051	PinkB's Omikuji(Beta)	PinkBanther	20cda1ba-c4a4-4f82-9dcb-81e274222d9e
 PBsOnlineStatusAlert	1	0.1.0	101050 101051	PinkB's OnlineStatusAlert	PinkBanther	acc220d2-3d92-4f47-8eae-979714894059
-PBsPlayerMarkerExtension	10	0.4.6	101050 101051	PinkB's PlayerMarkerExtension(Beta)	PinkBanther	a65f7431-18ba-4958-a2e4-c2b14621d1b3
+PBsPlayerMarkerExtension	11	0.4.7	101050 101051	PinkB's PlayerMarkerExtension(Beta)	PinkBanther	a65f7431-18ba-4958-a2e4-c2b14621d1b3
 PBsProcSetTimer		0.7.1	101050 101051	PinkB's ProcSetTimer	PinkBanther	92429895-8851-446b-83ef-a1333a7ac486
 PBsQuestTrackerFontChanger		1.3.0	101050 101051	PinkB's QuestTrackerFontChanger	PinkBanther	cc94a283-12a5-4e75-8e54-727d2ab6977c
 PBsQuickChat	1	0.3.0	101050 101051	PinkB's QuickChat	PinkBanther	e71bb4da-eb0c-4506-a479-9a4260b65fd9
@@ -508,7 +509,7 @@ PBsTradeGame	2502	0.25.2	101050 101051	PinkB's Tamriel de Trade(Beta)	PinkBanthe
 PBsTranslate		1.4.0-dev	101050 101051	PinkB's Translator	PinkBanther	c49e3df6-7e8e-4a29-8866-1afb08cca3a8
 PBsUltraDetailedStats	302	0.3.2	101050	PinkB's UltraDetailedStats	PinkBanther	f00e5b13-5452-4284-98f7-2bdbe3caff63
 PBsWarTable	1700	0.17.0	101050 101051	PinkB's WarTable(Beta)	PinkBanther	0e2f2124-0a27-485c-9912-c57878e87090
-PBsWayPoint	15	0.6.3	101050 101051	PinkB's WayPoint	PinkBanther	4f27162e-d1c9-4d60-ba2b-1d33d0645a33
+PBsWayPoint	16	0.6.4	101050 101051	PinkB's WayPoint	PinkBanther	4f27162e-d1c9-4d60-ba2b-1d33d0645a33
 PBsWeaveBlockTrainer		1.4.0	101050 101051	PinkB's WeaveBlockTrainer	PinkBanther	79482b3e-9063-4aa7-a50f-81fedd155fc5
 PerCharacterMounts	15	1.5.1	101051	Mount Shuffle - Random Favorite Mount per Character	-Chin	66e37433-eec7-410c-8d64-001233195f18
 PerfectedWeave	10300	1.3.0	101048 101049	PerfectWeavePort	mYoda01	c0bb6f24-c2ad-470f-885d-34928944caba
@@ -520,7 +521,7 @@ PillagerProfitTrackerLite		1.5	101040	use buff group panels to track pilly cd no
 PinAutoResizer		2025.05.29	101046	PinAutoResizer	Masteroshi430	f386385b-2805-4720-8481-1d87d1cd1d0c
 PinKiller	200004	2.4	101046	PinKiller	Shinni42	b141aa03-f456-45eb-b8b9-eee57c6d78d9
 PlayerMascotHealth	150	v1.5.1	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
-PlayerMascotHealth2	206	v2.0.6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
+PlayerMascotHealth2	207	v2.0.7	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PlayerMascotSheetTest	1	v6	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PMH2_Pack_Xmas2026	1	V2.0.2.x	101048 101049 101050 101051	Mascot	Bucketmore	5d143529-b075-433f-b9b6-c5e28e44497a
 PointsofColor	262	2.62	101047 101048	PointsofColor	Sharlikran	ffe303a8-aa0e-4c0c-a21f-62dcc0da1107
@@ -693,7 +694,7 @@ VerticalBuffsDebuffs		1.9	101048 101049 101050 101051	VerticalBuffsDebuffs	user5
 VestigeMirror		v1.0.1	101049	Vestige Mirror	Wrynch	76fce7e2-297a-472f-bdf6-3e80756e7e8c
 VotansFisherman		1.16.4	101051 101052	Votan's Fisherman	votan73	033f7a4a-8918-4753-be5b-2874afa50230
 VotansMiniMap		2.3.0	101051 101052	Votan's Minimap	votan73	afe5bbbc-a2e0-48de-965a-29eff222393f
-WardrobeShortcutHUD	5	0.1.4	101051	Wardrobe Shortcut HUD	wildskiller	bfec3ddc-e9fa-4766-a474-22cb11325ac7
+WardrobeShortcutHUD	7	0.1.6	101051	Wardrobe Shortcut HUD	wildskiller	bfec3ddc-e9fa-4766-a474-22cb11325ac7
 wardTracker		1.2.9	101051	Hardened Ward Tracker	codeWarrior82	268f4e04-0e98-4b2c-874e-c9da484f991e
 warHornTracker		1.4.7	101051	WarHorn Tracker	codeWarrior82	d978b81f-b679-4aa8-b9a2-6d1b0511c3b3
 warmaskTracker		1.5.5	101051	Warmask Tracker	codeWarrior82	b7f8c335-5c64-42cf-813e-c178bb11a1e5

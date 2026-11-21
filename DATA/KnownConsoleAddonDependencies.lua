@@ -85,6 +85,7 @@ ESOAssistant	LibDebugLogger
 EsoBR	LibHarvensAddonSettings
 ESOCKeepMyCrafts	LibHarvensAddonSettings
 ESOCompanionQRTest	LibHarvensAddonSettings
+ESOCSetHunter	LibHarvensAddonSettings	LibLazyCrafting
 EsoKR	AdvancedNameplates
 EsoPL	LibHarvensAddonSettings
 EsoTR	LibHarvensAddonSettings

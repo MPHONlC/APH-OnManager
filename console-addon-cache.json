@@ -1107,18 +1107,18 @@
    "version": "Beta"
   },
   "1a7bde87-8418-49dc-accc-d7b6cc6313bd/ESOCKeepMyCrafts": {
-   "addOnVersion": "10",
+   "addOnVersion": "11",
    "addonId": "1a7bde87-8418-49dc-accc-d7b6cc6313bd",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 16,
+   "downloads": 39,
    "folder": "ESOCKeepMyCrafts",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Quartermaster",
-   "updatedAt": 1794574542,
-   "version": "2.6.0"
+   "updatedAt": 1795272248,
+   "version": "2.6.1"
   },
   "1ac2188b-1200-476b-a90c-6561a7d3b52a/LibSideQuestPins": {
    "addOnVersion": "",
@@ -1555,18 +1555,18 @@
    "version": "1.3.6"
   },
   "256dc81e-d505-4eb6-9a51-1d7ffc360c69/HouseHotkey": {
-   "addOnVersion": "182",
+   "addOnVersion": "183",
    "addonId": "256dc81e-d505-4eb6-9a51-1d7ffc360c69",
-   "apiVersion": "101050 101051",
+   "apiVersion": "101051 101052",
    "author": "saranicole1980",
-   "dependsOn": "LibHarvensAddonSettings>=20007",
-   "downloads": 23440,
+   "dependsOn": "LibHarvensAddonSettings>=20201",
+   "downloads": 26141,
    "folder": "HouseHotkey",
    "isLibrary": "",
    "optionalDependsOn": "LibRadialMenu",
    "title": "House Hotkey",
-   "updatedAt": 1789856614,
-   "version": "1.8.2"
+   "updatedAt": 1795279025,
+   "version": "1.8.3"
   },
   "25a0aeff-e8df-4458-bc72-f5a8319dbade/SXUIBeaconPet": {
    "addOnVersion": "705",
@@ -3389,18 +3389,18 @@
    "version": "1.4.1"
   },
   "4f27162e-d1c9-4d60-ba2b-1d33d0645a33/PBsWayPoint": {
-   "addOnVersion": "15",
+   "addOnVersion": "16",
    "addonId": "4f27162e-d1c9-4d60-ba2b-1d33d0645a33",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 12,
    "folder": "PBsWayPoint",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint",
-   "updatedAt": 1795112356,
-   "version": "0.6.3"
+   "updatedAt": 1795254681,
+   "version": "0.6.4"
   },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab/NedsGroupManager": {
    "addOnVersion": "",
@@ -3837,18 +3837,18 @@
    "version": "v1.5.1"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth2": {
-   "addOnVersion": "206",
+   "addOnVersion": "207",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 40,
+   "downloads": 44,
    "folder": "PlayerMascotHealth2",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1795218495,
-   "version": "v2.0.6"
+   "updatedAt": 1795256287,
+   "version": "v2.0.7"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -4234,13 +4234,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 45,
+   "downloads": 139,
    "folder": "PBsFurnitureEditor",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's FurnitureEditor",
-   "updatedAt": 1793791432,
-   "version": "1.0.7"
+   "updatedAt": 1795256459,
+   "version": "1.0.8"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
    "addOnVersion": "300",
@@ -5116,13 +5116,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 28,
+   "downloads": 30,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
-   "title": "M-E",
-   "updatedAt": 1795237027,
-   "version": "7.2"
+   "title": "MyExtras",
+   "updatedAt": 1795247148,
+   "version": "7.6"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -6791,32 +6791,32 @@
    "version": "v2.5.1"
   },
   "a5a47140-37bb-4fb8-a0be-2d8b424ad400/PBsPlayerMarkerExtension": {
-   "addOnVersion": "10",
+   "addOnVersion": "11",
    "addonId": "a5a47140-37bb-4fb8-a0be-2d8b424ad400",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 13,
+   "downloads": 19,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension",
-   "updatedAt": 1795236788,
-   "version": "0.4.5"
+   "updatedAt": 1795239597,
+   "version": "0.4.7"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3/PBsPlayerMarkerExtension": {
-   "addOnVersion": "10",
+   "addOnVersion": "11",
    "addonId": "a65f7431-18ba-4958-a2e4-c2b14621d1b3",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 15,
+   "downloads": 27,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension(Beta)",
-   "updatedAt": 1795238385,
-   "version": "0.4.6"
+   "updatedAt": 1795239631,
+   "version": "0.4.7"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -6861,18 +6861,18 @@
    "version": "0.5.1"
   },
   "a76fc220-27fb-4174-8821-27351c50fea5/LibUser562": {
-   "addOnVersion": "7",
+   "addOnVersion": "13",
    "addonId": "a76fc220-27fb-4174-8821-27351c50fea5",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "",
-   "downloads": 5280,
+   "downloads": 7715,
    "folder": "LibUser562",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibUser562",
-   "updatedAt": 1794465907,
-   "version": "1.6"
+   "updatedAt": 1795247105,
+   "version": "2.2"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3/StyleNewCleaner": {
    "addOnVersion": "000100000",
@@ -7841,18 +7841,18 @@
    "version": "1.0.2"
   },
   "bfec3ddc-e9fa-4766-a474-22cb11325ac7/WardrobeShortcutHUD": {
-   "addOnVersion": "5",
+   "addOnVersion": "7",
    "addonId": "bfec3ddc-e9fa-4766-a474-22cb11325ac7",
    "apiVersion": "101051",
    "author": "wildskiller",
    "dependsOn": "WizardsWardrobe",
-   "downloads": 0,
+   "downloads": 16,
    "folder": "WardrobeShortcutHUD",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Wardrobe Shortcut HUD",
-   "updatedAt": 1794192679,
-   "version": "0.1.4"
+   "updatedAt": 1795276818,
+   "version": "0.1.6"
   },
   "c0145498-9c60-472f-9776-bed94e9fba11/Leo_AbilityInspector": {
    "addOnVersion": "",
@@ -8000,13 +8000,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 16,
+   "downloads": 25,
    "folder": "PBsFurnitureEditor",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's FurnitureEditor(Beta)",
-   "updatedAt": 1793791028,
-   "version": "1.0.7"
+   "updatedAt": 1795256422,
+   "version": "1.0.8"
   },
   "c3b0724d-c60e-44de-9244-7cdc9f20c868/PBsScreenshotModeShortcut": {
    "addOnVersion": "",
@@ -9814,6 +9814,20 @@
    "updatedAt": 1793820544,
    "version": "2.0.0"
   },
+  "eb2c190d-fe48-498a-baac-3db1a6ba979e/ESOCSetHunter": {
+   "addOnVersion": "21",
+   "addonId": "eb2c190d-fe48-498a-baac-3db1a6ba979e",
+   "apiVersion": "101051",
+   "author": "Khazaril",
+   "dependsOn": "",
+   "downloads": 16,
+   "folder": "ESOCSetHunter",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings LibLazyCrafting",
+   "title": "Set Hunter",
+   "updatedAt": 1795270234,
+   "version": "2.9.3"
+  },
   "ebdcb1e1-d96b-4d8c-a931-d6035865e34d/ProximityAlert": {
    "addOnVersion": "",
    "addonId": "ebdcb1e1-d96b-4d8c-a931-d6035865e34d",
@@ -10515,18 +10529,18 @@
    "version": "1.0.0"
   },
   "fc7e18ca-ae50-4284-8b26-df8f05312495/PBsWayPoint": {
-   "addOnVersion": "15",
+   "addOnVersion": "16",
    "addonId": "fc7e18ca-ae50-4284-8b26-df8f05312495",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 21,
+   "downloads": 27,
    "folder": "PBsWayPoint",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint(Beta)",
-   "updatedAt": 1795112322,
-   "version": "0.6.3"
+   "updatedAt": 1795254644,
+   "version": "0.6.4"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c/LibDateTime": {
    "addOnVersion": "32",
@@ -11254,7 +11268,7 @@
    "folders": [
     "ESOCKeepMyCrafts"
    ],
-   "version": "2.6.0"
+   "version": "2.6.1"
   },
   "1ac2188b-1200-476b-a90c-6561a7d3b52a": {
    "folders": [
@@ -11448,7 +11462,7 @@
    "folders": [
     "HouseHotkey"
    ],
-   "version": "1.8.2"
+   "version": "1.8.3"
   },
   "25a0aeff-e8df-4458-bc72-f5a8319dbade": {
    "folders": [
@@ -12242,7 +12256,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.6.3"
+   "version": "0.6.4"
   },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab": {
    "folders": [
@@ -12431,7 +12445,7 @@
    "folders": [
     "PlayerMascotHealth2"
    ],
-   "version": "v2.0.6"
+   "version": "v2.0.7"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
    "folders": [
@@ -12599,7 +12613,7 @@
    "folders": [
     "PBsFurnitureEditor"
    ],
-   "version": "1.0.7"
+   "version": "1.0.8"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a": {
    "folders": [
@@ -12988,7 +13002,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "7.2"
+   "version": "7.6"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -13722,13 +13736,13 @@
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.5"
+   "version": "0.4.7"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3": {
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.6"
+   "version": "0.4.7"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -13753,7 +13767,7 @@
    "folders": [
     "LibUser562"
    ],
-   "version": "1.6"
+   "version": "2.2"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3": {
    "folders": [
@@ -14163,7 +14177,7 @@
    "folders": [
     "WardrobeShortcutHUD"
    ],
-   "version": "0.1.4"
+   "version": "0.1.6"
   },
   "c0145498-9c60-472f-9776-bed94e9fba11": {
    "folders": [
@@ -14234,7 +14248,7 @@
    "folders": [
     "PBsFurnitureEditor"
    ],
-   "version": "1.0.7"
+   "version": "1.0.8"
   },
   "c370eaba-64de-4a9b-9d9a-d6bd0c3db0aa": {
    "folders": [],
@@ -15061,6 +15075,12 @@
    ],
    "version": "2.0.0"
   },
+  "eb2c190d-fe48-498a-baac-3db1a6ba979e": {
+   "folders": [
+    "ESOCSetHunter"
+   ],
+   "version": "2.9.3"
+  },
   "eb5d6e39-de4d-4163-9c41-521a3eb2a1aa": {
    "folders": [],
    "version": "0.0.3"
@@ -15379,7 +15399,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.6.3"
+   "version": "0.6.4"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c": {
    "folders": [
