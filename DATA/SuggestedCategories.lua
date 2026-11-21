@@ -338,6 +338,7 @@ AoM.SuggestedCategories = {
 	["CitizenAddon"] = "Beta-version AddOns",
 	["CityLights"] = "Map, Coords, Compasses",
 	["ClankersWin"] = "ESO Tools & Utilities",
+	["ClassEye"] = "Graphic UI Mods",
 	["ClayladonsFriendStatus"] = "Group, Guild & Friends",
 	["ClearChat"] = "Chat Mods",
 	["ClearNewPips"] = "Bags, Bank, Inventory",
