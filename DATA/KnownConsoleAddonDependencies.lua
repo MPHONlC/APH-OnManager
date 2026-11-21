@@ -120,7 +120,7 @@ HodorReflexes	LibCombat2	LibCustomIcons	LibCustomNames	LibRadialMenu
 HomeAfterPvP	LibConsoleLogger
 HouseHotkey	LibRadialMenu
 HousingForge	LibAddonMenu-2.0
-HPSMeter	LibAddonMenu-2.0
+HPSMeter	LibAddonMenu-2.0	LibESQL
 IAHelper	LibDataShare
 InsatiableHungerBlocker	LibAddonMenu-2.0
 IsItTaunted	LibAddonMenu-2.0

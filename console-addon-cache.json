@@ -2251,8 +2251,8 @@
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibESQL",
-   "updatedAt": 1795191332,
-   "version": "2.0.00"
+   "updatedAt": 1795236162,
+   "version": "3.0.00"
   },
   "35920898-3b27-4e32-9f59-c0d8fee0b3bb/PBsQuestTrackerFontChanger": {
    "addOnVersion": "",
@@ -3837,18 +3837,18 @@
    "version": "v1.5.1"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth2": {
-   "addOnVersion": "205",
+   "addOnVersion": "206",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 38,
+   "downloads": 40,
    "folder": "PlayerMascotHealth2",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1795182330,
-   "version": "v2.0.5"
+   "updatedAt": 1795218495,
+   "version": "v2.0.6"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -5116,13 +5116,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 25,
+   "downloads": 28,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "M-E",
-   "updatedAt": 1794818730,
-   "version": "7"
+   "updatedAt": 1795237027,
+   "version": "7.2"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -5541,8 +5541,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "ESQL",
-   "updatedAt": 1795191386,
-   "version": "2.0.00"
+   "updatedAt": 1795237854,
+   "version": "3.0.00"
   },
   "88739d40-c764-4276-9157-ba0eb1d47805/Nemesis": {
    "addOnVersion": "100",
@@ -6791,32 +6791,32 @@
    "version": "v2.5.1"
   },
   "a5a47140-37bb-4fb8-a0be-2d8b424ad400/PBsPlayerMarkerExtension": {
-   "addOnVersion": "8",
+   "addOnVersion": "10",
    "addonId": "a5a47140-37bb-4fb8-a0be-2d8b424ad400",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 6,
+   "downloads": 13,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension",
-   "updatedAt": 1795115030,
-   "version": "0.4.4"
+   "updatedAt": 1795236788,
+   "version": "0.4.5"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3/PBsPlayerMarkerExtension": {
-   "addOnVersion": "8",
+   "addOnVersion": "10",
    "addonId": "a65f7431-18ba-4958-a2e4-c2b14621d1b3",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 14,
+   "downloads": 15,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension(Beta)",
-   "updatedAt": 1795114997,
-   "version": "0.4.4"
+   "updatedAt": 1795238385,
+   "version": "0.4.6"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -7146,13 +7146,13 @@
    "apiVersion": "101047 101048",
    "author": "Vixen_Hunny",
    "dependsOn": "LibFights>=10000",
-   "downloads": 819,
+   "downloads": 835,
    "folder": "HPSMeter",
    "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibESQL>=10000",
    "title": "Bloom HPS",
-   "updatedAt": 1795192700,
-   "version": "Include crit healing and update"
+   "updatedAt": 1795237845,
+   "version": "Added BG History Support and LibESQL support"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43/PBsLuaMemoryMonitor": {
    "addOnVersion": "",
@@ -8317,18 +8317,18 @@
    "version": "v1.5"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000121",
+   "addOnVersion": "01000122",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 21760,
+   "downloads": 21930,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1795147214,
-   "version": "1.0.121"
+   "updatedAt": 1795233614,
+   "version": "1.0.122"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -11020,7 +11020,7 @@
   },
   "0f87c2f6-55c7-4450-b93b-d6395ac2004d": {
    "folders": [],
-   "version": "X, Y position and Menu fix 5.0.2"
+   "version": "Added LibESQL support"
   },
   "0fa32336-8528-4747-9b01-ccba9408f654": {
    "folders": [
@@ -11749,7 +11749,7 @@
    "folders": [
     "LibESQL"
    ],
-   "version": "2.0.00"
+   "version": "3.0.00"
   },
   "35920898-3b27-4e32-9f59-c0d8fee0b3bb": {
    "folders": [
@@ -11832,7 +11832,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.586"
+   "version": "0.0.595"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12431,7 +12431,7 @@
    "folders": [
     "PlayerMascotHealth2"
    ],
-   "version": "v2.0.5"
+   "version": "v2.0.6"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
    "folders": [
@@ -12988,7 +12988,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "7"
+   "version": "7.2"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -13168,7 +13168,7 @@
    "folders": [
     "ESQL"
    ],
-   "version": "2.0.00"
+   "version": "3.0.00"
   },
   "88739d40-c764-4276-9157-ba0eb1d47805": {
    "folders": [
@@ -13722,13 +13722,13 @@
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.4"
+   "version": "0.4.5"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3": {
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.4"
+   "version": "0.4.6"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -13875,7 +13875,7 @@
    "folders": [
     "HPSMeter"
    ],
-   "version": "Include crit healing and update"
+   "version": "Added BG History Support and LibESQL support"
   },
   "ae47138d-8a74-4929-b2e2-acb03b38eb43": {
    "folders": [
@@ -14384,7 +14384,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.121"
+   "version": "1.0.122"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
