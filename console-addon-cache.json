@@ -5684,6 +5684,20 @@
    "updatedAt": 1782578592,
    "version": "1.0.0"
   },
+  "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14/PBsEmber": {
+   "addOnVersion": "1",
+   "addonId": "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsEmber",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's Ember(Beta)",
+   "updatedAt": 1795304539,
+   "version": "0.1.0"
+  },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216/RareFishTracker": {
    "addOnVersion": "",
    "addonId": "8dc100fb-6c43-4ea7-ba01-1a23d306e216",
@@ -9815,18 +9829,18 @@
    "version": "2.0.0"
   },
   "eb2c190d-fe48-498a-baac-3db1a6ba979e/ESOCSetHunter": {
-   "addOnVersion": "21",
+   "addOnVersion": "25",
    "addonId": "eb2c190d-fe48-498a-baac-3db1a6ba979e",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 16,
+   "downloads": 23,
    "folder": "ESOCSetHunter",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibLazyCrafting",
    "title": "Set Hunter",
-   "updatedAt": 1795270234,
-   "version": "2.9.3"
+   "updatedAt": 1795289208,
+   "version": "2.10.3"
   },
   "ebdcb1e1-d96b-4d8c-a931-d6035865e34d/ProximityAlert": {
    "addOnVersion": "",
@@ -13250,6 +13264,12 @@
    ],
    "version": "1.0.0"
   },
+  "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14": {
+   "folders": [
+    "PBsEmber"
+   ],
+   "version": "0.1.0"
+  },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216": {
    "folders": [
     "RareFishTracker"
@@ -15079,7 +15099,7 @@
    "folders": [
     "ESOCSetHunter"
    ],
-   "version": "2.9.3"
+   "version": "2.10.3"
   },
   "eb5d6e39-de4d-4163-9c41-521a3eb2a1aa": {
    "folders": [],

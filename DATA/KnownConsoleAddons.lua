@@ -202,7 +202,7 @@ ESOBuildTracker	4	0.3.0	101050	ESO Build Tracker - Prototype	ItsCraniBaby1	23c4d
 ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd63ad06
 ESOCKeepMyCrafts	11	2.6.1	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
-ESOCSetHunter	21	2.9.3	101051	Set Hunter	Khazaril	eb2c190d-fe48-498a-baac-3db1a6ba979e
+ESOCSetHunter	25	2.10.3	101051	Set Hunter	Khazaril	eb2c190d-fe48-498a-baac-3db1a6ba979e
 ESOFantasy	31.0.0	v4.0.1	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
@@ -482,6 +482,7 @@ PBsConsoleHudCustomizer		1.27.18	101050 101051	PinkB's ResourceAndSkillBarCustom
 PBsCraftMaterialAssistant		1.2.0	101050 101051	PinkB's CraftMaterialAssistant(Beta)	PinkBanther	bb9043ae-169f-4492-8abb-7d3111e97820
 PBsCyrodiilAlert		2.8.1	101050 101051	PinkB's CyrodiilAlert	PinkBanther	da931320-7488-4ce0-83a2-100180a2f3f2
 PBsDiceExtension		1.4.1	101050 101051	PinkB's DiceExtension	PinkBanther	c8c74e10-f091-4e38-b894-20bb194c9b87
+PBsEmber	1	0.1.0	101050 101051	PinkB's Ember(Beta)	PinkBanther	8d7c9b63-ddca-49fd-9d5c-ef22b9970f14
 PBsEmoteSynchronizer		0.1.0	101050 101051	PinkB's EmoteSynchronizer	PinkBanther	6b42fd29-e6c4-4aec-8f92-e5c54de4c28c
 PBsEquipmentChanger	8	0.8.0	101050 101051	PinkB's EquipmentChanger with Yonechi	PinkBanther	18130d34-73cc-4a58-be8c-a9f9ba92d4ed
 PBsFMEGA	501	0.5.1	101050 101051	PinkB's F-MEGA(Beta)	PinkBanther	a73b49be-3025-4010-b2de-104c419bec54
