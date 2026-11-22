@@ -489,6 +489,7 @@ AoM.KnownAddonDependencies = {
 	["Samurai"] = { "Testify" },
 	["SandE"] = { "LibAddonMenu-2.0" },
 	["SanitysEdgeHelper"] = { "OdySupportIcons" },
+	["SchrodisBattlegroundTools"] = { "LibAddonMenu-2.0" },
 	["SchrodisHousingTools"] = { "EssentialHousingTools" },
 	["ScriptTracker"] = { "LibAkaUtils", "LibChatMenuButton" },
 	["Scrollkeeper"] = { "Advanced", "DolgubonsGuildReorder", "LibChatMenuButton", "LibHistoire", "Member", "Tooltip", "pChat" },

@@ -524,7 +524,7 @@ EnchantPlus		1.1	4800	101051
 EndeavorAssistant		1.2	3936	101042
 EndeavorChatTracker		1.1.4	3274	101048
 EndeavorTracker		2.3.1	3154	101042 101043
-ESO_UA_GoA	107	47.69.44	4702	101049 101050 101051 101052
+ESO_UA_GoA	107	47.70	4702	101049 101050 101051 101052
 ESOAdventurerSuite	3725	0.29.790	4779	101050 101051
 EsoAR		2.4.2	4927	101050 101051
 EsoBR_Reforged		1.3.2	2256	101051
@@ -641,8 +641,9 @@ FurnitureCatalogue	8001000	8.1.0	1617	101051 101052
 FurnitureCatalogue_DevUtility		8.1.0	1617	101051 101052
 FurnitureCatalogue_Export		8.1.0	1617	101051 101052
 FurnitureFilter	2	1.0.1	4986	101051
-FurysCharacterTracker	121	1.2.1	5078	101051 101052
-FurysGuildToolset	61	1.3.0	5063	101051 101052
+FurysCharacterTracker	122	1.2.2	5078	101051 101052
+FurysGuildToolset	62	1.4.0	5063	101051 101052
+FurysInventoryLedger	122	1.2.2	5099	101051 101052
 GamePadHelper	10619	1.06.19	3268	101051
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -838,7 +839,7 @@ ImpressiveStats	1157000	1.5.8	4032	101051
 ImprovedAchievementCategories	105	1.0.5	3114	101051
 ImprovedAttributeBars	103000	1.3.0	4884	101051
 ImprovedDeathRecap	10002	1.0.2	1319	100048
-ImprovedDeathRecapVanillaUI	300	3.0.0	5097	101051
+ImprovedDeathRecapVanillaUI	310	3.1.0	5097	101051 101052
 ImprovedGoldenPursuits		1.6.0	4005	101051
 ImprovedNightMarketHUD	100030	1.0.3	4560	101049 101050
 ImprovedPvPUI	1177000	1.7.7	4035	101051
@@ -936,7 +937,7 @@ LeadFilter		1.2.1	4469	101051
 LeadList		U51.0.1	4159	101051
 LeadsOrganizer	102040	1.4.0	4585	101049 101050
 Leadz	10107	1.1.7	3771	101050
-LeoAltholic	1970	1.9.7	3596	101052 101053
+LeoAltholic	1980	1.9.8	3596	101051 101052
 LeoAltholicViewer		1.1.2	5071	101051 101052
 LeoTrainer	223	2.2.3	2162	100035
 LesserIcons	10	1.0	4231	101047
@@ -1212,7 +1213,7 @@ PowerScry		1.0.1	3769	101040
 Pre101046UI	4	4.0.1	4130	101048 101049
 PreventAttackingGuards		1.0.1	3762	101036
 PreventCrimeActions		1.1	4663	101049
-PreviewAnywhere	1	1	4987	101051
+PreviewAnywhere	2	0.2.0	4987	101051
 PreviousQuest		2026.07.09	3801	101050
 PriceTooltip		1.7.2	2221	101043
 PriceTooltipGamepad		1.4	4439	101049 101050
@@ -1258,7 +1259,7 @@ QuickMapNav		2026.10.27	3058	101052
 QuickMarker		1.7	4502	101049 101050
 QuickSlash	1	0.10	3955	101042
 QuickslotAddon		1.6	4049	101046
-QuickslotProfiles	4	1.3.0	5091	101051 101052
+QuickslotProfiles	5	1.4.0	5091	101051 101052
 QuickSurveyOpener		1.0	4569	101045
 QuickWheelAssist		1.0	3963	101144
 QuietBanner		1.0	3983	101044
@@ -1343,6 +1344,7 @@ SavedVariablesManager	1000	1.0	3167	100035
 SaveManager	260323008	1.0.0		101049
 SBMI	12	0.1.2	2644	101046 101047 101048 101049
 Schlosswerk	200	2.0.0	4863	101051 101050
+SchrodisBattlegroundTools	200	2.0.0	5101	101051 101052
 SchrodisHousingTools	210	2.1.0	5093	101051
 ScreenAntiDimmer		1.0	3894	101042
 SCRIBING_IDS		1	3882	101042
@@ -1686,7 +1688,7 @@ WerewolfTrackersAndQOL		1.1.1	4698	101050
 WerrasGuildAddons		1.0	3982	101044
 WeylandHuntsmansWarmaskTracker	10100	1.1.0	5040	101051
 WeylandVampireStageTracker	12002	1.2.2	5035	101051
-WhatDropsHere	4	0.3.1	5030	101051 101052
+WhatDropsHere	5	0.4.0	5030	101051 101052
 WhereIsMyOlorime		1.0.1	3680	101040
 WheresMyGuildHall	49	2.13.8	1757	101052 101051
 WhiskersButterflyCounter		1.2	4393	101042
