@@ -353,7 +353,7 @@ CompanionRoster		2.4.0	4862	101051
 CompanionsCompanion	100	v2.4.0	3474	101040
 CompanionsCompanion_Updated	110	1.1.0	4125	101046
 CompanionsContainers		1.9	4143	101051
-CompanionSidekick	101	0.1.1-beta	5072	101051
+CompanionSidekick	102	0.1.2-beta	5072	101051
 CompanionStuffTracker	10203	1.2.3	3986	101045
 CompassHide		0.5.2	4516	101049
 CompsWBTimer		1.0.2	3880	101042
@@ -557,7 +557,7 @@ EssentialHousingToolsSaver		1776	1959
 Eventor		1049.260402	2793	101049 101050
 EventTracker	2440	2.440	2504	101051
 ExcalibursMovableInventory	10100	1.1	4794	101050 101051
-ExecuteBlocker	230	2.3.0	5082	101051 101052
+ExecuteBlocker	240	2.4.0	5082	101051
 ExecuteNow		0.5.0	4067	101045
 ExoYsAchievementAnonymizer		2.1	3328	101044
 ExoYsCruxTracker		2.2.0	3619	101051
@@ -641,8 +641,8 @@ FurnitureCatalogue	8001000	8.1.0	1617	101051 101052
 FurnitureCatalogue_DevUtility		8.1.0	1617	101051 101052
 FurnitureCatalogue_Export		8.1.0	1617	101051 101052
 FurnitureFilter	2	1.0.1	4986	101051
-FurysCharacterTracker	120	1.2.0	5078	101052 101053
-FurysGuildToolset	59	1.2.5	5063	101051 101052
+FurysCharacterTracker	121	1.2.1	5078	101051 101052
+FurysGuildToolset	61	1.3.0	5063	101051 101052
 GamePadHelper	10619	1.06.19	3268	101051
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -838,6 +838,7 @@ ImpressiveStats	1157000	1.5.8	4032	101051
 ImprovedAchievementCategories	105	1.0.5	3114	101051
 ImprovedAttributeBars	103000	1.3.0	4884	101051
 ImprovedDeathRecap	10002	1.0.2	1319	100048
+ImprovedDeathRecapVanillaUI	300	3.0.0	5097	101051
 ImprovedGoldenPursuits		1.6.0	4005	101051
 ImprovedNightMarketHUD	100030	1.0.3	4560	101049 101050
 ImprovedPvPUI	1177000	1.7.7	4035	101051
@@ -936,6 +937,7 @@ LeadList		U51.0.1	4159	101051
 LeadsOrganizer	102040	1.4.0	4585	101049 101050
 Leadz	10107	1.1.7	3771	101050
 LeoAltholic	1970	1.9.7	3596	101052 101053
+LeoAltholicViewer		1.1.2	5071	101051 101052
 LeoTrainer	223	2.2.3	2162	100035
 LesserIcons	10	1.0	4231	101047
 LethalPVPInsights	291	1.11.4	5037	101048 101051
@@ -1017,7 +1019,7 @@ MemoryUsage	100	1.0	4181	101045 101046
 Mephisto		2.2.7	3833	101041 101042
 merCharacterSheet	5301	5.3	742	101049 101050
 merQuickslotFilters	3000	3.0	953	101043 101044
-merTorchbug	177	1.77	2601	101051 101052
+merTorchbug	178	1.78	2601	101051 101052
 Meterskull		1.6.2	3941	101051
 MiatsTickTracker	115	1.15	4240	101047
 MidTrialMechs	1	1.0.1	4907	101050 101051
@@ -1194,7 +1196,7 @@ PlayerRoleIndicator	141	1.4.1.32	2703	101051
 PlayTime	101	1.0.1	4643	101050
 PledgeHighlights	130	130	4555	101050
 PocketChange		1.39	1849	101052 101051
-PocketCritters	304	3.0.4	5079	101051 101052
+PocketCritters	305	3.0.5	5079	101051 101052
 PointsofColor	265	2.65	2090	101047 101048
 PolloxsDailyQuestTracker	1160	1.16.0	2192	101049
 PoppysHardmodeReminder	400	1.0	4824	101050 101051
@@ -1320,7 +1322,7 @@ RoseGuilds		09.19.26	3345	101050 101051
 RPCompanion		1.0.0	4602	101049
 RPProfileViewer	1	1.7	2959	101046
 RPQuest	87	1.4.1	5080	101051
-RSSThemeBars		1.4.0	4957	101050 101051
+RSSThemeBars		1.4.1	4957	101050 101051
 RUClientFixFont		1.2.0	3829	101041
 RuESO		48.0	1347	101051 101052
 RulebasedInventory	232	2.32	2136	101048
@@ -1542,7 +1544,7 @@ TheElderSporesOnline		2.2.1	4386	101050
 TheProfit	10200	1.2.0	4921	101051
 TheQuestingGuide	72	0.72	2612	101047
 TheShining		1.0.1	3081	100035
-ThiefTools	63	3.5.5	1721	101052 101051
+ThiefTools	63	3.5.6	1721	101052 101051
 ThiefToolsFilteredAutoSteal	13	1.3.10	3752	101052 101051
 ThievesGuildCovetousCountess		1.0.1	4205	101040
 Thresholds	141	1.4.1	4683	101050

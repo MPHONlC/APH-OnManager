@@ -105,6 +105,7 @@ LibEnchantingStation	234	2.3.5	2437	100033 100034	LibEnchantingStation	LibEnchan
 LibEsoHubPrices	20	2026.11.16.02.54	4095	101051	LibEsoHubPrices	LibEsoHubPrices
 LibESQL	10000	3.0.0	5073	101049 101050	LibESQL	LibESQL
 LibEventHandler	1314	1.3.14	1452	101050 101051	LorePlay Forever	LibEventHandler
+LibExecuteSkills	110	1.1.0	5098	101051	LibExecuteSkills	LibExecuteSkills
 LibExecutionQueue	202	3.8.34	2753	101049 101050	Master Merchant 3.0	LibExecutionQueue
 LibExoYsUtilities	9	9	3363	101049	LibExoYsUtilities	LibExoYsUtilities
 LibExtendedJournal	205040	2.5.4	4031	101051 101052	LibExtendedJournal	LibExtendedJournal
