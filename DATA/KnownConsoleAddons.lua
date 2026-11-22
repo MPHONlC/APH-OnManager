@@ -166,7 +166,7 @@ CurvedHUD		1.1.3	101050 101051 101052	Curved Resource HUD	Kaos_Arbiter	bc307fb6-
 CustomCompassPins	137	1.37	101045 101046	CustomCompassPins	Sharlikran	3c805ef7-47fe-43a7-b480-52342549e9f4
 CustomQueueSoundsConsole	1	1.0.0	101048 101049 101050	Queue Sounds	Vixen_Hunny	311a560b-a6b2-4545-ba13-2c6142e34001
 CyroAlerts		3.4.0	101051	Cyrodiil Alerts	codeWarrior82	37bd7159-8611-4d29-8767-08434d4fe209
-CyrodiilMercenary		v0.2	101049 101050	Cyrodiil Mercenary	m1lkst3ak	6ae238fd-705e-4e6d-8338-f8a7bb26d34a
+CyrodiilMercenary		v0.4	101049 101050	Cyrodiil Mercenary	m1lkst3ak	6ae238fd-705e-4e6d-8338-f8a7bb26d34a
 DailyQuestTracker		3.3.7	101050	Daily Quest Tracker	Eldibabalo	a84f8a0c-210f-481a-b8a7-6dc95bff7664
 DarkConvergenceTimer	1.0.4	1.0.4	101049 101050	Dark Convergence Timer	SaintAres97	2709a81d-caea-4f77-a89d-0d83661bf7ee
 darkConvergenceTracker		1.0.8	101051	Dark Convergence Tracker	codeWarrior82	8dff29ed-8886-46e4-ad37-c73add153c3f
@@ -187,7 +187,7 @@ DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a5
 DreadVision	602	A	101049 101050	Dread Vision	Dreadazar	0db118b4-92d1-4b06-b81a-64a67e477e60
 DryzlerElderGeekNetLore		1.15	101047 101048	Dryzler's LoreBooks	Sharlikran	747e5279-71c7-4d0b-8db8-5c7552b2ed65
 DuelResults	300	2.0.0	101046	Duel Results	Vixen_Hunny	47568dd9-5328-4e2a-9862-c59932473a4b
-DungeonRating	12	v1.5	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
+DungeonRating	15	v1.9	101051 101052	Dungeon Buddy	m1lkst3ak	c9f9f38f-e155-4e81-ab38-40b20bc1f130
 DungeonTrialTracker		2.0.4	101047	Dungeon Tracker	Eldibabalo	75746296-2f24-4d95-8fb5-1954d00fc1d6
 DVDScreenSaver		1.3.1	101048	DVD ScreenSaver	Phamo1000	f0561a3c-bea9-49e8-926e-53825934fb7e
 DWAllianceRankProgress	19	1.18	101048 101049	Alliance Rank Progress	Dusty-Warehouse	8e880053-fe2b-4934-9745-a0670e1e12d6
@@ -203,7 +203,7 @@ ESOCCPPresets	5	1.0.4	101051	CP Presets	Khazaril	365347f8-e16a-45e1-9416-68b2cd6
 ESOCKeepMyCrafts	11	2.6.1	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	17	0.9.0	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
 ESOCSetHunter	33	2.14.0	101051	Set Hunter	Khazaril	eb2c190d-fe48-498a-baac-3db1a6ba979e
-ESOFantasy	31.0.0	v4.0.1	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
+ESOFantasy	32.0.0	4.0.3	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -249,7 +249,7 @@ GearTracker	204	1.10	101051	GearTracker	thewizadt	fa5da270-ccfe-454b-ba19-459999
 GildedUI		0.2.46	101050 101051	Gilded UI	Fluazinam	5dce8bc1-61a1-4273-a23e-f74372f36b40
 GoldLedger	8	1.5.1	101050	Gold Ledger	Eldibabalo	53c19565-2bb9-4872-a40f-90825e736a2f
 GoldNation		1.1.1		Gold Nation	SvlphvryVoid	a168ff84-818b-4e00-9168-0c0c80a6d5af
-GoldStandard		v1.1	101050	Gold Standard	m1lkst3ak	07abcedb-fa80-4064-afa8-408641a6e79e
+GoldStandard		v1.5	101050	Gold Standard	m1lkst3ak	07abcedb-fa80-4064-afa8-408641a6e79e
 gorethiefTracker		1.1.3	101051	Gorethief Tracker	codeWarrior82	6077d87d-fafc-431b-9380-f25348d7b430
 GoronDev		0.0.2	101047 101048	Goron Dev	goron_spice	4ff8232a-3b96-4a66-8401-dad48e8b5301
 GottaOpenEmAll		1.0.1	101048 101049	Gotta Open 'em all!	Eldibabalo	c8456e9d-2e93-40d9-a266-88d0ad1f9332
@@ -315,6 +315,7 @@ KDStatTracker	300	4.0.0	101048 101049 101050	KDStatTracker	Vixen_Hunny	0f87c2f6-
 KhajiitFengShui	137	1.3.7	101050 101051	Khajiit Feng Shui	Dack.Janiels	cae51d07-5b11-4feb-ab79-11e17ca47dca
 KhajiitVoice		4.2	101049	Speak Like Khajiit	YFNatey	8edcdae2-d71b-4fb8-b99c-7d1fca55bfb2
 KillCount	3100	new	101049 101050	Kill Count	Dreadazar	29b689fc-d75c-432c-adfa-691d46ddf847
+LastRites	10005	1.0.5	101050 101051	Last Rites	SugaComa	e5420ffd-20f0-4b92-b30a-d74e81cd5e28
 LazyAlchemyLearner	116.1	4	101051 101052	Beta Dolg Alch	Dolgubon	2711aec8-a92b-4dae-97c9-096e8d72bf16
 LazyConfirm		1.0.4	101045 101046	Lazy Confirm (and delete)	Dolgubon	8fbbe7ae-8178-4e35-9755-3cafefd42095
 LazyCrown	14	0.4.2	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
@@ -693,7 +694,7 @@ VCAP2	2204  ; Test build 5 - do not publish as stable	2.2.5	101049 101050	VCAP2	
 VersesAndVisions		2025.05.28	101046	VersesAndVisions	Masteroshi430	e4f41108-4101-452e-8607-b469bc8eb4b0
 VerticalBuffsDebuffs		1.9	101048 101049 101050 101051	VerticalBuffsDebuffs	user562x	73d5304a-565a-4a9d-bd38-aa245219f955
 VestigeMirror		v1.0.1	101049	Vestige Mirror	Wrynch	76fce7e2-297a-472f-bdf6-3e80756e7e8c
-VixensGamedpadScene	10000	2.0.0	101049 101048	Vixen's Gamepad Scene	Vixen_Hunny	172f8b4f-bfe0-48c6-8108-584c738c28e3
+VixensGamedpadScene	10000	3.0.0	101049 101048	Vixen's Gamepad Scene	Vixen_Hunny	172f8b4f-bfe0-48c6-8108-584c738c28e3
 VotansFisherman		1.16.4	101051 101052	Votan's Fisherman	votan73	033f7a4a-8918-4753-be5b-2874afa50230
 VotansMiniMap		2.3.0	101051 101052	Votan's Minimap	votan73	afe5bbbc-a2e0-48de-965a-29eff222393f
 WardrobeShortcutHUD	7	0.1.6	101051	Wardrobe Shortcut HUD	wildskiller	bfec3ddc-e9fa-4766-a474-22cb11325ac7

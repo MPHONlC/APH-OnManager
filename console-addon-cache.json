@@ -244,13 +244,13 @@
    "apiVersion": "101050",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 11,
+   "downloads": 25,
    "folder": "GoldStandard",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 TSCPriceDataAPI TSCPriceDataLite",
    "title": "Gold Standard",
-   "updatedAt": 1795199497,
-   "version": "v1.1"
+   "updatedAt": 1795379204,
+   "version": "v1.5"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1/PBsGammaAdjuster": {
    "addOnVersion": "",
@@ -957,14 +957,14 @@
    "addonId": "172f8b4f-bfe0-48c6-8108-584c738c28e3",
    "apiVersion": "101049 101048",
    "author": "Vixen_Hunny",
-   "dependsOn": "",
-   "downloads": 5,
+   "dependsOn": "LibAddonMenu-2.0>=41",
+   "downloads": 6,
    "folder": "VixensGamedpadScene",
    "isLibrary": "",
-   "optionalDependsOn": "LibHarvensAddonSettings",
+   "optionalDependsOn": "",
    "title": "Vixen's Gamepad Scene",
-   "updatedAt": 1795318612,
-   "version": "2.0.0"
+   "updatedAt": 1795365448,
+   "version": "3.0.0"
   },
   "173a593f-d0c6-473b-a865-5c8961942c06/BaasWritCrafter": {
    "addOnVersion": "4057",
@@ -4514,13 +4514,13 @@
    "apiVersion": "101049 101050",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 3,
    "folder": "CyrodiilMercenary",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
    "title": "Cyrodiil Mercenary",
-   "updatedAt": 1795199501,
-   "version": "v0.2"
+   "updatedAt": 1795379198,
+   "version": "v0.4"
   },
   "6afd8b79-471b-4c3d-b785-aaef8319bc4f/BlockItemUsage": {
    "addOnVersion": "",
@@ -7519,18 +7519,18 @@
    "version": "1.2"
   },
   "b6cb7ba1-4505-427c-811d-0a008aeb4e79/ESOFantasy": {
-   "addOnVersion": "31.0.0",
+   "addOnVersion": "32.0.0",
    "addonId": "b6cb7ba1-4505-427c-811d-0a008aeb4e79",
    "apiVersion": "2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 87,
+   "downloads": 99,
    "folder": "ESOFantasy",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Battle Ground Rating (BGR)",
-   "updatedAt": 1795199512,
-   "version": "v4.0.1"
+   "updatedAt": 1795379191,
+   "version": "4.0.3"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3/AutoImproveGear": {
    "addOnVersion": "",
@@ -8331,18 +8331,18 @@
    "version": "2.1.7"
   },
   "c9f9f38f-e155-4e81-ab38-40b20bc1f130/DungeonRating": {
-   "addOnVersion": "12",
+   "addOnVersion": "15",
    "addonId": "c9f9f38f-e155-4e81-ab38-40b20bc1f130",
    "apiVersion": "101051 101052",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 20,
+   "downloads": 29,
    "folder": "DungeonRating",
    "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu GoldStandard",
    "title": "Dungeon Buddy",
-   "updatedAt": 1795199508,
-   "version": "v1.5"
+   "updatedAt": 1795379186,
+   "version": "v1.9"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
    "addOnVersion": "01000123",
@@ -9617,6 +9617,20 @@
    "title": "Alternative Attribute Bars (PS5)",
    "updatedAt": 1789763803,
    "version": "v2.7"
+  },
+  "e5420ffd-20f0-4b92-b30a-d74e81cd5e28/LastRites": {
+   "addOnVersion": "10005",
+   "addonId": "e5420ffd-20f0-4b92-b30a-d74e81cd5e28",
+   "apiVersion": "101050 101051",
+   "author": "SugaComa",
+   "dependsOn": "",
+   "downloads": 4,
+   "folder": "LastRites",
+   "isLibrary": "False",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "Last Rites",
+   "updatedAt": 1795374770,
+   "version": "1.0.5"
   },
   "e54271d9-a6d8-4004-8e2a-6f8ddb3a4045/LibGPS": {
    "addOnVersion": "73",
@@ -10914,7 +10928,7 @@
    "folders": [
     "GoldStandard"
    ],
-   "version": "v1.1"
+   "version": "v1.5"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1": {
    "folders": [
@@ -11225,7 +11239,7 @@
    "folders": [
     "VixensGamedpadScene"
    ],
-   "version": "2.0.0"
+   "version": "3.0.0"
   },
   "173a593f-d0c6-473b-a865-5c8961942c06": {
    "folders": [
@@ -12761,7 +12775,7 @@
    "folders": [
     "CyrodiilMercenary"
    ],
-   "version": "v0.2"
+   "version": "v0.4"
   },
   "6afd8b79-471b-4c3d-b785-aaef8319bc4f": {
    "folders": [
@@ -14087,7 +14101,7 @@
    "folders": [
     "ESOFantasy"
    ],
-   "version": "v4.0.1"
+   "version": "4.0.3"
   },
   "b6fb28ee-9e94-46d0-b44e-94ee0b5852a3": {
    "folders": [
@@ -14432,7 +14446,7 @@
    "folders": [
     "DungeonRating"
    ],
-   "version": "v1.5"
+   "version": "v1.9"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d": {
    "folders": [
@@ -15013,6 +15027,12 @@
     "AltAttributes"
    ],
    "version": "v2.7"
+  },
+  "e5420ffd-20f0-4b92-b30a-d74e81cd5e28": {
+   "folders": [
+    "LastRites"
+   ],
+   "version": "1.0.5"
   },
   "e54271d9-a6d8-4004-8e2a-6f8ddb3a4045": {
    "folders": [

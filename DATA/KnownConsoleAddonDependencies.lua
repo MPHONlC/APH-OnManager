@@ -77,7 +77,7 @@ DolgubonsLazyWritCreator	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHi
 DolmenRunner	LibHarvensAddonSettings
 DryzlerElderGeekNetLore	LibMOTD
 DuelResults	LibAddonMenu-2.0
-DungeonRating	LibAddonMenu-2.0	LibRadialMenu
+DungeonRating	GoldStandard	LibAddonMenu-2.0	LibRadialMenu
 DWAllianceRankProgress	LibHarvensAddonSettings
 ESO_BuildForge	LibAddonMenu-2.0
 EsoAR	LibAddonMenu-2.0	LibHarvensAddonSettings
@@ -130,6 +130,7 @@ JumpToSearch	LibConsoleLogger
 KDRTracker	LibHarvensAddonSettings
 KDStatTracker	LibAddonMenu-2.0	LibConsoleDialogs	LibHarvensAddonSettings
 KhajiitFengShui	LuiExtended
+LastRites	LibHarvensAddonSettings
 LazyAlchemyLearner	LibPrice
 LazyCrown	LibGroupCombatStats	LibHarvensAddonSettings
 LibAddonMenu-2.0	LibDebugLogger	LibHarvensAddonSettings	LibStub
@@ -291,7 +292,6 @@ ValknarrUIE	LibHarvensAddonSettings	LibRadialMenu
 VampireStageReminder_v2	LibHarvensAddonSettings
 VaultCategories	LibConsoleLogger
 VCAP2	LibHarvensAddonSettings
-VixensGamedpadScene	LibHarvensAddonSettings
 VotansFisherman	MiniMap	RareFishTracker	WaypointIt
 VotansMiniMap	LibDebugLogger	LibGPS	TrueExploration	TweakIt
 warHornTracker	LibNotify
