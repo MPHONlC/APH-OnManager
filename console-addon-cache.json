@@ -952,6 +952,20 @@
    "updatedAt": 1751599319,
    "version": "1.03"
   },
+  "172f8b4f-bfe0-48c6-8108-584c738c28e3/VixensGamedpadScene": {
+   "addOnVersion": "10000",
+   "addonId": "172f8b4f-bfe0-48c6-8108-584c738c28e3",
+   "apiVersion": "101049 101048",
+   "author": "Vixen_Hunny",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "VixensGamedpadScene",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "Vixen's Gamepad Scene",
+   "updatedAt": 1795318612,
+   "version": "2.0.0"
+  },
   "173a593f-d0c6-473b-a865-5c8961942c06/BaasWritCrafter": {
    "addOnVersion": "4057",
    "addonId": "173a593f-d0c6-473b-a865-5c8961942c06",
@@ -3837,18 +3851,18 @@
    "version": "v1.5.1"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotHealth2": {
-   "addOnVersion": "207",
+   "addOnVersion": "209",
    "addonId": "5d143529-b075-433f-b9b6-c5e28e44497a",
    "apiVersion": "101048 101049 101050 101051",
    "author": "Bucketmore",
    "dependsOn": "",
-   "downloads": 44,
+   "downloads": 47,
    "folder": "PlayerMascotHealth2",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Mascot",
-   "updatedAt": 1795256287,
-   "version": "v2.0.7"
+   "updatedAt": 1795324133,
+   "version": "v2.0.9"
   },
   "5d143529-b075-433f-b9b6-c5e28e44497a/PlayerMascotSheetTest": {
    "addOnVersion": "1",
@@ -5121,8 +5135,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "MyExtras",
-   "updatedAt": 1795247148,
-   "version": "7.6"
+   "updatedAt": 1795331507,
+   "version": "8.4"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -5685,18 +5699,18 @@
    "version": "1.0.0"
   },
   "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14/PBsEmber": {
-   "addOnVersion": "1",
+   "addOnVersion": "2",
    "addonId": "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 2,
    "folder": "PBsEmber",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's Ember(Beta)",
-   "updatedAt": 1795304539,
-   "version": "0.1.0"
+   "updatedAt": 1795341014,
+   "version": "0.1.1"
   },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216/RareFishTracker": {
    "addOnVersion": "",
@@ -8331,18 +8345,18 @@
    "version": "v1.5"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000122",
+   "addOnVersion": "01000123",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 21930,
+   "downloads": 22320,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1795233614,
-   "version": "1.0.122"
+   "updatedAt": 1795320015,
+   "version": "1.0.123"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -9829,18 +9843,18 @@
    "version": "2.0.0"
   },
   "eb2c190d-fe48-498a-baac-3db1a6ba979e/ESOCSetHunter": {
-   "addOnVersion": "25",
+   "addOnVersion": "33",
    "addonId": "eb2c190d-fe48-498a-baac-3db1a6ba979e",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 23,
+   "downloads": 31,
    "folder": "ESOCSetHunter",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibLazyCrafting",
    "title": "Set Hunter",
-   "updatedAt": 1795289208,
-   "version": "2.10.3"
+   "updatedAt": 1795338169,
+   "version": "2.14.0"
   },
   "ebdcb1e1-d96b-4d8c-a931-d6035865e34d/ProximityAlert": {
    "addOnVersion": "",
@@ -11207,6 +11221,12 @@
    ],
    "version": "1.03"
   },
+  "172f8b4f-bfe0-48c6-8108-584c738c28e3": {
+   "folders": [
+    "VixensGamedpadScene"
+   ],
+   "version": "2.0.0"
+  },
   "173a593f-d0c6-473b-a865-5c8961942c06": {
    "folders": [
     "BaasWritCrafter"
@@ -12459,7 +12479,7 @@
    "folders": [
     "PlayerMascotHealth2"
    ],
-   "version": "v2.0.7"
+   "version": "v2.0.9"
   },
   "5d54d232-188f-4ee1-a2fa-61c641f2538b": {
    "folders": [
@@ -13016,7 +13036,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "7.6"
+   "version": "8.4"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -13268,7 +13288,7 @@
    "folders": [
     "PBsEmber"
    ],
-   "version": "0.1.0"
+   "version": "0.1.1"
   },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216": {
    "folders": [
@@ -14418,7 +14438,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.122"
+   "version": "1.0.123"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -15099,7 +15119,7 @@
    "folders": [
     "ESOCSetHunter"
    ],
-   "version": "2.10.3"
+   "version": "2.14.0"
   },
   "eb5d6e39-de4d-4163-9c41-521a3eb2a1aa": {
    "folders": [],

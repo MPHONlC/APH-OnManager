@@ -291,6 +291,7 @@ ValknarrUIE	LibHarvensAddonSettings	LibRadialMenu
 VampireStageReminder_v2	LibHarvensAddonSettings
 VaultCategories	LibConsoleLogger
 VCAP2	LibHarvensAddonSettings
+VixensGamedpadScene	LibHarvensAddonSettings
 VotansFisherman	MiniMap	RareFishTracker	WaypointIt
 VotansMiniMap	LibDebugLogger	LibGPS	TrueExploration	TweakIt
 warHornTracker	LibNotify
