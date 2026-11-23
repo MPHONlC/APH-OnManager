@@ -195,6 +195,7 @@ PacketByteExporter	LibAddonMenu-2.0
 PBsAutoLoot	LibHarvensAddonSettings
 PBsChatWindowCustomizer	LibHarvensAddonSettings
 PBsClock	LibHarvensAddonSettings
+PBsCombatAssistant	LibHarvensAddonSettings
 PBsCompanionAffinity	LibHarvensAddonSettings
 PBsCompass	LibHarvensAddonSettings
 PBsConsoleHudCustomizer	LibHarvensAddonSettings
@@ -280,6 +281,7 @@ TraderFilter	LibHarvensAddonSettings	LibQRCode
 TradeSkills	LibMapPins-1.0	LibPrice	TamrielTradeCentre
 TraitCraft	LibDynamicMail	LibLazyCrafting	LibTextFormat
 TraitScout	LibAddonMenu-2.0
+TravelWheel	LibConsoleLogger
 TrialTagger	LibAddonMenu-2.0
 TrueCombatText	LibAddonMenu-2.0
 TrueDeathStalker	LibAddonMenu-2.0

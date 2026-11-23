@@ -118,13 +118,13 @@
    "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 35,
+   "downloads": 48,
    "folder": "TrueRessourceBars",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "True Ressource Bars",
-   "updatedAt": 1794866281,
-   "version": "0.26"
+   "updatedAt": 1795465008,
+   "version": "0.28"
   },
   "0495e6ed-49a8-4a03-b529-048fbc4b758a/Andy": {
    "addOnVersion": "101100",
@@ -729,18 +729,18 @@
    "version": "1.0.10"
   },
   "114d9b29-d8d7-4dde-a962-edcf1670fb91/AAMemoryWatch": {
-   "addOnVersion": "1",
+   "addOnVersion": "2",
    "addonId": "114d9b29-d8d7-4dde-a962-edcf1670fb91",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 15,
    "folder": "AAMemoryWatch",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Add-On Memory Watch",
-   "updatedAt": 1794370224,
-   "version": "1.0.0"
+   "updatedAt": 1795441716,
+   "version": "1.0.1"
   },
   "1156c297-4c51-44e7-8267-9f934307f36e/MuchSmarterAutoLoot": {
    "addOnVersion": "80312",
@@ -1121,18 +1121,18 @@
    "version": "Beta"
   },
   "1a7bde87-8418-49dc-accc-d7b6cc6313bd/ESOCKeepMyCrafts": {
-   "addOnVersion": "11",
+   "addOnVersion": "33",
    "addonId": "1a7bde87-8418-49dc-accc-d7b6cc6313bd",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 39,
+   "downloads": 78,
    "folder": "ESOCKeepMyCrafts",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Quartermaster",
-   "updatedAt": 1795272248,
-   "version": "2.6.1"
+   "updatedAt": 1795466665,
+   "version": "2.14.7"
   },
   "1ac2188b-1200-476b-a90c-6561a7d3b52a/LibSideQuestPins": {
    "addOnVersion": "",
@@ -1448,13 +1448,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 29,
+   "downloads": 33,
    "folder": "PBsCyrodiilAlert",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CyrodiilAlert(Beta)",
-   "updatedAt": 1794399182,
-   "version": "2.8.1"
+   "updatedAt": 1795421803,
+   "version": "2.8.2"
   },
   "234cc4ca-99c3-4aa0-be89-edbeee2ee743/0NEUP": {
    "addOnVersion": "1",
@@ -2176,13 +2176,13 @@
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 98,
+   "downloads": 119,
    "folder": "SimpleGroupDPS",
    "isLibrary": "",
    "optionalDependsOn": "BattleScrolls",
    "title": "SimpleGroupDPS",
-   "updatedAt": 1795088079,
-   "version": "2.0.6"
+   "updatedAt": 1795455216,
+   "version": "2.0.7"
   },
   "32111121-29be-4447-ba40-3c064d28680e/PowerLashTracker": {
    "addOnVersion": "1.0.0",
@@ -2367,18 +2367,18 @@
    "version": "0.0.1"
   },
   "365347f8-e16a-45e1-9416-68b2cd63ad06/ESOCCPPresets": {
-   "addOnVersion": "5",
+   "addOnVersion": "6",
    "addonId": "365347f8-e16a-45e1-9416-68b2cd63ad06",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 28,
    "folder": "ESOCCPPresets",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "CP Presets",
-   "updatedAt": 1794275755,
-   "version": "1.0.4"
+   "updatedAt": 1795441598,
+   "version": "1.0.5"
   },
   "371fcd02-ae32-4937-a1d4-de4f33b01870/PBsMailerExtension": {
    "addOnVersion": "",
@@ -2834,13 +2834,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 259,
+   "downloads": 261,
    "folder": "PvPUAPatch",
    "isLibrary": "",
    "optionalDependsOn": "LibGroupBroadcast LibConsoleLogger",
    "title": "dev sandbox",
-   "updatedAt": 1794886686,
-   "version": "PvPUAPatch-5.14.0-2026-11-16T193757"
+   "updatedAt": 1795415600,
+   "version": "PvPUAPatch-5.15.0-2026-11-22T223308"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef/PullCard": {
    "addOnVersion": "20",
@@ -2946,13 +2946,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 3924,
+   "downloads": 4034,
    "folder": "WhereIsIt",
    "isLibrary": "",
    "optionalDependsOn": "TSCPriceFetcher2",
    "title": "Where Is It?",
-   "updatedAt": 1795402250,
-   "version": "1.7"
+   "updatedAt": 1795416180,
+   "version": "1.8"
   },
   "46afefc4-e422-4c9f-a163-3b7ed6c11a84/TradeQR": {
    "addOnVersion": "5",
@@ -3164,20 +3164,6 @@
    "updatedAt": 1792260649,
    "version": "2026.10.18.01.41"
   },
-  "4a7a6d7f-44fb-4eaf-94a2-93887ea5b8f1/WamasuChargeLane": {
-   "addOnVersion": "10005",
-   "addonId": "4a7a6d7f-44fb-4eaf-94a2-93887ea5b8f1",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 5,
-   "folder": "WamasuChargeLane",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "beta",
-   "updatedAt": 1795388243,
-   "version": "1.0.5"
-  },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/TrackersByJH": {
    "addOnVersion": "1106",
    "addonId": "4b0c0d15-66db-4be0-b76a-b9817a229cfd",
@@ -3338,13 +3324,13 @@
    "apiVersion": "101051 101050",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 6319,
+   "downloads": 6556,
    "folder": "EyeOnKeep",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "EyeOnKeep",
-   "updatedAt": 1794770775,
-   "version": "1.3.2"
+   "updatedAt": 1795446256,
+   "version": "1.4.3"
   },
   "4cd1ecbb-8d25-48e5-a67e-28b408761f77/necroTracker": {
    "addOnVersion": "",
@@ -4005,18 +3991,18 @@
    "version": "0.3.0"
   },
   "5eaa0d91-47f8-4c5e-8673-db3ab518a752/LibCustomNames": {
-   "addOnVersion": "20261116",
+   "addOnVersion": "20261123",
    "addonId": "5eaa0d91-47f8-4c5e-8673-db3ab518a752",
    "apiVersion": "101049 101050",
    "author": "m00nyONE",
    "dependsOn": "",
-   "downloads": 326968,
+   "downloads": 333043,
    "folder": "LibCustomNames",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibCustomNames",
-   "updatedAt": 1794818615,
-   "version": "2026-11-16"
+   "updatedAt": 1795424256,
+   "version": "2026-11-23"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78/Puma": {
    "addOnVersion": "1",
@@ -5157,14 +5143,14 @@
    "addonId": "7b985ca5-bafc-42c9-be94-041c712725d9",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
-   "dependsOn": "LibUser562",
-   "downloads": 32,
+   "dependsOn": "LibUser562>=15",
+   "downloads": 36,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "MyExtras",
-   "updatedAt": 1795408787,
-   "version": "8.8"
+   "updatedAt": 1795421152,
+   "version": "9.7"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -5726,6 +5712,20 @@
    "updatedAt": 1782578592,
    "version": "1.0.0"
   },
+  "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14/PBsCombatAssistant": {
+   "addOnVersion": "6",
+   "addonId": "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 7,
+   "folder": "PBsCombatAssistant",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's CombatAssistant(Beta)",
+   "updatedAt": 1795432626,
+   "version": "0.3.0"
+  },
   "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14/PBsEmber": {
    "addOnVersion": "3",
    "addonId": "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14",
@@ -5977,6 +5977,20 @@
    "title": "RodZilla's Trader Stats",
    "updatedAt": 1792438625,
    "version": "0.1.10"
+  },
+  "9115b4e2-1fab-4a8c-969b-4e8af57ea6f9/TrueShotMarkers": {
+   "addOnVersion": "10007",
+   "addonId": "9115b4e2-1fab-4a8c-969b-4e8af57ea6f9",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 8,
+   "folder": "TrueShotMarkers",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Beta",
+   "updatedAt": 1795455346,
+   "version": "1.0.7"
   },
   "91330ebe-27c8-46b9-ad71-42991b96789d/RezBot": {
    "addOnVersion": "",
@@ -6903,18 +6917,18 @@
    "version": "0.5.1"
   },
   "a76fc220-27fb-4174-8821-27351c50fea5/LibUser562": {
-   "addOnVersion": "13",
+   "addOnVersion": "15",
    "addonId": "a76fc220-27fb-4174-8821-27351c50fea5",
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "",
-   "downloads": 7715,
+   "downloads": 9206,
    "folder": "LibUser562",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "LibUser562",
-   "updatedAt": 1795247105,
-   "version": "2.2"
+   "updatedAt": 1795421184,
+   "version": "2.4"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3/StyleNewCleaner": {
    "addOnVersion": "000100000",
@@ -7027,6 +7041,20 @@
    "title": "dev sandbox 5",
    "updatedAt": 1794887024,
    "version": "BetterCharacterOverview-1.12.0-2026-11-16T194336"
+  },
+  "a981c79d-3b39-400d-94d1-e164bdd88393/TravelWheel": {
+   "addOnVersion": "",
+   "addonId": "a981c79d-3b39-400d-94d1-e164bdd88393",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "LibHarvensAddonSettings LibRadialMenu",
+   "downloads": 5,
+   "folder": "TravelWheel",
+   "isLibrary": "",
+   "optionalDependsOn": "LibConsoleLogger",
+   "title": "dev sandbox 5",
+   "updatedAt": 1795469581,
+   "version": "TravelWheel-0.6.0-2026-11-23T133250"
   },
   "aa271fb4-3ce5-4584-ac5c-338617e92f62/SulXan": {
    "addOnVersion": "",
@@ -8415,18 +8443,18 @@
    "version": "TEST"
   },
   "cbd43537-05b7-405f-b75d-511a3ceb083b/ESOCompanionQRTest": {
-   "addOnVersion": "17",
+   "addOnVersion": "18",
    "addonId": "cbd43537-05b7-405f-b75d-511a3ceb083b",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 4,
    "folder": "ESOCompanionQRTest",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "ESO Companion",
-   "updatedAt": 1794304424,
-   "version": "0.9.0"
+   "updatedAt": 1795441659,
+   "version": "0.9.1"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a/Leo_status_panel": {
    "addOnVersion": "",
@@ -8714,13 +8742,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 92,
+   "downloads": 97,
    "folder": "PBsMiniMap",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's MiniMap(Beta)",
-   "updatedAt": 1793715974,
-   "version": "2.3.5"
+   "updatedAt": 1795421668,
+   "version": "2.3.6"
   },
   "d081d271-bda5-4b78-a18c-251878246156/MapPinsTextureFix": {
    "addOnVersion": "",
@@ -8924,13 +8952,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "LibHarvensAddonSettings>=20106",
-   "downloads": 1898,
+   "downloads": 2284,
    "folder": "PBsMiniMap",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "PinkB's MiniMap",
-   "updatedAt": 1793716014,
-   "version": "2.3.5"
+   "updatedAt": 1795421699,
+   "version": "2.3.6"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616/SiegeReminder": {
    "addOnVersion": "217",
@@ -9148,13 +9176,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 127,
+   "downloads": 170,
    "folder": "PBsCyrodiilAlert",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CyrodiilAlert",
-   "updatedAt": 1794399219,
-   "version": "2.8.1"
+   "updatedAt": 1795421847,
+   "version": "2.8.2"
   },
   "da93c9ce-04e0-4acf-a62a-16e23c1e8d06/LibQRCode": {
    "addOnVersion": "046",
@@ -9633,18 +9661,18 @@
    "version": "v2.7"
   },
   "e5420ffd-20f0-4b92-b30a-d74e81cd5e28/LastRites": {
-   "addOnVersion": "10005",
+   "addOnVersion": "10012",
    "addonId": "e5420ffd-20f0-4b92-b30a-d74e81cd5e28",
    "apiVersion": "101050 101051",
    "author": "SugaComa",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 9,
    "folder": "LastRites",
    "isLibrary": "False",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Last Rites",
-   "updatedAt": 1795374770,
-   "version": "1.0.5"
+   "updatedAt": 1795453507,
+   "version": "1.0.12"
   },
   "e54271d9-a6d8-4004-8e2a-6f8ddb3a4045/LibGPS": {
    "addOnVersion": "73",
@@ -9757,6 +9785,20 @@
    "title": "PinkB's QuickChat",
    "updatedAt": 1795063736,
    "version": "0.3.0"
+  },
+  "e739c3a3-b9ea-4ac4-afff-0962e63338c6/ESOCGoldDigger": {
+   "addOnVersion": "18",
+   "addonId": "e739c3a3-b9ea-4ac4-afff-0962e63338c6",
+   "apiVersion": "101051",
+   "author": "Khazaril",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 15,
+   "folder": "ESOCGoldDigger",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Gold Digger",
+   "updatedAt": 1795451915,
+   "version": "0.9.2"
   },
   "e748a1af-bca6-470d-be77-d5e7ab432006/ZoomInFurther": {
    "addOnVersion": "",
@@ -9871,18 +9913,18 @@
    "version": "2.0.0"
   },
   "eb2c190d-fe48-498a-baac-3db1a6ba979e/ESOCSetHunter": {
-   "addOnVersion": "35",
+   "addOnVersion": "38",
    "addonId": "eb2c190d-fe48-498a-baac-3db1a6ba979e",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 35,
+   "downloads": 40,
    "folder": "ESOCSetHunter",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibLazyCrafting",
    "title": "Set Hunter",
-   "updatedAt": 1795411074,
-   "version": "2.15.1"
+   "updatedAt": 1795441780,
+   "version": "2.17.1"
   },
   "ebdcb1e1-d96b-4d8c-a931-d6035865e34d/ProximityAlert": {
    "addOnVersion": "",
@@ -10226,13 +10268,13 @@
    "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "",
-   "downloads": 9,
+   "downloads": 22,
    "folder": "TrueDeathStalker",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "True Death Stalker",
-   "updatedAt": 1795006501,
-   "version": "0.5"
+   "updatedAt": 1795467125,
+   "version": "1.2"
   },
   "f386385b-2805-4720-8481-1d87d1cd1d0c/PinAutoResizer": {
    "addOnVersion": "",
@@ -10876,7 +10918,7 @@
    "folders": [
     "TrueRessourceBars"
    ],
-   "version": "0.26"
+   "version": "0.28"
   },
   "0495e6ed-49a8-4a03-b529-048fbc4b758a": {
    "folders": [
@@ -11157,7 +11199,7 @@
    "folders": [
     "AAMemoryWatch"
    ],
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   "1156c297-4c51-44e7-8267-9f934307f36e": {
    "folders": [
@@ -11330,7 +11372,7 @@
    "folders": [
     "ESOCKeepMyCrafts"
    ],
-   "version": "2.6.1"
+   "version": "2.14.7"
   },
   "1ac2188b-1200-476b-a90c-6561a7d3b52a": {
    "folders": [
@@ -11469,7 +11511,7 @@
    "folders": [
     "PBsCyrodiilAlert"
    ],
-   "version": "2.8.1"
+   "version": "2.8.2"
   },
   "234cc4ca-99c3-4aa0-be89-edbeee2ee743": {
    "folders": [
@@ -11788,7 +11830,7 @@
    "folders": [
     "SimpleGroupDPS"
    ],
-   "version": "2.0.6"
+   "version": "2.0.7"
   },
   "32111121-29be-4447-ba40-3c064d28680e": {
    "folders": [
@@ -11874,7 +11916,7 @@
    "folders": [
     "ESOCCPPresets"
    ],
-   "version": "1.0.4"
+   "version": "1.0.5"
   },
   "371fcd02-ae32-4937-a1d4-de4f33b01870": {
    "folders": [
@@ -11914,7 +11956,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.598"
+   "version": "0.0.599"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12063,7 +12105,7 @@
    "folders": [
     "PvPUAPatch"
    ],
-   "version": "PvPUAPatch-5.14.0-2026-11-16T193757"
+   "version": "PvPUAPatch-5.15.0-2026-11-22T223308"
   },
   "438e8153-db0e-4264-87cb-29c1d97e20ef": {
    "folders": [
@@ -12117,7 +12159,7 @@
    "folders": [
     "WhereIsIt"
    ],
-   "version": "1.7"
+   "version": "1.8"
   },
   "46afefc4-e422-4c9f-a163-3b7ed6c11a84": {
    "folders": [
@@ -12214,12 +12256,6 @@
    ],
    "version": "2026.10.18.01.41"
   },
-  "4a7a6d7f-44fb-4eaf-94a2-93887ea5b8f1": {
-   "folders": [
-    "WamasuChargeLane"
-   ],
-   "version": "1.0.5"
-  },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd": {
    "folders": [
     "TrackersByJH"
@@ -12284,7 +12320,7 @@
    "folders": [
     "EyeOnKeep"
    ],
-   "version": "1.3.2"
+   "version": "1.4.3"
   },
   "4cd1ecbb-8d25-48e5-a67e-28b408761f77": {
    "folders": [
@@ -12568,7 +12604,7 @@
    "folders": [
     "LibCustomNames"
    ],
-   "version": "2026-11-16"
+   "version": "2026-11-23"
   },
   "5fcc6401-3a36-427e-acd5-9611fb589e78": {
    "folders": [
@@ -13076,7 +13112,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "8.8"
+   "version": "9.7"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -13326,9 +13362,9 @@
   },
   "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14": {
    "folders": [
-    "PBsEmber"
+    "PBsCombatAssistant"
    ],
-   "version": "0.1.2"
+   "version": "0.3.0"
   },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216": {
    "folders": [
@@ -13435,6 +13471,12 @@
     "RodZillaTraderStats"
    ],
    "version": "0.1.10"
+  },
+  "9115b4e2-1fab-4a8c-969b-4e8af57ea6f9": {
+   "folders": [
+    "TrueShotMarkers"
+   ],
+   "version": "1.0.7"
   },
   "91330ebe-27c8-46b9-ad71-42991b96789d": {
    "folders": [
@@ -13841,7 +13883,7 @@
    "folders": [
     "LibUser562"
    ],
-   "version": "2.2"
+   "version": "2.4"
   },
   "a77b6722-e51b-4b17-9543-632248774cf3": {
    "folders": [
@@ -13887,9 +13929,9 @@
   },
   "a981c79d-3b39-400d-94d1-e164bdd88393": {
    "folders": [
-    "BetterCharacterOverview"
+    "TravelWheel"
    ],
-   "version": "BetterCharacterOverview-1.12.0-2026-11-16T194336"
+   "version": "TravelWheel-0.6.0-2026-11-23T133250"
   },
   "aa271fb4-3ce5-4584-ac5c-338617e92f62": {
    "folders": [
@@ -14496,7 +14538,7 @@
    "folders": [
     "ESOCompanionQRTest"
    ],
-   "version": "0.9.0"
+   "version": "0.9.1"
   },
   "cbe4d714-54cb-4495-a852-fdbd74443b5a": {
    "folders": [
@@ -14626,7 +14668,7 @@
    "folders": [
     "PBsMiniMap"
    ],
-   "version": "2.3.5"
+   "version": "2.3.6"
   },
   "d081d271-bda5-4b78-a18c-251878246156": {
    "folders": [
@@ -14726,7 +14768,7 @@
    "folders": [
     "PBsMiniMap"
    ],
-   "version": "2.3.5"
+   "version": "2.3.6"
   },
   "d6deaeae-2a87-4b88-a5a6-d290aee5e616": {
    "folders": [
@@ -14822,7 +14864,7 @@
    "folders": [
     "PBsCyrodiilAlert"
    ],
-   "version": "2.8.1"
+   "version": "2.8.2"
   },
   "da93c9ce-04e0-4acf-a62a-16e23c1e8d06": {
    "folders": [
@@ -15052,7 +15094,7 @@
    "folders": [
     "LastRites"
    ],
-   "version": "1.0.5"
+   "version": "1.0.12"
   },
   "e54271d9-a6d8-4004-8e2a-6f8ddb3a4045": {
    "folders": [
@@ -15101,6 +15143,12 @@
     "PBsQuickChat"
    ],
    "version": "0.3.0"
+  },
+  "e739c3a3-b9ea-4ac4-afff-0962e63338c6": {
+   "folders": [
+    "ESOCGoldDigger"
+   ],
+   "version": "0.9.2"
   },
   "e748a1af-bca6-470d-be77-d5e7ab432006": {
    "folders": [
@@ -15159,7 +15207,7 @@
    "folders": [
     "ESOCSetHunter"
    ],
-   "version": "2.15.1"
+   "version": "2.17.1"
   },
   "eb5d6e39-de4d-4163-9c41-521a3eb2a1aa": {
    "folders": [],
@@ -15323,7 +15371,7 @@
    "folders": [
     "TrueDeathStalker"
    ],
-   "version": "0.5"
+   "version": "1.2"
   },
   "f386385b-2805-4720-8481-1d87d1cd1d0c": {
    "folders": [
