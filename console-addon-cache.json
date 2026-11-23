@@ -244,13 +244,13 @@
    "apiVersion": "101050",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 25,
+   "downloads": 29,
    "folder": "GoldStandard",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 TSCPriceDataAPI TSCPriceDataLite",
    "title": "Gold Standard",
-   "updatedAt": 1795379204,
-   "version": "v1.5"
+   "updatedAt": 1795403354,
+   "version": "v1.6"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1/PBsGammaAdjuster": {
    "addOnVersion": "",
@@ -1330,6 +1330,20 @@
    "updatedAt": 1788989244,
    "version": "1.1.0"
   },
+  "20d33141-7896-4ba2-9a65-348314a2ed9c/WritPrice": {
+   "addOnVersion": "5219",
+   "addonId": "20d33141-7896-4ba2-9a65-348314a2ed9c",
+   "apiVersion": "101051 101052",
+   "author": "Gamer_sa22",
+   "dependsOn": "TSCPriceFetcher2>=124 LibCharacterKnowledge>=300040 LibAlchemy>=18 LibLazyCrafting>=4042 LibHarvensAddonSettings>=20200",
+   "downloads": 8,
+   "folder": "WritPrice",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "WritPrice",
+   "updatedAt": 1795394623,
+   "version": "52.19"
+  },
   "2150f7ed-d4e8-426c-b6e0-2df807f1db92/CleanLeadsUI": {
    "addOnVersion": "",
    "addonId": "2150f7ed-d4e8-426c-b6e0-2df807f1db92",
@@ -2033,16 +2047,16 @@
   "2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5/EsoBR": {
    "addOnVersion": "",
    "addonId": "2f8a0754-ae3b-42c9-ad8a-90fd7b23daf5",
-   "apiVersion": "101051",
+   "apiVersion": "101052",
    "author": "frooke",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 14212,
+   "downloads": 16276,
    "folder": "EsoBR",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "Tradu\u00e7\u00e3o Portugu\u00eas - ESOBR",
-   "updatedAt": 1791054693,
-   "version": "1.3.1"
+   "updatedAt": 1795395227,
+   "version": "1.3.2"
   },
   "2fd5ce0c-10fd-49de-9d22-2de4052785b3/GCDMonitor": {
    "addOnVersion": "20001",
@@ -2932,13 +2946,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 3286,
+   "downloads": 3924,
    "folder": "WhereIsIt",
    "isLibrary": "",
    "optionalDependsOn": "TSCPriceFetcher2",
    "title": "Where Is It?",
-   "updatedAt": 1792812122,
-   "version": "1.5"
+   "updatedAt": 1795402250,
+   "version": "1.7"
   },
   "46afefc4-e422-4c9f-a163-3b7ed6c11a84/TradeQR": {
    "addOnVersion": "5",
@@ -3149,6 +3163,20 @@
    "title": "Character Bound Item Hider",
    "updatedAt": 1792260649,
    "version": "2026.10.18.01.41"
+  },
+  "4a7a6d7f-44fb-4eaf-94a2-93887ea5b8f1/WamasuChargeLane": {
+   "addOnVersion": "10005",
+   "addonId": "4a7a6d7f-44fb-4eaf-94a2-93887ea5b8f1",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 5,
+   "folder": "WamasuChargeLane",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "beta",
+   "updatedAt": 1795388243,
+   "version": "1.0.5"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/TrackersByJH": {
    "addOnVersion": "1106",
@@ -3403,18 +3431,18 @@
    "version": "1.4.1"
   },
   "4f27162e-d1c9-4d60-ba2b-1d33d0645a33/PBsWayPoint": {
-   "addOnVersion": "16",
+   "addOnVersion": "17",
    "addonId": "4f27162e-d1c9-4d60-ba2b-1d33d0645a33",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 12,
+   "downloads": 14,
    "folder": "PBsWayPoint",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint",
-   "updatedAt": 1795254681,
-   "version": "0.6.4"
+   "updatedAt": 1795397079,
+   "version": "0.6.5"
   },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab/NedsGroupManager": {
    "addOnVersion": "",
@@ -5130,13 +5158,13 @@
    "apiVersion": "101048 101049 101050 101051",
    "author": "user562x",
    "dependsOn": "LibUser562",
-   "downloads": 30,
+   "downloads": 32,
    "folder": "MyExtras",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "MyExtras",
-   "updatedAt": 1795331507,
-   "version": "8.4"
+   "updatedAt": 1795408787,
+   "version": "8.8"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6/CombatTopHealthbar": {
    "addOnVersion": "",
@@ -5699,18 +5727,18 @@
    "version": "1.0.0"
   },
   "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14/PBsEmber": {
-   "addOnVersion": "2",
+   "addOnVersion": "3",
    "addonId": "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 2,
+   "downloads": 3,
    "folder": "PBsEmber",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's Ember(Beta)",
-   "updatedAt": 1795341014,
-   "version": "0.1.1"
+   "updatedAt": 1795397174,
+   "version": "0.1.2"
   },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216/RareFishTracker": {
    "addOnVersion": "",
@@ -5893,20 +5921,6 @@
    "title": "Lazy Confirm (and delete)",
    "updatedAt": 1746425820,
    "version": "1.0.4"
-  },
-  "8fc4dbcc-bce3-471f-a036-2fb01acd6e4a/WorldBossTimer": {
-   "addOnVersion": "5",
-   "addonId": "8fc4dbcc-bce3-471f-a036-2fb01acd6e4a",
-   "apiVersion": "101050 101051",
-   "author": "FiNk3F13",
-   "dependsOn": "",
-   "downloads": 0,
-   "folder": "WorldBossTimer",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Beta",
-   "updatedAt": 1795206437,
-   "version": "0.3.0"
   },
   "90c97baa-6170-421f-bd23-7fd88500168d/LibMessagePlugin": {
    "addOnVersion": "110",
@@ -6670,13 +6684,13 @@
    "apiVersion": "",
    "author": "SvlphvryVoid",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 3,
+   "downloads": 6,
    "folder": "GoldNation",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Gold Nation",
-   "updatedAt": 1793944442,
-   "version": "1.1.1"
+   "updatedAt": 1795394730,
+   "version": "1.1.3"
   },
   "a17836b4-17ec-478f-91a6-f0c59e123e2a/RanckorsBaggage": {
    "addOnVersion": "3.1.2",
@@ -6819,21 +6833,21 @@
    "version": "v2.5.1"
   },
   "a5a47140-37bb-4fb8-a0be-2d8b424ad400/PBsPlayerMarkerExtension": {
-   "addOnVersion": "11",
+   "addOnVersion": "12",
    "addonId": "a5a47140-37bb-4fb8-a0be-2d8b424ad400",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 19,
+   "downloads": 22,
    "folder": "PBsPlayerMarkerExtension",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension",
-   "updatedAt": 1795239597,
-   "version": "0.4.7"
+   "updatedAt": 1795397325,
+   "version": "0.4.8"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3/PBsPlayerMarkerExtension": {
-   "addOnVersion": "11",
+   "addOnVersion": "12",
    "addonId": "a65f7431-18ba-4958-a2e4-c2b14621d1b3",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
@@ -6843,8 +6857,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's PlayerMarkerExtension(Beta)",
-   "updatedAt": 1795239631,
-   "version": "0.4.7"
+   "updatedAt": 1795397287,
+   "version": "0.4.8"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb/SynergyCooldown": {
    "addOnVersion": "20101",
@@ -9857,18 +9871,18 @@
    "version": "2.0.0"
   },
   "eb2c190d-fe48-498a-baac-3db1a6ba979e/ESOCSetHunter": {
-   "addOnVersion": "33",
+   "addOnVersion": "35",
    "addonId": "eb2c190d-fe48-498a-baac-3db1a6ba979e",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "",
-   "downloads": 31,
+   "downloads": 35,
    "folder": "ESOCSetHunter",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings LibLazyCrafting",
    "title": "Set Hunter",
-   "updatedAt": 1795338169,
-   "version": "2.14.0"
+   "updatedAt": 1795411074,
+   "version": "2.15.1"
   },
   "ebdcb1e1-d96b-4d8c-a931-d6035865e34d/ProximityAlert": {
    "addOnVersion": "",
@@ -10571,7 +10585,7 @@
    "version": "1.0.0"
   },
   "fc7e18ca-ae50-4284-8b26-df8f05312495/PBsWayPoint": {
-   "addOnVersion": "16",
+   "addOnVersion": "17",
    "addonId": "fc7e18ca-ae50-4284-8b26-df8f05312495",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
@@ -10581,8 +10595,8 @@
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's WayPoint(Beta)",
-   "updatedAt": 1795254644,
-   "version": "0.6.4"
+   "updatedAt": 1795397114,
+   "version": "0.6.5"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c/LibDateTime": {
    "addOnVersion": "32",
@@ -10928,7 +10942,7 @@
    "folders": [
     "GoldStandard"
    ],
-   "version": "v1.5"
+   "version": "v1.6"
   },
   "07ad2fa8-6b34-4021-bcb1-886119449ac1": {
    "folders": [
@@ -11403,6 +11417,12 @@
    ],
    "version": "1.1.0"
   },
+  "20d33141-7896-4ba2-9a65-348314a2ed9c": {
+   "folders": [
+    "WritPrice"
+   ],
+   "version": "52.19"
+  },
   "2150f7ed-d4e8-426c-b6e0-2df807f1db92": {
    "folders": [
     "CleanLeadsUI"
@@ -11714,7 +11734,7 @@
    "folders": [
     "EsoBR"
    ],
-   "version": "1.3.1"
+   "version": "1.3.2"
   },
   "2fd5ce0c-10fd-49de-9d22-2de4052785b3": {
    "folders": [
@@ -11894,7 +11914,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.595"
+   "version": "0.0.598"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12097,7 +12117,7 @@
    "folders": [
     "WhereIsIt"
    ],
-   "version": "1.5"
+   "version": "1.7"
   },
   "46afefc4-e422-4c9f-a163-3b7ed6c11a84": {
    "folders": [
@@ -12193,6 +12213,12 @@
     "CharacterBoundItemHider"
    ],
    "version": "2026.10.18.01.41"
+  },
+  "4a7a6d7f-44fb-4eaf-94a2-93887ea5b8f1": {
+   "folders": [
+    "WamasuChargeLane"
+   ],
+   "version": "1.0.5"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd": {
    "folders": [
@@ -12304,7 +12330,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.6.4"
+   "version": "0.6.5"
   },
   "4f86b7c8-8fb6-432c-a1b9-2004263244ab": {
    "folders": [
@@ -13050,7 +13076,7 @@
    "folders": [
     "MyExtras"
    ],
-   "version": "8.4"
+   "version": "8.8"
   },
   "7c18ff01-65ca-424a-9797-987227ea3ac6": {
    "folders": [
@@ -13302,7 +13328,7 @@
    "folders": [
     "PBsEmber"
    ],
-   "version": "0.1.1"
+   "version": "0.1.2"
   },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216": {
    "folders": [
@@ -13385,12 +13411,6 @@
     "LazyConfirm"
    ],
    "version": "1.0.4"
-  },
-  "8fc4dbcc-bce3-471f-a036-2fb01acd6e4a": {
-   "folders": [
-    "WorldBossTimer"
-   ],
-   "version": "0.3.0"
   },
   "90c97baa-6170-421f-bd23-7fd88500168d": {
    "folders": [
@@ -13723,7 +13743,7 @@
    "folders": [
     "GoldNation"
    ],
-   "version": "1.1.1"
+   "version": "1.1.3"
   },
   "a17836b4-17ec-478f-91a6-f0c59e123e2a": {
    "folders": [
@@ -13790,13 +13810,13 @@
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.7"
+   "version": "0.4.8"
   },
   "a65f7431-18ba-4958-a2e4-c2b14621d1b3": {
    "folders": [
     "PBsPlayerMarkerExtension"
    ],
-   "version": "0.4.7"
+   "version": "0.4.8"
   },
   "a6c22156-8b52-467d-ab02-287e5731a1fb": {
    "folders": [
@@ -15139,7 +15159,7 @@
    "folders": [
     "ESOCSetHunter"
    ],
-   "version": "2.14.0"
+   "version": "2.15.1"
   },
   "eb5d6e39-de4d-4163-9c41-521a3eb2a1aa": {
    "folders": [],
@@ -15459,7 +15479,7 @@
    "folders": [
     "PBsWayPoint"
    ],
-   "version": "0.6.4"
+   "version": "0.6.5"
   },
   "fc98f3c0-0b5a-4797-aaa4-379955c3310c": {
    "folders": [
