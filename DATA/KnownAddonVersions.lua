@@ -144,7 +144,7 @@ AuctionHouse		2.5	4394	101044
 AureoleRange		6.5.3	4529	101049 101050
 AutoAbandonContracts		1.1	4481	101041
 AutoAbandonQuests	6	1.5	5084	101051 101052
-AutoAcceptNextWrit		1.2	5085	101051
+AutoAcceptNextWrit	121	1.2.1	5085	101051 101052
 AutoBanishPets		0.8.0	3099	101041
 Autobanker		2.5	2199	101049 101050
 AutobankerGuildBank		2.5	2199	101049 101050
@@ -167,7 +167,7 @@ AutoReadyCheck	241	2.4.1	3688	101049 101048
 AutoRecruit		3.4.0	2571	101051
 AutoResearch		3.1.0	1652	101046
 AutoSeller		0.2	4345	101044
-AutoUnbox	1	1.0	5086	101051 101052
+AutoUnbox	2	1.0.1	5086	101051 101052
 AwesomeEvents	22	1.7 build-22	1739	101040
 AwesomeEventsMod	22	1.7 build-22	3811	101040
 AwesomeGuildStore	3282	1.7.8	695	101050
@@ -256,9 +256,6 @@ BSCs-WizardPlugin		1.0.2	4645	101050
 BTVToolsRosterImporter	302	0.3.2	4852	101051
 BuffTheGroup		3.5.0	2759	101041 101042
 BugCatcher		043	2566	101051 101052
-BureauOfAcceptableViews	314	3.14.215445	4720	101051
-BureauOfMaterialWorth	48	4.8.004612	4718	101051
-BureauOfPrivateDispatches	11	1.1.012551	4796	101051
 BurningLightTracker	113	1.2.1	4786	101044 101045 101046 101047 101048
 BurstSync		1.0.0	4662	101050
 CAddonDiagnosis	50005	5.0.5	2717	101051 101052
@@ -311,7 +308,7 @@ ChatWindowManager		1.37	1041	101039 101040
 Chess		5.0	2082	101041
 ChestFarmer		1.22	3045	101047 101048
 ChillItemShare	10000	2.0	5054	101051
-ChimersRecall	10100	1.2.0	5103	101051
+ChimersRecall	102001	1.2.1	5103	101051
 Chorus	1	0.2.4	4810	101050 101051
 Chronos	10400	1.4.0	3325	101051
 Chuhaister		1.2	4705	101050 101051
@@ -330,7 +327,7 @@ cmpqt		1.0.2	4695	101050
 CogsAssistants	5	0.1.5	4687	101050 101051
 CollectiblesTracker	306060	3.6.6	2588	101051 101052
 CollectiblesTrackerAllTheThings	2	2.2	4638	101051 101052
-Colorblind		2026.11.22	5032	101042
+Colorblind		2026.11.23	5032	101042 101051
 ColorBlindMode		1.0.12	2981	101042
 ColorfulMapAreas		1.2.0	3393	101037
 CombatAlerts	207020	2.7.2	1855	101051 101052
@@ -355,7 +352,7 @@ CompanionRoster		2.4.0	4862	101051
 CompanionsCompanion	100	v2.4.0	3474	101040
 CompanionsCompanion_Updated	110	1.1.0	4125	101046
 CompanionsContainers		1.9	4143	101051
-CompanionSidekick	102	0.1.2-beta	5072	101051
+CompanionSidekick	200	0.2.0-beta	5072	101051
 CompanionStuffTracker	10203	1.2.3	3986	101045
 CompassHide		0.5.2	4516	101049
 CompsWBTimer		1.0.2	3880	101042
@@ -415,6 +412,7 @@ CyrHUD		2026.11.15	559	101052
 CyrodiilMapLabels		1.9.2	4361	101052 101053
 CyrodiilScoreViewer		0.5.0	3166	101040
 CyroQuestManager		2.1	4208	101046
+CyroQueueStatus		1.4.2	5104	101051
 DacksUndefinedGlobalsCatcher		1	4073	101045 101046
 DaedricTrickeryTracker		1.01	4080	101045
 DailyAlchemy		1.5.2	1899	101050
@@ -437,7 +435,7 @@ DeathCounter	5	1.05	4592	101050
 DeBluedIcons	1	1	5006	101051 101052
 DebuffTracker	52124	5.21.24	4030	101050 101051
 DebuggerConsole	1	0.3.2	3782	101040
-DeclutteredScryingLeads	200	2.0.0	5088	101051
+DeclutteredScryingLeads	201	2.0.1	5088	101051 101052
 DeconOrSell		1.1.3	3972	101047
 DeconSelectAll	110	1.1.0	4873	101051 101050
 DeconStats		1.0.2	3973	101047
@@ -526,7 +524,7 @@ EnchantPlus		1.1	4800	101051
 EndeavorAssistant		1.2	3936	101042
 EndeavorChatTracker		1.1.4	3274	101048
 EndeavorTracker		2.3.1	3154	101042 101043
-ESO_UA_GoA	107	47.73	4702	101049 101050 101051 101052
+ESO_UA_GoA	108	47.74	4702	101051 101052
 ESOAdventurerSuite	3725	0.29.790	4779	101050 101051
 EsoAR		2.4.2	4927	101050 101051
 EsoBR_Reforged		1.3.2	2256	101051
@@ -573,7 +571,7 @@ ExperimentalDummyPvp		1.0	4781	101045 101046 101047
 ExtendedAchievementCredit	202020	2.2.2	3339	101046 101047
 ExtendedIgnoreList		2026.07.09	3939	101050
 extGroupLeader		2.0.42	2722	101041 101042
-ExtraTTCTooltips	10001	1.1	5090	101051
+ExtraTTCTooltips	10002	1.1.1	5090	101051 101052
 EyeOnKeep		1.0	4284	101047
 EyeSafetyLockpicking	7	1.2.1	4055	101045
 EZReport		1.29	1842	101043 101044
@@ -639,13 +637,13 @@ FreshUI		1.4.1	3804	101046
 Frostfall	31	3.4.35	4710	101051 101052
 FunKillFeed		1.3.5	4286	101046
 FurnishingRecipeCollector		1.4.9	3862	101050
-FurnitureCatalogue	8001000	8.1.0	1617	101051 101052
-FurnitureCatalogue_DevUtility		8.1.0	1617	101051 101052
-FurnitureCatalogue_Export		8.1.0	1617	101051 101052
+FurnitureCatalogue	9000000	9.0.0	1617	101051 101052
+FurnitureCatalogue_DevUtility		9.0.0	1617	101051 101052
 FurnitureFilter	2	1.0.1	4986	101051
-FurysCharacterTracker	122	1.2.2	5078	101051 101052
-FurysGuildToolset	107	1.16.11	5063	101051 101052
-FurysInventoryLedger	122	1.2.2	5099	101051 101052
+FurnitureShoppingList	2000000	2.0.0	1865	101051 101052
+FurysCharacterTracker	130	1.3.0	5078	101051 101052
+FurysGuildToolset	117	1.20.1	5063	101051 101052
+FurysInventoryLedger	130	1.3.0	5099	101051 101052
 GamePadHelper	10619	1.06.19	3268	101051
 GamePadHelper_GearComparison		1.03	4253	101047
 GamePadHelper_InventoryCovetousCountess		1.03	4253	101047
@@ -778,7 +776,7 @@ HideCompassDistances		1.0.3	4221	101047 101048
 HideCompassLabels		1.0		101040
 HideCompletedTomeChallenges		1.0	4811	101050
 HideGroupNecro		1.5.1	3472	101047 101048
-HideInventoryClutter		2.2.0	3247	101051
+HideInventoryClutter	221	2.2.1	3247	101051 101052
 HideLoginNotice		1.0.3	4248	101048
 HideMOTD		26.11.11	5033	101045
 HidePlayerMapMarker		1.0.2	4249	101048
@@ -838,10 +836,10 @@ ImperialCartographer	22	v22	4112	101050
 ImpifiedUI	2	2	4141	101046
 ImpitoyableStack		1.1	4168	101046
 ImpressiveStats	1157000	1.5.8	4032	101051
-ImprovedAchievementCategories	105	1.0.5	3114	101051
+ImprovedAchievementCategories	106	1.0.6	3114	101051
 ImprovedAttributeBars	103000	1.3.0	4884	101051
 ImprovedDeathRecap	10002	1.0.2	1319	100048
-ImprovedDeathRecapVanillaUI	310	3.1.0	5097	101051 101052
+ImprovedDeathRecapVanillaUI	311	3.1.1	5097	101051 101052
 ImprovedGoldenPursuits		1.6.0	4005	101051
 ImprovedNightMarketHUD	100030	1.0.3	4560	101049 101050
 ImprovedPvPUI	1177000	1.7.7	4035	101051
@@ -875,7 +873,7 @@ ItalianScrollsOnline		166	2854	101042
 ItemAlert	10102	1.1.2	3954	101044
 ItemBrowser	407020	4.7.2	1480	101051 101052
 ItemCooldownTracker	52	5.2	2823	101050 101051
-ItemSaverLite		2.4	4335	101051
+ItemSaverLite		2.5	4335	101051
 ItemSetCollectionTracker	41	0.4.1	2816	101041
 ItemTracker	5	5	4351	101048
 ITTSDonationBot	213	2.1.3	2765	101049 101050
@@ -1257,11 +1255,11 @@ QuickBank		v1.0.2	4109	101051
 QuickBind	2	1.1.0	4296	101048
 QuickEmoteMenu	1787431397	1.3.0	4769	101050
 QuickFashion		2.3	3115	101045
-QuickMapNav		2026.10.27	3058	101052
+QuickMapNav		2026.11.23	3058	101052
 QuickMarker		1.7	4502	101049 101050
 QuickSlash	1	0.10	3955	101042
 QuickslotAddon		1.6	4049	101046
-QuickslotProfiles	5	1.4.0	5091	101051 101052
+QuickslotProfiles	6	1.4.1	5091	101051 101052
 QuickSurveyOpener		1.0	4569	101045
 QuickWheelAssist		1.0	3963	101144
 QuietBanner		1.0	3983	101044
@@ -1308,7 +1306,7 @@ RewardPopupsReworked	10008	1.8	4694	101050 101051
 RewardsTracker	84	0.8.4	2864	101048
 RhalyfsKeybindings		1.1	1147	101049 101050
 Rhythmos		1.0	4586	101046
-RideAlong	200	2.0.0	5092	101051
+RideAlong	201	2.0.1	5092	101051 101052
 RidinDirty		2026.11.23	3560	101051
 RidingSchool	26	1.4.22	2491	101052 101051
 RipFilter	75	0.75	1844	101040
@@ -1324,7 +1322,7 @@ Roomba		2026.08.15	402	101050 101051
 RoseGuilds		09.19.26	3345	101050 101051
 RPCompanion		1.0.0	4602	101049
 RPProfileViewer	1	1.7	2959	101046
-RPQuest	148	1.8.1	5080	101051
+RPQuest	162	1.9.0	5080	101051
 RSSThemeBars		1.4.1	4957	101050 101051
 RUClientFixFont		1.2.0	3829	101041
 RuESO		48.0	1347	101051 101052
@@ -1346,8 +1344,8 @@ SavedVariablesManager	1000	1.0	3167	100035
 SaveManager	260323008	1.0.0		101049
 SBMI	12	0.1.2	2644	101046 101047 101048 101049
 Schlosswerk	200	2.0.0	4863	101051 101050
-SchrodisBattlegroundTools	200	2.0.0	5101	101051 101052
-SchrodisHousingTools	210	2.1.0	5093	101051
+SchrodisBattlegroundTools	201	2.0.1	5101	101051 101052
+SchrodisHousingTools	211	2.1.1	5093	101051 101052
 ScreenAntiDimmer		1.0	3894	101042
 SCRIBING_IDS		1	3882	101042
 ScribingUI		1.0	3888	101042
@@ -1422,7 +1420,7 @@ SkillBlocker	100	1.0b	2619	100030
 SkillBlocker_NJ		1.5	4318	101048
 Skillbound	4	1.0.3	4911	101050 101051
 SkillExp		1.1.1	4445	101049 101050
-SkillIssue		1.0	5094	101051
+SkillIssue	101	1.0.1	5094	101051 101052
 SkillIssueTracker		1.0.3	4744	101050
 SkillLines		v2.1.2	4041	101051
 SkillPointAlerts	130	1.30	3989	101051
@@ -1527,7 +1525,7 @@ TamrielTradeCentreCompanion	111	1.11	3509	101046 101047
 TamrielTradeCentrePatchPT-BR		2.0.1	3506	101041
 TamrielTrashCentre	21000	2.1.0	3724	101050
 Tank		1.1.42	1192	101041 101042
-TargetFrameLine	3	1.2.0	5095	101051 101052
+TargetFrameLine	4	1.2.1	5095	101051 101052
 Targets		2.0	2946	101045
 TauntHelper		1.5.3	3754	101043
 TauntIndicator		0.9	4429	101048
@@ -1537,7 +1535,7 @@ TDAddon		2026.11.14	4194	101051
 TeamShadowsBuffs	10110	1.1.10	4673	101050 101051
 TeamShadowsManager	10120	1.1.20	4670	101050 101051
 TEB	120103	12.1.3	3075	101051
-Teleport		1.5.0	2781	101051
+Teleport	151	1.5.1	2781	101051 101052
 TelvarSaver		1.9	3664	101050
 TemplarMastery	11	1.7	4827	101050 101051
 Tetris	17	1.7	3314	101040
@@ -1602,7 +1600,7 @@ UIInspect	110	1.1.0	4437	101048 101049
 UITweaks		2.7	4524	101051
 UkrainianScrollsOnline	107	1.07	3437	101045 101046
 UltGrantTargeting	4	1.4.0	4526	101049 101050
-UltimateRegenTimer	300	3.0.0	5096	101051
+UltimateRegenTimer	301	3.0.1	5096	101051 101052
 Ultivite	1000200	1.0.200	4777	101050 101051
 Unboxer		2026.11.11	1655	101052
 UnchainedHelper		1.0.5	3731	101041
@@ -1700,7 +1698,7 @@ WhisperNotifier		1.0.1	4089	101045
 Whoison		1.0.0	4079	101045
 WhoWantsSpaulder	210	2.1.0	4052	101050 101051
 WideTooltips		1.0.1	3785	101040
-WifeyDPSPositions	18	1.8	4861	101050 101051
+WifeyDPSPositions	183	1.8.3	4861	101050 101051
 WifeyRyticMagmaTracker	3	1.2	4821	101050 101051
 WindsCustomIcons	1	1.0.0	4363	101047 101048
 WingsOfWindGuildhall	20002	2.0.2	4020	101047 101048

@@ -114,6 +114,7 @@ AoM.KnownAddonDependencies = {
 	["CommonWorksUI"] = { "AwesomeGuildStore", "BeamMeUp", "CrutchAlerts", "DolgubonsLazyWritCreator", "LarvalTear", "LibCombat", "LibMediaProvider", "LoreBooks", "TamrielTradeCentre", "UndauntedPledgesUtilities", "WritWorthy" },
 	["CompanionFrame"] = { "BanditsUserInterface", "LibDebugLogger", "tom" },
 	["CompanionGearHunter"] = { "CompanionRoster" },
+	["CompanionSidekick"] = { "LibExtendedJournal" },
 	["CompanionStuffTracker"] = { "LibSlashCommander" },
 	["ConsoleFont"] = { "LibAddonMenu-2.0" },
 	["ControllerTweaks"] = { "PersonalAssistant", "TamrielTradeCentre" },

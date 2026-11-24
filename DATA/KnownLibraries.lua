@@ -95,7 +95,7 @@ LibDataShare	20250314	2025.03.14	3297	101044 101045	LibDataShare (deprecated)	Li
 LibDataStructures	20241206	2024.12.06	4001	101044	LibDataStructures	LibDataStructures
 LibDateTime	32	1.2.0	2277	101045 101046	LibDateTime	LDT
 LibDebugLogger	331	2.7.2	2275	101051 101052	LibDebugLogger	LDL
-LibDeconValue	120	1.2	5083	101051	LibDeconValue	LibDeconValue
+LibDeconValue	121	1.2.1	5083	101051 101052	LibDeconValue	LibDeconValue
 LibDelayedHandler	2	0.0.2	2807	100033 100034	LibDelayedHandler	LibDelayedHandler
 LibDialog	127	1.27	1931	101039 101040	LibDialog	LibDialog
 LibDungeonFinder	120	1.2.0	4600	101049 101050	LibDungeonFinder	LibDungeonFinder
@@ -117,7 +117,7 @@ LibFLEncode	2	1.1.9	1563	101046 101047 101048 101049	LibFLEncode	LibFLEncode
 LibFloatingIcons		0.2	3599	101045	LibFloatingIcons	LibFloatingIcons
 LibFonts	10000	1.0.0	4004	101044	LibFonts	LibFonts
 LibFoodDrinkBuff	19	19	1902	101049 101050	LibFoodDrinkBuff	LibFoodDrinkBuff
-LibFurnitureCatalogue	1003000	1.3.0	4804	101051 101052	LibFurnitureCatalogue	LibFurnitureCatalogue
+LibFurnitureCatalogue	1004000	1.4.0	4804	101051 101052	LibFurnitureCatalogue	LibFurnitureCatalogue
 LibGamepad	107	1.0.8	4441	101049	LibGamepad	LibGamepad
 LibGamepadContextMenuBridge	156	1.5.6	4432	101051	[Beta] LibGamepadContextMenuBridge v1.5.1 - gamepad context actions for LibCustomMenu	LibGamepadContextMenuBridge
 LibGamepadOptions	7	0.2.4	4614	101049 101050	LibGamepadOptions	LibGamepadOptions
