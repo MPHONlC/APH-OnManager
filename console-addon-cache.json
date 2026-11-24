@@ -958,13 +958,13 @@
    "apiVersion": "101049 101048",
    "author": "Vixen_Hunny",
    "dependsOn": "LibAddonMenu-2.0>=41",
-   "downloads": 6,
+   "downloads": 9,
    "folder": "VixensGamedpadScene",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Vixen's Gamepad Scene",
-   "updatedAt": 1795365448,
-   "version": "3.0.0"
+   "updatedAt": 1795477202,
+   "version": "4.0.0"
   },
   "173a593f-d0c6-473b-a865-5c8961942c06/BaasWritCrafter": {
    "addOnVersion": "4057",
@@ -1807,18 +1807,18 @@
    "version": "1.03"
   },
   "2a88cc14-8e8c-4b73-9605-2e1d7c764e23/TSCPriceFetcher2": {
-   "addOnVersion": "124",
+   "addOnVersion": "125",
    "addonId": "2a88cc14-8e8c-4b73-9605-2e1d7c764e23",
    "apiVersion": "101051 101052",
    "author": "SavageTSC",
    "dependsOn": "LibHarvensAddonSettings>=20000 LibAsync>=30002 LibNotification",
-   "downloads": 625195,
+   "downloads": 666930,
    "folder": "TSCPriceFetcher2",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "TSC Price Fetcher 2",
-   "updatedAt": 1793229638,
-   "version": "124"
+   "updatedAt": 1795476859,
+   "version": "125"
   },
   "2aa223e9-ba88-45f7-90d3-0a47002c720c/PermMemento": {
    "addOnVersion": "26101801",
@@ -4271,18 +4271,18 @@
    "version": "1.0.8"
   },
   "65eefa37-d12c-4876-bdb9-aa547f7a070a/JumpToSearch": {
-   "addOnVersion": "300",
+   "addOnVersion": "301",
    "addonId": "65eefa37-d12c-4876-bdb9-aa547f7a070a",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 9,
    "folder": "JumpToSearch",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger",
    "title": "Jump to Search",
-   "updatedAt": 1794879648,
-   "version": "JumpToSearch-0.3.0-2026-11-16T174040"
+   "updatedAt": 1795480029,
+   "version": "JumpToSearch-0.3.1-2026-11-23T162702"
   },
   "66108dc4-7941-473d-8b4a-f129da12e33c/Leo_stats_panel": {
    "addOnVersion": "",
@@ -4593,18 +4593,18 @@
    "version": "1.9.10"
   },
   "6bd5f4ac-b518-489a-b1b8-31811650b446/LibConsoleLogger": {
-   "addOnVersion": "500",
+   "addOnVersion": "600",
    "addonId": "6bd5f4ac-b518-489a-b1b8-31811650b446",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 127,
+   "downloads": 150,
    "folder": "LibConsoleLogger",
    "isLibrary": "true",
    "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "LibConsoleLogger",
-   "updatedAt": 1794737220,
-   "version": "LibConsoleLogger-0.5.0-2026-11-15T020652"
+   "updatedAt": 1795474266,
+   "version": "LibConsoleLogger-0.6.0-2026-11-23T145058"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665/StaggerTracker": {
    "addOnVersion": "",
@@ -5326,13 +5326,13 @@
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 8,
+   "downloads": 17,
    "folder": "FurnishingCatalog",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger JumpToSearch",
    "title": "Furnishing Catalog",
-   "updatedAt": 1794967855,
-   "version": "FurnishingCatalog-1.6.0-2026-11-17T181042"
+   "updatedAt": 1795474813,
+   "version": "FurnishingCatalog-1.8.1-2026-11-23T145959"
   },
   "81a06296-da7a-447d-8784-8b2116d37dbf/PBsProcSetTimer": {
    "addOnVersion": "",
@@ -5713,18 +5713,18 @@
    "version": "1.0.0"
   },
   "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14/PBsCombatAssistant": {
-   "addOnVersion": "6",
+   "addOnVersion": "8",
    "addonId": "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14",
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 7,
+   "downloads": 8,
    "folder": "PBsCombatAssistant",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106",
    "title": "PinkB's CombatAssistant(Beta)",
-   "updatedAt": 1795432626,
-   "version": "0.3.0"
+   "updatedAt": 1795474738,
+   "version": "0.4.1"
   },
   "8d7c9b63-ddca-49fd-9d5c-ef22b9970f14/PBsEmber": {
    "addOnVersion": "3",
@@ -5921,6 +5921,20 @@
    "title": "Lazy Confirm (and delete)",
    "updatedAt": 1746425820,
    "version": "1.0.4"
+  },
+  "907d1030-3b91-4fa4-a87d-05125dec0012/PBsCombatAssistant": {
+   "addOnVersion": "8",
+   "addonId": "907d1030-3b91-4fa4-a87d-05125dec0012",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "PBsCombatAssistant",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106",
+   "title": "PinkB's CombatAssistant Original by Meru-Sawa",
+   "updatedAt": 1795474691,
+   "version": "0.4.1"
   },
   "90c97baa-6170-421f-bd23-7fd88500168d/LibMessagePlugin": {
    "addOnVersion": "110",
@@ -6320,13 +6334,13 @@
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 498,
+   "downloads": 595,
    "folder": "SatchelExchange",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger LibRadialMenu",
    "title": "Satchel Exchange",
-   "updatedAt": 1794526915,
-   "version": "SatchelExchange-0.10.0-2026-11-12T154142"
+   "updatedAt": 1795478873,
+   "version": "SatchelExchange-0.11.0-2026-11-23T160739"
   },
   "981d34f1-c0ba-4bc4-afa2-490348db8c16/PBsAutoLoot": {
    "addOnVersion": "5",
@@ -7048,13 +7062,13 @@
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "LibHarvensAddonSettings LibRadialMenu",
-   "downloads": 5,
+   "downloads": 15,
    "folder": "TravelWheel",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger",
    "title": "dev sandbox 5",
-   "updatedAt": 1795469581,
-   "version": "TravelWheel-0.6.0-2026-11-23T133250"
+   "updatedAt": 1795486733,
+   "version": "TravelWheel-0.14.1-2026-11-23T181845"
   },
   "aa271fb4-3ce5-4584-ac5c-338617e92f62/SulXan": {
    "addOnVersion": "",
@@ -7504,6 +7518,20 @@
    "updatedAt": 1793997774,
    "version": "1.1.0"
   },
+  "b4a5b1fe-23bb-4396-bb75-561440cc26e8/qrspike": {
+   "addOnVersion": "1",
+   "addonId": "b4a5b1fe-23bb-4396-bb75-561440cc26e8",
+   "apiVersion": "101050 101051",
+   "author": "tiptoeing8680",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "qrspike",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "qrspike",
+   "updatedAt": 1795505925,
+   "version": "0.0.1"
+  },
   "b57202fe-9b3a-4021-ad86-f2db8dfe0c5e/PairsWellWithCheese": {
    "addOnVersion": "029",
    "addonId": "b57202fe-9b3a-4021-ad86-f2db8dfe0c5e",
@@ -7785,18 +7813,18 @@
    "version": "FurnishingCatalog-1.8.0-2026-11-18T221731"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/PreviewAnywhere": {
-   "addOnVersion": "10300",
+   "addOnVersion": "10401",
    "addonId": "bc6b3b76-f701-4533-9492-c50acb1783bc",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 289,
+   "downloads": 322,
    "folder": "PreviewAnywhere",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger",
    "title": "dev sandbox 2",
-   "updatedAt": 1793057360,
-   "version": "PreviewAnywhere-1.3.0-2026-10-26T162909"
+   "updatedAt": 1795487371,
+   "version": "PreviewAnywhere-1.4.1-2026-11-23T182921"
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc/SatchelExchange": {
    "addOnVersion": "",
@@ -8373,32 +8401,32 @@
    "version": "2.1.7"
   },
   "c9f9f38f-e155-4e81-ab38-40b20bc1f130/DungeonRating": {
-   "addOnVersion": "15",
+   "addOnVersion": "21",
    "addonId": "c9f9f38f-e155-4e81-ab38-40b20bc1f130",
    "apiVersion": "101051 101052",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 29,
+   "downloads": 41,
    "folder": "DungeonRating",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu GoldStandard",
    "title": "Dungeon Buddy",
-   "updatedAt": 1795379186,
-   "version": "v1.9"
+   "updatedAt": 1795483992,
+   "version": "v2.3"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000123",
+   "addOnVersion": "01000124",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 22320,
+   "downloads": 22564,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1795320015,
-   "version": "1.0.123"
+   "updatedAt": 1795492814,
+   "version": "1.0.124"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8721,6 +8749,20 @@
    "title": "ShowApiVersion",
    "updatedAt": 1775693269,
    "version": "3.0.0"
+  },
+  "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7/TMENexus": {
+   "addOnVersion": "39",
+   "addonId": "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7",
+   "apiVersion": "101051 101052 2.5.3.0",
+   "author": "m1lkst3ak",
+   "dependsOn": "",
+   "downloads": 25,
+   "folder": "TMENexus",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu TSCPriceDataAPI TSCPriceDataLite",
+   "title": "ESO Arsenal - By TME",
+   "updatedAt": 1795501119,
+   "version": "v1.0.3"
   },
   "cfca5ccd-3799-4e8b-9607-99f4f175a2df/GuildNameTicker": {
    "addOnVersion": "",
@@ -10220,6 +10262,20 @@
    "updatedAt": 1781883332,
    "version": "0.31"
   },
+  "f16394fb-891b-4101-b0ac-d3611ec1b527/BetterCharacterOverview": {
+   "addOnVersion": "11600",
+   "addonId": "f16394fb-891b-4101-b0ac-d3611ec1b527",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "BetterCharacterOverview",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "dev sandbox 4",
+   "updatedAt": 1795475192,
+   "version": "BetterCharacterOverview-1.16.0-2026-11-23T150624"
+  },
   "f16394fb-891b-4101-b0ac-d3611ec1b527/HomeAfterPvP": {
    "addOnVersion": "",
    "addonId": "f16394fb-891b-4101-b0ac-d3611ec1b527",
@@ -11295,7 +11351,7 @@
    "folders": [
     "VixensGamedpadScene"
    ],
-   "version": "3.0.0"
+   "version": "4.0.0"
   },
   "173a593f-d0c6-473b-a865-5c8961942c06": {
    "folders": [
@@ -11669,7 +11725,7 @@
    "folders": [
     "TSCPriceFetcher2"
    ],
-   "version": "124"
+   "version": "125"
   },
   "2aa223e9-ba88-45f7-90d3-0a47002c720c": {
    "folders": [
@@ -11956,7 +12012,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.599"
+   "version": "0.0.600"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12729,7 +12785,7 @@
    "folders": [
     "JumpToSearch"
    ],
-   "version": "JumpToSearch-0.3.0-2026-11-16T174040"
+   "version": "JumpToSearch-0.3.1-2026-11-23T162702"
   },
   "66108dc4-7941-473d-8b4a-f129da12e33c": {
    "folders": [
@@ -12867,7 +12923,7 @@
    "folders": [
     "LibConsoleLogger"
    ],
-   "version": "LibConsoleLogger-0.5.0-2026-11-15T020652"
+   "version": "LibConsoleLogger-0.6.0-2026-11-23T145058"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665": {
    "folders": [
@@ -13184,7 +13240,7 @@
    "folders": [
     "FurnishingCatalog"
    ],
-   "version": "FurnishingCatalog-1.6.0-2026-11-17T181042"
+   "version": "FurnishingCatalog-1.8.1-2026-11-23T145959"
   },
   "81a06296-da7a-447d-8784-8b2116d37dbf": {
    "folders": [
@@ -13364,7 +13420,7 @@
    "folders": [
     "PBsCombatAssistant"
    ],
-   "version": "0.3.0"
+   "version": "0.4.1"
   },
   "8dc100fb-6c43-4ea7-ba01-1a23d306e216": {
    "folders": [
@@ -13447,6 +13503,12 @@
     "LazyConfirm"
    ],
    "version": "1.0.4"
+  },
+  "907d1030-3b91-4fa4-a87d-05125dec0012": {
+   "folders": [
+    "PBsCombatAssistant"
+   ],
+   "version": "0.4.1"
   },
   "90c97baa-6170-421f-bd23-7fd88500168d": {
    "folders": [
@@ -13623,7 +13685,7 @@
    "folders": [
     "SatchelExchange"
    ],
-   "version": "SatchelExchange-0.10.0-2026-11-12T154142"
+   "version": "SatchelExchange-0.11.0-2026-11-23T160739"
   },
   "981d34f1-c0ba-4bc4-afa2-490348db8c16": {
    "folders": [
@@ -13931,7 +13993,7 @@
    "folders": [
     "TravelWheel"
    ],
-   "version": "TravelWheel-0.6.0-2026-11-23T133250"
+   "version": "TravelWheel-0.14.1-2026-11-23T181845"
   },
   "aa271fb4-3ce5-4584-ac5c-338617e92f62": {
    "folders": [
@@ -14131,6 +14193,12 @@
    ],
    "version": "1.1.0"
   },
+  "b4a5b1fe-23bb-4396-bb75-561440cc26e8": {
+   "folders": [
+    "qrspike"
+   ],
+   "version": "0.0.1"
+  },
   "b57202fe-9b3a-4021-ad86-f2db8dfe0c5e": {
    "folders": [
     "PairsWellWithCheese"
@@ -14249,9 +14317,9 @@
   },
   "bc6b3b76-f701-4533-9492-c50acb1783bc": {
    "folders": [
-    "FurnishingCatalog"
+    "PreviewAnywhere"
    ],
-   "version": "FurnishingCatalog-1.8.0-2026-11-18T221731"
+   "version": "PreviewAnywhere-1.4.1-2026-11-23T182921"
   },
   "bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8": {
    "folders": [
@@ -14508,13 +14576,13 @@
    "folders": [
     "DungeonRating"
    ],
-   "version": "v1.9"
+   "version": "v2.3"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d": {
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.123"
+   "version": "1.0.124"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -14657,6 +14725,12 @@
     "ShowAPIVersion"
    ],
    "version": "3.0.0"
+  },
+  "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7": {
+   "folders": [
+    "TMENexus"
+   ],
+   "version": "v1.0.3"
   },
   "cfca5ccd-3799-4e8b-9607-99f4f175a2df": {
    "folders": [
@@ -15347,9 +15421,9 @@
   },
   "f16394fb-891b-4101-b0ac-d3611ec1b527": {
    "folders": [
-    "HomeAfterPvP"
+    "BetterCharacterOverview"
    ],
-   "version": "HomeAfterPvP-0.1.0-2026-11-16T155342"
+   "version": "BetterCharacterOverview-1.16.0-2026-11-23T150624"
   },
   "f2495833-84b0-4142-8a25-f2063d0f0a23": {
    "folders": [

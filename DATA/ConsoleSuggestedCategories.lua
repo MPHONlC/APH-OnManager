@@ -193,7 +193,7 @@ QAutoConfirm	Discontinued & Outdated
 queueNextWrit	TradeSkill Mods
 RanckorsBaggage	Bags, Bank, Inventory
 RareFishTracker	Info, Plug-in Bars
-RideAlong	Group, Guild & Friends
+RideAlong	Discontinued & Outdated
 RoaringOpportunist	Casting Bars, Cooldowns
 Roomba	Bags, Bank, Inventory
 SatiatedHunger	Combat Mods

@@ -276,6 +276,7 @@ TamrielMasterLedger	LibHistoire	LibMainMenu-2.0
 TargetInfo	LibHarvensAddonSettings
 TauntAssist	LibAddonMenu	LibHarvensAddonSettings
 TeaAndToast	LibHarvensAddonSettings
+TMENexus	LibAddonMenu-2.0	LibRadialMenu	TSCPriceDataAPI	TSCPriceDataLite
 TorigaHUD	LibAddonMenu-2.0
 TraderFilter	LibHarvensAddonSettings	LibQRCode
 TradeSkills	LibMapPins-1.0	LibPrice	TamrielTradeCentre
