@@ -193,7 +193,7 @@ DVDScreenSaver		1.3.1	101048	DVD ScreenSaver	Phamo1000	f0561a3c-bea9-49e8-926e-5
 DWAllianceRankProgress	19	1.18	101048 101049	Alliance Rank Progress	Dusty-Warehouse	8e880053-fe2b-4934-9745-a0670e1e12d6
 EasyMark	110	1.1.0	101051	EasyMark	Th3rtythr33	2efc3a91-8534-4f0c-964e-56389bb3aa9b
 EnemyNegateWarning		0.1.12	101050	Test addon	Copper0	0633023c-b987-4b33-ba10-4437f11b6efd
-ErrorCatcher	100	ErrorCatcher-0.1.0-2026-11-24T043121	101050 101051	Error Catcher	clubwratt	e5653713-b8c8-4408-9f6b-3ca2cad33006
+ErrorCatcher	400	ErrorCatcher-0.4.0-2026-11-24T222651	101050 101051	Error Catcher	clubwratt	e5653713-b8c8-4408-9f6b-3ca2cad33006
 ESO_BuildForge	400	v4.0.1	101050 101051	ESO_BuildForge	SremmurdDex	3ea08b32-8d76-48a9-8c15-7f6867883984
 EsoAR	162	1	101050 101049	Ar2	Lofand	52bf209f-b1c3-4253-adfc-ba6e95b85072
 Esoar		3212	101044	EsoAR	Lofand	6aa72f53-f802-446b-9be4-55671bec2726
@@ -205,6 +205,7 @@ ESOCGoldDigger	18	0.9.2	101051	Gold Digger	Khazaril	e739c3a3-b9ea-4ac4-afff-0962
 ESOCKeepMyCrafts	35	2.15.0	101051	Quartermaster	Khazaril	1a7bde87-8418-49dc-accc-d7b6cc6313bd
 ESOCompanionQRTest	18	0.9.1	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75d-511a3ceb083b
 ESOCSetHunter	39	2.17.2	101051	Set Hunter	Khazaril	eb2c190d-fe48-498a-baac-3db1a6ba979e
+ESOCSkillPointFinder	2	0.1.1	101051	Skill Point Finder	Khazaril	da73e1a0-38b3-44ff-b0d1-f450aea66fa4
 ESOFantasy	32.0.0	4.0.3	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
@@ -217,7 +218,7 @@ essenceThiefTracker		1.0.5	101051	Essence Thief Tracker	codeWarrior82	e6634e8a-1
 Ev	20002	1.1	101047 101046	Ev	Mr_tee21	dd556dbe-ac20-41a5-8dba-9ba37eb97347
 EWPFinder	1	4.0.3 Removed Constant return	101046	EWPFinder	Vixen_Hunny	bf9cbf1c-54ac-48f3-b489-a2aeda4996e8
 ExoYsCruxTracker		v1.3	101050	Crux Tracker	j.hhh	7c2543a8-c08b-4c48-b4bf-47d2463b616f
-exporter	1	0.1.0	101050 101051	exporter	tiptoeing8680	6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3
+exporter	3	0.2.1	101050 101051	exporter	tiptoeing8680	6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3
 EyeOnKeep		1.4.3	101051 101050	EyeOnKeep	SugaComa	4c644add-5991-49a0-ad77-6b91a5ffee42
 EyesOfTheUndaunted	15103	1.51.03	101051	Eyes of the Undaunted	xbutch	b22ade94-a817-47da-bc4f-cfa7e1dd25ff
 FancyActionBarPlus	21909	2.18.9	101050	Fancy Action Bar+	acastanza	922792c1-1d90-4415-ada5-c356757e857f
@@ -321,6 +322,7 @@ KillCount	3100	new	101049 101050	Kill Count	Dreadazar	29b689fc-d75c-432c-adfa-69
 LastRites	10014	1.0.14	101050 101051	Last Rites	SugaComa	e5420ffd-20f0-4b92-b30a-d74e81cd5e28
 LazyAlchemyLearner	116.1	4	101051 101052	Beta Dolg Alch	Dolgubon	2711aec8-a92b-4dae-97c9-096e8d72bf16
 LazyConfirm		1.0.4	101045 101046	Lazy Confirm (and delete)	Dolgubon	8fbbe7ae-8178-4e35-9755-3cafefd42095
+LazyConfirmPatch	100	LazyConfirmPatch-0.1.0-2026-11-24T163208	101050 101051	Lazy Confirm (Patch)	clubwratt	a2a9a715-4e28-49e9-9b50-446b33917287
 LazyCrown	14	0.4.2	101050 101051	Lazy Crown	absolventR3M	a0257a7b-725f-4051-91ee-a686c0c70fc2
 LazyHorseFeed		1.0.5	101045 101046	Lazy Horse Trainer	Dolgubon	dd337340-e6c9-4835-8e50-ba68c7e949e4
 LazyOverlandChallenger		1.1	101051	Lazy Overland Challenger	Lykeion+	da61ba59-9a71-4945-9af6-c39f6b8fa393
@@ -343,7 +345,7 @@ LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df0
 LibCombatAlerts	9020	0.9.2	101051 101052	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibCombatSkills	1	1.0.13	101049 101050	LibCombatSkills	SugaComa	4500daea-ed3f-4071-822c-24329a5831e3
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
-LibConsoleLogger	600	LibConsoleLogger-0.6.0-2026-11-23T145058	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
+LibConsoleLogger	701	LibConsoleLogger-0.7.1-2026-11-24T222640	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea
@@ -400,7 +402,7 @@ LiveBuffUptime2		2.4.17	101051	Testo	FiNk3F13	937915ef-c930-46a4-ad1d-baf147c74e
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000124	1.0.124	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000125	1.0.125	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -635,6 +637,7 @@ TamrielCollectionsMotifs	1101	V1.1.1	101051	Tamriel Collections - Archive Motifs
 TamrielCollectionsStylePages	1101	v1.1.1	101051	Tamriel Collections - Archive Style Pages	MajesticMinxi	c8ff27a5-4393-43c9-a816-b912384fdb2d
 TamrielHello	1	0.1.0	101051	Tamriel Hello	wildskiller	a3daf4c1-aa98-4c59-9eca-7832fa036029
 TamrielMasterLedger	21694	2.0.16.94	101050	Tamriel Master Ledger - DEV	xPricee	89ecfc27-e76b-48ae-8d40-e76bbf0c5c13
+TamrielNavigator		v0.2.5	101050	Tamriel Navigator	m1lkst3ak	7f606012-a484-44be-8f9d-065486e2419e
 TamrielTextStudio		2.4.3	101051	Tamriel Text Studio	Lucky38Tech	a847021b-2ae6-4d43-81a4-9a8f3985f8b8
 TargetInfo		1.2.5	101049 101050 101051	TargetInfo	SugaComa	a8908085-8223-4986-ac34-5932bc2c5172
 TauntAssist	6	0.1	101047	Taunt Assist	Cozy_Radish	443e6038-7baa-4e81-84fb-afe6cd3f92d6
@@ -655,7 +658,7 @@ ThisIsTheWayshrine		0.3.10	101050 101051	ThisIsTheWayshrine	saranicole1980	f524a
 ThisOneTeaches		1.0.11	101049 101050	This One Teaches	SugaComa	a31e5f3e-6209-4f6c-9a2f-bac71a9a3af3
 TimedRaidLifeDisplay	10002	1.0.3	101048 101049	Timer in Revive Counter	Shienar	845e13c0-5c9e-4d9b-94e1-a47d532e4b0c
 TitleLoop	1008	1.0.8	101050	Title Loop	Copper0	5e051775-8c73-4e96-bb6b-dcaa188dc064
-TMENexus	39	v1.0.3	101051 101052 2.5.3.0	ESO Arsenal - By TME	m1lkst3ak	cf4ee70f-addc-4c88-a504-1ea3aa8e56b7
+TMENexus	40	v1.0.5	101051 101052 2.5.3.0	ESO Arsenal - By TME	m1lkst3ak	cf4ee70f-addc-4c88-a504-1ea3aa8e56b7
 TorigaCam		1.0.0	101050	TorigaCam	Master-Antonio	8c834a42-03cd-4110-8b81-7847f13944b6
 TorigaHUD		1.0.0	101050 101051	TorigaHUD	Master-Antonio	ac816501-4787-4c8b-942f-574aa8ea6c01
 TrackersByJH	1106	v2.3	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd

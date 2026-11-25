@@ -4593,18 +4593,18 @@
    "version": "1.9.10"
   },
   "6bd5f4ac-b518-489a-b1b8-31811650b446/LibConsoleLogger": {
-   "addOnVersion": "600",
+   "addOnVersion": "701",
    "addonId": "6bd5f4ac-b518-489a-b1b8-31811650b446",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 150,
+   "downloads": 158,
    "folder": "LibConsoleLogger",
    "isLibrary": "true",
-   "optionalDependsOn": "LibHarvensAddonSettings",
+   "optionalDependsOn": "LibHarvensAddonSettings ErrorCatcher",
    "title": "LibConsoleLogger",
-   "updatedAt": 1795474266,
-   "version": "LibConsoleLogger-0.6.0-2026-11-23T145058"
+   "updatedAt": 1795588007,
+   "version": "LibConsoleLogger-0.7.1-2026-11-24T222640"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665/StaggerTracker": {
    "addOnVersion": "",
@@ -4663,18 +4663,18 @@
    "version": "1.2.3"
   },
   "6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3/exporter": {
-   "addOnVersion": "1",
+   "addOnVersion": "3",
    "addonId": "6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3",
    "apiVersion": "101050 101051",
    "author": "tiptoeing8680",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 2,
    "folder": "exporter",
    "isLibrary": "",
-   "optionalDependsOn": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
    "title": "exporter",
-   "updatedAt": 1795541702,
-   "version": "0.1.0"
+   "updatedAt": 1795572532,
+   "version": "0.2.1"
   },
   "709a6cab-1710-4ae0-803a-1b4957a0a59a/MyDamageTracker": {
    "addOnVersion": "",
@@ -5249,6 +5249,20 @@
    "title": "NumbersOnDummyOnly",
    "updatedAt": 1748530459,
    "version": "2025.05.29"
+  },
+  "7f606012-a484-44be-8f9d-065486e2419e/TamrielNavigator": {
+   "addOnVersion": "",
+   "addonId": "7f606012-a484-44be-8f9d-065486e2419e",
+   "apiVersion": "101050",
+   "author": "m1lkst3ak",
+   "dependsOn": "",
+   "downloads": 14,
+   "folder": "TamrielNavigator",
+   "isLibrary": "",
+   "optionalDependsOn": "LibUespQuestData LibAddonMenu-2.0",
+   "title": "Tamriel Navigator",
+   "updatedAt": 1795588120,
+   "version": "v0.2.5"
   },
   "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1/CPVeterancy": {
    "addOnVersion": "",
@@ -6789,6 +6803,20 @@
    "title": "Aldrens Movable UI",
    "updatedAt": 1790648272,
    "version": "2.4.11"
+  },
+  "a2a9a715-4e28-49e9-9b50-446b33917287/LazyConfirmPatch": {
+   "addOnVersion": "100",
+   "addonId": "a2a9a715-4e28-49e9-9b50-446b33917287",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "LazyConfirmPatch",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Lazy Confirm (Patch)",
+   "updatedAt": 1795566737,
+   "version": "LazyConfirmPatch-0.1.0-2026-11-24T163208"
   },
   "a31e5f3e-6209-4f6c-9a2f-bac71a9a3af3/ThisOneTeaches": {
    "addOnVersion": "",
@@ -8415,18 +8443,18 @@
    "version": "v2.3"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000124",
+   "addOnVersion": "01000125",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 22564,
+   "downloads": 22825,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1795492814,
-   "version": "1.0.124"
+   "updatedAt": 1795579213,
+   "version": "1.0.125"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8751,18 +8779,18 @@
    "version": "3.0.0"
   },
   "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7/TMENexus": {
-   "addOnVersion": "39",
+   "addOnVersion": "40",
    "addonId": "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7",
    "apiVersion": "101051 101052 2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 25,
+   "downloads": 32,
    "folder": "TMENexus",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu TSCPriceDataAPI TSCPriceDataLite",
    "title": "ESO Arsenal - By TME",
-   "updatedAt": 1795501119,
-   "version": "v1.0.3"
+   "updatedAt": 1795571136,
+   "version": "v1.0.5"
   },
   "cfca5ccd-3799-4e8b-9607-99f4f175a2df/GuildNameTicker": {
    "addOnVersion": "",
@@ -9197,6 +9225,20 @@
    "title": "Lazy Overland Challenger",
    "updatedAt": 1792998864,
    "version": "1.1"
+  },
+  "da73e1a0-38b3-44ff-b0d1-f450aea66fa4/ESOCSkillPointFinder": {
+   "addOnVersion": "2",
+   "addonId": "da73e1a0-38b3-44ff-b0d1-f450aea66fa4",
+   "apiVersion": "101051",
+   "author": "Khazaril",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 0,
+   "folder": "ESOCSkillPointFinder",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Skill Point Finder",
+   "updatedAt": 1795588414,
+   "version": "0.1.1"
   },
   "da882875-d281-47d4-b525-aa19f4f40875/GroupBuffPanels": {
    "addOnVersion": "203030",
@@ -9731,18 +9773,18 @@
    "version": "3.3.3"
   },
   "e5653713-b8c8-4408-9f6b-3ca2cad33006/ErrorCatcher": {
-   "addOnVersion": "100",
+   "addOnVersion": "400",
    "addonId": "e5653713-b8c8-4408-9f6b-3ca2cad33006",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
-   "dependsOn": "LibConsoleLogger",
-   "downloads": 1,
+   "dependsOn": "",
+   "downloads": 4,
    "folder": "ErrorCatcher",
-   "isLibrary": "",
+   "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "Error Catcher",
-   "updatedAt": 1795523489,
-   "version": "ErrorCatcher-0.1.0-2026-11-24T043121"
+   "updatedAt": 1795588019,
+   "version": "ErrorCatcher-0.4.0-2026-11-24T222651"
   },
   "e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76/Leo_sust_beta": {
    "addOnVersion": "",
@@ -12026,7 +12068,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.600"
+   "version": "0.0.601"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12937,7 +12979,7 @@
    "folders": [
     "LibConsoleLogger"
    ],
-   "version": "LibConsoleLogger-0.6.0-2026-11-23T145058"
+   "version": "LibConsoleLogger-0.7.1-2026-11-24T222640"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665": {
    "folders": [
@@ -12968,7 +13010,7 @@
    "folders": [
     "exporter"
    ],
-   "version": "0.1.0"
+   "version": "0.2.1"
   },
   "709a6cab-1710-4ae0-803a-1b4957a0a59a": {
    "folders": [
@@ -13219,6 +13261,12 @@
     "NumbersOnDummyOnly"
    ],
    "version": "2025.05.29"
+  },
+  "7f606012-a484-44be-8f9d-065486e2419e": {
+   "folders": [
+    "TamrielNavigator"
+   ],
+   "version": "v0.2.5"
   },
   "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1": {
    "folders": [
@@ -13893,6 +13941,12 @@
     "MovableHUD"
    ],
    "version": "2.4.11"
+  },
+  "a2a9a715-4e28-49e9-9b50-446b33917287": {
+   "folders": [
+    "LazyConfirmPatch"
+   ],
+   "version": "LazyConfirmPatch-0.1.0-2026-11-24T163208"
   },
   "a31e5f3e-6209-4f6c-9a2f-bac71a9a3af3": {
    "folders": [
@@ -14596,7 +14650,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.124"
+   "version": "1.0.125"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -14744,7 +14798,7 @@
    "folders": [
     "TMENexus"
    ],
-   "version": "v1.0.3"
+   "version": "v1.0.5"
   },
   "cfca5ccd-3799-4e8b-9607-99f4f175a2df": {
    "folders": [
@@ -14941,6 +14995,12 @@
     "LazyOverlandChallenger"
    ],
    "version": "1.1"
+  },
+  "da73e1a0-38b3-44ff-b0d1-f450aea66fa4": {
+   "folders": [
+    "ESOCSkillPointFinder"
+   ],
+   "version": "0.1.1"
   },
   "da882875-d281-47d4-b525-aa19f4f40875": {
    "folders": [
@@ -15194,7 +15254,7 @@
    "folders": [
     "ErrorCatcher"
    ],
-   "version": "ErrorCatcher-0.1.0-2026-11-24T043121"
+   "version": "ErrorCatcher-0.4.0-2026-11-24T222651"
   },
   "e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76": {
    "folders": [

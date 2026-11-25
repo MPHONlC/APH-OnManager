@@ -92,6 +92,7 @@ EsoTR	LibHarvensAddonSettings
 EsoTR_Lite	LibHarvensAddonSettings
 ESQL	LibHarvensAddonSettings
 essenceThiefTracker	LibNotify
+exporter	LibHarvensAddonSettings
 EyeOnKeep	LibHarvensAddonSettings
 EyesOfTheUndaunted	LibRadialMenu
 FancyActionBarPlus	ActionBarSkillStyles	Untaunted
@@ -139,7 +140,7 @@ LibAsync	LibDebugLogger	Taneth
 LibCharacterKnowledge	LibAddonMenu-2.0	LibHarvensAddonSettings
 LibCInteraction	LibDebugLogger
 LibCombat2	LibCombat	LibDebugLogger
-LibConsoleLogger	LibHarvensAddonSettings
+LibConsoleLogger	ErrorCatcher	LibHarvensAddonSettings
 LibDateTime	Taneth
 LibDebugLogger	Taneth
 LibFights	LibAddonMenu-2.0	LibHarvensAddonSettings	LibSets
@@ -273,6 +274,7 @@ SurveyResetter	LibRadialMenu
 SurvivalMode	LibHarvensAddonSettings
 SXUIBeaconPet	LibAddonMenu-2.0
 TamrielMasterLedger	LibHistoire	LibMainMenu-2.0
+TamrielNavigator	LibAddonMenu-2.0	LibUespQuestData
 TargetInfo	LibHarvensAddonSettings
 TauntAssist	LibAddonMenu	LibHarvensAddonSettings
 TeaAndToast	LibHarvensAddonSettings
