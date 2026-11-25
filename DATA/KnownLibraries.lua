@@ -55,7 +55,7 @@ GS15Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS15Data
 GS16Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS16Data
 GS17Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS17Data
 Lib3D	312	2.2.2	2475	100029 100030	RdK Group Tool	Lib3D
-LibAchievementsArchive	102041	1.2.4.2	3321	101050 101051	LibAchievementsArchive	LibAchievementsArchive
+LibAchievementsArchive	102042	1.2.4.2	3321	101051 101052	LibAchievementsArchive	LibAchievementsArchive
 libAddonKeybinds	6	6	1253	101048 101049	libAddonKeybinds	libAddonKeybinds
 LibAddonMenu-2.0	43	2.0 r43	7	101049 101050	LibAddonMenu-2.0	LAM
 LibAddonMenuOrderListBox	15	15	3080	101050 101051	LibAddonMenu-2.0 - OrderListBox widget	LibAddonMenu-2.0 - OrderListBox widget
@@ -72,13 +72,13 @@ LibBinaryEncode	34	1.34	1647	101033	LibBinaryEncode	LBE
 LibBitSet	1	0.0.1	3960	101043	LibBitSet	LibBitSet
 LibBSCWizardBridge	2	1.0.1	4644	101048 101049 101050	LibBSCWizardBridge	LibBSCWizardBridge
 LibCharacter	8	0.0.8	2806	100035 101031	LibCharacter	LibCharacter
-LibCharacterKnowledge	301040	3.1.5	3317	101051 101052	LibCharacterKnowledge	LCK
+LibCharacterKnowledge	301050	3.1.5	3317	101051 101052	LibCharacterKnowledge	LCK
 LibCharacterKnowledgeZHPatch	200001	2.0.0.1	3899	101042	LibCharacterKnowledgeZHPatch	LibCharacterKnowledgeZHPatch
 LibChatMenuButton	1006	1.6	3805	101042	LibChatMenuButton	LibChatMenuButton
 LibChatMessage	120	1.2.3	2382	101050	LibChatMessage	LCMsg
 LibCInteraction	10100	2.2.9	3276	101041 101042	CQuestTracker	LibCInteraction
 LibCombat	89	89	2528	101049 101050	LibCombat	LibCombat
-LibCombatAlerts	9010	0.9.2	4225	101051 101052	LibCombatAlerts	LCA
+LibCombatAlerts	9020	0.9.2	4225	101051 101052	LibCombatAlerts	LCA
 LibConsoleDialogs	10004	1.0.4.2	4106	101047 101048	LibConsoleDialogs	LibConsoleDialogs
 LibCopyWindow	4	0.0.4	2853	100035 101031	LibCopyWindow	LibCopyWindow
 LibCovetousCountess	103	1.03	3266	101049 101050	LibCovetousCountess	LibCovetousCountess
@@ -108,7 +108,7 @@ LibEventHandler	1314	1.3.14	1452	101050 101051	LorePlay Forever	LibEventHandler
 LibExecuteSkills	110	1.1.0	5098	101051	LibExecuteSkills	LibExecuteSkills
 LibExecutionQueue	202	3.8.34	2753	101049 101050	Master Merchant 3.0	LibExecutionQueue
 LibExoYsUtilities	9	9	3363	101049	LibExoYsUtilities	LibExoYsUtilities
-LibExtendedJournal	205040	2.6.0	4031	101051 101052	LibExtendedJournal	LibExtendedJournal
+LibExtendedJournal	206000	2.6.0	4031	101051 101052	LibExtendedJournal	LibExtendedJournal
 LibExtendedSavedVars	107	107	4755	101050 101051	LibExtendedSavedVars	LibExtendedSavedVars
 LibFBCommon	1007	1.0.7	3977	101049	LibFBCommon	LibFBCommon
 LibFeedback		1.32	2079	100027 100028	LibFeedback	LibFeedback
@@ -161,9 +161,9 @@ LibMediaProvider-1.0	34	1.1 r39	56	101046	LibMediaProvider-1.0	LibMediaProvider-
 LibMousePointer	10000	1.0.0	4518	101048 101049	LibMousePointer	LibMousePointer
 LibMsgWin-1.0	11	1.0 r11	802	100031 100032	LibMsgWin-1.0	LibMsgWin-1.0
 LibMuffinsMarketManagerData	1	1.1	4980	101050 101051	Muffin's Market Manager	LibMuffinsMarketManagerData
-LibMultiAccountAchievements	101041	1.1.4.2	3925	101050 101051	LibMultiAccountAchievements	LibMultiAccountAchievements
-LibMultiAccountCollectibles	102051	1.2.6	3320	101050 101051	LibMultiAccountCollectibles	LibMultiAccountCollectibles
-LibMultiAccountSets	400031	4.0.3.2	2843	101050 101051	LibMultiAccountSets	LibMultiAccountSets
+LibMultiAccountAchievements	101042	1.1.4.2	3925	101051 101052	LibMultiAccountAchievements	LibMultiAccountAchievements
+LibMultiAccountCollectibles	102060	1.2.6	3320	101051 101052	LibMultiAccountCollectibles	LibMultiAccountCollectibles
+LibMultiAccountSets	400032	4.0.3.2	2843	101051 101052	LibMultiAccountSets	LibMultiAccountSets
 LibMultiIcon	104	1.04	3267	101049	LibMultiIcon	LibMultiIcon
 LibMultilingualName	10248	1.2.48	2666	101049 101050	LibMultilingualName	LibMultilingualName
 LibMultilingualName_de	10248	1.2.48	2666	101049 101050	LibMultilingualName	LibMultilingualName_de
@@ -184,7 +184,7 @@ LibPriceCache	10105	v.1.1.7	4494	101049	LibPriceCache	LibPriceCache
 LibPromises	40	2.0.0	2274	101051 101052	LibPromises	LibPromises
 LibQRCode	46	1.0.8	4102	101046	LibQRCode	LibQRCode
 LibQuestData	279	2.79	2625	101048 101049	LibQuestData	LibQuestData
-LibQuestStatus	100030	1.0.3.1	4573	101050 101051	LibQuestStatus	LibQuestStatus
+LibQuestStatus	100031	1.0.3.1	4573	101051 101052	LibQuestStatus	LibQuestStatus
 LibRadialMenu	9	9	4297	101050	LibRadialMenu	LibRadialMenu
 LibrarianDeprecation		3.18	188	101038	Librarian Book Manager	LibrarianDeprecation
 LibRecipe	112	1.12	3927	101048 101049	LibRecipe	LibRecipe
