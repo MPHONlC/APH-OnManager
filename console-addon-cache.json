@@ -1471,18 +1471,18 @@
    "version": "V 0.1"
   },
   "23989a49-5901-4ccb-9b71-6e848d4bceee/BetterCharacterOverview": {
-   "addOnVersion": "11200",
+   "addOnVersion": "11600",
    "addonId": "23989a49-5901-4ccb-9b71-6e848d4bceee",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 100,
+   "downloads": 121,
    "folder": "BetterCharacterOverview",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "BetterCharacterOverview (Patch)",
-   "updatedAt": 1794887988,
-   "version": "BetterCharacterOverview-1.12.0-2026-11-16T195935"
+   "updatedAt": 1795591286,
+   "version": "BetterCharacterOverview-1.16.0-2026-11-24T232114"
   },
   "23c4dbd3-8273-4fc3-8416-f6c79eeb76ab/ESOBuildTracker": {
    "addOnVersion": "4",
@@ -1910,13 +1910,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibChatMessage LibAddonMenu-2.0>=42",
-   "downloads": 3433,
+   "downloads": 4475,
    "folder": "LibNotify",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "LibNotify",
-   "updatedAt": 1794863723,
-   "version": "1.5.3"
+   "updatedAt": 1795610175,
+   "version": "1.5.4"
   },
   "2c70f704-e9aa-42d3-8c65-894ef085a9ea/GroupFullDante": {
    "addOnVersion": "110",
@@ -2563,18 +2563,18 @@
    "version": "2.5.0"
   },
   "3a4024fc-1465-4e5e-a96f-6d6b6a781497/DevSandbox3": {
-   "addOnVersion": "42001",
+   "addOnVersion": "42200",
    "addonId": "3a4024fc-1465-4e5e-a96f-6d6b6a781497",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 89,
+   "downloads": 99,
    "folder": "DevSandbox3",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger LibHarvensAddonSettings",
    "title": "dev sandbox 3",
-   "updatedAt": 1795521634,
-   "version": "DevSandbox3-4.20.1-2026-11-24T040025"
+   "updatedAt": 1795591339,
+   "version": "DevSandbox3-4.22.0-2026-11-24T232211"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d/GamepadUITweaks": {
    "addOnVersion": "107",
@@ -4593,18 +4593,18 @@
    "version": "1.9.10"
   },
   "6bd5f4ac-b518-489a-b1b8-31811650b446/LibConsoleLogger": {
-   "addOnVersion": "701",
+   "addOnVersion": "703",
    "addonId": "6bd5f4ac-b518-489a-b1b8-31811650b446",
    "apiVersion": "101050",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 158,
+   "downloads": 166,
    "folder": "LibConsoleLogger",
    "isLibrary": "true",
    "optionalDependsOn": "LibHarvensAddonSettings ErrorCatcher",
    "title": "LibConsoleLogger",
-   "updatedAt": 1795588007,
-   "version": "LibConsoleLogger-0.7.1-2026-11-24T222640"
+   "updatedAt": 1795592565,
+   "version": "LibConsoleLogger-0.7.3-2026-11-24T234238"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665/StaggerTracker": {
    "addOnVersion": "",
@@ -5256,13 +5256,13 @@
    "apiVersion": "101050",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 14,
+   "downloads": 24,
    "folder": "TamrielNavigator",
    "isLibrary": "",
    "optionalDependsOn": "LibUespQuestData LibAddonMenu-2.0",
    "title": "Tamriel Navigator",
-   "updatedAt": 1795588120,
-   "version": "v0.2.5"
+   "updatedAt": 1795593508,
+   "version": "v0.2.9"
   },
   "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1/CPVeterancy": {
    "addOnVersion": "",
@@ -6250,13 +6250,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 271,
+   "downloads": 425,
    "folder": "feedingFrenzyTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Feeding Frenzy Tracker",
-   "updatedAt": 1791760949,
-   "version": "1.3.6"
+   "updatedAt": 1795608371,
+   "version": "1.3.8"
   },
   "96103ec3-3c4e-4865-be32-cc3b57df04d0/LibCombat2": {
    "addOnVersion": "8",
@@ -7196,6 +7196,20 @@
    "updatedAt": 1775600345,
    "version": "VT 1.3.0"
   },
+  "aca5aa45-ead0-493d-96f4-34c83ddcb236/CollectiblesHoverPreview": {
+   "addOnVersion": "",
+   "addonId": "aca5aa45-ead0-493d-96f4-34c83ddcb236",
+   "apiVersion": "101051 101052",
+   "author": "Lykeion+",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "CollectiblesHoverPreview",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Collectible Hover Preview",
+   "updatedAt": 1795601237,
+   "version": "1.0"
+  },
   "acc220d2-3d92-4f47-8eae-979714894059/PBsOnlineStatusAlert": {
    "addOnVersion": "1",
    "addonId": "acc220d2-3d92-4f47-8eae-979714894059",
@@ -7575,18 +7589,18 @@
    "version": "0.2.9"
   },
   "b5cc1fef-6afb-46ca-a772-f1b71c39530c/PreviewAnywhere": {
-   "addOnVersion": "10303",
+   "addOnVersion": "10401",
    "addonId": "b5cc1fef-6afb-46ca-a772-f1b71c39530c",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 197,
+   "downloads": 280,
    "folder": "PreviewAnywhere",
    "isLibrary": "",
    "optionalDependsOn": "LibConsoleLogger",
    "title": "Preview Anywhere",
-   "updatedAt": 1795125015,
-   "version": "PreviewAnywhere-1.3.3-2026-11-19T134959"
+   "updatedAt": 1795591459,
+   "version": "PreviewAnywhere-1.4.1-2026-11-24T232406"
   },
   "b630804a-0ccd-4828-8c9e-945790ec3774/AccountHold": {
    "addOnVersion": "26101700",
@@ -9227,18 +9241,18 @@
    "version": "1.1"
   },
   "da73e1a0-38b3-44ff-b0d1-f450aea66fa4/ESOCSkillPointFinder": {
-   "addOnVersion": "2",
+   "addOnVersion": "7",
    "addonId": "da73e1a0-38b3-44ff-b0d1-f450aea66fa4",
    "apiVersion": "101051",
    "author": "Khazaril",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 0,
+   "downloads": 6,
    "folder": "ESOCSkillPointFinder",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Skill Point Finder",
-   "updatedAt": 1795588414,
-   "version": "0.1.1"
+   "updatedAt": 1795620970,
+   "version": "0.1.6"
   },
   "da882875-d281-47d4-b525-aa19f4f40875/GroupBuffPanels": {
    "addOnVersion": "203030",
@@ -9773,18 +9787,18 @@
    "version": "3.3.3"
   },
   "e5653713-b8c8-4408-9f6b-3ca2cad33006/ErrorCatcher": {
-   "addOnVersion": "400",
+   "addOnVersion": "401",
    "addonId": "e5653713-b8c8-4408-9f6b-3ca2cad33006",
    "apiVersion": "101050 101051",
    "author": "clubwratt",
    "dependsOn": "",
-   "downloads": 4,
+   "downloads": 6,
    "folder": "ErrorCatcher",
    "isLibrary": "true",
    "optionalDependsOn": "",
    "title": "Error Catcher",
-   "updatedAt": 1795588019,
-   "version": "ErrorCatcher-0.4.0-2026-11-24T222651"
+   "updatedAt": 1795592504,
+   "version": "ErrorCatcher-0.4.1-2026-11-24T234136"
   },
   "e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76/Leo_sust_beta": {
    "addOnVersion": "",
@@ -10346,6 +10360,20 @@
    "updatedAt": 1794873230,
    "version": "HomeAfterPvP-0.1.0-2026-11-16T155342"
   },
+  "f16394fb-891b-4101-b0ac-d3611ec1b527/HomeStationMarker": {
+   "addOnVersion": "100",
+   "addonId": "f16394fb-891b-4101-b0ac-d3611ec1b527",
+   "apiVersion": "101050 101051",
+   "author": "clubwratt",
+   "dependsOn": "ErrorCatcher",
+   "downloads": 3,
+   "folder": "HomeStationMarker",
+   "isLibrary": "true",
+   "optionalDependsOn": "",
+   "title": "dev sandbox 4",
+   "updatedAt": 1795591316,
+   "version": "HomeStationMarker-0.1.0-2026-11-24T232149"
+  },
   "f2495833-84b0-4142-8a25-f2063d0f0a23/GuildTraderTracker": {
    "addOnVersion": "",
    "addonId": "f2495833-84b0-4142-8a25-f2063d0f0a23",
@@ -10906,6 +10934,20 @@
    "updatedAt": 1788211309,
    "version": "1.1.3"
   },
+  "fed20b31-41b8-4c9f-8380-d26c46df95b5/ALT": {
+   "addOnVersion": "21001",
+   "addonId": "fed20b31-41b8-4c9f-8380-d26c46df95b5",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 0,
+   "folder": "ALT",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Gamma",
+   "updatedAt": 1795635623,
+   "version": "2.1"
+  },
   "fef0db78-bc0e-4c89-b77e-f03d570d10a9/HodorReflexes": {
    "addOnVersion": "20261025",
    "addonId": "fef0db78-bc0e-4c89-b77e-f03d570d10a9",
@@ -10919,6 +10961,20 @@
    "title": "HodorReflexes",
    "updatedAt": 1792935408,
    "version": "2026-10-25"
+  },
+  "ff14753f-cf35-4f3e-89b9-3880b4976bab/SetupWardrobe": {
+   "addOnVersion": "10406",
+   "addonId": "ff14753f-cf35-4f3e-89b9-3880b4976bab",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 6,
+   "folder": "SetupWardrobe",
+   "isLibrary": "",
+   "optionalDependsOn": "LibRadialMenu",
+   "title": "Alpha",
+   "updatedAt": 1795606130,
+   "version": "1.4.6"
   },
   "ff4bafd1-1006-4f21-8d38-7a45f4527518/PBsKillLog": {
    "addOnVersion": "",
@@ -11084,7 +11140,7 @@
   },
   "0763042f-816e-4f4f-baae-c50159fc5bd5": {
    "folders": [],
-   "version": "1.2.1"
+   "version": "Version 1.2.2"
   },
   "0798cfcd-e028-41a6-a40d-fb1654087be8": {
    "folders": [
@@ -11635,7 +11691,7 @@
    "folders": [
     "BetterCharacterOverview"
    ],
-   "version": "BetterCharacterOverview-1.12.0-2026-11-16T195935"
+   "version": "BetterCharacterOverview-1.16.0-2026-11-24T232114"
   },
   "23c4dbd3-8273-4fc3-8416-f6c79eeb76ab": {
    "folders": [
@@ -11827,7 +11883,7 @@
    "folders": [
     "LibNotify"
    ],
-   "version": "1.5.3"
+   "version": "1.5.4"
   },
   "2c70f704-e9aa-42d3-8c65-894ef085a9ea": {
    "folders": [
@@ -12068,7 +12124,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.601"
+   "version": "0.0.602"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12116,7 +12172,7 @@
    "folders": [
     "DevSandbox3"
    ],
-   "version": "DevSandbox3-4.20.1-2026-11-24T040025"
+   "version": "DevSandbox3-4.22.0-2026-11-24T232211"
   },
   "3a49967e-c0fb-4b54-b2f0-f681b2a23b7d": {
    "folders": [
@@ -12979,7 +13035,7 @@
    "folders": [
     "LibConsoleLogger"
    ],
-   "version": "LibConsoleLogger-0.7.1-2026-11-24T222640"
+   "version": "LibConsoleLogger-0.7.3-2026-11-24T234238"
   },
   "6c2f0adf-9ca4-4dc4-bd4f-e1f6f5059665": {
    "folders": [
@@ -13266,7 +13322,7 @@
    "folders": [
     "TamrielNavigator"
    ],
-   "version": "v0.2.5"
+   "version": "v0.2.9"
   },
   "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1": {
    "folders": [
@@ -13703,7 +13759,7 @@
    "folders": [
     "feedingFrenzyTracker"
    ],
-   "version": "1.3.6"
+   "version": "1.3.8"
   },
   "96103ec3-3c4e-4865-be32-cc3b57df04d0": {
    "folders": [
@@ -14107,6 +14163,12 @@
    ],
    "version": "VT 1.3.0"
   },
+  "aca5aa45-ead0-493d-96f4-34c83ddcb236": {
+   "folders": [
+    "CollectiblesHoverPreview"
+   ],
+   "version": "1.0"
+  },
   "acc220d2-3d92-4f47-8eae-979714894059": {
    "folders": [
     "PBsOnlineStatusAlert"
@@ -14277,7 +14339,7 @@
    "folders": [
     "PreviewAnywhere"
    ],
-   "version": "PreviewAnywhere-1.3.3-2026-11-19T134959"
+   "version": "PreviewAnywhere-1.4.1-2026-11-24T232406"
   },
   "b5df6547-9de1-4e95-b67c-61a4cdd504e7": {
    "folders": [],
@@ -15000,7 +15062,7 @@
    "folders": [
     "ESOCSkillPointFinder"
    ],
-   "version": "0.1.1"
+   "version": "0.1.6"
   },
   "da882875-d281-47d4-b525-aa19f4f40875": {
    "folders": [
@@ -15254,7 +15316,7 @@
    "folders": [
     "ErrorCatcher"
    ],
-   "version": "ErrorCatcher-0.4.0-2026-11-24T222651"
+   "version": "ErrorCatcher-0.4.1-2026-11-24T234136"
   },
   "e5d7ad9e-23ff-4fdd-8531-4e3b7596ad76": {
    "folders": [
@@ -15501,9 +15563,9 @@
   },
   "f16394fb-891b-4101-b0ac-d3611ec1b527": {
    "folders": [
-    "BetterCharacterOverview"
+    "HomeStationMarker"
    ],
-   "version": "BetterCharacterOverview-1.16.0-2026-11-23T150624"
+   "version": "HomeStationMarker-0.1.0-2026-11-24T232149"
   },
   "f2495833-84b0-4142-8a25-f2063d0f0a23": {
    "folders": [
@@ -15755,11 +15817,23 @@
    ],
    "version": "1.1.3"
   },
+  "fed20b31-41b8-4c9f-8380-d26c46df95b5": {
+   "folders": [
+    "ALT"
+   ],
+   "version": "2.1"
+  },
   "fef0db78-bc0e-4c89-b77e-f03d570d10a9": {
    "folders": [
     "HodorReflexes"
    ],
    "version": "2026-10-25"
+  },
+  "ff14753f-cf35-4f3e-89b9-3880b4976bab": {
+   "folders": [
+    "SetupWardrobe"
+   ],
+   "version": "1.4.6"
   },
   "ff4bafd1-1006-4f21-8d38-7a45f4527518": {
    "folders": [

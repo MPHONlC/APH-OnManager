@@ -12,6 +12,7 @@ local AoM = APHOnManagerCore
 AoM.ConsoleSuggestedCategories = AoM.CreateConsoleValueTable([==[
 ALCBenchmark	Plug-Ins & Patches
 AllAP	PvP
+ALT	Miscellaneous
 AltBossBar	Unit Mods
 AlternateDeathRecap	Combat Mods
 AltGroupFrames	Unit Mods
@@ -48,6 +49,7 @@ CCSentinel	Discontinued & Outdated
 CCTracker	Discontinued & Outdated
 CharacterBoundItemHider	Bags, Bank, Inventory
 CircularMinimap	Plug-Ins & Patches
+CollectiblesHoverPreview	Character Advancement
 CombatAlerts	Combat Mods
 CombatTopHealthbar	Action Bar Mods
 CrowdednESO	Utility Mods
@@ -80,6 +82,7 @@ GrumpysLarcenistTracker	Utility Mods
 HideAntiquariansEyePrompt	Miscellaneous
 HideGroupNecro	Graphic UI Mods
 HodorReflexes	Combat Mods
+HomeStationMarker	Libraries
 HouseHotkey	Miscellaneous
 IAHelper	Combat Mods
 ImprovedAttributeBars	Info, Plug-in Bars

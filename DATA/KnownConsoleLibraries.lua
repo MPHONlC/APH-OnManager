@@ -11,7 +11,8 @@ assert(APHOnManagerCore, "APH-OnManager.lua must be loaded before this file")
 local AoM = APHOnManagerCore
 AoM.KnownConsoleLibraries = AoM.CreateConsoleTable([==[
 CustomCompassPins	137	1.37	101045 101046	CustomCompassPins	Sharlikran	3c805ef7-47fe-43a7-b480-52342549e9f4
-ErrorCatcher	400	ErrorCatcher-0.4.0-2026-11-24T222651	101050 101051	Error Catcher	clubwratt	e5653713-b8c8-4408-9f6b-3ca2cad33006
+ErrorCatcher	401	ErrorCatcher-0.4.1-2026-11-24T234136	101050 101051	Error Catcher	clubwratt	e5653713-b8c8-4408-9f6b-3ca2cad33006
+HomeStationMarker	100	HomeStationMarker-0.1.0-2026-11-24T232149	101050 101051	dev sandbox 4	clubwratt	f16394fb-891b-4101-b0ac-d3611ec1b527
 LibAddonMenu-2.0	44	2.0r44	101049 101050	LibAddonMenu	sirinsidiator	04141a46-3d9c-4b14-aa0e-d841090d128c
 LibAlchemy	18	1.8	101045 101046	LibAlchemy	Sharlikran	48762aef-8240-473f-aef5-17d1b5d5b9b6
 LibAPH	26101801	2026.10.18.01.41	101051 101052	LibAPH	APH0NlC	dac0d37e-2d2f-4813-a148-6198c2d54687
@@ -22,7 +23,7 @@ LibCInteraction	10402	1.4.2	101047	LibCInteraction	Calamath	49a3eac1-a81d-43dc-8
 LibCombat2	8	8	101046	LibCombat2	SolinurAddons	96103ec3-3c4e-4865-be32-cc3b57df04d0
 LibCombatAlerts	9020	0.9.2	101051 101052	LibCombatAlerts	code65536	756d3118-70ee-4ed7-a49e-5217da36e5fe
 LibConsoleDialogs	10004	1.0.4.2c	101048 101049	LibConsoleDialogs	votan73	73752f6e-3ac5-4ecd-9bfe-b71c1b926c3b
-LibConsoleLogger	701	LibConsoleLogger-0.7.1-2026-11-24T222640	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
+LibConsoleLogger	703	LibConsoleLogger-0.7.3-2026-11-24T234238	101050	LibConsoleLogger	clubwratt	6bd5f4ac-b518-489a-b1b8-31811650b446
 LibConsoleMenu	115	0.15.12	101050 101051	LibConsoleMenu	Fluazinam	dec0fe25-b1d4-4adf-b351-101e44def098
 LibCovetousCountess	103	1.03	101049 101050	LibCovetousCountess	Delte	29f1ad04-65ea-4a2b-9e23-8ccb597a8556
 LibCustomMenu	730	7.3.1	101048	LibCustomMenu	mYoda01	fff7f7e3-b518-4545-9e96-a4f6c2a28dea

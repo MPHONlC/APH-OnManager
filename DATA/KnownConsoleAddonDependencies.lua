@@ -255,6 +255,7 @@ ScoreboardRemastered	LibAddonMenu-2.0	LibFights	LibHarvensAddonSettings
 ScryersLedger	LibHarvensAddonSettings
 Seamstress	LibHarvensAddonSettings
 SetTracker	LibHarvensAddonSettings-1.0
+SetupWardrobe	LibRadialMenu
 ShogrinUI	LibAddonMenu-2.0	LibSlashCommander
 ShowEquipped	LibHarvensAddonSettings
 SiegeReminder	LibHarvensAddonSettings
