@@ -193,13 +193,14 @@ LibSavedVars	60101	6.1.1	2161	101052 101051	LibSavedVars	LSV
 LibSaveToDisk	102	1.3g r6	1993	100033 100034	LibSaveToDisk	LibSaveToDisk
 LibScroll	2	2	1151	100033 100034	LibScroll	LibScroll
 LibScrollableMenu	20408	2.48	3546	101051 101052	LibScrollableMenu	LSM
-LibScrollList	4	4	4609	101050	LibScrollList	LibScrollList
+LibScrollList	5	5	4609	101051	LibScrollList	LibScrollList
 LibSeasonalEventManager	1	1.3	3670	101040 101038	LibSeasonalEventManager	LibSeasonalEventManager
 LibServerResetTime	200000	2.0.0	4427	101049 101050	LibServerResetTime	LibServerResetTime
 LibSetDetection	5	5.0	3338	101050	LibSetDetection	LibSetDetection
 LibSets	9040	0.9.4	2241	101051 101052	LibSets	LibSets
 LibSFUtils	78	78	2231	101052 101051	LibSFUtils	LSFU
 LibShifterBox	700	0.7.0	2444	101045 101046	LibShifterBox	LibShifterBox
+LibSidekickUI	101	0.1.1-beta	5110	101051	LIBSIDEKICKUI	LibSidekickUI
 LibSimpleArrow	100	1.0.0	4251	101047	LibSimpleArrow	LibSimpleArrow
 LibSimpleArrowModS	100	0.1.6	3616	100030	LibSimpleArrowModS	LibSimpleArrowModS
 LibSimpleArrowSlip	100	1.4.3	3879	100030	Lucent Citadel	LibSimpleArrowSlip
