@@ -1302,6 +1302,20 @@
    "updatedAt": 1777687743,
    "version": "1.5"
   },
+  "202b48d5-1fa7-42bb-aeed-fc06f01a7874/APH-Profiler": {
+   "addOnVersion": "26101518",
+   "addonId": "202b48d5-1fa7-42bb-aeed-fc06f01a7874",
+   "apiVersion": "101051 101052",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 2,
+   "folder": "APH-Profiler",
+   "isLibrary": "",
+   "optionalDependsOn": "LibAddonMenu-2.0 LibDebugLogger",
+   "title": "Gamma",
+   "updatedAt": 1795638320,
+   "version": "2.1"
+  },
   "20837ea1-4531-40f4-b11b-d2658a48fa8e/BetterGroupFinderConsole": {
    "addOnVersion": "100",
    "addonId": "20837ea1-4531-40f4-b11b-d2658a48fa8e",
@@ -1938,13 +1952,13 @@
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "",
-   "downloads": 45,
+   "downloads": 48,
    "folder": "MyUI",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibStub LibGamepad CrutchAlerts",
    "title": "ttest",
-   "updatedAt": 1793819660,
-   "version": "v4.2"
+   "updatedAt": 1795641249,
+   "version": "v4.3"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa/ValknarrUIE": {
    "addOnVersion": "43",
@@ -7207,8 +7221,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Collectible Hover Preview",
-   "updatedAt": 1795601237,
-   "version": "1.0"
+   "updatedAt": 1795654900,
+   "version": "1.1hotfix"
   },
   "acc220d2-3d92-4f47-8eae-979714894059/PBsOnlineStatusAlert": {
    "addOnVersion": "1",
@@ -10934,20 +10948,6 @@
    "updatedAt": 1788211309,
    "version": "1.1.3"
   },
-  "fed20b31-41b8-4c9f-8380-d26c46df95b5/ALT": {
-   "addOnVersion": "21001",
-   "addonId": "fed20b31-41b8-4c9f-8380-d26c46df95b5",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 0,
-   "folder": "ALT",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Gamma",
-   "updatedAt": 1795635623,
-   "version": "2.1"
-  },
   "fef0db78-bc0e-4c89-b77e-f03d570d10a9/HodorReflexes": {
    "addOnVersion": "20261025",
    "addonId": "fef0db78-bc0e-4c89-b77e-f03d570d10a9",
@@ -11615,6 +11615,12 @@
    ],
    "version": "1.5"
   },
+  "202b48d5-1fa7-42bb-aeed-fc06f01a7874": {
+   "folders": [
+    "APH-Profiler"
+   ],
+   "version": "2.1"
+  },
   "20837ea1-4531-40f4-b11b-d2658a48fa8e": {
    "folders": [
     "BetterGroupFinderConsole"
@@ -11895,7 +11901,7 @@
    "folders": [
     "MyUI"
    ],
-   "version": "v4.2"
+   "version": "v4.3"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa": {
    "folders": [
@@ -12124,7 +12130,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.602"
+   "version": "0.0.603"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -14167,7 +14173,7 @@
    "folders": [
     "CollectiblesHoverPreview"
    ],
-   "version": "1.0"
+   "version": "1.1hotfix"
   },
   "acc220d2-3d92-4f47-8eae-979714894059": {
    "folders": [
@@ -15816,12 +15822,6 @@
     "HousingFPSBooster"
    ],
    "version": "1.1.3"
-  },
-  "fed20b31-41b8-4c9f-8380-d26c46df95b5": {
-   "folders": [
-    "ALT"
-   ],
-   "version": "2.1"
   },
   "fef0db78-bc0e-4c89-b77e-f03d570d10a9": {
    "folders": [

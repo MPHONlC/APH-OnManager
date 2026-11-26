@@ -21,7 +21,7 @@ AltAttributes	Azurah	LibAddonMenu-2.0	LibGamepad	LibHarvensAddonSettings	LibVota
 AlternateDeathRecap	LibHarvensAddonSettings
 APH-FPSGraph	LibAddonMenu-2.0	LibHarvensAddonSettings
 APH-OnManager	AddonSelector	PerfectPixel
-APH-Profiler	LibAddonMenu-2.0	LibDebugLogger	LibHarvensAddonSettings
+APH-Profiler	LibAddonMenu-2.0	LibDebugLogger
 APH-Search	LibAddonMenu-2.0	LibHarvensAddonSettings
 Archaeology	LibHarvensAddonSettings
 archdruidTracker	LibNotify

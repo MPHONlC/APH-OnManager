@@ -12,7 +12,6 @@ local AoM = APHOnManagerCore
 AoM.ConsoleSuggestedCategories = AoM.CreateConsoleValueTable([==[
 ALCBenchmark	Plug-Ins & Patches
 AllAP	PvP
-ALT	Miscellaneous
 AltBossBar	Unit Mods
 AlternateDeathRecap	Combat Mods
 AltGroupFrames	Unit Mods

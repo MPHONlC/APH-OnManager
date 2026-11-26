@@ -37,7 +37,6 @@ AldrensWorldEvents		0.4.4	101050	Aldrens World Events	Rhyojaan	1314f50c-ef2d-47b
 AlkoshSynergyTracker	10	1.01.9	101050	Alkosh Timer	Eldibabalo	e1b107d5-082e-4ed1-9cfc-81b9a42e0528
 AllAP		1.3.3	101046	AllAP	Ace.r	c0c82f16-9b5b-4707-bf96-be0f3c78a77a
 AlreadyListed	101	1.1	101050	AlreadyListed	svammy	66e34000-1a7c-4b71-9c6b-18742fa714c5
-ALT	21001	2.1	101051	Gamma	FiNk3F13	fed20b31-41b8-4c9f-8380-d26c46df95b5
 AltAttributes	2100	v2.7	101050	Alternative Attribute Bars (PS5)	j.hhh	e522328f-332e-4144-96c3-273d59d58ab6
 AltBossBar		v3.4	101050 101051	Alternative Boss Bar	j.hhh	ab71c694-e122-4792-9268-fe2c2595f986
 AlternateDeathRecap	30200	3.3	101049 101050	AlternateDeathRecap	Shienar	9e55edc2-32f8-4c75-b87c-e921fd53e9cf
@@ -54,7 +53,7 @@ AntiquarianCodex	15107	1.51.07	101051	Antiquarian's Codex	xbutch	09fedb91-c1d9-4
 AntiquityTracker		2.3.6	101047	Antiquities Tracker	Eldibabalo	c26064b6-d685-492c-b750-3bc59f315109
 APH-FPSGraph	26101514	2026.10.18.01.41	101051 101052	APH FPS GRAPH	APH0NlC	ad02eccd-a3f5-4375-8c13-e631101449c5
 APH-OnManager	26101801	2026.10.18.01.41	101051 101052	APH-On Manager	APH0NlC	7b833469-41d6-4060-b6df-547ae3ca188c
-APH-Profiler	26101514	2026.10.18.01.41	101051 101052	APH Profiler	APH0NlC	0bfedee5-e73d-43f5-8e5a-cee64c2f5e6f
+APH-Profiler	26101518	2.1	101051 101052	Gamma	FiNk3F13	202b48d5-1fa7-42bb-aeed-fc06f01a7874
 APH-Search	26101514	2026.10.18.01.41	101051 101052	APH Search	APH0NlC	3b4ab551-7e9e-4a11-9db5-e23b03dcc608
 Archaeology		0.0.22	101047	Archaeology	ReliktKoala	30667c51-455c-4759-a4eb-84cb77525452
 archdruidTracker		2.5.4	101051	Archdruid Tracker	codeWarrior82	5c997615-ee42-43dd-a5d0-5337fb785714
@@ -134,7 +133,7 @@ CircularMinimap		2.0.1	101048 101049	Circular Votan's Mini Map	votan73	f5b8ee78-
 CleanLeadsUI		1.0.0	101040	CleanLeadsUI	akbosser	2150f7ed-d4e8-426c-b6e0-2df807f1db92
 ClearSight		1.2.6	101050	ClearSight	SugaComa	c720ddc7-a982-4027-ac83-204540d2b013
 CollectablesTesting		1.0.8	101047	CollectablesTesting	brossin13	9cb042d4-e427-4f0c-9c9c-48e1a355c970
-CollectiblesHoverPreview		1.0	101051 101052	Collectible Hover Preview	Lykeion+	aca5aa45-ead0-493d-96f4-34c83ddcb236
+CollectiblesHoverPreview		1.1hotfix	101051 101052	Collectible Hover Preview	Lykeion+	aca5aa45-ead0-493d-96f4-34c83ddcb236
 CollectThemAll		1.2.2	101048 101049 101050	Collect Them All	Springpeace2575	75167780-fb8c-479c-86be-c0a208443b97
 CombatAlerts	207030	2.7.3	101051 101052	Code's Combat Alerts	code65536	fe065445-3217-4a76-8932-23a0a1c9c16c
 CombatFPSBooster	10505	1.5.5	101050 101051	Tetsu's Combat FPS Booster	Tetsurion	2edefdf7-97a0-476e-98a0-f76c40976159
@@ -458,7 +457,7 @@ MyFontSwitcher		1.0.1	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
-MyUI		v4.2	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
+MyUI		v4.3	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
 necroTracker		1.4.5	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
 NedsGroupManager		1.5	101046	Ned's Group Manager	Ned919x	4f86b7c8-8fb6-432c-a1b9-2004263244ab
 Nemesis	100	1.0.0	101050	Nemesis	Rogue0rbit	88739d40-c764-4276-9157-ba0eb1d47805
