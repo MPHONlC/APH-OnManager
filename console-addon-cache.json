@@ -938,6 +938,20 @@
    "updatedAt": 1789850476,
    "version": "1.16.0"
   },
+  "16d4e42f-4a91-4dbc-bdc4-31abcd5d5640/HUDMoveUI": {
+   "addOnVersion": "10000",
+   "addonId": "16d4e42f-4a91-4dbc-bdc4-31abcd5d5640",
+   "apiVersion": "101051 101052",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 1,
+   "folder": "HUDMoveUI",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Delta",
+   "updatedAt": 1795699061,
+   "version": "1.0.0"
+  },
   "17071a4b-f373-41fa-8874-778672bae73c/LibRecipe": {
    "addOnVersion": "103",
    "addonId": "17071a4b-f373-41fa-8874-778672bae73c",
@@ -1303,18 +1317,18 @@
    "version": "1.5"
   },
   "202b48d5-1fa7-42bb-aeed-fc06f01a7874/APH-Profiler": {
-   "addOnVersion": "26101518",
+   "addOnVersion": "26101520",
    "addonId": "202b48d5-1fa7-42bb-aeed-fc06f01a7874",
    "apiVersion": "101051 101052",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 2,
+   "downloads": 3,
    "folder": "APH-Profiler",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibDebugLogger",
    "title": "Gamma",
-   "updatedAt": 1795638320,
-   "version": "2.1"
+   "updatedAt": 1795690775,
+   "version": "2.2"
   },
   "20837ea1-4531-40f4-b11b-d2658a48fa8e/BetterGroupFinderConsole": {
    "addOnVersion": "100",
@@ -1371,20 +1385,6 @@
    "title": "CleanLeadsUI",
    "updatedAt": 1752251700,
    "version": "1.0.0"
-  },
-  "21a2a61f-e085-4a88-b299-587a33bff1f5/WWDpad": {
-   "addOnVersion": "21",
-   "addonId": "21a2a61f-e085-4a88-b299-587a33bff1f5",
-   "apiVersion": "101052",
-   "author": "FiNk3F13",
-   "dependsOn": "WizardsWardrobe LibRadialMenu",
-   "downloads": 18,
-   "folder": "WWDpad",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "DontD",
-   "updatedAt": 1795008630,
-   "version": "0.7.6"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
    "addOnVersion": "22802",
@@ -2268,20 +2268,6 @@
    "updatedAt": 1777229991,
    "version": "1.0.1"
   },
-  "358b7452-c5b6-44d4-b562-da05e5dd4ed1/GroupReset": {
-   "addOnVersion": "2",
-   "addonId": "358b7452-c5b6-44d4-b562-da05e5dd4ed1",
-   "apiVersion": "101052",
-   "author": "FiNk3F13",
-   "dependsOn": "LibGroupBroadcast>=95 LibRadialMenu",
-   "downloads": 2,
-   "folder": "GroupReset",
-   "isLibrary": "",
-   "optionalDependsOn": "HodorReflexes",
-   "title": "Buggy",
-   "updatedAt": 1795019882,
-   "version": "0.1.1"
-  },
   "358e5bc1-5cc6-461f-ac0f-fde2dfe327a3/LibESQL": {
    "addOnVersion": "10000",
    "addonId": "358e5bc1-5cc6-461f-ac0f-fde2dfe327a3",
@@ -2666,13 +2652,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 225,
+   "downloads": 250,
    "folder": "advancingYokedaTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Advancing Yokeda Tracker",
-   "updatedAt": 1791547649,
-   "version": "1.3.1"
+   "updatedAt": 1795693405,
+   "version": "1.3.3"
   },
   "3d1bd08c-876b-4248-b347-1a5fd451912d/GroupResources": {
    "addOnVersion": "56",
@@ -4676,6 +4662,20 @@
    "updatedAt": 1784420276,
    "version": "1.2.3"
   },
+  "6f38f130-5172-4d0a-b4d1-17b00bf9679b/PBsBattleScrolls": {
+   "addOnVersion": "",
+   "addonId": "6f38f130-5172-4d0a-b4d1-17b00bf9679b",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsBattleScrolls",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
+   "title": "PinkB's BattleScrolls",
+   "updatedAt": 1795677375,
+   "version": "0.1.0"
+  },
   "6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3/exporter": {
    "addOnVersion": "3",
    "addonId": "6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3",
@@ -4816,6 +4816,20 @@
    "updatedAt": 1772287573,
    "version": "1.0.4.2c"
   },
+  "73b1d543-0759-43e6-bfee-582ba5623de3/QuickGroupTools": {
+   "addOnVersion": "10000",
+   "addonId": "73b1d543-0759-43e6-bfee-582ba5623de3",
+   "apiVersion": "101051 101052",
+   "author": "BLKx777",
+   "dependsOn": "LibRadialMenu LibHarvensAddonSettings",
+   "downloads": 1,
+   "folder": "QuickGroupTools",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "quickgrouptools",
+   "updatedAt": 1795678530,
+   "version": "0.1"
+  },
   "73d5304a-565a-4a9d-bd38-aa245219f955/VerticalBuffsDebuffs": {
    "addOnVersion": "",
    "addonId": "73d5304a-565a-4a9d-bd38-aa245219f955",
@@ -4843,20 +4857,6 @@
    "title": "Dryzler's LoreBooks",
    "updatedAt": 1762308051,
    "version": "1.15"
-  },
-  "74e3cf1b-47f3-44c7-ac72-290efc19e8f3/ObsidianHUD": {
-   "addOnVersion": "755",
-   "addonId": "74e3cf1b-47f3-44c7-ac72-290efc19e8f3",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 14,
-   "folder": "ObsidianHUD",
-   "isLibrary": "",
-   "optionalDependsOn": "",
-   "title": "Trest",
-   "updatedAt": 1793974511,
-   "version": "0.8.3"
   },
   "75167780-fb8c-479c-86be-c0a208443b97/CollectThemAll": {
    "addOnVersion": "",
@@ -5095,34 +5095,6 @@
    "title": "Vixen's Effect Viewer",
    "updatedAt": 1794096696,
    "version": "5.0.0"
-  },
-  "7a5d051d-6b7c-4117-8748-0b3ec7a3c234/SimpleGroupDPS": {
-   "addOnVersion": "",
-   "addonId": "7a5d051d-6b7c-4117-8748-0b3ec7a3c234",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 25,
-   "folder": "SimpleGroupDPS",
-   "isLibrary": "",
-   "optionalDependsOn": "BattleScrolls",
-   "title": "SimpleGroupDPS2",
-   "updatedAt": 1795094865,
-   "version": "2.0.8"
-  },
-  "7a5d051d-6b7c-4117-8748-0b3ec7a3c234/SimpleGroupDPS2": {
-   "addOnVersion": "",
-   "addonId": "7a5d051d-6b7c-4117-8748-0b3ec7a3c234",
-   "apiVersion": "101051",
-   "author": "FiNk3F13",
-   "dependsOn": "LibHarvensAddonSettings LibGroupBroadcast",
-   "downloads": 12,
-   "folder": "SimpleGroupDPS2",
-   "isLibrary": "",
-   "optionalDependsOn": "BattleScrolls",
-   "title": "Buggy DontD",
-   "updatedAt": 1794854378,
-   "version": "1.9.31"
   },
   "7b383e7f-a85f-491d-b950-dffc87bcec10/ArchdruidTracker": {
    "addOnVersion": "010101",
@@ -6188,20 +6160,6 @@
    "updatedAt": 1794350586,
    "version": "2.0.0"
   },
-  "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f/BattleScrollsNameColours": {
-   "addOnVersion": "17",
-   "addonId": "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f",
-   "apiVersion": "101048 101049 101050",
-   "author": "BLKx777",
-   "dependsOn": "BattleScrolls LibGroupBroadcast>=95 LibAsync>=30100",
-   "downloads": 488,
-   "folder": "BattleScrollsNameColours",
-   "isLibrary": "",
-   "optionalDependsOn": "LibHarvensAddonSettings",
-   "title": "Battle Scrolls Name Colors",
-   "updatedAt": 1782649097,
-   "version": "1.4"
-  },
   "9341ca4f-303b-4e36-b2c8-b559e428c6d2/BoostTimer": {
    "addOnVersion": "",
    "addonId": "9341ca4f-303b-4e36-b2c8-b559e428c6d2",
@@ -6621,6 +6579,20 @@
    "title": "Wizard's Helper",
    "updatedAt": 1793563640,
    "version": "0.1.1"
+  },
+  "9dd9ee5b-e3db-4539-879a-926cb3a8daa8/PBsBattleScrolls": {
+   "addOnVersion": "",
+   "addonId": "9dd9ee5b-e3db-4539-879a-926cb3a8daa8",
+   "apiVersion": "101050 101051",
+   "author": "PinkBanther",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "PBsBattleScrolls",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
+   "title": "PinkB's BattleScrolls(Beta)",
+   "updatedAt": 1795677336,
+   "version": "0.3.0"
   },
   "9e3a7462-c06e-4ee2-a7da-ac5279f979c8/SetTracker": {
    "addOnVersion": "",
@@ -7258,13 +7230,27 @@
    "apiVersion": "101050",
    "author": "BLKx777",
    "dependsOn": "",
-   "downloads": 136,
+   "downloads": 166,
    "folder": "UnchainedHelper",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0",
    "title": "Unchained Helper",
-   "updatedAt": 1795069707,
-   "version": "2.1"
+   "updatedAt": 1795662426,
+   "version": "4"
+  },
+  "acff27a7-c726-484e-a8a2-5f2d1c9dfbf0/ESOCHighAchiever": {
+   "addOnVersion": "2",
+   "addonId": "acff27a7-c726-484e-a8a2-5f2d1c9dfbf0",
+   "apiVersion": "101051",
+   "author": "Khazaril",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 1,
+   "folder": "ESOCHighAchiever",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "High Achiever",
+   "updatedAt": 1795703302,
+   "version": "0.2.0"
   },
   "ad02eccd-a3f5-4375-8c13-e631101449c5/APH-FPSGraph": {
    "addOnVersion": "26101514",
@@ -7286,13 +7272,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 48,
+   "downloads": 60,
    "folder": "aeriesCryTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Aerie's Cry Tracker",
-   "updatedAt": 1791548129,
-   "version": "1.2.9"
+   "updatedAt": 1795693980,
+   "version": "1.3.3"
   },
   "adeb7cae-c7d2-4f05-9f6b-398235624c33/HPSMeter": {
    "addOnVersion": "4",
@@ -7356,13 +7342,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 57,
+   "downloads": 71,
    "folder": "wretchedVitalityTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Wretched Vitality Tracker",
-   "updatedAt": 1791563033,
-   "version": "1.4.5"
+   "updatedAt": 1795694031,
+   "version": "1.4.7"
   },
   "afe5bbbc-a2e0-48de-965a-29eff222393f/VotansMiniMap": {
    "addOnVersion": "",
@@ -7720,13 +7706,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 7160,
+   "downloads": 8508,
    "folder": "warmaskTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Warmask Tracker",
-   "updatedAt": 1791579885,
-   "version": "1.5.5"
+   "updatedAt": 1795693461,
+   "version": "1.5.9"
   },
   "b95c419b-3f27-4214-aaae-c39bc4cbbeab/AsylumTimers": {
    "addOnVersion": "10303",
@@ -7783,6 +7769,20 @@
    "title": "1vX Helper [BETA]",
    "updatedAt": 1795038012,
    "version": "2.0.0"
+  },
+  "baaabdd5-bf2d-4387-a5b8-939929d52a35/ESOHardcore": {
+   "addOnVersion": "20",
+   "addonId": "baaabdd5-bf2d-4387-a5b8-939929d52a35",
+   "apiVersion": "101051 101052 2.5.3.0",
+   "author": "m1lkst3ak",
+   "dependsOn": "",
+   "downloads": 19,
+   "folder": "ESOHardcore",
+   "isLibrary": "",
+   "optionalDependsOn": "LibRadialMenu",
+   "title": "ESO Hardcore",
+   "updatedAt": 1795683351,
+   "version": "v0.2.4"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a/BetterScoreboard": {
    "addOnVersion": "50",
@@ -8471,18 +8471,18 @@
    "version": "v2.3"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000125",
+   "addOnVersion": "01000126",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 22825,
+   "downloads": 23205,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1795579213,
-   "version": "1.0.125"
+   "updatedAt": 1795665615,
+   "version": "1.0.126"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -8807,18 +8807,18 @@
    "version": "3.0.0"
   },
   "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7/TMENexus": {
-   "addOnVersion": "40",
+   "addOnVersion": "41",
    "addonId": "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7",
    "apiVersion": "101051 101052 2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 32,
+   "downloads": 33,
    "folder": "TMENexus",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu TSCPriceDataAPI TSCPriceDataLite",
    "title": "ESO Arsenal - By TME",
-   "updatedAt": 1795571136,
-   "version": "v1.0.5"
+   "updatedAt": 1795666115,
+   "version": "v1.0.6"
   },
   "cfca5ccd-3799-4e8b-9607-99f4f175a2df/GuildNameTicker": {
    "addOnVersion": "",
@@ -11453,6 +11453,12 @@
    ],
    "version": "1.16.0"
   },
+  "16d4e42f-4a91-4dbc-bdc4-31abcd5d5640": {
+   "folders": [
+    "HUDMoveUI"
+   ],
+   "version": "1.0.0"
+  },
   "17071a4b-f373-41fa-8874-778672bae73c": {
    "folders": [
     "LibRecipe"
@@ -11619,7 +11625,7 @@
    "folders": [
     "APH-Profiler"
    ],
-   "version": "2.1"
+   "version": "2.2"
   },
   "20837ea1-4531-40f4-b11b-d2658a48fa8e": {
    "folders": [
@@ -11644,12 +11650,6 @@
     "CleanLeadsUI"
    ],
    "version": "1.0.0"
-  },
-  "21a2a61f-e085-4a88-b299-587a33bff1f5": {
-   "folders": [
-    "WWDpad"
-   ],
-   "version": "0.7.6"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574": {
    "folders": [
@@ -12037,12 +12037,6 @@
    ],
    "version": "1.0.1"
   },
-  "358b7452-c5b6-44d4-b562-da05e5dd4ed1": {
-   "folders": [
-    "GroupReset"
-   ],
-   "version": "0.1.1"
-  },
   "358e5bc1-5cc6-461f-ac0f-fde2dfe327a3": {
    "folders": [
     "LibESQL"
@@ -12130,7 +12124,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.603"
+   "version": "0.0.604"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12214,7 +12208,7 @@
    "folders": [
     "advancingYokedaTracker"
    ],
-   "version": "1.3.1"
+   "version": "1.3.3"
   },
   "3ce79776-65cd-4ba4-aff5-0703076be756": {
    "folders": [],
@@ -13068,6 +13062,12 @@
    ],
    "version": "1.2.3"
   },
+  "6f38f130-5172-4d0a-b4d1-17b00bf9679b": {
+   "folders": [
+    "PBsBattleScrolls"
+   ],
+   "version": "0.1.0"
+  },
   "6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3": {
    "folders": [
     "exporter"
@@ -13129,6 +13129,12 @@
    ],
    "version": "1.0.4.2c"
   },
+  "73b1d543-0759-43e6-bfee-582ba5623de3": {
+   "folders": [
+    "QuickGroupTools"
+   ],
+   "version": "0.1"
+  },
   "73d5304a-565a-4a9d-bd38-aa245219f955": {
    "folders": [
     "VerticalBuffsDebuffs"
@@ -13140,12 +13146,6 @@
     "DryzlerElderGeekNetLore"
    ],
    "version": "1.15"
-  },
-  "74e3cf1b-47f3-44c7-ac72-290efc19e8f3": {
-   "folders": [
-    "ObsidianHUD"
-   ],
-   "version": "0.8.3"
   },
   "75167780-fb8c-479c-86be-c0a208443b97": {
    "folders": [
@@ -13262,12 +13262,6 @@
     "BetterEffectViewer"
    ],
    "version": "5.0.0"
-  },
-  "7a5d051d-6b7c-4117-8748-0b3ec7a3c234": {
-   "folders": [
-    "SimpleGroupDPS"
-   ],
-   "version": "2.0.8"
   },
   "7b383e7f-a85f-491d-b950-dffc87bcec10": {
    "folders": [
@@ -13731,12 +13725,6 @@
    ],
    "version": "2.0.0"
   },
-  "92b1ef68-e576-4bf5-9ffe-f636c9d1c36f": {
-   "folders": [
-    "BattleScrollsNameColours"
-   ],
-   "version": "1.4"
-  },
   "9341ca4f-303b-4e36-b2c8-b559e428c6d2": {
    "folders": [
     "BoostTimer"
@@ -13918,6 +13906,12 @@
     "WizardsHelper"
    ],
    "version": "0.1.1"
+  },
+  "9dd9ee5b-e3db-4539-879a-926cb3a8daa8": {
+   "folders": [
+    "PBsBattleScrolls"
+   ],
+   "version": "0.3.0"
   },
   "9e3a7462-c06e-4ee2-a7da-ac5279f979c8": {
    "folders": [
@@ -14191,7 +14185,13 @@
    "folders": [
     "UnchainedHelper"
    ],
-   "version": "2.1"
+   "version": "4"
+  },
+  "acff27a7-c726-484e-a8a2-5f2d1c9dfbf0": {
+   "folders": [
+    "ESOCHighAchiever"
+   ],
+   "version": "0.2.0"
   },
   "ad02eccd-a3f5-4375-8c13-e631101449c5": {
    "folders": [
@@ -14203,7 +14203,7 @@
    "folders": [
     "aeriesCryTracker"
    ],
-   "version": "1.2.9"
+   "version": "1.3.3"
   },
   "adeb7cae-c7d2-4f05-9f6b-398235624c33": {
    "folders": [
@@ -14233,7 +14233,7 @@
    "folders": [
     "wretchedVitalityTracker"
    ],
-   "version": "1.4.5"
+   "version": "1.4.7"
   },
   "afe5bbbc-a2e0-48de-965a-29eff222393f": {
    "folders": [
@@ -14397,7 +14397,7 @@
    "folders": [
     "warmaskTracker"
    ],
-   "version": "1.5.5"
+   "version": "1.5.9"
   },
   "b95c419b-3f27-4214-aaae-c39bc4cbbeab": {
    "folders": [
@@ -14422,6 +14422,12 @@
     "1vXHelper"
    ],
    "version": "2.0.0"
+  },
+  "baaabdd5-bf2d-4387-a5b8-939929d52a35": {
+   "folders": [
+    "ESOHardcore"
+   ],
+   "version": "v0.2.4"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a": {
    "folders": [
@@ -14718,7 +14724,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.125"
+   "version": "1.0.126"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [
@@ -14866,7 +14872,7 @@
    "folders": [
     "TMENexus"
    ],
-   "version": "v1.0.5"
+   "version": "v1.0.6"
   },
   "cfca5ccd-3799-4e8b-9607-99f4f175a2df": {
    "folders": [

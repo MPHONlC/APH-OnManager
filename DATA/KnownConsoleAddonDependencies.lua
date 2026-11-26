@@ -36,7 +36,6 @@ AutoResearch	DolgubonsLazyWritCreator	FCOItemSaver	LibLazyCrafting	LibSets
 AwesomeGuildStore	CraftedPotions	LibFilters-3.0
 BaasWritCrafter	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
 BackBarTimer	LibHarvensAddonSettings
-BattleScrollsNameColours	LibHarvensAddonSettings
 BattleStats	LibHarvensAddonSettings
 BeamMeUp	BanditsUserInterface	LibChatMenuButton	LibCustomMenu	LibMapPing	LibSets	LibSlashCommander	MorrowindStyleUI	PortToFriendsHouse
 BetterEffectViewer	LibAddonMenu-2.0
@@ -86,6 +85,7 @@ EsoBR	LibHarvensAddonSettings
 ESOCKeepMyCrafts	LibHarvensAddonSettings
 ESOCompanionQRTest	LibHarvensAddonSettings
 ESOCSetHunter	LibHarvensAddonSettings	LibLazyCrafting
+ESOHardcore	LibRadialMenu
 EsoKR	AdvancedNameplates
 EsoPL	LibHarvensAddonSettings
 EsoTR	LibHarvensAddonSettings
@@ -113,7 +113,6 @@ GamepadUITweaks	LibGamepad
 GoldStandard	LibAddonMenu-2.0	TSCPriceDataAPI	TSCPriceDataLite
 gorethiefTracker	LibNotify
 GroupFrames	LibGroupBroadcast	LibGroupCombatStats	LibGroupResources	LibHarvensAddonSettings
-GroupReset	HodorReflexes
 H8Ball	LibHarvensAddonSettings
 HarvestMapConsole	AUI	LibMapPins-1.0	MiniMap	VotansMiniMap
 Hazel	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
@@ -194,6 +193,7 @@ OneAPHaTime	LibAPH	LibAddonMenu-2.0	LibHarvensAddonSettings
 OneMorRockgrove	Breadcrumbs
 PacketByteExporter	LibAddonMenu-2.0
 PBsAutoLoot	LibHarvensAddonSettings
+PBsBattleScrolls	LibGroupBroadcast	LibHarvensAddonSettings
 PBsChatWindowCustomizer	LibHarvensAddonSettings
 PBsClock	LibHarvensAddonSettings
 PBsCombatAssistant	LibHarvensAddonSettings
@@ -260,7 +260,6 @@ ShogrinUI	LibAddonMenu-2.0	LibSlashCommander
 ShowEquipped	LibHarvensAddonSettings
 SiegeReminder	LibHarvensAddonSettings
 SimpleGroupDPS	BattleScrolls
-SimpleGroupDPS2	BattleScrolls
 SimpleOffBalanceTracker	LibHarvensAddonSettings
 SkyShards	DebugLogViewer	LibDebugLogger
 SlayansBossTimer	LibChatMessage
