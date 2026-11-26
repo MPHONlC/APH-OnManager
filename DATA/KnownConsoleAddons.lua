@@ -155,7 +155,7 @@ CooldownTracker		CooldownTracker-1.1.1-2026-07-30T161733	101049	Cooldown Tracker
 CPSlotsConsole		1.3	101051	CPSlotsConsole	thewizadt	2fe8e45f-ebf9-4507-b981-91023b441f3e
 CPVeterancy		CPVeterancy-0.0.2-2026-07-30T204833	101050	CP Veterancy	clubwratt	7f8752f5-11f4-4e26-a26b-fc0ee813d8e1
 CraftMaster		1.0.13	101051	Craft Master	TheGreyWolf98	05de6273-f39c-4bd4-a38a-ee75245118af
-CraftMaterialAssistant		1.0.15	101051	CraftMaterialAssistant	lesse83	949980bd-b411-4102-82d7-4e64ba17bc3a
+CraftMaterialAssistant		1.0.16	101051	CraftMaterialAssistant	lesse83	949980bd-b411-4102-82d7-4e64ba17bc3a
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
 CrowdednESO		2026.07.09	101050	CrowdednESO	Masteroshi430	9d131435-84c4-4c6d-9d73-5e2ec6fa61b7
 CrownAndCrux	1.3.7	1.3.7	101049 101050	Crown And Crux	SaintAres97	0ac5fe21-6f1a-4c14-8b9f-be1a308a9619
@@ -184,6 +184,7 @@ DoesThisThingGoAnyFaster	13	0.9	101051	DoesThisThingGoAnyFaster	Th3rtythr33	838c
 DolgubonsLazySetCrafter		3.0.7.9	101049 101050	Dolgubon's Lazy Set Crafter (XBPA ONLY)	Dolgubon	e1b979e5-1c57-4da0-8980-5477f9d3b689
 DolgubonsLazyWritCreator	4057	4.0.5.7.9	101051	Dolgubon's Lazy Writ Crafter	Dolgubon	eeff2a8e-c911-4984-a07f-784c7155ddad
 DolmenRunner	2	1.2	101048 101049	Dolmen runner 1.2	xDonny2	b680d5f3-b8ab-4158-a513-d3f2a14921db
+DragonWall		0.2.1	101051 101052	Dragon Wall	SugaComa	66a3a01e-a53b-4e57-985b-ee30b280ab09
 DreadVision	602	A	101049 101050	Dread Vision	Dreadazar	0db118b4-92d1-4b06-b81a-64a67e477e60
 DryzlerElderGeekNetLore		1.15	101047 101048	Dryzler's LoreBooks	Sharlikran	747e5279-71c7-4d0b-8db8-5c7552b2ed65
 DuelResults	300	2.0.0	101046	Duel Results	Vixen_Hunny	47568dd9-5328-4e2a-9862-c59932473a4b
@@ -208,7 +209,7 @@ ESOCompanionQRTest	18	0.9.1	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75
 ESOCSetHunter	39	2.17.2	101051	Set Hunter	Khazaril	eb2c190d-fe48-498a-baac-3db1a6ba979e
 ESOCSkillPointFinder	7	0.1.6	101051	Skill Point Finder	Khazaril	da73e1a0-38b3-44ff-b0d1-f450aea66fa4
 ESOFantasy	32.0.0	4.0.3	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
-ESOHardcore	20	v0.2.4	101051 101052 2.5.3.0	ESO Hardcore	m1lkst3ak	baaabdd5-bf2d-4387-a5b8-939929d52a35
+ESOHardcore	53	0.4.2	101051 101052 2.5.3.0	ESO Hardcore	m1lkst3ak	baaabdd5-bf2d-4387-a5b8-939929d52a35
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -302,7 +303,7 @@ HousingForge	1400	1.4.0	101050	Test suite 2	Tekatsu	e1fa49c2-830c-41dc-9927-0d01
 HousingFPSBooster	10102	1.1.3	101050 101051	Tetsu's Housing FPS Booster	Tetsurion	febdb84e-a3d4-46d5-b70c-e9b1e491be5f
 HousingVote	19	0.4.1	101050 101051	HousingVote	yodased-mods	f78047ed-9eb4-471b-953c-3fdab2282231
 HPSMeter	4	Added BG History Support and LibESQL support	101047 101048	Bloom HPS	Vixen_Hunny	adeb7cae-c7d2-4f05-9f6b-398235624c33
-HUDMoveUI	10000	1.0.0	101051 101052	Delta	FiNk3F13	16d4e42f-4a91-4dbc-bdc4-31abcd5d5640
+HUDMoveUI	10100	1.1.0	101051 101052	Delta	FiNk3F13	16d4e42f-4a91-4dbc-bdc4-31abcd5d5640
 IAHelper		50.09	101050	Infinite Archive Helper	Gamer_sa22	fd1c014a-ca0d-42e8-91b7-3ce3c64be6b8
 IFG		1.1.15	101049	IFG	FIG_BOT	869cd684-8dba-4750-bdf3-9b3be03ecdc6
 ImperialCityBossTimers	10400	5.0.0	101050 101051	Imperial City Boss Timers	ParanoidGaming	6684c311-afc5-48de-8ced-f86edbe863f1
@@ -312,6 +313,7 @@ InsatiableHungerBlocker		1.13	101051	Insatiable Hunger Blocker	Lykeion+	42a55498
 InstaQ	1	1.2 Stable	101046	InstaQ	Synkronist	5da20bd4-9950-42b8-aca8-deadd5817210
 InterruptNarc		1.0.6	101044	Interrupt Narc	brossin13	fe232f99-8f31-4163-906d-48182e80a59d
 IsItTaunted		1.9.10	101046	IsItTaunted	RipleyZepher	6b4f359b-e17e-46f6-b2c9-9a1e42e7de2b
+IsoStats2	20303	2.3.3	101051	Iso	FiNk3F13	1ff7f28f-1b8b-42ef-b54a-db53d1311e27
 ItalianScrollsOnline		1.75	101046	ItalianScrollsOnline	dusty82	5d612b95-1149-48f4-b359-2aaee406bd86
 ItemHound	10	0.8.2	101050 101051	ItemHound	TheGreyWolf98	70b691c1-ae82-42c5-ad2d-4dad6bd53b36
 ItemStackSplitter		1.0.1	101050	Item Stack Splitter	Eldibabalo	fd260c09-574e-4494-9d13-dad835b05662
@@ -465,6 +467,7 @@ Nemesis	100	1.0.0	101050	Nemesis	Rogue0rbit	88739d40-c764-4276-9157-ba0eb1d47805
 NewQuestAssist	1	1	101050	NextQuest	dicen9	dfed21f9-988b-44b9-a054-89bfcce20639
 NGear	41	41	101050 101051	NGear	unacntble	f82fbe8f-39a8-4cad-b1ba-8e3a586c41a0
 NGear-dev	40	40	101050 101051	NGear-dev	unacntble	842f6e57-44cf-436d-b2fb-b38615f20346
+NodeRunner		0.2.1	101051 101052	Node Runner	SugaComa	5da3c77f-9566-4904-9300-ed2e31d03f07
 NoM0RErrors	101	1.0.1	101046	No More Errors	M0R	91c0799a-d1f2-46e3-9ef6-2c470d6869f6
 NoTargetFrame	110	Final version	101050	Hide Targetframe by JH	j.hhh	b1bf0d35-ce24-4850-a553-507da6b0e5e5
 NQOL	371	371	101050 101051	NQOL	unacntble	6987c48d-827e-4583-a5a7-6cb748174190
@@ -578,6 +581,7 @@ RolePlayMod		1.2.3-alpha.25-ps5.2	101051	RolePlay Mod	ZorrinoTV	d747dd7e-77c4-4e
 Rolodex	1	1.0	101050	Rolodex	dicen9	fba4016e-4c55-48b5-9f38-f169d2190581
 Roomba		2026.08.15	101050 101051	Roomba	Masteroshi430	80e548e3-0d72-47fa-9ef8-f6966b42ee75
 RotationHelper		1.0.52	101046 101047	Rotation Helper	RipleyZepher	183094f4-334c-48ea-abb9-14add7fbbbd7
+RushAgonyBeam	3	v1.5	101050 101051	beam tst	j.hhh	52d209a3-bbae-4bbf-97c4-d2c742e59947
 rushOfAgonyTracker		1.0.9	101051	Rush of Agony Tracker	codeWarrior82	03e3b721-0ccb-4e27-9f1c-ae0e6bf96be5
 SatchelExchange		SatchelExchange-0.11.0-2026-11-23T160739	101050	Satchel Exchange	clubwratt	979371c6-2e58-4b2f-84af-cc9276c86b94
 SatiatedHunger	1	1.0.0	101050	Satiated Hunger	Kyzeragon	fba77669-8221-43e5-b44d-31ced9546f8b
@@ -665,7 +669,7 @@ TitleLoop	1008	1.0.8	101050	Title Loop	Copper0	5e051775-8c73-4e96-bb6b-dcaa188dc
 TMENexus	41	v1.0.6	101051 101052 2.5.3.0	ESO Arsenal - By TME	m1lkst3ak	cf4ee70f-addc-4c88-a504-1ea3aa8e56b7
 TorigaCam		1.0.0	101050	TorigaCam	Master-Antonio	8c834a42-03cd-4110-8b81-7847f13944b6
 TorigaHUD		1.0.0	101050 101051	TorigaHUD	Master-Antonio	ac816501-4787-4c8b-942f-574aa8ea6c01
-TrackersByJH	1106	v2.3	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
+TrackersByJH	1107	v2.4	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
 TradeQR	5	0.4.0	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
 TraderFilter		1.0.6	101043	TraderFilter	wh0c4r35ab0utth15	44df98e8-01a5-48d2-903d-41d3516f3289
 TradeSkills	12	1.0	101042	Trade Skills	Necis	6062f2e4-8b5a-48e5-9327-cf8de18eb5e5

@@ -74,6 +74,7 @@ DoesThisThingGoAnyFaster	LibHarvensAddonSettings
 DolgubonsLazySetCrafter	LibCustomMenu	LibFeedback	LibPrice	LibStub	pChat
 DolgubonsLazyWritCreator	ArkadiusTradeToolsSales	LibCustomMenu	LibFeedback	LibHistoire	LibRadialMenu	LibStub	pChat
 DolmenRunner	LibHarvensAddonSettings
+DragonWall	LibHarvensAddonSettings
 DryzlerElderGeekNetLore	LibMOTD
 DuelResults	LibAddonMenu-2.0
 DungeonRating	GoldStandard	LibAddonMenu-2.0	LibRadialMenu

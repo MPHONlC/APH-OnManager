@@ -939,18 +939,18 @@
    "version": "1.16.0"
   },
   "16d4e42f-4a91-4dbc-bdc4-31abcd5d5640/HUDMoveUI": {
-   "addOnVersion": "10000",
+   "addOnVersion": "10100",
    "addonId": "16d4e42f-4a91-4dbc-bdc4-31abcd5d5640",
    "apiVersion": "101051 101052",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 1,
+   "downloads": 2,
    "folder": "HUDMoveUI",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Delta",
-   "updatedAt": 1795699061,
-   "version": "1.0.0"
+   "updatedAt": 1795705282,
+   "version": "1.1.0"
   },
   "17071a4b-f373-41fa-8874-778672bae73c/LibRecipe": {
    "addOnVersion": "103",
@@ -1315,6 +1315,20 @@
    "title": "Addon Loadouts",
    "updatedAt": 1777687743,
    "version": "1.5"
+  },
+  "1ff7f28f-1b8b-42ef-b54a-db53d1311e27/IsoStats2": {
+   "addOnVersion": "20303",
+   "addonId": "1ff7f28f-1b8b-42ef-b54a-db53d1311e27",
+   "apiVersion": "101051",
+   "author": "FiNk3F13",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 1,
+   "folder": "IsoStats2",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Iso",
+   "updatedAt": 1795706043,
+   "version": "2.3.3"
   },
   "202b48d5-1fa7-42bb-aeed-fc06f01a7874/APH-Profiler": {
    "addOnVersion": "26101520",
@@ -3165,18 +3179,18 @@
    "version": "2026.10.18.01.41"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/TrackersByJH": {
-   "addOnVersion": "1106",
+   "addOnVersion": "1107",
    "addonId": "4b0c0d15-66db-4be0-b76a-b9817a229cfd",
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 124,
+   "downloads": 196,
    "folder": "TrackersByJH",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "My Trackers",
-   "updatedAt": 1791490826,
-   "version": "v2.3"
+   "updatedAt": 1795723863,
+   "version": "v2.4"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/WarmasktrackerByJH": {
    "addOnVersion": "",
@@ -3541,6 +3555,20 @@
    "title": "Ar2",
    "updatedAt": 1789095009,
    "version": "1"
+  },
+  "52d209a3-bbae-4bbf-97c4-d2c742e59947/RushAgonyBeam": {
+   "addOnVersion": "3",
+   "addonId": "52d209a3-bbae-4bbf-97c4-d2c742e59947",
+   "apiVersion": "101050 101051",
+   "author": "j.hhh",
+   "dependsOn": "",
+   "downloads": 19,
+   "folder": "RushAgonyBeam",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "beam tst",
+   "updatedAt": 1795713262,
+   "version": "v1.5"
   },
   "52e26019-7e65-4ad8-9af6-bfdf51ef2bce/esoReport": {
    "addOnVersion": "",
@@ -3933,6 +3961,20 @@
    "title": "InstaQ",
    "updatedAt": 1750889908,
    "version": "1.2 Stable"
+  },
+  "5da3c77f-9566-4904-9300-ed2e31d03f07/NodeRunner": {
+   "addOnVersion": "",
+   "addonId": "5da3c77f-9566-4904-9300-ed2e31d03f07",
+   "apiVersion": "101051 101052",
+   "author": "SugaComa",
+   "dependsOn": "DragonWall",
+   "downloads": 2,
+   "folder": "NodeRunner",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Node Runner",
+   "updatedAt": 1795733716,
+   "version": "0.2.1"
   },
   "5dce8bc1-61a1-4273-a23e-f74372f36b40/GildedUI": {
    "addOnVersion": "",
@@ -4367,6 +4409,20 @@
    "title": "CombatStatus-Console",
    "updatedAt": 1768906802,
    "version": "0.1"
+  },
+  "66a3a01e-a53b-4e57-985b-ee30b280ab09/DragonWall": {
+   "addOnVersion": "",
+   "addonId": "66a3a01e-a53b-4e57-985b-ee30b280ab09",
+   "apiVersion": "101051 101052",
+   "author": "SugaComa",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "DragonWall",
+   "isLibrary": "",
+   "optionalDependsOn": "LibHarvensAddonSettings",
+   "title": "Dragon Wall",
+   "updatedAt": 1795733236,
+   "version": "0.2.1"
   },
   "66e34000-1a7c-4b71-9c6b-18742fa714c5/AlreadyListed": {
    "addOnVersion": "101",
@@ -6208,13 +6264,13 @@
    "apiVersion": "101051",
    "author": "lesse83",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 276,
+   "downloads": 374,
    "folder": "CraftMaterialAssistant",
    "isLibrary": "",
    "optionalDependsOn": "LibResearch",
    "title": "CraftMaterialAssistant",
-   "updatedAt": 1793992542,
-   "version": "1.0.15"
+   "updatedAt": 1795724666,
+   "version": "1.0.16"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347/feedingFrenzyTracker": {
    "addOnVersion": "",
@@ -7771,18 +7827,18 @@
    "version": "2.0.0"
   },
   "baaabdd5-bf2d-4387-a5b8-939929d52a35/ESOHardcore": {
-   "addOnVersion": "20",
+   "addOnVersion": "53",
    "addonId": "baaabdd5-bf2d-4387-a5b8-939929d52a35",
    "apiVersion": "101051 101052 2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 19,
+   "downloads": 38,
    "folder": "ESOHardcore",
    "isLibrary": "",
    "optionalDependsOn": "LibRadialMenu",
    "title": "ESO Hardcore",
-   "updatedAt": 1795683351,
-   "version": "v0.2.4"
+   "updatedAt": 1795731360,
+   "version": "0.4.2"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a/BetterScoreboard": {
    "addOnVersion": "50",
@@ -11457,7 +11513,7 @@
    "folders": [
     "HUDMoveUI"
    ],
-   "version": "1.0.0"
+   "version": "1.1.0"
   },
   "17071a4b-f373-41fa-8874-778672bae73c": {
    "folders": [
@@ -11620,6 +11676,12 @@
     "AddonLoadouts"
    ],
    "version": "1.5"
+  },
+  "1ff7f28f-1b8b-42ef-b54a-db53d1311e27": {
+   "folders": [
+    "IsoStats2"
+   ],
+   "version": "2.3.3"
   },
   "202b48d5-1fa7-42bb-aeed-fc06f01a7874": {
    "folders": [
@@ -12124,7 +12186,7 @@
   },
   "384135b6-4bca-4589-8b05-ebf91afd43ee": {
    "folders": [],
-   "version": "0.0.604"
+   "version": "0.0.605"
   },
   "3880ed7f-304b-4af0-a403-83a982df9091": {
    "folders": [
@@ -12428,7 +12490,7 @@
    "folders": [
     "TrackersByJH"
    ],
-   "version": "v2.3"
+   "version": "v2.4"
   },
   "4b4ddced-3d97-431c-8c43-a9c732ea2cae": {
    "folders": [
@@ -12592,6 +12654,12 @@
    ],
    "version": "1"
   },
+  "52d209a3-bbae-4bbf-97c4-d2c742e59947": {
+   "folders": [
+    "RushAgonyBeam"
+   ],
+   "version": "v1.5"
+  },
   "52e26019-7e65-4ad8-9af6-bfdf51ef2bce": {
    "folders": [
     "esoReport"
@@ -12743,6 +12811,12 @@
     "InstaQ"
    ],
    "version": "1.2 Stable"
+  },
+  "5da3c77f-9566-4904-9300-ed2e31d03f07": {
+   "folders": [
+    "NodeRunner"
+   ],
+   "version": "0.2.1"
   },
   "5dce8bc1-61a1-4273-a23e-f74372f36b40": {
    "folders": [
@@ -12934,6 +13008,12 @@
     "CombatStatus-Console"
    ],
    "version": "0.1"
+  },
+  "66a3a01e-a53b-4e57-985b-ee30b280ab09": {
+   "folders": [
+    "DragonWall"
+   ],
+   "version": "0.2.1"
   },
   "66e34000-1a7c-4b71-9c6b-18742fa714c5": {
    "folders": [
@@ -13747,7 +13827,7 @@
    "folders": [
     "CraftMaterialAssistant"
    ],
-   "version": "1.0.15"
+   "version": "1.0.16"
   },
   "9526cff9-d7f1-4c3c-a96b-aecfb0daa347": {
    "folders": [
@@ -14427,7 +14507,7 @@
    "folders": [
     "ESOHardcore"
    ],
-   "version": "v0.2.4"
+   "version": "0.4.2"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a": {
    "folders": [
