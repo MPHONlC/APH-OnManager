@@ -84,7 +84,7 @@ AutoRoll	1.0.0	AR 1.0.0 LAM UPDATE	101046	bugfixxxxx	Vixen_Hunny	b057d22b-1ffd-4
 AwesomeGuildStore	3282	1.7.8	101050	AwesomeGuildStore	sirinsidiator	28cfc719-5113-4b1f-aab6-570be159ab81
 BaasWritCrafter	4057	v1.1	101049 101050	Baas-Writ-Crafter	D5rkSh5dow	173a593f-d0c6-473b-a865-5c8961942c06
 BackBarTimer		2.1.4	101049 101050 101051	BackBarTimer	SugaComa	ae6c1833-5a02-4baf-8bf6-d18c7c8d33d8
-BagSpaceIndicator		3.49.0	101048 101049	Bag Space Indicator	lordrichter	5af6522d-980d-4335-9328-4e5077cee058
+BagSpaceIndicator		3.52.0	101051 101052	Bag Space Indicator	lordrichter	5af6522d-980d-4335-9328-4e5077cee058
 BAHelp		3.0.0	101045 101046	Bound Armaments Help	dacu	6681b779-77ba-4212-ba6d-2d20e6e08ee7
 BannerStatus		1.0.6	101047	Banner Status	Phamo1000	608b7ab5-db64-423a-af5c-2438027f0eed
 BattleScrolls	10003	1.0.3	101050 101051	BattleScrollBV	SugaComa	242aa937-0c55-4d1f-b667-0716e81eb4e7
@@ -159,7 +159,7 @@ CraftMaterialAssistant		1.0.16	101051	CraftMaterialAssistant	lesse83	949980bd-b4
 CritTracker		3.1.3	101050	Critty: Live Crit Tracking	YFNatey	bcbbd5b5-03d6-4958-a225-2c9f4b63cfa8
 CrowdednESO		2026.07.09	101050	CrowdednESO	Masteroshi430	9d131435-84c4-4c6d-9d73-5e2ec6fa61b7
 CrownAndCrux	1.3.7	1.3.7	101049 101050	Crown And Crux	SaintAres97	0ac5fe21-6f1a-4c14-8b9f-be1a308a9619
-CrutchAlerts	22802	2.28.2	101051 101052	CrutchAlerts	Kyzeragon	21f0cc83-5ba3-4776-ac75-a5a266fde574
+CrutchAlerts	22900	2.29.0	101051 101052	CrutchAlerts	Kyzeragon	21f0cc83-5ba3-4776-ac75-a5a266fde574
 CruxTracker-2.0		2.7.1	101040	CruxTracker-2.0	akbosser	aef7e9f0-ed11-4b67-99f7-c500cdc0b343
 CTest	2606272	260627.2	101050	Calamath's Test Site	Calamath	23ee5193-1c27-4b42-b005-05c3f28ad835
 CurvedHUD		1.1.3	101050 101051 101052	Curved Resource HUD	Kaos_Arbiter	bc307fb6-b7b8-4905-b81a-1b33b24c8662
@@ -176,6 +176,7 @@ DeskUI	6	0.6.0	101050 101051	Xbox-PCUI	ItsCraniBaby1	8e0c89af-87a5-4154-b9cd-1d1
 Destinations	3002	30.02	101045 101046	Destinations	Sharlikran	72761e54-4d9a-471b-bd58-5dcec8942b9d
 DevSandbox3	42200	DevSandbox3-4.22.0-2026-11-24T232211	101050	dev sandbox 3	clubwratt	3a4024fc-1465-4e5e-a96f-6d6b6a781497
 DiabloFramesConsole	4	0.1.3	101051	Diablo Frames Action Bar Console	RagePhoenix96	da37ddee-0a3a-403e-aee9-d45c9af8a488
+DLCDungeonFinder	100	0.1	101051	DLC DungeonFinder	BLKx777	51fb03da-e425-4b29-8ad7-082c2e005745
 DLCRoulette	5	1.1.3	101051	DLC Roulette	-Chin	0f2a1db4-049e-454b-96b8-52c65ff6cb85
 DLJExp		1.00	101032	DLJ's EXP Scroll Reminder	darkladyjupiter	ee8ca2af-a359-45b8-98c7-8cb4edcd19d2
 DM2_ParseFightStats	31811	3.18.11	101048 101047	DM2 Parse & Fight Stats	Fredgu3	d2f38194-bd78-47b6-817f-71932b3a5c42
@@ -209,7 +210,7 @@ ESOCompanionQRTest	18	0.9.1	101051	ESO Companion	Khazaril	cbd43537-05b7-405f-b75
 ESOCSetHunter	39	2.17.2	101051	Set Hunter	Khazaril	eb2c190d-fe48-498a-baac-3db1a6ba979e
 ESOCSkillPointFinder	7	0.1.6	101051	Skill Point Finder	Khazaril	da73e1a0-38b3-44ff-b0d1-f450aea66fa4
 ESOFantasy	32.0.0	4.0.3	2.5.3.0	Battle Ground Rating (BGR)	m1lkst3ak	b6cb7ba1-4505-427c-811d-0a008aeb4e79
-ESOHardcore	53	0.4.2	101051 101052 2.5.3.0	ESO Hardcore	m1lkst3ak	baaabdd5-bf2d-4387-a5b8-939929d52a35
+ESOHardcore	74	v1.4	101051 101052 2.5.3.0	Tamriel Unbound	m1lkst3ak	c029fa20-e860-4adb-9122-5ecc557b4260
 EsoKR	1022	10.22	101049 101050	EsoKR	Sharlikran	b15376ba-5e02-4e7a-b5f8-249f644ad1ac
 EsoLiveToolbar		1.1.3	101050	EsoLiveToolbar	Eldibabalo	cce864e9-8d4b-4b05-b635-c68b101420de
 EsoPL		1.0.24	101051	EsoPL - Spolszczenie	tomkolp	10a87c9d-556d-4389-8952-629b42b5a3bc
@@ -407,7 +408,7 @@ LiveBuffUptime2		2.4.17	101051	Testo	FiNk3F13	937915ef-c930-46a4-ad1d-baf147c74e
 Loadout	10001	1.0.1	101051	Loadout	TheGreyWolf98	b25439ca-4262-4d71-940e-8b5db7507286
 LootLog		0.7.20	101047	Loot Log	ReliktKoala	d527acdc-07b2-453a-9519-d34261e02e5c
 LoreBooks	96	96	101045 101046	Lorebooks	Sharlikran	d324f223-1cd9-40d2-8e37-8cf302dde557
-LoreLibrary	01000126	1.0.126	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
+LoreLibrary	01000127	1.0.127	101051 101050	Lore Book Locations	Shinni42	ca0d62e7-58ab-4ea4-9729-f139cb28a64d
 LoreTooltips		1.0.1	101049	LoreTooltips	tomkolp	39fc7c26-2635-417b-b2e4-1a071c50d41d
 LuiData	7231	7.2.3.1	101051 101052	LuiData	Dack.Janiels	9bb39b20-896b-4b23-a901-0c9d110edac7
 LuiExecuteIcon	10001	1.0.0.1	101049 101050	LuiExecuteIcon	Dack.Janiels	7121f08a-1fe7-4a77-b582-ad1815dcb6e6
@@ -438,7 +439,7 @@ MeterskullConsole		1.1	101050	Meterskull Console	j.hhh	90fcc3e4-279e-4654-834d-5
 MiatsTickTracker	11303	v1.2	101051	Recovery Tick Tracker	j.hhh	eff02a68-b788-4269-be3d-78283a26f306
 MicToggle	1	1.5	101050	Talk Toggle	dicen9	cda29292-5e10-4045-9219-10ff1a9444fe
 MissingFoodDrinkCSA	1	1.1	101049 101050	Missing Food/Drink Buff CSA	Dack.Janiels	a8df6914-51e2-4059-8c77-a773a30bee81
-MoreTargetInformation		3.49.0	101048 101049	More Target Information	lordrichter	b2507553-0888-4fae-9f69-5b1f89f1b266
+MoreTargetInformation		3.52.0	101051 101052	More Target Information	lordrichter	b2507553-0888-4fae-9f69-5b1f89f1b266
 MovableAddonMemory	100	1.0	101049	Movable Addon Memory	M0R	acf1ef04-4ec0-400b-86c6-98b7dd9d2f72
 MovableHUD	20411	2.4.11	101050 101051	Aldrens Movable UI	Rhyojaan	a25448d4-0fb6-421f-bdb2-d9cf32a397d5
 MoveBuffDebuff		51.00	101051	Move Buff & Debuff Bar	Gamer_sa22	fb88de81-c67e-4170-b8d8-39ac322f0664
@@ -667,6 +668,7 @@ ThisOneTeaches		1.0.11	101049 101050	This One Teaches	SugaComa	a31e5f3e-6209-4f6
 TimedRaidLifeDisplay	10002	1.0.3	101048 101049	Timer in Revive Counter	Shienar	845e13c0-5c9e-4d9b-94e1-a47d532e4b0c
 TitleLoop	1008	1.0.8	101050	Title Loop	Copper0	5e051775-8c73-4e96-bb6b-dcaa188dc064
 TMENexus	41	v1.0.6	101051 101052 2.5.3.0	ESO Arsenal - By TME	m1lkst3ak	cf4ee70f-addc-4c88-a504-1ea3aa8e56b7
+TomePointCollector	2	1.0.1	101051	Tome Point Collector	wildskiller	07107f66-2817-46b8-9e15-cca10cc5b68d
 TorigaCam		1.0.0	101050	TorigaCam	Master-Antonio	8c834a42-03cd-4110-8b81-7847f13944b6
 TorigaHUD		1.0.0	101050 101051	TorigaHUD	Master-Antonio	ac816501-4787-4c8b-942f-574aa8ea6c01
 TrackersByJH	1107	v2.4	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd

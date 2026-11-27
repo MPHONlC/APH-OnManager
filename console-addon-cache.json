@@ -210,6 +210,20 @@
    "updatedAt": 1752507116,
    "version": "2.1 Stable Revised"
   },
+  "07107f66-2817-46b8-9e15-cca10cc5b68d/TomePointCollector": {
+   "addOnVersion": "2",
+   "addonId": "07107f66-2817-46b8-9e15-cca10cc5b68d",
+   "apiVersion": "101051",
+   "author": "wildskiller",
+   "dependsOn": "",
+   "downloads": 3,
+   "folder": "TomePointCollector",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Tome Point Collector",
+   "updatedAt": 1795736909,
+   "version": "1.0.1"
+  },
   "075222fe-7845-484e-a060-69ddb8d571d8/LuXhrysLibItemLinkPreview": {
    "addOnVersion": "001",
    "addonId": "075222fe-7845-484e-a060-69ddb8d571d8",
@@ -1401,18 +1415,18 @@
    "version": "1.0.0"
   },
   "21f0cc83-5ba3-4776-ac75-a5a266fde574/CrutchAlerts": {
-   "addOnVersion": "22802",
+   "addOnVersion": "22900",
    "addonId": "21f0cc83-5ba3-4776-ac75-a5a266fde574",
    "apiVersion": "101051 101052",
    "author": "Kyzeragon",
    "dependsOn": "",
-   "downloads": 752399,
+   "downloads": 783555,
    "folder": "CrutchAlerts",
    "isLibrary": "",
    "optionalDependsOn": "OdySupportIcons LibFilteredChatPanel LibGroupBroadcast>=91 LibCustomIcons",
    "title": "CrutchAlerts",
-   "updatedAt": 1793485396,
-   "version": "2.28.2"
+   "updatedAt": 1795750313,
+   "version": "2.29.0"
   },
   "21f64968-c492-4b43-82ff-b7b1f25c7500/AltGroupFrames": {
    "addOnVersion": "30",
@@ -3528,6 +3542,20 @@
    "updatedAt": 1792568776,
    "version": "1.27.18"
   },
+  "51fb03da-e425-4b29-8ad7-082c2e005745/DLCDungeonFinder": {
+   "addOnVersion": "100",
+   "addonId": "51fb03da-e425-4b29-8ad7-082c2e005745",
+   "apiVersion": "101051",
+   "author": "BLKx777",
+   "dependsOn": "",
+   "downloads": 0,
+   "folder": "DLCDungeonFinder",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "DLC DungeonFinder",
+   "updatedAt": 1795745396,
+   "version": "0.1"
+  },
   "529cf85a-e597-4945-86c4-654d2a32a7bc/LycanMeter": {
    "addOnVersion": "",
    "addonId": "529cf85a-e597-4945-86c4-654d2a32a7bc",
@@ -3811,16 +3839,16 @@
   "5af6522d-980d-4335-9328-4e5077cee058/BagSpaceIndicator": {
    "addOnVersion": "",
    "addonId": "5af6522d-980d-4335-9328-4e5077cee058",
-   "apiVersion": "101048 101049",
+   "apiVersion": "101051 101052",
    "author": "lordrichter",
    "dependsOn": "",
-   "downloads": 147683,
+   "downloads": 161652,
    "folder": "BagSpaceIndicator",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Bag Space Indicator",
-   "updatedAt": 1773099404,
-   "version": "3.49.0"
+   "updatedAt": 1795744103,
+   "version": "3.52.0"
   },
   "5c997615-ee42-43dd-a5d0-5337fb785714/archdruidTracker": {
    "addOnVersion": "",
@@ -7535,16 +7563,16 @@
   "b2507553-0888-4fae-9f69-5b1f89f1b266/MoreTargetInformation": {
    "addOnVersion": "",
    "addonId": "b2507553-0888-4fae-9f69-5b1f89f1b266",
-   "apiVersion": "101048 101049",
+   "apiVersion": "101051 101052",
    "author": "lordrichter",
    "dependsOn": "",
-   "downloads": 54284,
+   "downloads": 59247,
    "folder": "MoreTargetInformation",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "More Target Information",
-   "updatedAt": 1773081560,
-   "version": "3.49.0"
+   "updatedAt": 1795743961,
+   "version": "3.52.0"
   },
   "b25439ca-4262-4d71-940e-8b5db7507286/Loadout": {
    "addOnVersion": "10001",
@@ -7827,18 +7855,18 @@
    "version": "2.0.0"
   },
   "baaabdd5-bf2d-4387-a5b8-939929d52a35/ESOHardcore": {
-   "addOnVersion": "53",
+   "addOnVersion": "67",
    "addonId": "baaabdd5-bf2d-4387-a5b8-939929d52a35",
    "apiVersion": "101051 101052 2.5.3.0",
    "author": "m1lkst3ak",
    "dependsOn": "",
-   "downloads": 38,
+   "downloads": 47,
    "folder": "ESOHardcore",
    "isLibrary": "",
-   "optionalDependsOn": "LibRadialMenu",
+   "optionalDependsOn": "LibRadialMenu LibAddonMenu-2.0 LibGamepad LibVotans LibHarvensAddonSettings",
    "title": "ESO Hardcore",
-   "updatedAt": 1795731360,
-   "version": "0.4.2"
+   "updatedAt": 1795749650,
+   "version": "0.51"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a/BetterScoreboard": {
    "addOnVersion": "50",
@@ -8077,6 +8105,20 @@
    "title": "Leo_abilityInspector_beta",
    "updatedAt": 1792315238,
    "version": "0.1.1"
+  },
+  "c029fa20-e860-4adb-9122-5ecc557b4260/ESOHardcore": {
+   "addOnVersion": "74",
+   "addonId": "c029fa20-e860-4adb-9122-5ecc557b4260",
+   "apiVersion": "101051 101052 2.5.3.0",
+   "author": "m1lkst3ak",
+   "dependsOn": "",
+   "downloads": 5,
+   "folder": "ESOHardcore",
+   "isLibrary": "",
+   "optionalDependsOn": "LibRadialMenu LibAddonMenu-2.0 LibGamepad LibVotans LibHarvensAddonSettings",
+   "title": "Tamriel Unbound",
+   "updatedAt": 1795758727,
+   "version": "v1.4"
   },
   "c0ae2cd5-69de-4e29-8be3-1607be88e54a/LibSlashCommander": {
    "addOnVersion": "45",
@@ -8527,18 +8569,18 @@
    "version": "v2.3"
   },
   "ca0d62e7-58ab-4ea4-9729-f139cb28a64d/LoreLibrary": {
-   "addOnVersion": "01000126",
+   "addOnVersion": "01000127",
    "addonId": "ca0d62e7-58ab-4ea4-9729-f139cb28a64d",
    "apiVersion": "101051 101050",
    "author": "Shinni42",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 23205,
+   "downloads": 23378,
    "folder": "LoreLibrary",
    "isLibrary": "",
    "optionalDependsOn": "MiniMap VotansMiniMap AUI LibHarvensAddonSettings",
    "title": "Lore Book Locations",
-   "updatedAt": 1795665615,
-   "version": "1.0.126"
+   "updatedAt": 1795752014,
+   "version": "1.0.127"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca/KhajiitFengShui": {
    "addOnVersion": "137",
@@ -11188,6 +11230,12 @@
    ],
    "version": "2.1 Stable Revised"
   },
+  "07107f66-2817-46b8-9e15-cca10cc5b68d": {
+   "folders": [
+    "TomePointCollector"
+   ],
+   "version": "1.0.1"
+  },
   "075222fe-7845-484e-a060-69ddb8d571d8": {
    "folders": [
     "LuXhrysLibItemLinkPreview"
@@ -11717,7 +11765,7 @@
    "folders": [
     "CrutchAlerts"
    ],
-   "version": "2.28.2"
+   "version": "2.29.0"
   },
   "21f64968-c492-4b43-82ff-b7b1f25c7500": {
    "folders": [
@@ -12638,6 +12686,12 @@
    ],
    "version": "1.27.18"
   },
+  "51fb03da-e425-4b29-8ad7-082c2e005745": {
+   "folders": [
+    "DLCDungeonFinder"
+   ],
+   "version": "0.1"
+  },
   "52520d7f-b02f-4dd5-a337-d24e924354c9": {
    "folders": [],
    "version": "1.2.1"
@@ -12767,7 +12821,7 @@
    "folders": [
     "BagSpaceIndicator"
    ],
-   "version": "3.49.0"
+   "version": "3.52.0"
   },
   "5c997615-ee42-43dd-a5d0-5337fb785714": {
    "folders": [
@@ -14373,7 +14427,7 @@
    "folders": [
     "MoreTargetInformation"
    ],
-   "version": "3.49.0"
+   "version": "3.52.0"
   },
   "b25439ca-4262-4d71-940e-8b5db7507286": {
    "folders": [
@@ -14507,7 +14561,7 @@
    "folders": [
     "ESOHardcore"
    ],
-   "version": "0.4.2"
+   "version": "0.51"
   },
   "bb565e61-5481-49e2-9550-7c8aa18aa17a": {
    "folders": [
@@ -14590,6 +14644,12 @@
     "Leo_AbilityInspector"
    ],
    "version": "0.1.1"
+  },
+  "c029fa20-e860-4adb-9122-5ecc557b4260": {
+   "folders": [
+    "ESOHardcore"
+   ],
+   "version": "v1.4"
   },
   "c0ae2cd5-69de-4e29-8be3-1607be88e54a": {
    "folders": [
@@ -14804,7 +14864,7 @@
    "folders": [
     "LoreLibrary"
    ],
-   "version": "1.0.126"
+   "version": "1.0.127"
   },
   "cae51d07-5b11-4feb-ab79-11e17ca47dca": {
    "folders": [

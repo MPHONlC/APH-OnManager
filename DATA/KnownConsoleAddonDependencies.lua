@@ -86,7 +86,7 @@ EsoBR	LibHarvensAddonSettings
 ESOCKeepMyCrafts	LibHarvensAddonSettings
 ESOCompanionQRTest	LibHarvensAddonSettings
 ESOCSetHunter	LibHarvensAddonSettings	LibLazyCrafting
-ESOHardcore	LibRadialMenu
+ESOHardcore	LibAddonMenu-2.0	LibGamepad	LibHarvensAddonSettings	LibRadialMenu	LibVotans
 EsoKR	AdvancedNameplates
 EsoPL	LibHarvensAddonSettings
 EsoTR	LibHarvensAddonSettings
