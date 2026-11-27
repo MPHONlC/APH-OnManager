@@ -35,7 +35,7 @@ DariansUtilities	10808	1.7.8 - beta	3987	101051	Combat Metronome (GCD Tracker) -
 DsRPlayerDBData	100	2026.04.29	3776	101048 101049	DsR GuildRoster (Loot-/ Inventory, Stickerbook, PvP, PersonalAssistant, BuffTracker and more)	DsRPlayerDBData
 esoa_datastore	110	2.00.10	2070	100030 100031	ElderScrollsOfAlts	esoa_datastore
 FCOAccessibility	20300	2.3	3586	101050 101051	FCO Accessibility	FCOAccessibility
-FurysAddonMenu	2	1.8.5	5078	101051 101052	Fury's Quality of Life	FurysAddonMenu
+FurysAddonMenu	120	1.2.0	5126	101051 101052	Fury's Quality of Life	FurysAddonMenu
 GankProbability		1.0.0	3890	101041 101042	Gank Probability	GankProbability
 GS00Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS00Data
 GS01Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS01Data
