@@ -35,7 +35,7 @@ DariansUtilities	10808	1.7.8 - beta	3987	101051	Combat Metronome (GCD Tracker) -
 DsRPlayerDBData	100	2026.04.29	3776	101048 101049	DsR GuildRoster (Loot-/ Inventory, Stickerbook, PvP, PersonalAssistant, BuffTracker and more)	DsRPlayerDBData
 esoa_datastore	110	2.00.10	2070	100030 100031	ElderScrollsOfAlts	esoa_datastore
 FCOAccessibility	20300	2.3	3586	101050 101051	FCO Accessibility	FCOAccessibility
-FurysAddonMenu	2	0.5.5	5115	101051 101052	Fury's Quality of Life	FurysAddonMenu
+FurysAddonMenu	2	1.8.5	5078	101051 101052	Fury's Quality of Life	FurysAddonMenu
 GankProbability		1.0.0	3890	101041 101042	Gank Probability	GankProbability
 GS00Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS00Data
 GS01Data	100	3.8.34	2753	101049 101050	Master Merchant 3.0	GS01Data
@@ -211,7 +211,7 @@ LibSkillsFactory	26	26	3649	101050	LibSkillsFactory	LibSkillsFactory
 LibSlashCommander	45	1.2.0	1508	101045 101046	LibSlashCommander	LibSlashCommander
 LibSort	200	2.r1	540	100027 100028	LibSort	LibSort
 LibSprint	20260522	2026.05.03	3827	101050	LibSprint	LibSprint
-LibStatic	210	2.1.0	4367	101049	LibStatic	LibStatic
+LibStatic	300	3.0.0	4367	101051	LibStatic	LibStatic
 LibStub	7	1.0 r7	44	100030 100031	LibStub	LibStub
 LibSubzones	1	v22	4112	101048	ImperialCartographer	LibSubzones
 LibSurfaceTools	9	9	4584	101051	LibSurfaceTools	LibSurfaceTools

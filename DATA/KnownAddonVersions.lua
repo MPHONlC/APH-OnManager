@@ -178,7 +178,7 @@ Babel		2.0.1	3506	100034
 BackpackDeconSelectAll	10303	1.3.3	4979	101051
 BadWordFilter	12	1.2	4431	101041
 BagBalancer		1.4	4567	101045
-BagSpaceIndicator		3.49	1181	101048 101049
+BagSpaceIndicator		3.52	1181	101051 101052
 BagWatcher		1.1	5087	101051
 BAHelp		3.0.0	2490	101045 101046
 BalSunnarHelper		1.0.0	3817	101036
@@ -391,7 +391,7 @@ CrosshairInfo		1.2	2989	101044
 CrowdednESO		2026.07.09	3296	101050
 CrownCrateCodex		0.12.6	5023	101051
 CroZone	100	1.1.0	4641	101049 101050
-CrutchAlerts	22802	2.28.2	3137	101051 101052
+CrutchAlerts	22900	2.29.0	3137	101051 101052
 CrutchAlerts-KR-Minion	10000	1.0.0	4517	101049
 CrutchAlertsExtensions	40	0.4.0	4693	101051
 CruxCounter	10200	1.3.0	3639	101044 101045
@@ -644,9 +644,9 @@ FurnitureCatalogue_DevUtility		9.0.0	1617	101051 101052
 FurnitureFilter	2	1.0.1	4986	101051
 FurnitureShoppingList	2000000	2.0.0	1865	101051 101052
 FurysAccountSync	64	0.6.4	5106	101051 101052
-FurysCharacterTracker	184	1.8.4	5078	101051 101052
-FurysGuildToolset	175	1.33.4	5063	101051 101052
-FurysInventoryLedger	174	1.7.4	5099	101051 101052
+FurysCharacterTracker	185	1.8.5	5078	101051 101052
+FurysGuildToolset	176	1.33.5	5063	101051 101052
+FurysInventoryLedger	175	1.7.5	5099	101051 101052
 FurysQualityOfLife	55	0.5.5	5115	101051 101052
 GamePadHelper	10619	1.06.19	3268	101051
 GamePadHelper_GearComparison		1.03	4253	101047
@@ -719,7 +719,7 @@ GroupModerationBlacklist		0.0.1	4880	101045
 GroupResources	56	0.10.0	1338	101048 101049
 GroupUserId	116	2026.07.09	2589	101055
 GrumpysLarcenistTracker		1.1.0	4531	101050
-GTA		2026.11.26	4590	101051
+GTA		2026.11.27	4590	101051
 GuardHelper		1.0.1	3553	101040
 GuardWarner	20250221	1.4.1	3590	101044
 GuildAdblockCustomized		1.0.2	4340
@@ -973,7 +973,7 @@ LootSanitizer	20	0.20.0	4189	101047
 LootTrackerSolution	1	1.0.40	3810	101040
 LoreBooks	108	108	288	101050 101051
 LorebooksColoredLibrary	1	4.1	3168	101040 101041
-LoreLibrary	1000121	1.0.121	4756	101051 101050
+LoreLibrary	1000127	1.0.127	4756	101051 101050
 LorePlay	10698	1.6.98-3	2523
 LoreTooltips		1.0.1	4460	101049
 LostTreasure	34	34	561	101049
@@ -1019,6 +1019,7 @@ MARA	6	6	4418	101050
 MarcelovskiMarkers		1.4.4	3645	101041 101042
 Marker	316	3.16	3684	101049
 MassDeconstructor		7.3	1118	101051
+MasterGamerAddonsProfiler	210	2.1.1	5124	101048 101049
 MasterMerchant	3834	3.8.34	2753	101050 101051
 MasterRecipeList		1.56.76	1043	101043 101044
 MasterThief		1.9	1014	101052 101051
@@ -1046,7 +1047,7 @@ MitigationFilter		1.00	4767	101046
 MonsterCofferHelper	10100	1.1.0	4752	101051
 MonsterSetShoulderCollector		1.4.5	2860	101041
 MoreColourfulGroupFrames	1	1	4607	101049
-MoreTargetInformation		3.49	1189	101048 101049
+MoreTargetInformation		3.52	1189	101051 101052
 MoreUI		2	3919	101044
 MountSwap		0.8.11	5025	101051
 MountTracker		0.3.0	4362	101049 101048
@@ -1126,6 +1127,7 @@ NTakLootSteal	10814	1.8.14	2349	101040 101041
 NumbersOnDummyOnly		2026.07.09	3573	101050
 Nvk3UT	1705	v0.17.5	4311	101048
 NWAimCam		1.6	4772	101050 101044
+NWInterfaz	181	1.8.1	5123	101051 101052
 NWUI		1.1.0	4587	101050
 OblivionStyleHUD		1.1	4100	101045 101046
 Ocular	101	1.0.1	4677	101050 101051
@@ -1284,7 +1286,7 @@ Raidificator	408040	4.8.4	1101	101051 101052
 RaidNotifier	230	2.30	1355	101046
 RaidNotifierZHPatch		2.28.1	3912	101041
 RajinesExpLeft	1	1.0	4636	101050
-Ramaladni_buff_debuff_tracker	10000	v1.0.0_STABLE	5022	101051 101052
+Ramaladni_buff_debuff_tracker	10012	v1.0.1-Stable	5022	101051 101052
 RanckorsBaggage		v3.1.2	3933	101051
 RanckorsLeaderBoardTracker		v1.0.3	4047	101051
 Randwache	200	2.0.0	4842	101051 101050
@@ -1491,10 +1493,10 @@ STARS		0.6.13	4729	101049 101050
 StashAndDash		1.0.3	4133	101045 101046 101047
 StatColours		1.0.3		101046
 StaticsAlreadyTaunted	2	2.0.1	3913	101044
-StaticsFurnishingImprovements	111	1.1.1	4447	101049
-StaticsLetterOpener	1	1.1.0	4368	101049
+StaticsFurnishingImprovements	111	1.1.1	4447	101051
+StaticsLetterOpener	1	1.1.1	4368	101051
 StaticsRecruiter	3	3.0.3	3836	101049
-StaticsSocialFeatures	2	2.0.1	4239	101049
+StaticsSocialFeatures	2	2.0.2	4239	101051
 STG_EventBoxTimer		2023.11.23-1.1a	3755	101040
 StickerbookDropPools	10000	1	4985	101050 101051
 StickerbookPlus	10001	1.0.1	4692	101050 101051

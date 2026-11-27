@@ -434,6 +434,7 @@ AoM.KnownAddonDependencies = {
 	["NotAWolfVeteranFinder"] = { "LibUndauntedPledges" },
 	["NoThankYou"] = { "LibAnnyoingUpdateNotificationInGame" },
 	["NTakLootSteal"] = { "AdvancedFilters", "LibFilters-3.0" },
+	["NWInterfaz"] = { "Azurah", "BanditsUserInterface", "LibAddonMenu-2.0", "TamrielTradeCentre", "TamrielTradeCentreSimplePrice" },
 	["OdySupportIcons"] = { "LibCustomIcons" },
 	["OffBalanceTracker"] = { "LibAddonMenu-2.0" },
 	["OmniAura"] = { "LibAddonMenu-2.0" },
