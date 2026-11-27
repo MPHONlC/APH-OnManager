@@ -90,13 +90,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 46,
+   "downloads": 83,
    "folder": "rushOfAgonyTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Rush of Agony Tracker",
-   "updatedAt": 1791551069,
-   "version": "1.0.9"
+   "updatedAt": 1795773750,
+   "version": "1.1.0"
   },
   "04141a46-3d9c-4b14-aa0e-d841090d128c/LibAddonMenu-2.0": {
    "addOnVersion": "44",
@@ -118,13 +118,13 @@
    "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 48,
+   "downloads": 59,
    "folder": "TrueRessourceBars",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "True Ressource Bars",
-   "updatedAt": 1795465008,
-   "version": "0.28"
+   "updatedAt": 1795804141,
+   "version": "1.0"
   },
   "0495e6ed-49a8-4a03-b529-048fbc4b758a/Andy": {
    "addOnVersion": "101100",
@@ -1331,18 +1331,18 @@
    "version": "1.5"
   },
   "1ff7f28f-1b8b-42ef-b54a-db53d1311e27/IsoStats2": {
-   "addOnVersion": "20303",
+   "addOnVersion": "20306",
    "addonId": "1ff7f28f-1b8b-42ef-b54a-db53d1311e27",
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 1,
+   "downloads": 4,
    "folder": "IsoStats2",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Iso",
-   "updatedAt": 1795706043,
-   "version": "2.3.3"
+   "updatedAt": 1795802211,
+   "version": "2.3.6"
   },
   "202b48d5-1fa7-42bb-aeed-fc06f01a7874/APH-Profiler": {
    "addOnVersion": "26101520",
@@ -1616,13 +1616,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 175,
+   "downloads": 328,
    "folder": "mechAcuityTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Mechanical Acuity Tracker",
-   "updatedAt": 1791562226,
-   "version": "1.3.6"
+   "updatedAt": 1795785274,
+   "version": "1.3.7"
   },
   "256dc81e-d505-4eb6-9a51-1d7ffc360c69/HouseHotkey": {
    "addOnVersion": "183",
@@ -2358,13 +2358,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 41,
+   "downloads": 47,
    "folder": "FrenziedMomentumTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Frenzied Momentum Tracker",
-   "updatedAt": 1791637262,
-   "version": "1.2.0"
+   "updatedAt": 1795775239,
+   "version": "1.2.1"
   },
   "363e551a-25d0-463d-8c1e-2c96e7fcd77b/GrilloCraftBank": {
    "addOnVersion": "300",
@@ -3142,13 +3142,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 57,
+   "downloads": 167,
    "folder": "riposteTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Riposte Tracker",
-   "updatedAt": 1791642024,
-   "version": "1.0.6"
+   "updatedAt": 1795796379,
+   "version": "1.1.4"
   },
   "49a3eac1-a81d-43dc-8b84-097b6d7ee558/LibCInteraction": {
    "addOnVersion": "10402",
@@ -3660,13 +3660,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 128,
+   "downloads": 162,
    "folder": "turningTideTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Turning Tide Tracker",
-   "updatedAt": 1791575682,
-   "version": "1.3.4"
+   "updatedAt": 1795773111,
+   "version": "1.3.6"
   },
   "543e2fe8-def0-4dc1-a833-07518e6432eb/SimpleWarhornTimer": {
    "addOnVersion": "",
@@ -3856,13 +3856,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 164,
+   "downloads": 200,
    "folder": "archdruidTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Archdruid Tracker",
-   "updatedAt": 1791547602,
-   "version": "2.5.4"
+   "updatedAt": 1795773187,
+   "version": "2.5.6"
   },
   "5cc8ec52-378a-4e09-aa6a-02f2409b2f2a/PBsEmoteSynchronizer": {
    "addOnVersion": "",
@@ -4108,13 +4108,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 180,
+   "downloads": 446,
    "folder": "gorethiefTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Gorethief Tracker",
-   "updatedAt": 1791561197,
-   "version": "1.1.3"
+   "updatedAt": 1795775316,
+   "version": "1.1.4"
   },
   "608b7ab5-db64-423a-af5c-2438027f0eed/BannerStatus": {
    "addOnVersion": "",
@@ -4606,20 +4606,6 @@
    "updatedAt": 1787752698,
    "version": "3212"
   },
-  "6ae238fd-705e-4e6d-8338-f8a7bb26d34a/CyrodiilMercenary": {
-   "addOnVersion": "",
-   "addonId": "6ae238fd-705e-4e6d-8338-f8a7bb26d34a",
-   "apiVersion": "101049 101050",
-   "author": "m1lkst3ak",
-   "dependsOn": "",
-   "downloads": 3,
-   "folder": "CyrodiilMercenary",
-   "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu",
-   "title": "Cyrodiil Mercenary",
-   "updatedAt": 1795379198,
-   "version": "v0.4"
-  },
   "6afd8b79-471b-4c3d-b785-aaef8319bc4f/BlockItemUsage": {
    "addOnVersion": "",
    "addonId": "6afd8b79-471b-4c3d-b785-aaef8319bc4f",
@@ -4752,13 +4738,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 17,
    "folder": "PBsBattleScrolls",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's BattleScrolls",
-   "updatedAt": 1795677375,
-   "version": "0.1.0"
+   "updatedAt": 1795777524,
+   "version": "0.4.1"
   },
   "6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3/exporter": {
    "addOnVersion": "3",
@@ -5320,20 +5306,6 @@
    "updatedAt": 1748530459,
    "version": "2025.05.29"
   },
-  "7f606012-a484-44be-8f9d-065486e2419e/TamrielNavigator": {
-   "addOnVersion": "",
-   "addonId": "7f606012-a484-44be-8f9d-065486e2419e",
-   "apiVersion": "101050",
-   "author": "m1lkst3ak",
-   "dependsOn": "",
-   "downloads": 24,
-   "folder": "TamrielNavigator",
-   "isLibrary": "",
-   "optionalDependsOn": "LibUespQuestData LibAddonMenu-2.0",
-   "title": "Tamriel Navigator",
-   "updatedAt": 1795593508,
-   "version": "v0.2.9"
-  },
   "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1/CPVeterancy": {
    "addOnVersion": "",
    "addonId": "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1",
@@ -5858,13 +5830,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 17,
+   "downloads": 38,
    "folder": "darkConvergenceTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Dark Convergence Tracker",
-   "updatedAt": 1791550312,
-   "version": "1.0.8"
+   "updatedAt": 1795773713,
+   "version": "1.0.9"
   },
   "8e0c89af-87a5-4154-b9cd-1d1e5ed943a5/DeskUI": {
    "addOnVersion": "6",
@@ -6670,13 +6642,13 @@
    "apiVersion": "101050 101051",
    "author": "PinkBanther",
    "dependsOn": "",
-   "downloads": 1,
+   "downloads": 4,
    "folder": "PBsBattleScrolls",
    "isLibrary": "",
    "optionalDependsOn": "LibHarvensAddonSettings>=20106 LibGroupBroadcast",
    "title": "PinkB's BattleScrolls(Beta)",
-   "updatedAt": 1795677336,
-   "version": "0.3.0"
+   "updatedAt": 1795777556,
+   "version": "0.4.1"
   },
   "9e3a7462-c06e-4ee2-a7da-ac5279f979c8/SetTracker": {
    "addOnVersion": "",
@@ -7020,13 +6992,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 19,
+   "downloads": 27,
    "folder": "atronachTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Storm Atronach Tracker",
-   "updatedAt": 1791716397,
-   "version": "1.1.3"
+   "updatedAt": 1795773146,
+   "version": "1.1.5"
   },
   "a73b49be-3025-4010-b2de-104c419bec54/PBsFMEGA": {
    "addOnVersion": "501",
@@ -7546,6 +7518,20 @@
    "updatedAt": 1789580583,
    "version": "Final version"
   },
+  "b220ad35-e9d5-4e43-89b9-7461571a5bef/CombatBar": {
+   "addOnVersion": "100",
+   "addonId": "b220ad35-e9d5-4e43-89b9-7461571a5bef",
+   "apiVersion": "101050",
+   "author": "Bucketmore",
+   "dependsOn": "",
+   "downloads": 1,
+   "folder": "CombatBar",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "CombatBar",
+   "updatedAt": 1795780366,
+   "version": "v1.0.0"
+  },
   "b22ade94-a817-47da-bc4f-cfa7e1dd25ff/EyesOfTheUndaunted": {
    "addOnVersion": "15103",
    "addonId": "b22ade94-a817-47da-bc4f-cfa7e1dd25ff",
@@ -7559,6 +7545,20 @@
    "title": "Eyes of the Undaunted",
    "updatedAt": 1793766594,
    "version": "1.51.03"
+  },
+  "b23b1b15-1b8f-4f2a-882b-95bbe7eaf985/OnePack": {
+   "addOnVersion": "5",
+   "addonId": "b23b1b15-1b8f-4f2a-882b-95bbe7eaf985",
+   "apiVersion": "101051 101052 2.5.3.0",
+   "author": "m1lkst3ak",
+   "dependsOn": "",
+   "downloads": 2,
+   "folder": "OnePack",
+   "isLibrary": "",
+   "optionalDependsOn": "LibRadialMenu TSCPriceDataAPI TSCPriceDataLite",
+   "title": "OnePack",
+   "updatedAt": 1795802370,
+   "version": "OnePack v1.0"
   },
   "b2507553-0888-4fae-9f69-5b1f89f1b266/MoreTargetInformation": {
    "addOnVersion": "",
@@ -8105,20 +8105,6 @@
    "title": "Leo_abilityInspector_beta",
    "updatedAt": 1792315238,
    "version": "0.1.1"
-  },
-  "c029fa20-e860-4adb-9122-5ecc557b4260/ESOHardcore": {
-   "addOnVersion": "74",
-   "addonId": "c029fa20-e860-4adb-9122-5ecc557b4260",
-   "apiVersion": "101051 101052 2.5.3.0",
-   "author": "m1lkst3ak",
-   "dependsOn": "",
-   "downloads": 5,
-   "folder": "ESOHardcore",
-   "isLibrary": "",
-   "optionalDependsOn": "LibRadialMenu LibAddonMenu-2.0 LibGamepad LibVotans LibHarvensAddonSettings",
-   "title": "Tamriel Unbound",
-   "updatedAt": 1795758727,
-   "version": "v1.4"
   },
   "c0ae2cd5-69de-4e29-8be3-1607be88e54a/LibSlashCommander": {
    "addOnVersion": "45",
@@ -8826,13 +8812,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 67,
+   "downloads": 118,
    "folder": "rallyingCryTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Rallying Cry Tracker",
-   "updatedAt": 1791574391,
-   "version": "1.1.0"
+   "updatedAt": 1795774258,
+   "version": "1.1.1"
   },
   "cec7b602-5dc0-4af0-a949-cd5483dc7329/LibTextFormat": {
    "addOnVersion": "019",
@@ -8903,20 +8889,6 @@
    "title": "ShowApiVersion",
    "updatedAt": 1775693269,
    "version": "3.0.0"
-  },
-  "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7/TMENexus": {
-   "addOnVersion": "41",
-   "addonId": "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7",
-   "apiVersion": "101051 101052 2.5.3.0",
-   "author": "m1lkst3ak",
-   "dependsOn": "",
-   "downloads": 33,
-   "folder": "TMENexus",
-   "isLibrary": "",
-   "optionalDependsOn": "LibAddonMenu-2.0 LibRadialMenu TSCPriceDataAPI TSCPriceDataLite",
-   "title": "ESO Arsenal - By TME",
-   "updatedAt": 1795666115,
-   "version": "v1.0.6"
   },
   "cfca5ccd-3799-4e8b-9607-99f4f175a2df/GuildNameTicker": {
    "addOnVersion": "",
@@ -9260,13 +9232,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 122,
+   "downloads": 142,
    "folder": "warHornTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "WarHorn Tracker",
-   "updatedAt": 1791719080,
-   "version": "1.4.7"
+   "updatedAt": 1795776238,
+   "version": "1.4.8"
   },
   "d98298fa-549a-4a02-ad04-7c3f0dc92445/LibDynamicMail": {
    "addOnVersion": "024",
@@ -9946,13 +9918,13 @@
    "apiVersion": "101051",
    "author": "codeWarrior82",
    "dependsOn": "LibAddonMenu-2.0>=42 LibChatMessage",
-   "downloads": 19,
+   "downloads": 44,
    "folder": "essenceThiefTracker",
    "isLibrary": "",
    "optionalDependsOn": "LibNotify",
    "title": "Essence Thief Tracker",
-   "updatedAt": 1791551742,
-   "version": "1.0.5"
+   "updatedAt": 1795774219,
+   "version": "1.0.6"
   },
   "e67de641-75bf-4db4-a98c-86b854bc23f6/GroupBearings": {
    "addOnVersion": "1",
@@ -10011,7 +9983,7 @@
    "version": "0.3.0"
   },
   "e739c3a3-b9ea-4ac4-afff-0962e63338c6/ESOCGoldDigger": {
-   "addOnVersion": "18",
+   "addOnVersion": "19",
    "addonId": "e739c3a3-b9ea-4ac4-afff-0962e63338c6",
    "apiVersion": "101051",
    "author": "Khazaril",
@@ -10021,8 +9993,8 @@
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "Gold Digger",
-   "updatedAt": 1795451915,
-   "version": "0.9.2"
+   "updatedAt": 1795800495,
+   "version": "0.9.3"
   },
   "e748a1af-bca6-470d-be77-d5e7ab432006/ZoomInFurther": {
    "addOnVersion": "",
@@ -10598,6 +10570,20 @@
    "updatedAt": 1791860662,
    "version": "1.07"
   },
+  "f481dfac-4530-40b0-a73d-8f25cf55ac78/TMEUI": {
+   "addOnVersion": "10007",
+   "addonId": "f481dfac-4530-40b0-a73d-8f25cf55ac78",
+   "apiVersion": "101051 101052 2.5.3.0",
+   "author": "m1lkst3ak",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 3,
+   "folder": "TMEUI",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "TME UI",
+   "updatedAt": 1795805846,
+   "version": "TME UI v1.4"
+  },
   "f4878125-abb0-49bd-b8d3-ca06c9ad746a/PBsLuaMemoryMonitor": {
    "addOnVersion": "",
    "addonId": "f4878125-abb0-49bd-b8d3-ca06c9ad746a",
@@ -11061,18 +11047,18 @@
    "version": "2026-10-25"
   },
   "ff14753f-cf35-4f3e-89b9-3880b4976bab/SetupWardrobe": {
-   "addOnVersion": "10406",
+   "addOnVersion": "10502",
    "addonId": "ff14753f-cf35-4f3e-89b9-3880b4976bab",
    "apiVersion": "101051",
    "author": "FiNk3F13",
    "dependsOn": "LibHarvensAddonSettings",
-   "downloads": 6,
+   "downloads": 13,
    "folder": "SetupWardrobe",
    "isLibrary": "",
    "optionalDependsOn": "LibRadialMenu",
    "title": "Alpha",
-   "updatedAt": 1795606130,
-   "version": "1.4.6"
+   "updatedAt": 1795803009,
+   "version": "1.5.2"
   },
   "ff4bafd1-1006-4f21-8d38-7a45f4527518/PBsKillLog": {
    "addOnVersion": "",
@@ -11172,7 +11158,7 @@
    "folders": [
     "rushOfAgonyTracker"
    ],
-   "version": "1.0.9"
+   "version": "1.1.0"
   },
   "04141a46-3d9c-4b14-aa0e-d841090d128c": {
    "folders": [
@@ -11184,7 +11170,7 @@
    "folders": [
     "TrueRessourceBars"
    ],
-   "version": "0.28"
+   "version": "1.0"
   },
   "0495e6ed-49a8-4a03-b529-048fbc4b758a": {
    "folders": [
@@ -11729,7 +11715,7 @@
    "folders": [
     "IsoStats2"
    ],
-   "version": "2.3.3"
+   "version": "2.3.6"
   },
   "202b48d5-1fa7-42bb-aeed-fc06f01a7874": {
    "folders": [
@@ -11850,7 +11836,7 @@
    "folders": [
     "mechAcuityTracker"
    ],
-   "version": "1.3.6"
+   "version": "1.3.7"
   },
   "256dc81e-d505-4eb6-9a51-1d7ffc360c69": {
    "folders": [
@@ -12175,7 +12161,7 @@
    "folders": [
     "FrenziedMomentumTracker"
    ],
-   "version": "1.2.0"
+   "version": "1.2.1"
   },
   "363e551a-25d0-463d-8c1e-2c96e7fcd77b": {
    "folders": [
@@ -12513,7 +12499,7 @@
    "folders": [
     "riposteTracker"
    ],
-   "version": "1.0.6"
+   "version": "1.1.4"
   },
   "49a3eac1-a81d-43dc-8b84-097b6d7ee558": {
    "folders": [
@@ -12742,7 +12728,7 @@
    "folders": [
     "turningTideTracker"
    ],
-   "version": "1.3.4"
+   "version": "1.3.6"
   },
   "543e2fe8-def0-4dc1-a833-07518e6432eb": {
    "folders": [
@@ -12827,7 +12813,7 @@
    "folders": [
     "archdruidTracker"
    ],
-   "version": "2.5.4"
+   "version": "2.5.6"
   },
   "5cc8ec52-378a-4e09-aa6a-02f2409b2f2a": {
    "folders": [
@@ -12918,7 +12904,7 @@
    "folders": [
     "gorethiefTracker"
    ],
-   "version": "1.1.3"
+   "version": "1.1.4"
   },
   "608b7ab5-db64-423a-af5c-2438027f0eed": {
    "folders": [
@@ -13135,12 +13121,6 @@
    ],
    "version": "3212"
   },
-  "6ae238fd-705e-4e6d-8338-f8a7bb26d34a": {
-   "folders": [
-    "CyrodiilMercenary"
-   ],
-   "version": "v0.4"
-  },
   "6afd8b79-471b-4c3d-b785-aaef8319bc4f": {
    "folders": [
     "BlockItemUsage"
@@ -13200,7 +13180,7 @@
    "folders": [
     "PBsBattleScrolls"
    ],
-   "version": "0.1.0"
+   "version": "0.4.1"
   },
   "6ffa4cdf-3fbc-448c-84b8-6679bc28d4d3": {
    "folders": [
@@ -13452,12 +13432,6 @@
    ],
    "version": "2025.05.29"
   },
-  "7f606012-a484-44be-8f9d-065486e2419e": {
-   "folders": [
-    "TamrielNavigator"
-   ],
-   "version": "v0.2.9"
-  },
   "7f8752f5-11f4-4e26-a26b-fc0ee813d8e1": {
    "folders": [
     "CPVeterancy"
@@ -13690,7 +13664,7 @@
    "folders": [
     "darkConvergenceTracker"
    ],
-   "version": "1.0.8"
+   "version": "1.0.9"
   },
   "8e0a0bf5-7c84-4155-ba23-48c34887ff9f": {
    "folders": [],
@@ -14045,7 +14019,7 @@
    "folders": [
     "PBsBattleScrolls"
    ],
-   "version": "0.3.0"
+   "version": "0.4.1"
   },
   "9e3a7462-c06e-4ee2-a7da-ac5279f979c8": {
    "folders": [
@@ -14196,7 +14170,7 @@
    "folders": [
     "atronachTracker"
    ],
-   "version": "1.1.3"
+   "version": "1.1.5"
   },
   "a73b49be-3025-4010-b2de-104c419bec54": {
    "folders": [
@@ -14417,11 +14391,23 @@
    ],
    "version": "Final version"
   },
+  "b220ad35-e9d5-4e43-89b9-7461571a5bef": {
+   "folders": [
+    "CombatBar"
+   ],
+   "version": "v1.0.0"
+  },
   "b22ade94-a817-47da-bc4f-cfa7e1dd25ff": {
    "folders": [
     "EyesOfTheUndaunted"
    ],
    "version": "1.51.03"
+  },
+  "b23b1b15-1b8f-4f2a-882b-95bbe7eaf985": {
+   "folders": [
+    "OnePack"
+   ],
+   "version": "OnePack v1.0"
   },
   "b2507553-0888-4fae-9f69-5b1f89f1b266": {
    "folders": [
@@ -14644,12 +14630,6 @@
     "Leo_AbilityInspector"
    ],
    "version": "0.1.1"
-  },
-  "c029fa20-e860-4adb-9122-5ecc557b4260": {
-   "folders": [
-    "ESOHardcore"
-   ],
-   "version": "v1.4"
   },
   "c0ae2cd5-69de-4e29-8be3-1607be88e54a": {
    "folders": [
@@ -14976,7 +14956,7 @@
    "folders": [
     "rallyingCryTracker"
    ],
-   "version": "1.1.0"
+   "version": "1.1.1"
   },
   "cec7b602-5dc0-4af0-a949-cd5483dc7329": {
    "folders": [
@@ -15007,12 +14987,6 @@
     "ShowAPIVersion"
    ],
    "version": "3.0.0"
-  },
-  "cf4ee70f-addc-4c88-a504-1ea3aa8e56b7": {
-   "folders": [
-    "TMENexus"
-   ],
-   "version": "v1.0.6"
   },
   "cfca5ccd-3799-4e8b-9607-99f4f175a2df": {
    "folders": [
@@ -15172,7 +15146,7 @@
    "folders": [
     "warHornTracker"
    ],
-   "version": "1.4.7"
+   "version": "1.4.8"
   },
   "d98298fa-549a-4a02-ad04-7c3f0dc92445": {
    "folders": [
@@ -15486,7 +15460,7 @@
    "folders": [
     "essenceThiefTracker"
    ],
-   "version": "1.0.5"
+   "version": "1.0.6"
   },
   "e67de641-75bf-4db4-a98c-86b854bc23f6": {
    "folders": [
@@ -15516,7 +15490,7 @@
    "folders": [
     "ESOCGoldDigger"
    ],
-   "version": "0.9.2"
+   "version": "0.9.3"
   },
   "e748a1af-bca6-470d-be77-d5e7ab432006": {
    "folders": [
@@ -15771,6 +15745,12 @@
    ],
    "version": "1.07"
   },
+  "f481dfac-4530-40b0-a73d-8f25cf55ac78": {
+   "folders": [
+    "TMEUI"
+   ],
+   "version": "TME UI v1.4"
+  },
   "f4878125-abb0-49bd-b8d3-ca06c9ad746a": {
    "folders": [
     "PBsLuaMemoryMonitor"
@@ -15979,7 +15959,7 @@
    "folders": [
     "SetupWardrobe"
    ],
-   "version": "1.4.6"
+   "version": "1.5.2"
   },
   "ff4bafd1-1006-4f21-8d38-7a45f4527518": {
    "folders": [

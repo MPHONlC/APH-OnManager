@@ -62,7 +62,6 @@ CritTracker	LibRadialMenu
 CrutchAlerts	LibCustomIcons	LibFilteredChatPanel	LibGroupBroadcast	OdySupportIcons
 CurvedHUD	LibAddonMenu-2.0	LibHarvensAddonSettings
 CyroAlerts	LibNotify
-CyrodiilMercenary	LibAddonMenu-2.0	LibRadialMenu
 darkConvergenceTracker	LibNotify
 DeadMarker2	LibAddonMenu-2.0	LibAddonMenu2	LibStub
 DeadMarker_Holodeck	LibAddonMenu-2.0	LibAddonMenu2	LibStub
@@ -192,6 +191,7 @@ NQOL-dev	AddonLoadouts	DolgubonsLazyWritCreator	LibCustomNames	LibFoodDrinkBuff	
 OffBalanceTracker	LibAddonMenu-2.0
 OneAPHaTime	LibAPH	LibAddonMenu-2.0	LibHarvensAddonSettings
 OneMorRockgrove	Breadcrumbs
+OnePack	LibRadialMenu	TSCPriceDataAPI	TSCPriceDataLite
 PacketByteExporter	LibAddonMenu-2.0
 PBsAutoLoot	LibHarvensAddonSettings
 PBsBattleScrolls	LibGroupBroadcast	LibHarvensAddonSettings
@@ -275,11 +275,9 @@ SurveyResetter	LibRadialMenu
 SurvivalMode	LibHarvensAddonSettings
 SXUIBeaconPet	LibAddonMenu-2.0
 TamrielMasterLedger	LibHistoire	LibMainMenu-2.0
-TamrielNavigator	LibAddonMenu-2.0	LibUespQuestData
 TargetInfo	LibHarvensAddonSettings
 TauntAssist	LibAddonMenu	LibHarvensAddonSettings
 TeaAndToast	LibHarvensAddonSettings
-TMENexus	LibAddonMenu-2.0	LibRadialMenu	TSCPriceDataAPI	TSCPriceDataLite
 TorigaHUD	LibAddonMenu-2.0
 TraderFilter	LibHarvensAddonSettings	LibQRCode
 TradeSkills	LibMapPins-1.0	LibPrice	TamrielTradeCentre
