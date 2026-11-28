@@ -461,7 +461,7 @@ MyFontSwitcher		1.0.1	101051	Eskiodoe's Font Switcher	Eskiodoe	c68a988b-e050-4ab
 MyOmBuffHUD		1.0	101051	MyOmBuffHUD	Unfounded_Puppy3	c8d15550-8307-43a1-9803-acf475da93bd
 MyROCooldownBar		2.0	101050	MyROCooldownBar	Unfounded_Puppy3	f0dd3b3a-f4d7-48a0-9e5a-2db79cbe695d
 MyTauntTimer		3.0	101050	MyTauntTimer	Unfounded_Puppy3	4b4ff5af-f023-4720-a9dd-1d85048d7be4
-MyUI		v4.3	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
+MyUI		v4.9	101050 101051	ttest	j.hhh	2cd48bbc-e251-4bb5-88d5-5acf85bbaecb
 necroTracker		1.4.5	101051	Necro Tracker	codeWarrior82	4cd1ecbb-8d25-48e5-a67e-28b408761f77
 NedsGroupManager		1.5	101046	Ned's Group Manager	Ned919x	4f86b7c8-8fb6-432c-a1b9-2004263244ab
 Nemesis	100	1.0.0	101050	Nemesis	Rogue0rbit	88739d40-c764-4276-9157-ba0eb1d47805
@@ -667,11 +667,12 @@ ThisIsTheWayshrine		0.3.10	101050 101051	ThisIsTheWayshrine	saranicole1980	f524a
 ThisOneTeaches		1.0.11	101049 101050	This One Teaches	SugaComa	a31e5f3e-6209-4f6c-9a2f-bac71a9a3af3
 TimedRaidLifeDisplay	10002	1.0.3	101048 101049	Timer in Revive Counter	Shienar	845e13c0-5c9e-4d9b-94e1-a47d532e4b0c
 TitleLoop	1008	1.0.8	101050	Title Loop	Copper0	5e051775-8c73-4e96-bb6b-dcaa188dc064
+TMEHorizon	201	test	101051 101052 2.5.3.0	Expanded Camera	m1lkst3ak	a81be41a-b218-428d-a90f-c54380141fa6
 TMEUI	10007	TME UI v1.4	101051 101052 2.5.3.0	TME UI	m1lkst3ak	f481dfac-4530-40b0-a73d-8f25cf55ac78
 TomePointCollector	2	1.0.1	101051	Tome Point Collector	wildskiller	07107f66-2817-46b8-9e15-cca10cc5b68d
 TorigaCam		1.0.0	101050	TorigaCam	Master-Antonio	8c834a42-03cd-4110-8b81-7847f13944b6
 TorigaHUD		1.0.0	101050 101051	TorigaHUD	Master-Antonio	ac816501-4787-4c8b-942f-574aa8ea6c01
-TrackersByJH	1107	v2.4	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
+TrackersByJH	1110	v2.6	101050 101051	My Trackers	j.hhh	4b0c0d15-66db-4be0-b76a-b9817a229cfd
 TradeQR	5	0.4.0	101051	TradeQR	RereRongonui	46afefc4-e422-4c9f-a163-3b7ed6c11a84
 TraderFilter		1.0.6	101043	TraderFilter	wh0c4r35ab0utth15	44df98e8-01a5-48d2-903d-41d3516f3289
 TradeSkills	12	1.0	101042	Trade Skills	Necis	6062f2e4-8b5a-48e5-9327-cf8de18eb5e5
@@ -689,7 +690,7 @@ TrueExploration	203	2.3	101046	True Exploration	Shinni42	a095f0da-9f45-4dde-a150
 TrueFlagCaptureMover		1.2	101051	True Flag Capture Mover	Toudidef	4c1cca0d-7e48-40ed-bd8f-1c87ac158341
 TrueOptionsPannelMover		1.0.8	101051	True Options Pannel Mover	Toudidef	e432e963-6c1d-4e4c-b9b9-491f51ff8d07
 TruePvPRatio		1.15	101051	True PvP Ratio	Toudidef	309e8628-9a7c-45a6-8a1d-c87738ff8757
-TrueRessourceBars		1.0	101051	True Ressource Bars	Toudidef	047a332e-1f48-4610-ac9c-72fc6b0fabc7
+TrueRessourceBars		1.2	101051	True Ressource Bars	Toudidef	047a332e-1f48-4610-ac9c-72fc6b0fabc7
 TrueReticle		1.3	101051	TrueReticle	Toudidef	f9506e69-c90e-42e8-bef8-115490c59348
 TrueReticle2		2.2	101051	True Reticle 2.0	Toudidef	2e985373-cd04-4a3e-855f-4f8a4ada4d76
 TrueShotMarkers	10011	1.0.11	101051	Beta	FiNk3F13	9115b4e2-1fab-4a8c-969b-4e8af57ea6f9

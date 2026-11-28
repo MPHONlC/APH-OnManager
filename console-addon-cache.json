@@ -118,13 +118,13 @@
    "apiVersion": "101051",
    "author": "Toudidef",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 59,
+   "downloads": 70,
    "folder": "TrueRessourceBars",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "True Ressource Bars",
-   "updatedAt": 1795804141,
-   "version": "1.0"
+   "updatedAt": 1795820270,
+   "version": "1.2"
   },
   "0495e6ed-49a8-4a03-b529-048fbc4b758a/Andy": {
    "addOnVersion": "101100",
@@ -1980,13 +1980,13 @@
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "",
-   "downloads": 48,
+   "downloads": 54,
    "folder": "MyUI",
    "isLibrary": "",
    "optionalDependsOn": "LibAddonMenu-2.0 LibStub LibGamepad CrutchAlerts",
    "title": "ttest",
-   "updatedAt": 1795641249,
-   "version": "v4.3"
+   "updatedAt": 1795826296,
+   "version": "v4.9"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa/ValknarrUIE": {
    "addOnVersion": "43",
@@ -3193,18 +3193,18 @@
    "version": "2026.10.18.01.41"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/TrackersByJH": {
-   "addOnVersion": "1107",
+   "addOnVersion": "1110",
    "addonId": "4b0c0d15-66db-4be0-b76a-b9817a229cfd",
    "apiVersion": "101050 101051",
    "author": "j.hhh",
    "dependsOn": "LibAddonMenu-2.0",
-   "downloads": 196,
+   "downloads": 219,
    "folder": "TrackersByJH",
    "isLibrary": "",
    "optionalDependsOn": "",
    "title": "My Trackers",
-   "updatedAt": 1795723863,
-   "version": "v2.4"
+   "updatedAt": 1795815848,
+   "version": "v2.6"
   },
   "4b0c0d15-66db-4be0-b76a-b9817a229cfd/WarmasktrackerByJH": {
    "addOnVersion": "",
@@ -7041,6 +7041,20 @@
    "title": "Style New Cleaner",
    "updatedAt": 1783028539,
    "version": "1.0.3"
+  },
+  "a81be41a-b218-428d-a90f-c54380141fa6/TMEHorizon": {
+   "addOnVersion": "201",
+   "addonId": "a81be41a-b218-428d-a90f-c54380141fa6",
+   "apiVersion": "101051 101052 2.5.3.0",
+   "author": "m1lkst3ak",
+   "dependsOn": "LibHarvensAddonSettings",
+   "downloads": 6,
+   "folder": "TMEHorizon",
+   "isLibrary": "",
+   "optionalDependsOn": "",
+   "title": "Expanded Camera",
+   "updatedAt": 1795817417,
+   "version": "test"
   },
   "a847021b-2ae6-4d43-81a4-9a8f3985f8b8/TamrielTextStudio": {
    "addOnVersion": "",
@@ -11170,7 +11184,7 @@
    "folders": [
     "TrueRessourceBars"
    ],
-   "version": "1.0"
+   "version": "1.2"
   },
   "0495e6ed-49a8-4a03-b529-048fbc4b758a": {
    "folders": [
@@ -11997,7 +12011,7 @@
    "folders": [
     "MyUI"
    ],
-   "version": "v4.3"
+   "version": "v4.9"
   },
   "2d43e3ed-9017-4e93-95f0-125ddf2d99fa": {
    "folders": [
@@ -12524,7 +12538,7 @@
    "folders": [
     "TrackersByJH"
    ],
-   "version": "v2.4"
+   "version": "v2.6"
   },
   "4b4ddced-3d97-431c-8c43-a9c732ea2cae": {
    "folders": [
@@ -14190,6 +14204,12 @@
     "StyleNewCleaner"
    ],
    "version": "1.0.3"
+  },
+  "a81be41a-b218-428d-a90f-c54380141fa6": {
+   "folders": [
+    "TMEHorizon"
+   ],
+   "version": "test"
   },
   "a847021b-2ae6-4d43-81a4-9a8f3985f8b8": {
    "folders": [
